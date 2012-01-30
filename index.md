@@ -2,7 +2,6 @@
 layout: page
 title: index.html
 ---
-{% include JB/setup %}
 
 ## Previous Posts
 <ul class="posts">
