@@ -4,20 +4,24 @@ title: "TrollBlock.com"
 category: 
 tags: []
 ---
-I just came back from startup weekend san jose. The event was amazing. This is my second startup weekend that I attended.
+I just came back from Startup Weekend San Jose. This is my second startup weekend that I attended and just like last time the event was amazing.
 
-This time around we built [trollblock](http://trollblock.com). Trollblock was originally entitled cowblocker, but we decided that the purpose of the site, was more inline with blocking trolls.
+This time around my team built [trollblock](http://trollblock.com). Trollblock was originally entitled cowblocker, but we decided that the purpose of the site, was more inline with blocking trolls.
 
-Trollblock's entire concept originated from Finbarr Taylor, an amazing developer currently at Groupon.
+### Concept
+Trollblock's original idea was **An anti-social network**. 
 
-Trollblock's original idea was, **An anti-social network**. By default, when you joined everyone on the site is your friend. After interacting with people you decide who you want to *block* and *dislike*.
+Upon logging into Trollblock everyone is your friend. After interacting with people that are also on the site you decide who you want to *block* and *dislike*.
 
-We had a working site withing 24 hours using node.js, reddis, mongodb, bootstrap, and knockback.
+Trollblock's entire concept originated from [Finbarr Taylor](http://finbarrtaylor.com/), an amazing developer currently at Groupon.
 
-Upon launching, we posted to hackernews and were soon upvoted to 3rd on the frontpage.
+We had a working site within 24 hours using node.js, reddis, mongodb, bootstrap, and knockback.
 
-We had over 330 signups in the first hour and 150 of those users stayed on for over an hour.
+### Launching
+Upon launching, we posted to hackernews and were soon had the 3rd spot on the front page.
 
-Talk about great **stickyness**.
+We had over 330 signups in the first hour and 150 of those users stayed on for over an hour! Talk about great **stickyness**.
 
 We didn't win, but I personally learned a lot about bootstrap and knockback.
+
+If you haven't ever gone to a [startup weekend](http://startupweekend.com) event, I highly recommend it. There are events all over the world. You will learn something new and meet great people. You don't have any excuses.
