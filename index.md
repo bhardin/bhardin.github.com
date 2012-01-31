@@ -1,6 +1,6 @@
 ---
 layout: page
-title: index.html
+title: My Thoughts
 ---
 
 ## Previous Posts
