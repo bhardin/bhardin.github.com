@@ -15,6 +15,8 @@ layout: default
 			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}
 	</div>
+	
+
 		
   <div class="pagination">
 	<ul>	
@@ -31,6 +33,8 @@ layout: default
 	  {% endif %}
 	</ul>
   </div> <!-- pagination div -->
+
+	{% include disqus %}
   
 </div><!-- End Page -->
 
