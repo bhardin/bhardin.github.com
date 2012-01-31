@@ -4,6 +4,13 @@ layout: default
 <div id="page">
   <h1>{{ page.title }}</h1>
 
+	{% if page.image %}
+  	<div class="caption">
+		<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+		<p class="caption-text">Photo: {{ page.image_credit }}</p>
+	</div>
+	{% endif %}
+
   {{ content }}
 
 	<div class="alert-message block-message">

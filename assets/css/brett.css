@@ -11,3 +11,19 @@ font-weight: lighter;
 .container {
 width: 600px;
 }
+
+.container img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.caption {
+	text-align: right;
+	padding-top: 4px;
+	margin: 10px;
+}
+
+#page p.caption-text {
+	font-size: 12px;
+}
