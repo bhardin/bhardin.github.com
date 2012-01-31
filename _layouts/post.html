@@ -6,6 +6,9 @@ layout: default
 
   {{ content }}
 
+	<h3>Hey!</h3>
+	{% include me-footer.html %}
+
 	<h3>Other Posts</h3>
 	<div class="related-posts">
 		{% for post in site.related_posts limit: 3 %}
@@ -27,7 +30,7 @@ layout: default
 		</li>
 	  {% endif %}
 	</ul>
-  </div>
+  </div> <!-- pagination div -->
   
 </div><!-- End Page -->
 
