@@ -40,9 +40,9 @@ Here is a simplified example. Selecting the users table from a database we are r
 
 The passwords in these table are 32 characters long. Could these passwords be MD5 hashes?
 
-As with all hashing algorithms, MD5 hashes can't be reversed. However, they can be pre-computed. Using a [hash table lookup](http://hashcrack.com/indx.php) we can identify what the password is before it was ran through the MD5 hashing algorithm.
+As with all hashing algorithms, MD5 hashes can't be reversed. However, they can be pre-computed. Using a hash table lookup we can identify what the password is before it was ran through the MD5 hashing algorithm.
 
-After inserting _5f4dcc3b5aa765d61d8327deb882cf99_ into hashcrack the resulting password is returned. In this example, the password is "password."
+After inserting _5f4dcc3b5aa765d61d8327deb882cf99_ into the hash table lookup the resulting password is returned. In this example, the password is "password."
 
 ### How Do You Prevent Insecure Cryptographic Storage From Occurring
 If the data is sensitive and stored it NEEDS to be encrypted. Examples of items that are considered to be sensitive can include:
