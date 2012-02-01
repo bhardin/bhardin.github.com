@@ -5,6 +5,8 @@ tags: Vulnerabilities
 image: http://farm3.static.flickr.com/2557/3671317489_b797daaf22.jpg
 image_credit: Urban Woodswalker
 ---
+{% include top10.md %}
+
 If it hasn't already, Cross-Site Scripting (XSS) will soon be replacing SQL injection as the new buzzword in the security sector. XSS will continually be a topic on this blog as well as others [1](http://holisticinfosec.blogspot.com), [2](http://blog.skeptikal.org/), [3](http://jeremiahgrossman.blogspot.com/), [4](http://ha.ckers.org/blog/).
 	
 Due to this fact, I think a primer would be a good idea for those who don't know or understand this problem.
