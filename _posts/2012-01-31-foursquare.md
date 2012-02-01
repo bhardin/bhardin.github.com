@@ -6,17 +6,16 @@ image_credit: Brian Wilkins
 category:
 tags: []
 ---
-I am an avid FourSquare user. Rather strange, considering that I also enjoy my privacy.
+I am an avid [FourSquare](http://foursquare.com) user. Rather strange considering that I also enjoy my privacy.
 
-I have convinced others to use FourSquare more often, including my [wife](http://twitter.com/bbtrainer) and my co-founder. Both were hesitant to use it at first, but, after I explained how I used it they came on board.
+I have been using foursquare since 2009. When I originally joined, I tried to get many of my friends to sign up and they wouldn't have anything to do with it. They have since come around.
 
-Since I have convinced others to use FourSquare, I figured it would be a good topic to blog about.
+I have convinced others to use FourSquare, including my [wife](http://twitter.com/bbtrainer) and [Matt](http://twitter.com/mattstump), my co-founder. Both were hesitant to use it at first, but, after I explained how I used it they came on board.
 
 ## Check Ins
+Checking in to locations is completely opt-in. The main objection to FourSquare is strangers will know where you are. This includes the argument that Thieves will know when you aren't home. The only people that ever see your "check-ins" are people who you want to know about your checkins.
 
-Checking in to locations is completely opt-in. The whole argument of FourSquare or strangers knowing where you are at all times is false. The only people that ever see your "check-ins" are people who you want to know about your checkins.
-
-The only other people that will see your check-ins are people at the same location of the place you check in. But that is one of the neat aspects of FourSquare is that you can meet other people at a venue you frequent.
+The only other people that see your check-ins are people at the same location of the place you check in. But that is one of the neat aspects of FourSquare, you can meet other people at a venue you frequent.
 
 ## Letting Others Know
 
@@ -28,7 +27,8 @@ I recently got my wife to start using [path](http://path.com) in addition to her
 
 > I'm still deciding. I'm not ready to give up my mayorships yet.
 
-I find this hilarious because mayorships don't mean anything. FourSquare has really rocked her world when it comes to the gamification part of using it. I don't think I am swayed by gamification, however, I can't really explain why I like FourSquare better than path, so maybe I am.
+Hilarious! Her mayorships don't mean anything and she knows it. 
+
+FourSquare gamification really is on point. I don't think I am swayed by gamification, however, I can't really explain why I like FourSquare better than path, so maybe I am.
 
 Note: gamification is not in my default dictionary, but ramification is. Hm.
-
