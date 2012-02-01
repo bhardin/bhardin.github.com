@@ -2,8 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
 <head>
-  	<title>Brett Hardin's Blog | {{ page.title }}</title>
-  	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  	{% if page.title %}
+  		<title>{{ page.title }} | Brett Hardin's Blog</title>
+	{% else %}
+		<title>Brett Hardin's Blog</title>
+	{% endif %}
+	
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	<link rel="stylesheet" href="/assets/css/brett.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	{% include analytics %}
 </head>
