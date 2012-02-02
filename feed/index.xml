@@ -4,13 +4,13 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Recursive</title>
+ <title>My Mind's Eye</title>
  <link href="http://bretthard.in/feed/" rel="self"/>
  <link href="http://bretthard.in/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://bretthard.in/</id>
  <author>
-   <name>My Mind's Eye</name>
+   <name>Brett Hardin</name>
    <email>hardin.brett@gmail.com</email>
  </author>
 
