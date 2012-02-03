@@ -7,7 +7,7 @@ module Jekyll
     end
 
     def render(context)
-      "#{@text} <a href=\"https://twitter.com/share\" class=\"twitter-share-button\" data-text=\"#{@text}\" data-via=\"miscsecurity\" data-count=\"none\">Tweet</a>"
+      "#{@text} <a href=\"https://twitter.com/share\" class=\"twitter-share-button\" data-url=\"#{@url}\" data-text=\"#{@text}\" data-via=\"miscsecurity\" data-count=\"none\">Tweet</a>"
     end
   end
 end

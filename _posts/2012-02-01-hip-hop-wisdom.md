@@ -10,7 +10,7 @@ It's hard to listen to hip hop without hearing it's entrepreneurial spirit. More
 
 The most successful artists are excellent at self-promotion, diversification, and image. 
 
-It makes sense taking into account many hip hop successes have previously sold some type of drug, which is a business. {% twitter Eazy-E put together enough drug money to create NWA. Most of us are thankful he did. %}
+It makes sense taking into account many hip hop successes have previously sold some type of drug, which is a business. Eazy-E put together enough drug money to create NWA. Most of us are thankful he did.
 
 ### Sean Combs
 Diddy has to be the master "brander." Anyone who can change there own brand three times is pretty amazing. First was Sean Combs, then "Puff Daddy," into "P. Diddy," into just "Diddy".

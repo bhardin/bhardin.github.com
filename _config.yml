@@ -1,3 +1,4 @@
 name: Brett Hardin's Blog
 auto: true
 permalink: /:categories/:year/:month/:title/
+feed: http://feeds.feedburner.com/bretthardin
