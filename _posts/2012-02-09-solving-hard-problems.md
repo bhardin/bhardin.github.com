@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do They Solve Hard Problems?**"
+title: "Do They Solve Hard Problems?"
 image: http://farm3.staticflickr.com/2261/2207748365_f851029338.jpg
 image_credit: emma.c
 category: 
