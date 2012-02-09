@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
 <head>
-  	{% if page.title %}
+  {% if page.title %}
   		<title>{{ page.title }} | Brett Hardin's Blog</title>
 	{% else %}
 		<title>Brett Hardin's Blog</title>
@@ -10,6 +10,8 @@
 	
 	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	<link rel="stylesheet" href="/assets/css/brett.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed for bretthard.in" href="{{ site.feed }}" />
+	
 	{% include analytics %}
 </head>
     
