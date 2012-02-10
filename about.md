@@ -13,13 +13,13 @@ Brett Hardin
 
 Talks & Publications
 --------------------
-Security BSides SF 2011
-[Hacking: The Next Generation](http://www.amazon.com/gp/product/0596154577/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596154577)
-[Security BSides SF 2010]
+* Security BSides SF 2011
+* [Hacking: The Next Generation](http://www.amazon.com/gp/product/0596154577/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596154577)
+* [Security? Who Cares!](/2010/03/no-one-cares-about-security/)
 
-
-Open Source Projects
---------------------
+Other Fun
+=========
+* [Silisec](http://www.silisec.org)
 
 
 
