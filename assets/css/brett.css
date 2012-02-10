@@ -2,6 +2,10 @@
 margin-top: 50px;
 }
 
+.content{
+	text-align: justify;
+}
+
 p {
 font-size: 16px;
 line-height: 25px;
@@ -24,6 +28,6 @@ width: 640px;
 	margin: 10px;
 }
 
-#page p.caption-text {
+.caption p.caption-text {
 	font-size: 12px;
 }
