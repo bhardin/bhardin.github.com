@@ -28,7 +28,7 @@ Before foursquare, I didn't know I had a problem with letting my friends know wh
 
 However, virtually checking into different venues doesn't resonate as having a market. 
 
-It seems that what hard problem foursquare is actually solving is being a data broker or a PaaS. Other startups can use their APIs, thus exposing all of the juicy user data regarding trafficking patterns. I will succeed that **this** is a hard problem being solved.
+It seems that what hard problem foursquare is actually solving is being a data broker or a PaaS. Other startups can use their APIs, thus exposing all of the juicy user data regarding trafficking patterns. I will concede that **this** is a hard problem being solved.
 
 ### Twitter
 Twitter is essentially a curated, shortened, RSS feed. Identifying and reading only interesting news that you care about was and still is a hard problem to solve. Twitter solves the "news I care about" problem by allowing each of its users to specify who they want to help curate their news feeds.
