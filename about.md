@@ -7,9 +7,11 @@ Brett Hardin
 ============
 
 * Developer
+* Security Researcher
 * Founder of [SourceNinja](http://www.sourceninja.com)
 * [github](http://github.com/bhardin)
 * [twitter](http://linkedin.com/miscsecurity)
+* [quora](http://www.quora.com/Brett-Hardin)
 
 Talks & Publications
 --------------------
@@ -19,7 +21,7 @@ Talks & Publications
 
 Other Fun
 =========
-* [Silisec](http://www.silisec.org)
+* Runner of [Silisec](http://www.silisec.org)
 
-
+<span class="quora-follow-button" data-name="Brett-Hardin">Follow <a href="http://www.quora.com/Brett-Hardin">Brett Hardin</a> on <a href="http://www.quora.com">Quora</a><script type="text/javascript" src="http://www.quora.com/widgets/follow?embed_code=4RnvTXp"></script></span>
 
