@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Avoid Distractions and Remain Focus"
+title: "Avoid Distractions and Remain Focused"
 image: http://farm2.staticflickr.com/1389/4721798240_0beb2a46ab.jpg
 image_credit: Bethan
 category: 
