@@ -14,6 +14,10 @@ header h1, header a {
 	background-color: #1A2628;
 }
 
+a {
+	color: #25A0BB;
+}
+
 .nav-bar a {
 	color: #E5F3F6;
 }
