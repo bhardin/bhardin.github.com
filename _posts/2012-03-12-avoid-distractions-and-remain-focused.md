@@ -33,7 +33,8 @@ What value you deliver can take multiple forms. But remember your customers will
 
 ## Always Be Measuring and Incrementing
 
-> A-B-C. A-Always, B-Be, C-Closing. Always be closing, always be closing. - Blake
+> A-B-C. A-Always, B-Be, C-Closing. Always be closing, always be closing.   
+> - Blake
 
 To be a __successful__ startup you need to have your metric. This is the hockey stick that everyone talks about. The item the metric is measuring should tie directly to how successful you will be.
 
@@ -46,7 +47,7 @@ Facebook's metric is how many daily users they have. Facebook is a social networ
 At [SourceNinja](http://www.sourceninja.com) our metric is how many packages are under management. The more packages we manage the more value our customers get from using our product.
 
 ## Don't Burn Out
-> It's better to burn out, than to fade away
+> It's better to burn out, than to fade away.  
 - Neil Young
 
 Although it is fundamentally important to your startup that you remain focused on providing value and not being distracted, there is one exception. Don't burn out.
