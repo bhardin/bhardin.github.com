@@ -15,9 +15,7 @@ image_credit: Photo Monkey
 ---
 When I was in high school I was focused on being good at everything. Some time passed and I realized that successful people focus on one (1) aspect of their life and dive deep. Really Deep.
 
-While approving my blog comments, I came across this:
-
-![img](http://misc-security.com/blog/wp-content/uploads/2011/04/Screen-shot-2011-04-01-at-1.11.22-PM.png)
+While approving my blog comments, I came a comment of someone trying to XSS the comments.
 
 I chuckled and thought, "Why would someone care about Cross-Site Scripting my site?"
 
