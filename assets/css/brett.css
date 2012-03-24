@@ -1,5 +1,27 @@
-.main-content {
-	margin-top: 50px;
+header {
+	background-color: #2C484E;
+	background-origin: padding-box;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+header h1, header a {
+	font-size: 60px;
+	color: #E5F3F6;
+}
+
+.nav-bar {
+	background-color: #1A2628;
+}
+
+.nav-bar a {
+	color: #E5F3F6;
+}
+
+header h2 {
+	font-weight: lighter;
+	color: #5D858E;
+	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
 }
 
 .content{
