@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gsl (1.14.7)
+      narray (>= 0.5.9)
+    narray (0.6.0.1)
+    rake (0.9.2.2)
+    rdiscount (1.6.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gsl
+  rake
+  rdiscount
