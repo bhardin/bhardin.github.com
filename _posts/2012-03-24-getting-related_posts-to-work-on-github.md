@@ -2,7 +2,6 @@
 layout: post
 title: "Getting related_posts to work on github"
 image: http://cdn.memegenerator.net/instances/400x/16985634.jpg 
-image_credit: 
 category: 
 tags: []
 ---
