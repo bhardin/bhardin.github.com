@@ -3,4 +3,77 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
-@import "compass/reset";
+/* @import "compass/reset"; */
+
+
+header {
+	background-color: #2C484E;
+	background-origin: padding-box;
+	padding-bottom: 15px;
+	padding-top: 15px;
+
+	h1, a {
+		font-size: 60px;
+		color: #E5F3F6;
+	}
+
+	h2 {
+		font-weight: lighter;
+		color: #5D858E;
+		font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+	}
+}
+
+.nav-bar {
+	background-color: #1A2628;
+
+	a {
+		color: #E5F3F6;
+	}
+}
+
+a {
+	color: #25A0BB;
+}
+
+.content{
+	text-align: justify;
+}
+
+p {
+	font-size: 16px;
+	line-height: 25px;
+	font-weight: lighter;
+}
+
+li {
+	font-size: 16px;
+	line-height: 25px;
+}
+
+blockquote {
+	p {
+		font-size: 16px;
+		line-height: 30px;
+	}
+}
+
+.container {
+	width: 640px;
+
+	img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+.caption {
+	text-align: right;
+	padding-top: 4px;
+	margin: 10px;
+
+	p.caption-text {
+		font-size: 12px;
+	}
+}
