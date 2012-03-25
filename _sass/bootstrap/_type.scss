@@ -9,6 +9,7 @@
 p {
   @include font_shorthand(normal,$basefont,$baseline);
   margin-bottom: $baseline / 2;
+  font-weight: lighter;
   small {
     font-size: $basefont - 2;
     color: $grayLight;

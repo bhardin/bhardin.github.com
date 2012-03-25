@@ -1,5 +1,8 @@
 _site/*
 
+# SASS
+.sass-cache/*
+
 Thumbs.db
 .DS_Store
 
