@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting related_posts to work on github"
+title: "Getting related_posts, lsi, and gsl to work in jekyll"
 image: http://cdn.memegenerator.net/instances/400x/16985634.jpg 
 category: 
 tags: []
