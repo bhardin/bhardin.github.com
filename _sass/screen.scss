@@ -4,17 +4,18 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 /* @import "compass/reset"; */
+$header_color: #2C484E;
 
 
 header {
-	background-color: #2C484E;
-	background-origin: padding-box;
+	background-color: $header_color;
 	padding-bottom: 15px;
 	padding-top: 15px;
 
 	h1, a {
-		font-size: 60px;
 		color: #E5F3F6;
+		margin-bottom: 10px;
+		line-height: 5px;
 	}
 
 	h2 {
