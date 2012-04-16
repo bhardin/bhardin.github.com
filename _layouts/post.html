@@ -6,8 +6,6 @@ layout: default
 	
 	<p style="border:thin dotted black; padding:3mm;">If you're new here, you may want to subscribe to my <a href="{{ site.feed }}">RSS feed</a>, <a href="http://www.twitter.com/miscsecurity">follow me on Twitter</a>, or <a href="http://feedburner.google.com/fb/a/mailverify?uri=bretthardin&amp;loc=en_US">subscribe via email</a>. Thanks for visiting!</p>
 
-	{% include tweet-default %}
-
 	{% if page.image %}
   	<div class="caption">
 		<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
@@ -16,11 +14,13 @@ layout: default
 		{% endif %}
 	</div>
 {% endif %}
-	
-	
 
 	<div class="content">
   {{ content }}
+	</div>
+
+	<div class="share-buttons">
+	{% include share-buttons %}
 	</div>
 
 	<div class="alert-message block-message">
@@ -40,8 +40,6 @@ layout: default
 			<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}
 	</div>
-	
-
 		
   <div class="pagination">
 	<ul>	

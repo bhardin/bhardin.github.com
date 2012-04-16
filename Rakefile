@@ -7,6 +7,11 @@ CONFIG = {
   'posts' => File.join(SOURCE, "_posts"),
 }
 
+desc "Create Sass"
+task :sass do
+  "sass --watch _sass:assets/css"
+end
+
 # Usage: rake post title="A Title"
 desc "Begin a new post in #{CONFIG['posts']}"
 task :post do

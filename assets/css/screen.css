@@ -3,69 +3,48 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 /* @import "compass/reset"; */
-/* line 10, ../../_sass/screen.scss */
 header {
   background-color: #2c484e;
   padding-bottom: 15px;
-  padding-top: 15px;
-}
-/* line 15, ../../_sass/screen.scss */
-header h1, header a {
-  color: #E5F3F6;
-  margin-bottom: 10px;
-  line-height: 5px;
-}
-/* line 21, ../../_sass/screen.scss */
-header h2 {
-  font-weight: lighter;
-  color: #5D858E;
-  font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
-}
+  padding-top: 15px; }
+  header h1, header a {
+    color: #E5F3F6;
+    margin-bottom: 10px;
+    line-height: 5px; }
+  header h2 {
+    font-weight: lighter;
+    color: #5D858E;
+    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif; }
 
-/* line 28, ../../_sass/screen.scss */
 .nav-bar {
-  background-color: #1A2628;
-}
-/* line 31, ../../_sass/screen.scss */
-.nav-bar a {
-  color: #E5F3F6;
-}
+  background-color: #1A2628; }
+  .nav-bar a {
+    color: #E5F3F6; }
 
-/* line 36, ../../_sass/screen.scss */
 .content {
-  text-align: justify;
-}
+  text-align: justify; }
 
-/* line 40, ../../_sass/screen.scss */
 li {
   font-size: 16px;
-  line-height: 25px;
-}
+  line-height: 25px; }
 
-/* line 46, ../../_sass/screen.scss */
 blockquote p {
   font-size: 16px;
-  line-height: 30px;
-}
+  line-height: 30px; }
 
-/* line 52, ../../_sass/screen.scss */
 .container {
-  width: 640px;
-}
-/* line 55, ../../_sass/screen.scss */
-.container img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+  width: 640px; }
+  .container img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
 
-/* line 62, ../../_sass/screen.scss */
 .caption {
   text-align: right;
   padding-top: 4px;
-  margin: 10px;
-}
-/* line 67, ../../_sass/screen.scss */
-.caption p.caption-text {
-  font-size: 12px;
-}
+  margin: 10px; }
+  .caption p.caption-text {
+    font-size: 12px; }
+
+.share-buttons {
+  margin-bottom: 25px; }
