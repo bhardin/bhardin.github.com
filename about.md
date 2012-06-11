@@ -9,9 +9,10 @@ Brett Hardin is the CEO of [SourceNinja](http://www.sourceninja.com). He has bee
 
 Talks & Publications
 --------------------
+* Security Bsides SF 2012
 * Security BSides SF 2011
 * [Hacking: The Next Generationn](http://www.amazon.com/gp/product/0596154577/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596154577)
-* [Security? Who Cares!](/2010/03/no-one-cares-about-security/)
+* [Security BsidesSF 2010 - Security? Who Cares!](/2010/03/no-one-cares-about-security/)
 
 Other Fun
 ---------
