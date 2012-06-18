@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Failure Is An Opportunity"
-image: 
-image_credit: 
+image: http://farm5.staticflickr.com/4076/4746541991_ae5c672a98.jpg
+image_credit: Brandon Doran
 category: 
 tags: [startups, failure]
 ---
