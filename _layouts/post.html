@@ -3,8 +3,6 @@ layout: default
 ---
 <div id="page">
   <h1>{{ page.title }}</h1>
-	
-	<p style="border:thin dotted black; padding:3mm;">If you're new here, you may want to subscribe to my <a href="{{ site.feed }}">RSS feed</a>, <a href="http://www.twitter.com/miscsecurity">follow me on Twitter</a>, or <a href="http://feedburner.google.com/fb/a/mailverify?uri=bretthardin&amp;loc=en_US">subscribe via email</a>. Thanks for visiting!</p>
 
 	{% if page.image %}
   	<div class="caption">
@@ -30,6 +28,7 @@ layout: default
 			</div>
 			<p class="span7">
 				{% include me-footer.html %}
+				If you're new here, you may want to subscribe to my <a href="{{ site.feed }}">RSS feed</a>, <a href="http://www.twitter.com/miscsecurity">follow me on Twitter</a>, or <a href="http://feedburner.google.com/fb/a/mailverify?uri=bretthardin&amp;loc=en_US">subscribe via email</a>. Thanks for visiting!
 			</p>
 		</div>
 	</div>
