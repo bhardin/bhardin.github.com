@@ -40,10 +40,6 @@ header {
 		color: $header_color;
 		font-weight: 500;
 	}
-
-	a:hover {
-		color: darker($header_color, 10);
-	}
 }
 
 .content{
@@ -56,9 +52,19 @@ li {
 }
 
 blockquote {
+	margin-bottom: 40px;
+
 	p {
 		font-size: 16px;
+		font-weight: 500;
 		line-height: 30px;
+		color: #469CB1;
+	}
+
+	ul {
+		list-style: none;
+		float: right;
+		margin-bottom: 0px;
 	}
 }
 

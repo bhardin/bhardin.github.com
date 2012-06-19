@@ -48,6 +48,7 @@ I received this [response](https://twitter.com/#!/MichaelNGagnon/status/16768240
 This began a dialogue between Michael, Jason, and Myself. I explained to Michael how dilution doesn't need to be taken into account. If your percentage of ownership is being diluted, meaning more shares are being issued, from additional financing then your share price is going up. Jason threw the nail in the coffin with:
 
 > I think the goal is to get rich, not to own a certain %. If you dilute, it's because the pie is even bigger.
-Jason Cohen
+
+> - Jason Cohen
 
 Sometimes the things we care about (In this case, total ownership of the company at the end) doesn't matter in the grand scheme of things.

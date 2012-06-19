@@ -63,21 +63,3 @@ I guarantee the need for your skills are always in high demand.
 
 ## Thought Exercise
 In 10 years from now will you be happier if you attempted this or will you be happier if you never tried? 
-
-## Other Great Quotes about Failure
-
-> Failure is a detour, not a dead-end street.
-
-> - Zig Ziglar
-
-> I honestly think it is better to be a failure at something you love than to be a success at something you hate.
-
-> - George Burns
-
-> Remember that failure is an event, not a person.
-
-> - Zig Ziglar
-
-
-
-

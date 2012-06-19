@@ -647,17 +647,20 @@ em {
 /* line 137, ../../_sass/bootstrap/_type.scss */
 blockquote {
   margin-bottom: 25px;
-  border-left: 5px solid #eee;
+  /* border-left: 5px solid #eee; */
+  background: url("/assets/images/quotes.png");
+  background-repeat: no-repeat;
+  height: 50px;
   padding-left: 15px;
 }
-/* line 141, ../../_sass/bootstrap/_type.scss */
+/* line 146, ../../_sass/bootstrap/_type.scss */
 blockquote p {
   font-size: 14px;
   font-weight: 300;
   line-height: 25px;
   margin-bottom: 0;
 }
-/* line 145, ../../_sass/bootstrap/_type.scss */
+/* line 150, ../../_sass/bootstrap/_type.scss */
 blockquote small {
   display: block;
   font-size: 12px;
@@ -665,19 +668,19 @@ blockquote small {
   line-height: 25px;
   color: #bfbfbf;
 }
-/* line 149, ../../_sass/bootstrap/_type.scss */
+/* line 154, ../../_sass/bootstrap/_type.scss */
 blockquote small:before {
   content: '\2014 \00A0';
 }
 
-/* line 156, ../../_sass/bootstrap/_type.scss */
+/* line 161, ../../_sass/bootstrap/_type.scss */
 address {
   display: block;
   line-height: 25px;
   margin-bottom: 25px;
 }
 
-/* line 163, ../../_sass/bootstrap/_type.scss */
+/* line 168, ../../_sass/bootstrap/_type.scss */
 code, pre {
   padding: 0 3px 2px;
   font-family: Monaco, Andale Mono, Courier New, monospace;
@@ -687,14 +690,14 @@ code, pre {
   border-radius: 3px;
 }
 
-/* line 169, ../../_sass/bootstrap/_type.scss */
+/* line 174, ../../_sass/bootstrap/_type.scss */
 code {
   background-color: #fee9cc;
   color: rgba(0, 0, 0, 0.75);
   padding: 1px 3px;
 }
 
-/* line 174, ../../_sass/bootstrap/_type.scss */
+/* line 179, ../../_sass/bootstrap/_type.scss */
 pre {
   background-color: #f5f5f5;
   display: block;
