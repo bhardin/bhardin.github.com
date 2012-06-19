@@ -82,22 +82,28 @@ blockquote ul {
 }
 
 /* line 81, ../../_sass/screen.scss */
+.post {
+  border-bottom: 3px solid lightgray;
+  margin-bottom: 20px;
+}
+
+/* line 86, ../../_sass/screen.scss */
 .caption {
   text-align: right;
   padding-top: 4px;
   margin: 10px;
 }
-/* line 86, ../../_sass/screen.scss */
+/* line 91, ../../_sass/screen.scss */
 .caption p.caption-text {
   font-size: 12px;
 }
 
-/* line 91, ../../_sass/screen.scss */
+/* line 96, ../../_sass/screen.scss */
 .share-buttons {
   margin-bottom: 25px;
 }
 
-/* line 95, ../../_sass/screen.scss */
+/* line 100, ../../_sass/screen.scss */
 a:hover {
   text-decoration: none;
 }

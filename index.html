@@ -4,29 +4,31 @@ title: My Thoughts
 ---
 
 {% for post in paginator.posts %}
-<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<div class="post">
+	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-{% if post.image %}
-	<div class="caption">
-	<img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}">
-	{% if post.image_credit %}
-	<p class="caption-text">Photo: {{ post.image_credit }}</p>
-	{% endif %}
-</div>
-{% endif %}
-
-<div class="content">
-	{{ post.content }}
-</div>
-
-<div class="alert-message block-message">
-	<div class="row">
-		<div class="span2">
-		<img src="https://en.gravatar.com/userimage/8781599/408ff2d80d284339d894c762915fde94.jpg">
+	{% if post.image %}
+		<div class="caption">
+			<img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}">
+			{% if post.image_credit %}
+				<p class="caption-text">Photo: {{ post.image_credit }}</p>
+			{% endif %}
 		</div>
-		<p class="span7">
-			{% include me-footer.html %}
-		</p>
+	{% endif %}
+
+	<div class="content">
+		{{ post.content }}
+	</div>
+
+	<div class="alert-message block-message">
+		<div class="row">
+			<div class="span2">
+			<img src="https://en.gravatar.com/userimage/8781599/408ff2d80d284339d894c762915fde94.jpg">
+			</div>
+			<p class="span7">
+				{% include me-footer.html %}
+			</p>
+		</div>
 	</div>
 </div>
 {% endfor %}
