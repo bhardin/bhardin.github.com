@@ -4,32 +4,45 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 /* @import "compass/reset"; */
-$header_color: #2C484E;
-
+$header_color: #18697B;
 
 header {
 	background-color: $header_color;
-	padding-bottom: 15px;
-	padding-top: 15px;
+	padding-top: 25px;
 
 	h1, a {
-		color: #E5F3F6;
+		color: lighten(complement($header_color), 70);
 		margin-bottom: 10px;
 		line-height: 5px;
 	}
 
+	a:hover {
+		color: darken($header_color, 10);
+	}
+
 	h2 {
 		font-weight: lighter;
-		color: #5D858E;
+		color: lighten($header_color, 60);
 		font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+		letter-spacing: 1.2px;
+		
+		em {
+			color: lighten($header_color, 95);
+			font-style: normal;
+		}
 	}
 }
 
-.nav-bar {
-	background-color: #1A2628;
+.nav {
+	float: right;
 
 	a {
-		color: #E5F3F6;
+		color: $header_color;
+		font-weight: 500;
+	}
+
+	a:hover {
+		color: darker($header_color, 10);
 	}
 }
 
@@ -71,4 +84,8 @@ blockquote {
 
 .share-buttons {
 	margin-bottom: 25px;
+}
+
+a:hover {
+	text-decoration: none;
 }
