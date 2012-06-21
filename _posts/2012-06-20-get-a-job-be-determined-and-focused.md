@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Get A Job - Be Determined and Focused"
-image: 
-image_credit: 
+image: http://farm4.staticflickr.com/3204/2953428679_1050cba9f9.jpg
+image_credit: Doug88888
 category: 
 tags: []
 ---
