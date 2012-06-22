@@ -14,7 +14,7 @@ Sometimes you feel investors know everything. Other times, you feel investors kn
 
 The most interesting struggle while building a business in general is that __you are willing to get kicked in the teeth__ to reach your goals. Realize most people will never do this because it is just too hard. You will get kicked in the teeth while raising your round and later when building the business by business parters, potential customers, or advisors.
 
-# Fund Raising is Exciting
+## Fund Raising is Exciting
 
 Raising a financing is also exciting! You have days where you are ecstatic. The first time you hear, "We are in," makes all your energies worth it. It is a constant roller coaster and regardless of what venture capitalists say, it is never easy.
 
