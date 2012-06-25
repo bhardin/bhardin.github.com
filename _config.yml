@@ -2,6 +2,5 @@ name: Brett Hardin's Blog
 auto: true
 permalink: /:categories/:year/:month/:title/
 markdown: rdiscount
-lsi: true
 paginate: 3
 feed: http://feeds.feedburner.com/bretthardin
