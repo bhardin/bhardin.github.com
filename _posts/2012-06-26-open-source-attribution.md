@@ -2,8 +2,8 @@
 layout: post
 title: "Open Source Attribution"
 image: 
-image_credit: 
-category: 
+image_credit: http://farm4.staticflickr.com/3139/3020250442_242bc1ac67.jpg
+category: Pink Sherbet Photography
 tags: [open source]
 ---
 
