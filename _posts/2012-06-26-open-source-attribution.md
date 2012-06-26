@@ -22,6 +22,7 @@ Many open source licenses have an attribution clause. Simply stated, if you use 
 If you feel that attribution is a pain, then you are selfish or lazy. 
 
 What is more complicated:
+
 * Adding a page to your site or application stating you use a certain piece of software?
 * Developing the software yourself?
 
@@ -46,6 +47,7 @@ Most open source licenses state you only have to attribute with distributed soft
 Attribution is something you should do every time you use open source and it can be bothersome. It takes you away from working on what you love: developing code and solving problems. 
 
 A simple attribution solution should exist that:
+
 1. Isn't time consuming.
 2. Changes as you add or remove open source to your application.
 
