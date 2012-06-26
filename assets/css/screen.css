@@ -31,79 +31,99 @@ header h2 em {
   font-style: normal;
 }
 
-/* line 36, ../../_sass/screen.scss */
+/* line 37, ../../_sass/screen.scss */
+.main-content h1 {
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-size: 44px;
+  line-height: 44px;
+  padding-top: 10px;
+}
+/* line 42, ../../_sass/screen.scss */
+.main-content h1 a {
+  color: black;
+}
+
+/* line 49, ../../_sass/screen.scss */
 .nav {
   float: right;
 }
-/* line 39, ../../_sass/screen.scss */
+/* line 52, ../../_sass/screen.scss */
 .nav a {
   color: #18697b;
   font-weight: 500;
 }
 
-/* line 45, ../../_sass/screen.scss */
+/* line 58, ../../_sass/screen.scss */
 .content {
   text-align: justify;
 }
 
-/* line 49, ../../_sass/screen.scss */
+/* line 62, ../../_sass/screen.scss */
 li {
   font-size: 16px;
   line-height: 25px;
 }
 
-/* line 54, ../../_sass/screen.scss */
+/* line 67, ../../_sass/screen.scss */
 blockquote {
   margin-bottom: 40px;
 }
-/* line 57, ../../_sass/screen.scss */
+/* line 70, ../../_sass/screen.scss */
 blockquote p {
   font-size: 16px;
   font-weight: 500;
   line-height: 30px;
   color: #469CB1;
 }
-/* line 64, ../../_sass/screen.scss */
+/* line 77, ../../_sass/screen.scss */
 blockquote ul {
   list-style: none;
   float: right;
   margin-bottom: 0px;
 }
 
-/* line 71, ../../_sass/screen.scss */
+/* line 84, ../../_sass/screen.scss */
 .container {
   width: 640px;
 }
-/* line 74, ../../_sass/screen.scss */
+/* line 87, ../../_sass/screen.scss */
 .container img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-/* line 81, ../../_sass/screen.scss */
+/* line 94, ../../_sass/screen.scss */
 .post {
-  border-bottom: 3px solid lightgray;
+  border-bottom: 1px dotted #CCC;
   margin-bottom: 20px;
 }
 
-/* line 86, ../../_sass/screen.scss */
+/* line 99, ../../_sass/screen.scss */
 .caption {
   text-align: right;
   padding-top: 4px;
   margin: 10px;
 }
-/* line 91, ../../_sass/screen.scss */
+/* line 104, ../../_sass/screen.scss */
 .caption p.caption-text {
   font-size: 12px;
 }
 
-/* line 96, ../../_sass/screen.scss */
+/* line 109, ../../_sass/screen.scss */
 .share-buttons {
   margin-bottom: 25px;
 }
 
-/* line 100, ../../_sass/screen.scss */
+/* line 113, ../../_sass/screen.scss */
 a:hover {
   text-decoration: none;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url("/assets/fonts/Raleway/raleway_thin-webfont.eot");
+  /* IE9 Compat Modes */
+  src: url("/assets/fonts/Raleway/raleway_thin-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/Raleway/raleway_thin-webfont.woff") format("woff"), url("/assets/fonts/Raleway/raleway_thin-webfont.ttf") format("truetype"), url("/assets/fonts/Raleway/raleway_thin-webfont.svg#svgFontName") format("svg");
+  /* Legacy iOS */
 }
