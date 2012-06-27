@@ -17,6 +17,7 @@ Presentations & Publications
 Other Fun
 ---------
 * Organizer of [Silisec](http://www.silisec.org)
+* [Books I suggest reading](/books)
 
 Presences
 ---------
