@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The 4 Different Personality Types
-image: 
-image_credit: 
+image: http://farm3.staticflickr.com/2339/2117075479_76e6c6ca4e.jpg
+image_credit: danorbit
 category: 
 tags: []
 ---
