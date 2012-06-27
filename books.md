@@ -3,6 +3,12 @@ layout: page
 title: Books I suggest reading
 ---
 
+### [How to Win Friends and Influence People](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=breharsblo-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0671027034)
+
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=breharsblo-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0671027034" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+If you have never read this book: stop what you are doing, take the rest of the day off, read this, and prepare to have your mind blown. This is one of the most important books you will ever read in your life. I am not being hyperbolic. HTWFAIFP (A horrible acronym) will help you understand how to communicate with people more effectively. Unless you are a hermit, you interact with people every day. This will make those interactions more productive.
+
 ### [The 22 Immutable Laws of Marketing](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=breharsblo-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0887306667)
 
 <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=breharsblo-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0887306667" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
