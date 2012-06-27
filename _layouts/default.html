@@ -7,6 +7,12 @@
 	{% else %}
 		<title>Brett Hardin's Blog</title>
 	{% endif %}
+
+	{% if page.meta_description %}
+		<meta name="description" content="{{ page.meta_description }}" />
+	{% endif %}
+
+
 	<link rel="stylesheet" href="/assets/css/bootstrap.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	<link href="{{ site.feed }}" rel="alternate" type="application/atom+xml" title="Brett Hardin" />
 	<!-- Fonts -->
