@@ -32,6 +32,7 @@ task :post do
     post.puts "image_credit: "
     post.puts "category: "
     post.puts "tags: []"
+    post.puts "meta_description: "
     post.puts "---"
   end
 end # task :post
