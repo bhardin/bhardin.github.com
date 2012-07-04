@@ -5,6 +5,7 @@ image: http://farm8.staticflickr.com/7210/6893444109_f85d723ed5.jpg
 image_credit: Konabish
 category: 
 tags: []
+meta_description: Identify what your company purpose is before presenting to potential investors.
 ---
 {% include investor-deck.html %}
 
