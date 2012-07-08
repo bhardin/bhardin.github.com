@@ -7,7 +7,7 @@
 	<p><input type="text" placeholder="Subscribe via Email" name="email"/></p>
 	<input type="hidden" value="bretthardin" name="uri"/>
 	<input type="hidden" name="loc" value="en_US"/>
-	<input type="submit" class="btn" style="float: right;" value="Subscribe" />
+	<input type="submit" class="btn" style="float: right;" value="Subscribe" onclick="_gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Side Bar']);">/>
 </form>
 </div>
 <hr/>
@@ -15,10 +15,10 @@
 	<!-- 
 	Subscribe with RSS
 	-->
-	<li><a class="rss" target="_blank" href="http://feeds.feedburner.com/bretthardin" rel="alternate" type="application/rss+xml"><i></i>Subscribe with RSS</a><a class="rss-count arrow-box" target="_blank" href="http://feeds.feedburner.com/bretthardin" rel="alternate" type="application/rss+xml">1,020 subscribers</a></li>
+	<li><a class="rss" target="_blank" href="http://feeds.feedburner.com/bretthardin" rel="alternate" type="application/rss+xml"><i></i>Subscribe with RSS</a><a class="rss-count arrow-box" onclick="_gaq.push(['_trackEvent', 'Subscribe', 'RSS', 'Side Bar']);" target="_blank" href="http://feeds.feedburner.com/bretthardin" rel="alternate" type="application/rss+xml">1,020 subscribers</a></li>
 
 	<!-- Twitter -->
-	<li><a href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="true">Follow @miscsecurity</a></li>
+	<li><a onclick="_gaq.push(['_trackEvent', 'Subscribe', 'Twitter', 'Side Bar']);" href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="true">Follow @miscsecurity</a></li>
 	<!-- 
 	Facebook Subscribe
 	-->
