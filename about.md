@@ -5,7 +5,7 @@ title: About Brett Hardin
 
 Brett Hardin <a href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="false">Follow @miscsecurity</a>
 ============
-Brett Hardin is the CEO of [SourceNinja](http://www.sourceninja.com). He has been a developer, author, penetration tester, and speaker on miscellaneous security topics. Brett began programming at the age of 8 and began his professional career getting paid to find vulnerabilities in Fortune 500 companies. Brett has been an Engineer and Symantec and McAfee and co-authored the book Hacking: The Next Generation.
+Brett Hardin is the CEO of [SourceNinja](http://www.sourceninja.com). He is a developer, author, advisor, and speaker on information security and entrepreneurship. Brett began programming at the age of 8 and began his professional career getting paid to find and exploit vulnerabilities within Fortune 500 organizations. Brett also co-authored the book Hacking: The Next Generation.
 
 Presentations & Publications
 --------------------
