@@ -3,7 +3,7 @@ layout: page
 title: About Brett Hardin
 ---
 
-Brett Hardin <a href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="false">Follow @miscsecurity</a>
+Brett Hardin <a href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="false" onclick="_gaq.push(['_trackEvent', 'Followed', 'Twitter', 'top of about page']);">Follow @miscsecurity</a>
 ============
 Brett Hardin is the CEO of [SourceNinja](http://www.sourceninja.com). He is a developer, author, advisor, and speaker on information security and entrepreneurship. Brett began programming at the age of 8 and began his professional career getting paid to find and exploit vulnerabilities within Fortune 500 organizations. Brett also co-authored the book Hacking: The Next Generation.
 
@@ -21,7 +21,7 @@ Other Fun
 
 Presences
 ---------
-<a href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="false">Follow @miscsecurity</a>
+<a href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="false" onclick="_gaq.push(['_trackEvent', 'Followed', 'Twitter', 'bottom of about page']);">Follow @miscsecurity</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 <iframe src="http://githubbadge.appspot.com/badge/bhardin?s=1&a=0" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder=0></iframe>
