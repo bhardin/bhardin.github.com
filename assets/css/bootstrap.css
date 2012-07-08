@@ -186,7 +186,7 @@ body {
   background-color: white;
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: normal;
   line-height: 25px;
   color: #404040;
@@ -489,7 +489,7 @@ a:hover {
  * ---------------------------------------------------------------------------------------- */
 /* line 9, ../../_sass/bootstrap/_type.scss */
 p {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: normal;
   line-height: 25px;
   margin-bottom: 12.5px;
@@ -497,7 +497,7 @@ p {
 }
 /* line 13, ../../_sass/bootstrap/_type.scss */
 p small {
-  font-size: 14px;
+  font-size: 12px;
   color: #bfbfbf;
 }
 
@@ -732,7 +732,7 @@ fieldset {
 fieldset legend {
   display: block;
   padding-left: 150px;
-  font-size: 24px;
+  font-size: 21px;
   line-height: 1;
   color: #404040;
   *padding: 0 0 5px 145px;
@@ -771,7 +771,7 @@ textarea {
 /* line 43, ../../_sass/bootstrap/_forms.scss */
 label {
   padding-top: 6px;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 25px;
   float: left;
   width: 130px;
@@ -799,7 +799,7 @@ select,
   width: 210px;
   height: 25px;
   padding: 4px;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 25px;
   color: gray;
   border: 1px solid #ccc;
@@ -1215,7 +1215,7 @@ textarea[readonly] {
 /* line 318, ../../_sass/bootstrap/_forms.scss */
 .help-inline,
 .help-block {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 25px;
   color: #bfbfbf;
 }
@@ -1331,7 +1331,7 @@ textarea[readonly] {
 }
 /* line 411, ../../_sass/bootstrap/_forms.scss */
 .inputs-list label small {
-  font-size: 14px;
+  font-size: 12px;
   font-weight: normal;
 }
 /* line 416, ../../_sass/bootstrap/_forms.scss */
@@ -1421,7 +1421,7 @@ table {
   width: 100%;
   margin-bottom: 25px;
   padding: 0;
-  font-size: 16px;
+  font-size: 14px;
   border-collapse: collapse;
 }
 /* line 16, ../../_sass/bootstrap/_tables.scss */
@@ -2387,7 +2387,7 @@ footer {
   padding: 5px 14px 6px;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
   color: #333;
-  font-size: 16px;
+  font-size: 14px;
   line-height: normal;
   border: 1px solid #ccc;
   border-bottom-color: #bbb;
@@ -2464,7 +2464,7 @@ footer {
 }
 /* line 606, ../../_sass/bootstrap/_patterns.scss */
 .btn.large {
-  font-size: 18px;
+  font-size: 16px;
   line-height: normal;
   padding: 9px 14px 9px;
   -webkit-border-radius: 6px;
@@ -2474,7 +2474,7 @@ footer {
 /* line 612, ../../_sass/bootstrap/_patterns.scss */
 .btn.small {
   padding: 7px 9px 7px;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 /* line 619, ../../_sass/bootstrap/_patterns.scss */
@@ -3003,7 +3003,7 @@ input[type=submit].btn::-moz-focus-inner {
 /* line 1022, ../../_sass/bootstrap/_patterns.scss */
 .label {
   padding: 1px 3px 2px;
-  font-size: 12px;
+  font-size: 10.5px;
   font-weight: bold;
   color: white;
   text-transform: uppercase;

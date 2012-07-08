@@ -5,7 +5,6 @@
 
 /* @import "compass/reset"; */
 
-
 $header_color: #18697B;
 
 header {
@@ -38,9 +37,9 @@ header {
 .main-content {
 	h1 {
 		font-family: "Raleway", Helvetica, sans-serif;
-		font-size: 44px;
 		line-height: 44px;
-		padding-top: 10px;
+		padding-top: 25px;
+		font-weight: 300px;
 		a {
 			color: black;
 		}
@@ -62,7 +61,6 @@ header {
 }
 
 li {
-	font-size: 16px;
 	line-height: 25px;
 }
 
@@ -98,15 +96,31 @@ blockquote {
 	margin-bottom: 20px;
 }
 
-.caption {
-	text-align: right;
-	padding-top: 4px;
-	margin: 10px;
+.post-image {
+	border: 1px solid #DDD;
+	display: inline;
+	float: right;
+	margin-left: 15px;
+	background-color: #EEE;
 
-	p.caption-text {
-		font-size: 12px;
+	img {
+		width: 340px;
+		float: right;
+		padding: 10px 10px 5px 10px;
+	}
+
+	.caption-text {
+		text-align: right;
+		padding-right: 15px;
+		margin-bottom: 5px;
+
+		p {
+			font-size: 12px;
+		}
 	}
 }
+
+
 
 .share-buttons {
 	margin-bottom: 25px;

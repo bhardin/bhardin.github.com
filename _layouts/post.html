@@ -5,15 +5,13 @@ layout: default
   <h1>{{ page.title }}</h1>
 
 	{% if page.image %}
-		<div class="caption">
+	<div class="post-image">
 			<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
 			{% if page.image_credit %}
 			<p class="caption-text">Photo: {{ page.image_credit }}</p>
 			{% endif %}
-		</div>
+	</div>
 	{% endif %}
-
-	
 
 	<div class="content">
   {{ content }}
