@@ -12,10 +12,10 @@ meta_description: Identify what your company purpose is before presenting to pot
 The company purpose slide is arguably the most important slide in the entire deck. This should be a single sentence that outlines the larger goal of the company. Founders often struggle with this slide. Either they don't want to share their larger vision or they are thinking in terms of product.
 
 ## Purpose
-The entire purpose of this slide is to communicate to the vc that you:
+The entire purpose of this slide is to communicate to the potential investor that you:
 
 1. Have a big vision
-2. A product that addresses a large market (greater than 1 Billion) 
+2. A product that addresses a large market (greater than $1 Billion) 
 3. The product and vision fits into the venture capitalist's portfolio.
 
 If this slide and the concept you are conveying is lost on the investor, you might as well abandon the rest of your deck. 
