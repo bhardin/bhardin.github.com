@@ -4,6 +4,8 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 /* @import "compass/reset"; */
+
+
 $header_color: #18697B;
 
 header {
@@ -82,7 +84,7 @@ blockquote {
 }
 
 .container {
-	width: 640px;
+	/* width: 640px; */
 
 	img {
 		display: block;
@@ -113,6 +115,86 @@ blockquote {
 a:hover {
 	text-decoration: none;
 }
+
+.fixed {
+  position: fixed;
+	width: 220px;
+	top: 10px;
+}
+
+.side_bar {
+	li {
+		list-style: none;
+		margin-bottom: 5px;
+	}
+
+	form.feedburner-email input[type="text"] {
+		width: 140px;
+		border: 1px solid #CCC;
+		padding: 5px;
+		border-radius: 5px 0 0 5px;
+	}
+	form.feedburner-email button {
+		padding: 5px;
+		border: 1px solid #CCC;
+		background: white;
+		border-radius: 0 5px 5px 0;
+		margin-left: 0;
+		border-left: none;
+		background-image: -webkit-gradient(linear,left top,left bottom,from(white),to(#DEDEDE));
+		background-image: -moz-linear-gradient(top,white,#DEDEDE);
+		background-image: -o-linear-gradient(top,white,#DEDEDE);
+		background-image: -ms-linear-gradient(top,white,#DEDEDE);
+		background-image: linear-gradient(top,white,#DEDEDE);
+		cursor: pointer;
+	}
+
+	a.rss {
+		border: 1px solid #DF912C;
+		padding: 2px;
+		font-size: 11px !important;
+		font-weight: bold;
+		color: #333 !important;
+		border-radius: 3px;
+		text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+		background-image: -webkit-gradient(linear,left top,left bottom,from(#FFCF6A),to(#FFA530));
+		background-image: -moz-linear-gradient(top,#FFCF6A,#FFA530);
+		background-image: -o-linear-gradient(top,#FFCF6A,#FFA530);
+		background-image: -ms-linear-gradient(top,#FFCF6A,#FFA530);
+		background-image: linear-gradient(top,#FFCF6A,#FFA530);
+		border-image: initial;
+		position: relative;
+		padding-left: 20px;
+		font-family: helvetica, verdana, arial, sans-serif;
+		text-decoration: none;
+
+		i {
+			background-image: url('http://f.cl.ly/items/14433T2E0d0q1r2c2G2t/rss_icon.png');
+			width: 11px;
+			height: 11px;
+			position: absolute;
+			top: 3px;
+			left: 3px;
+		}
+	}
+	
+	a.rss:hover {
+		border-color: #93601D;
+		text-decoration: none !important;
+	}
+	
+	a.rss-count {
+		font-family: helvetica, verdana, arial, sans-serif;
+		font-size: 11px;
+		text-decoration: none;
+		color: #333;
+		margin-left: 5px;
+		border: 1px solid #AAA;
+		padding: 2px;
+		border-radius: 3px;
+	}
+}
+
 
 @font-face {
     font-family: 'Raleway';

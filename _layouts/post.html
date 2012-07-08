@@ -5,13 +5,15 @@ layout: default
   <h1>{{ page.title }}</h1>
 
 	{% if page.image %}
-  	<div class="caption">
-		<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
-		{% if page.image_credit %}
-		<p class="caption-text">Photo: {{ page.image_credit }}</p>
-		{% endif %}
-	</div>
-{% endif %}
+		<div class="caption">
+			<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+			{% if page.image_credit %}
+			<p class="caption-text">Photo: {{ page.image_credit }}</p>
+			{% endif %}
+		</div>
+	{% endif %}
+
+	
 
 	<div class="content">
   {{ content }}
@@ -59,4 +61,7 @@ layout: default
 	{% include disqus %}
   
 </div><!-- End Page -->
+
+
+
 
