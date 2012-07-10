@@ -8,7 +8,7 @@ tags: []
 meta_description: Your startups growth hypothesis and value hypothesis are critical to it's success.
 ---
 
-As someone who has been involved with startups for a few years, I often hear the same phrases get thrown around. Ideas like Lean Startup, Customer Development, Minimum Viable Product, or [Does your product solve a hard problem](/2012/02/solving-hard-problems/), are often sited. After going back the texts that introduced these concepts and reading them, I am highly skeptical that everyone has actually read these books.
+As someone who has been involved with startups for a few years, I often hear the same phrases get thrown around. Ideas like Lean Startup, Customer Development, Minimum Viable Product, or [Does your product solve a hard problem](/2012/02/solving-hard-problems/), are often cited. After going back the texts that introduced these concepts and reading them, I am highly skeptical that everyone has actually read these books.
 
 A phrase that I don't hear is Value and Growth Hypothesis. These are two critical concepts that every startup should know about. The concepts are described and discussed in Ries' text, [The Lean Startup](http://www.amazon.com/gp/product/0307887898/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0307887898). I hear people talk about a minimum viable product, another concept mentioned in the book, but not value and growth hypotheses.
 
