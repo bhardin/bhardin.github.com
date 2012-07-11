@@ -95,7 +95,7 @@ blockquote ul {
 /* line 94, ../../_sass/screen.scss */
 .post {
   border-bottom: 1px dotted #CCC;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 /* line 99, ../../_sass/screen.scss */

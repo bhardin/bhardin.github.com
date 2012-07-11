@@ -19,16 +19,7 @@ layout: page
 		{{ post.content }}
 	</div>
 
-	<div class="alert-message block-message">
-		<div class="row">
-			<div class="span2">
-			<img src="https://en.gravatar.com/userimage/8781599/408ff2d80d284339d894c762915fde94.jpg">
-			</div>
-			<p class="span7">
-				{% include me-footer.html %}
-			</p>
-		</div>
-	</div>
+	{% include me-footer.html %}
 </div>
 {% endfor %}
 

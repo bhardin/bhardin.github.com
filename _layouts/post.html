@@ -21,15 +21,8 @@ layout: default
 	{% include share-buttons %}
 	</div>
 
-	<div class="post-footer">
-
-		<img class="avatar" src="https://en.gravatar.com/userimage/8781599/408ff2d80d284339d894c762915fde94.jpg">
-		<p class="about-me">
-			{% include me-footer.html %}
-			If you're new here, you may want to subscribe to my <a href="{{ site.feed }}" onclick="_gaq.push(['_trackEvent', 'Subscribe', 'RSS', 'bottom of post']);">RSS feed</a>, <a href="http://www.twitter.com/miscsecurity" onclick="_gaq.push(['_trackEvent', 'Followed', 'Twitter', 'bottom of post']);">follow me on Twitter</a>, or <a href="http://feedburner.google.com/fb/a/mailverify?uri=bretthardin&amp;loc=en_US" onclick="_gaq.push(['_trackEvent', 'Subscribe', 'Email', 'bottom of post']);">subscribe via email</a>. Thanks for visiting!
-		</p>
-	</div>
-
+	{% include me-footer.html %}
+			
 	<h3>Other Posts</h3>
 	<div class="related-posts">
 		{% for post in site.related_posts limit: 3 %}
