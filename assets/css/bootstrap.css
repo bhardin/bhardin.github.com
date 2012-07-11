@@ -493,86 +493,85 @@ p {
   font-weight: normal;
   line-height: 25px;
   margin-bottom: 12.5px;
-  font-weight: lighter;
 }
-/* line 13, ../../_sass/bootstrap/_type.scss */
+/* line 12, ../../_sass/bootstrap/_type.scss */
 p small {
   font-size: 12px;
   color: #bfbfbf;
 }
 
-/* line 23, ../../_sass/bootstrap/_type.scss */
+/* line 22, ../../_sass/bootstrap/_type.scss */
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   color: #404040;
 }
-/* line 26, ../../_sass/bootstrap/_type.scss */
+/* line 25, ../../_sass/bootstrap/_type.scss */
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   color: #bfbfbf;
 }
 
-/* line 30, ../../_sass/bootstrap/_type.scss */
+/* line 29, ../../_sass/bootstrap/_type.scss */
 h1 {
   margin-bottom: 25px;
   font-size: 30px;
   line-height: 50px;
 }
-/* line 34, ../../_sass/bootstrap/_type.scss */
+/* line 33, ../../_sass/bootstrap/_type.scss */
 h1 small {
   font-size: 18px;
 }
 
-/* line 38, ../../_sass/bootstrap/_type.scss */
+/* line 37, ../../_sass/bootstrap/_type.scss */
 h2 {
   font-size: 24px;
   line-height: 50px;
 }
-/* line 41, ../../_sass/bootstrap/_type.scss */
+/* line 40, ../../_sass/bootstrap/_type.scss */
 h2 small {
   font-size: 14px;
 }
 
-/* line 45, ../../_sass/bootstrap/_type.scss */
+/* line 44, ../../_sass/bootstrap/_type.scss */
 h3, h4, h5, h6 {
   line-height: 50px;
 }
 
-/* line 48, ../../_sass/bootstrap/_type.scss */
+/* line 47, ../../_sass/bootstrap/_type.scss */
 h3 {
   font-size: 18px;
 }
-/* line 50, ../../_sass/bootstrap/_type.scss */
+/* line 49, ../../_sass/bootstrap/_type.scss */
 h3 small {
   font-size: 14px;
 }
 
-/* line 54, ../../_sass/bootstrap/_type.scss */
+/* line 53, ../../_sass/bootstrap/_type.scss */
 h4 {
   font-size: 16px;
 }
-/* line 56, ../../_sass/bootstrap/_type.scss */
+/* line 55, ../../_sass/bootstrap/_type.scss */
 h4 small {
   font-size: 12px;
 }
 
-/* line 60, ../../_sass/bootstrap/_type.scss */
+/* line 59, ../../_sass/bootstrap/_type.scss */
 h5 {
   font-size: 14px;
 }
 
-/* line 63, ../../_sass/bootstrap/_type.scss */
+/* line 62, ../../_sass/bootstrap/_type.scss */
 h6 {
   font-size: 13px;
   color: #bfbfbf;
   text-transform: uppercase;
 }
 
-/* line 74, ../../_sass/bootstrap/_type.scss */
+/* line 73, ../../_sass/bootstrap/_type.scss */
 ul, ol {
   margin: 0 0 25px 25px;
 }
 
-/* line 80, ../../_sass/bootstrap/_type.scss */
+/* line 79, ../../_sass/bootstrap/_type.scss */
 ul ul,
 ul ol,
 ol ol,
@@ -580,71 +579,71 @@ ol ul {
   margin-bottom: 0;
 }
 
-/* line 83, ../../_sass/bootstrap/_type.scss */
+/* line 82, ../../_sass/bootstrap/_type.scss */
 ul {
   list-style: disc;
 }
 
-/* line 86, ../../_sass/bootstrap/_type.scss */
+/* line 85, ../../_sass/bootstrap/_type.scss */
 ol {
   list-style: decimal;
 }
 
-/* line 89, ../../_sass/bootstrap/_type.scss */
+/* line 88, ../../_sass/bootstrap/_type.scss */
 li {
   line-height: 25px;
   color: gray;
 }
 
-/* line 93, ../../_sass/bootstrap/_type.scss */
+/* line 92, ../../_sass/bootstrap/_type.scss */
 ul.unstyled {
   list-style: none;
   margin-left: 0;
 }
 
-/* line 99, ../../_sass/bootstrap/_type.scss */
+/* line 98, ../../_sass/bootstrap/_type.scss */
 dl {
   margin-bottom: 25px;
 }
-/* line 101, ../../_sass/bootstrap/_type.scss */
+/* line 100, ../../_sass/bootstrap/_type.scss */
 dl dt, dl dd {
   line-height: 25px;
 }
-/* line 104, ../../_sass/bootstrap/_type.scss */
+/* line 103, ../../_sass/bootstrap/_type.scss */
 dl dt {
   font-weight: bold;
 }
-/* line 107, ../../_sass/bootstrap/_type.scss */
+/* line 106, ../../_sass/bootstrap/_type.scss */
 dl dd {
   margin-left: 12.5px;
 }
 
-/* line 116, ../../_sass/bootstrap/_type.scss */
+/* line 115, ../../_sass/bootstrap/_type.scss */
 hr {
   margin: 20px 0 19px;
   border: 0;
   border-bottom: 1px solid #eee;
 }
 
-/* line 123, ../../_sass/bootstrap/_type.scss */
+/* line 122, ../../_sass/bootstrap/_type.scss */
 strong {
   font-style: inherit;
   font-weight: bold;
 }
 
-/* line 127, ../../_sass/bootstrap/_type.scss */
+/* line 126, ../../_sass/bootstrap/_type.scss */
 em {
   font-style: italic;
   font-weight: inherit;
   line-height: inherit;
 }
 
-/* line 132, ../../_sass/bootstrap/_type.scss */
+/* line 131, ../../_sass/bootstrap/_type.scss */
 .muted {
   color: #bfbfbf;
 }
 
-/* line 137, ../../_sass/bootstrap/_type.scss */
+/* line 136, ../../_sass/bootstrap/_type.scss */
 blockquote {
   margin-bottom: 25px;
   /* border-left: 5px solid #eee; */
@@ -653,14 +652,14 @@ blockquote {
   height: 50px;
   padding-left: 15px;
 }
-/* line 146, ../../_sass/bootstrap/_type.scss */
+/* line 145, ../../_sass/bootstrap/_type.scss */
 blockquote p {
   font-size: 14px;
   font-weight: 300;
   line-height: 25px;
   margin-bottom: 0;
 }
-/* line 150, ../../_sass/bootstrap/_type.scss */
+/* line 149, ../../_sass/bootstrap/_type.scss */
 blockquote small {
   display: block;
   font-size: 12px;
@@ -668,19 +667,19 @@ blockquote small {
   line-height: 25px;
   color: #bfbfbf;
 }
-/* line 154, ../../_sass/bootstrap/_type.scss */
+/* line 153, ../../_sass/bootstrap/_type.scss */
 blockquote small:before {
   content: '\2014 \00A0';
 }
 
-/* line 161, ../../_sass/bootstrap/_type.scss */
+/* line 160, ../../_sass/bootstrap/_type.scss */
 address {
   display: block;
   line-height: 25px;
   margin-bottom: 25px;
 }
 
-/* line 168, ../../_sass/bootstrap/_type.scss */
+/* line 167, ../../_sass/bootstrap/_type.scss */
 code, pre {
   padding: 0 3px 2px;
   font-family: Monaco, Andale Mono, Courier New, monospace;
@@ -690,14 +689,14 @@ code, pre {
   border-radius: 3px;
 }
 
-/* line 174, ../../_sass/bootstrap/_type.scss */
+/* line 173, ../../_sass/bootstrap/_type.scss */
 code {
   background-color: #fee9cc;
   color: rgba(0, 0, 0, 0.75);
   padding: 1px 3px;
 }
 
-/* line 179, ../../_sass/bootstrap/_type.scss */
+/* line 178, ../../_sass/bootstrap/_type.scss */
 pre {
   background-color: #f5f5f5;
   display: block;
