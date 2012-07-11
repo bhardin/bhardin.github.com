@@ -233,18 +233,17 @@ a:hover {
   margin-top: 5px;
   color: #3A87AD;
   background-color: #D9EDF7;
-  border-color: #BCE8F1;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-  border: 1px solid #FBEED5;
+  border: 1px solid #BCE8F1;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 239, ../../_sass/screen.scss */
+/* line 237, ../../_sass/screen.scss */
 .post-footer a {
   color: blue;
 }
-/* line 243, ../../_sass/screen.scss */
+/* line 241, ../../_sass/screen.scss */
 .post-footer .avatar {
   float: left;
   margin: 12px 15px 0 4px;
