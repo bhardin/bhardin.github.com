@@ -5,7 +5,7 @@ image: http://farm7.staticflickr.com/6237/6268401377_70b3209f88.jpg
 image_credit: kawanet
 category: startup
 tags: []
-meta_description: 
+meta_description: The value and benefits of joining AngelPad - A San Francisco Business Incubator.
 ---
 
 Many people have asked about my experience at AngelPad. After exchanging emails with many people, I figured more people could benefit if I made the knowledge public. Outside the standard things you hear about social proof and connections to angels and venture capital. These are things which I think were helpful while going through the program and I still benefit from today.
@@ -40,4 +40,4 @@ You are also creating tight life-long friendships. I still regularly call and em
 ## What You Put In Is What You Get
 Angelpad is not for the weak or faint of heart. If you need hand holding, Angelpad is not for you. Angelpad is designed to challenge your assumptions about your business, market, product, and vision. __The experience will tear you down and rebuild you stronger.__ However, this will only happen if you give it everything you have. This requires a huge commitment on your part.
 
-If you are looking for an incubator to help you with a lifestyle business, don't apply to AngelPad. AngelPad is looking for companies that are attempting to change the world. If you have that type of foresight, vision, or dream: I will see and talk with you soon.
+If you are looking for an incubator to help you with a lifestyle business, don't apply to AngelPad. [AngelPad](http://angelpad.org/) is looking for companies that are attempting to change the world. If you have that type of foresight, vision, or dream: I will see and talk with you soon.
