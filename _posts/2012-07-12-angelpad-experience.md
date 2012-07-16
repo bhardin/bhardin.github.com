@@ -28,14 +28,14 @@ While we were going through AngelPad, we had some great advisors and speakers in
 
 Each of these advisor talked to us for about an hour and then had one-on-one's with us for 8 minutes, where we could ask them anything we wanted. The 8-minutes was setup specifically to make us get right to the point of what we wanted to know. A skill every founder should practice and utilize.
 
-Thomas Korte, who runs Angelpad, bends over backwards to make himself available to you. You are required to meet him once a week. But, you can talk with him as much as you would like because he works out of the office every day. This alone makes AngelPad worth it. Having an successful angel investor working closely with you for 10-weeks is an invaluable learning experience.
+Thomas Korte, who runs Angelpad, bends over backwards to make himself available to you. You are required to meet him once a week. But, you can talk with him as much as you would like because he works out of the office every day. This alone makes AngelPad worth it. Having a successful angel investor working closely with you for 10-weeks is an invaluable learning experience.
 
 The advisors also make themselves available after AngelPad. We still regularly reach out to them to ask questions and seek advice. 
 
 ## Working Together
 A unique thing about AngelPad is that you are required to go to the office each day. This is incredibly different in comparison to YC, where you only meet once a week. This was incredibly useful for Matt and I. We were surrounded by amazing entrepreneurs who constantly gave us great feedback and insight.
 
-You are also creating tight life-long friendships. I still regularly call and email my fellow classmates for advice and they do the same. You learn from each other and help lean on then when you need help and of course they are willing to help, just as you are willing to help them.
+You are also creating tight life-long friendships. I still regularly call and email my fellow classmates for advice and they do the same. You learn from each other and help lean on them when you need help. They will help you, just as you are willing to help them.
 
 ## What You Put In Is What You Get
 Angelpad is not for the weak or faint of heart. If you need hand holding, Angelpad is not for you. Angelpad is designed to challenge your assumptions about your business, market, product, and vision. __The experience will tear you down and rebuild you stronger.__ However, this will only happen if you give it everything you have. This requires a huge commitment on your part.
