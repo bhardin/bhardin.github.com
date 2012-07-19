@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Choosing A Startups Initial Evaluation"
-image: 
-image_credit: 
+image: http://farm5.staticflickr.com/4040/4441258960_5b3d336acd.jpg
+image_credit: Chrissy Johnson1
 category: 
 tags: []
-meta_description: 
+meta_description: Choosing an initial valuation for your company is tricky. You should keep these things in mind.
 ---
 
 Choosing an initial evaluation for your company is tricky and an extremely controversial subject. Valuing companies at an early stage is incredibly challenging. Early stage companies have little or no revenues and quantitative methods can't be used to determine value.
