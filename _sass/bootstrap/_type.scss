@@ -136,11 +136,8 @@ em {
 // Blockquotes
 blockquote {
   margin-bottom: $baseline;
-  /* border-left: 5px solid #eee; */
-  
-  background: url('/assets/images/quotes.png');
-  background-repeat: no-repeat;
-  height:      50px;
+  border-left: 5px solid #eee;
+  height: 50px;
   padding-left: 15px;
   
   p {
