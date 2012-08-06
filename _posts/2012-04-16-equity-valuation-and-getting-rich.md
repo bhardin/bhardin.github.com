@@ -11,7 +11,7 @@ I am here to tell you an undeniable fact. You will not get rich from your first 
 
 Yes. there are exceptions, but in the grand scheme of things, these people are rare. Do not count on being one of the wealthy (or 0.0001%) from your endeavor.
 
-A Different Look at Financing
+Think Different
 ------------------------------------------
 In order to have a successful company, you need to have cash. This money is multi-purpose, but is initially used for salary for your first few hires and maybe some marketing.
 
@@ -39,16 +39,15 @@ The mentality of setting a high valuation is human nature. As humans we want to 
 
 Getting Rich or Having a Certain Percentage
 ----------------------------------------------------------------
-I recently tweeted a link to an excellent article on calculating the equity you should give people joining your company. It is written by Jason Cohen (@asmartbear)
+I recently tweeted a link to an excellent article on calculating the equity you should give people joining your company. It is written by Jason Cohen (@asmartbear). I received the following response.
 
-I received this [response](https://twitter.com/#!/MichaelNGagnon/status/167682400975994880)
+<blockquote class="twitter-tweet tw-align-center" data-in-reply-to="167661550650408961"><p><a href="https://twitter.com/miscsecurity"><s>@</s><b>miscsecurity</b></a> <a href="https://twitter.com/asmartbear"><s>@</s><b>asmartbear</b></a> the analysis forgot to account for dilution</p>&mdash; Mike Gagnon (@MichaelNGagnon) <a href="https://twitter.com/MichaelNGagnon/status/167682400975994880" data-datetime="2012-02-09T18:52:54+00:00">February 9, 2012</a></blockquote>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![image](http://cl.ly/1e0D2a3n0x122t0D0D1j/Screen%20shot%202012-04-16%20at%205.09.29%20PM.png)
+This began a dialogue between [Michael](https://twitter.com/MichaelNGagnon/status/167713117130862592), [Jason](https://twitter.com/asmartbear/status/167699114241441792), and [Myself](https://twitter.com/asmartbear/status/167773529377488896). 
 
-This began a dialogue between Michael, Jason, and Myself. I explained to Michael how dilution doesn't need to be taken into account. If your percentage of ownership is being diluted, meaning more shares are being issued, from additional financing then your share price is going up. Jason threw the nail in the coffin with:
+I explained to Michael how dilution doesn't need to be taken into account. If your percentage of ownership is being diluted, meaning more shares are being issued, from additional financing then your share price is going up. Jason threw the nail in the coffin with:
 
 > I think the goal is to get rich, not to own a certain %. If you dilute, it's because the pie is even bigger.
-
-> - Jason Cohen
 
 Sometimes the things we care about (In this case, total ownership of the company at the end) doesn't matter in the grand scheme of things.
