@@ -13,6 +13,7 @@ Presentations & Publications
 * Security BSides SF 2011
 * [Hacking: The Next Generationn](http://www.amazon.com/gp/product/0596154577/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596154577)
 * [Security BsidesSF 2010 - Security? Who Cares!](/2010/03/no-one-cares-about-security/)
+* [Patent for detecting remote file inclusion vulnerabilities](http://www.patentgenius.com/patent/8239952.html)
 
 Other Fun
 ---------
