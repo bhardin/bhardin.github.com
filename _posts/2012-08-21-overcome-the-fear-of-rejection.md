@@ -9,7 +9,7 @@ meta_description: Overcoming the fear of rejection is challenging for all of us.
 ---
 
 <hr/>
-_I loved this post by Philip Roberts, the co-founder of the [cash flow forecasting app Float](http://floatapp.com). It is reposted here with his permission._
+_I loved [this](http://blog.latentflip.com/post/29820876915/rejection) post by Philip Roberts, the co-founder of the [cash flow forecasting app Float](http://floatapp.com). It is reposted here with his permission._
 <hr/>
 
 I was at the pool, waiting to dive, behind maybe 6 or 7 others, all younger than me, mostly female.
