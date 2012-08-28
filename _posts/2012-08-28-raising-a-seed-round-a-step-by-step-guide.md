@@ -29,7 +29,7 @@ Although investors will take meetings with almost anyone (It helps with their de
 
 If you are going through an incubator such as AngelPad, YC, or TechStars, leverage this network to make warm intros to the people on your list. If you have multiple people who could make an introduction for you, ask the person who has already made them money. Investors love keeping in contact with entrepreneurs who've made them returns and in order to keep relationships with these entrepreneurs healthy, they will love talking with you.
 
-## Step 4. Follow  & Background Check
+## Step 4. Follow Up & Background Check
 After meeting the investors if they have any questions in the meeting you can't address, follow up with an email answering their questions. If they decide they want to invest in you call around to some of their portfolio companies and do background checks on the investors. Try to do this for both successful and unsuccessful companies in their portfolio. Other entrepreneurs are a great way to vet whether investors are helpful or not.
 
 ## Things to Keep in Mind
