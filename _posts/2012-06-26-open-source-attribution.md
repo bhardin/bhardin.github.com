@@ -4,7 +4,7 @@ title: "Open Source Attribution"
 image: http://farm4.staticflickr.com/3139/3020250442_242bc1ac67.jpg
 image_credit: Pink Sherbet Photography
 category: 
-tags: [open source]
+tags: [open source, tech]
 ---
 
 As a developer of closed and open source software I love the idea of using open source software to build faster. I also want to give credit to the developers of the software I use. 

@@ -4,7 +4,7 @@ title: "My AngelPad Experience"
 image: http://farm7.staticflickr.com/6237/6268401377_70b3209f88.jpg
 image_credit: kawanet
 category: startup
-tags: []
+tags: [startups, incubators]
 meta_description: The value and benefits of joining AngelPad - A San Francisco Business Incubator.
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Getting related_posts, lsi, and gsl to work in jekyll"
 image: http://cl.ly/3V3B3h1q3S3L3a3g051U/16985634.jpg
 category: 
-tags: []
+tags: [tech]
 ---
 
 So you have a jekyll blog on github and have the issue of wanting "good" realted_posts, not just the most recent. You read the documentation and find out you need to get LSI up and running. Awesome.

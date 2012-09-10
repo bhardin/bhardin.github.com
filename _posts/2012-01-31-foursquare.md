@@ -4,7 +4,7 @@ title: "How I Use FourSquare"
 image: http://farm2.staticflickr.com/1168/4734788670_f3a9ee463b.jpg
 image_credit: Brian Wilkins
 category:
-tags: []
+tags: [general thoughts, tech]
 ---
 I am an avid [FourSquare](http://foursquare.com) user. Rather strange considering that I also enjoy my privacy.
 

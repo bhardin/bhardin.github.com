@@ -4,7 +4,7 @@ title: "Market Size"
 image: http://farm3.staticflickr.com/2083/2291498814_923636ac78.jpg
 image_credit: Perpetualtourist2000
 category: 
-tags: []
+tags: [investor deck, markets]
 meta_description: 
 ---
 

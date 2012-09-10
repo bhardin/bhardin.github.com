@@ -4,7 +4,7 @@ title: "Steve and the NeXT logo"
 image: http://farm7.staticflickr.com/6185/6116993147_fd91ca8992.jpg
 image_credit: Anomalily
 category: 
-tags: []
+tags: [repost, stories]
 ---
 
 "The best thing ever to happen to Steve is when we fired him, told him to get lost," Arthur Rock later said. The theory, shared by many, is that the tough love made him wiser and more mature. But it's not that simple. At the company he founded after being ousted from Apple, Jobs was able to indulge all of his instincts, both good and bad. He was unbound. The result was a series of spectacular products that were dazzling market flops. This was the true learning experience. What prepared him for the great success he would have in Act III was not his ouster from his Act I at Apple but his brilliant failures in ActII.

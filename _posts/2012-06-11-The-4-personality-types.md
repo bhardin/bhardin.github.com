@@ -4,7 +4,7 @@ title: The 4 Different Personality Types
 image: http://farm3.staticflickr.com/2339/2117075479_76e6c6ca4e.jpg
 image_credit: danorbit
 category: 
-tags: []
+tags: [life, people, communication]
 ---
 My co-founder recently talked about being a [socially awkward founder](http://www.matthewstump.com/misc/2012/05/01/the-socially-awkward-founder/). Supposedly, I'm a "natural" people person. I've learned to become natural through understanding how to effectively communicate with people. My parents helped me to understand about personality types from a very early age. They read personality books and broke down the content to me. This post is a bunch of that information boiled down. If you would like to read more I have listed books, with affiliate links, in the reference section.
 

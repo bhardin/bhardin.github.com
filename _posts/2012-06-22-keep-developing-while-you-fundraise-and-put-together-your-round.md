@@ -4,7 +4,7 @@ title: "Have Fun While Raising Venture Capital"
 image: http://farm1.staticflickr.com/145/381941233_99ba9795b3.jpg
 image_credit: Johnny Vulkan
 category: 
-tags: []
+tags: [financing, startups]
 ---
 
 Fund raising is incredibly depressing. Some days, you don't want to get out of bed. You don't want to hear for the last time, "I think your market is too small" or "We have invested in something similar." To some extent you need to build up your tolerance to hearing no.

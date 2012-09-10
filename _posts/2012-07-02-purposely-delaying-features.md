@@ -4,7 +4,7 @@ title: "Purposely Delaying Features"
 image: http://farm1.staticflickr.com/51/141295823_dba343e789.jpg
 image_credit: Isobel T
 category: 
-tags: []
+tags: [startups, product management]
 ---
 
 In a previous life I was a penetration tester. Companies hire penetration testers to break into their computer systems by finding flaws and exploiting them. At the end of the engagement the penetration tester presents the company with a report or a deliverable.

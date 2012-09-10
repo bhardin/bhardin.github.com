@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Dedicated Security Guy
-tags:
-- General Thoughts
+tags: [general thoughts]
 status: draft
 type: post
 published: false

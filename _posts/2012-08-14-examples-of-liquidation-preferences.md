@@ -4,7 +4,7 @@ title: "Examples of Liquidation Preferences"
 image: http://farm3.staticflickr.com/2422/3593530170_ae58a74673.jpg
 image_credit: juanjolostium
 category: 
-tags: []
+tags: [startups, financing]
 meta_description: Examples of how liquidation preferences work on investor and venture capital term sheets.
 ---
 Liquidation preferences are a common thing to see in a term sheet. Although many sites break down what liquidation preferences mean, I hardly see examples of each preference. I decided to break down the common liquidation preferences with examples for easy reference.

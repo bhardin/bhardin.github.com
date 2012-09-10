@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll is Awesome!"
 category: 
-tags: []
+tags: [tech]
 ---
 
 I recently discovered [Jekyll](https://github.com/mojombo/jekyll) a static site generator. Essentially, you write your content dynamically and then it _compiles_ the static code to be served. I needed something to simply generate content for [silisec](http://silisec.org), a local security drink-up, and found that Jekyll served my purposes well.
