@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Writing Secure Code
-tags:
-- The Basics
+tags: [security basics]
 status: publish
 type: post
 image: http://farm1.static.flickr.com/130/324177162_8276d0472a.jpg

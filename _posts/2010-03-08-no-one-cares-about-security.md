@@ -2,8 +2,8 @@
 layout: post
 title: Security? Who Cares!
 tags:
-- Conferences
-- Presentation
+- conferences
+- presentation
 status: publish
 type: post
 published: true

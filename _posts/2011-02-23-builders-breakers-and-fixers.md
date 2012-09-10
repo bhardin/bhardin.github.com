@@ -2,7 +2,7 @@
 layout: post
 title: Builders, Breakers, and Fixers
 tags:
-- General Thoughts
+- general thoughts
 status: publish
 type: post
 published: true

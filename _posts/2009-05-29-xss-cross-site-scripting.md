@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Cross-Site Scripting (XSS)
-tags: Vulnerabilities
+tags: vulnerabilities
 image: http://farm3.static.flickr.com/2557/3671317489_b797daaf22.jpg
 image_credit: Urban Woodswalker
 ---

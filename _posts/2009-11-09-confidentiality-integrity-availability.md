@@ -4,7 +4,7 @@ title: Confidentiality, Integrity, and Availability
 image: http://farm3.staticflickr.com/2438/3928848343_aa499af7ab.jpg
 image_credit: Express Monorail
 tags:
-- Buzzwords
+- buzzwords
 status: publish
 type: post
 published: true

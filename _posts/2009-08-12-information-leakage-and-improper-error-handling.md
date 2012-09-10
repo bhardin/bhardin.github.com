@@ -2,7 +2,7 @@
 layout: post
 title: Information Leakage and Improper Error Handling
 tags:
-- Vulnerabilities
+- vulnerabilities
 status: publish
 image: http://farm4.static.flickr.com/3154/3058009462_f59cb3ed1a.jpg
 image_credit: bitzcelt

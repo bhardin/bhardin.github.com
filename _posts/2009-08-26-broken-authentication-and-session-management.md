@@ -2,7 +2,7 @@
 layout: post
 title: Broken Authentication and Session Management
 tags:
-- Vulnerabilities
+- vulnerabilities
 status: publish
 image: http://farm5.static.flickr.com/4063/4266314914_0ab7cac5c4.jpg
 image_credit: Rinoninha

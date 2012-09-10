@@ -2,7 +2,7 @@
 layout: post
 title: Malicious File Execution
 tags:
-- Vulnerabilities
+- vulnerabilities
 status: publish
 type: post
 image: http://farm1.staticflickr.com/215/512701846_d22cf2a72c.jpg

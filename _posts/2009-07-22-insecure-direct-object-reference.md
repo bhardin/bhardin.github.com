@@ -2,7 +2,7 @@
 layout: post
 title: Insecure Direct Object Reference
 tags:
-- Vulnerabilities
+- vulnerabilities
 status: publish
 type: post
 image: http://farm4.static.flickr.com/3167/2538415572_b61ff16742.jpg

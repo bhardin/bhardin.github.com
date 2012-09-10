@@ -2,7 +2,7 @@
 layout: post
 title: Insecure Communications
 tags:
-- Vulnerabilities
+- vulnerabilities
 status: publish
 type: post
 published: true

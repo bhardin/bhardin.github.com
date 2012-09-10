@@ -4,7 +4,7 @@ title: Interrogating DNS Caches
 image: http://farm6.staticflickr.com/5126/5368873119_8e5c80068e.jpg
 image_credit: Nick.Fisher 
 tags:
-- Tools
+- tools
 status: publish
 type: post
 published: true

@@ -2,7 +2,7 @@
 layout: post
 title: Cross-Site Scripting in 37Signals Writeboard Application
 tags:
-- Vulnerabilities
+- vulnerabilities
 status: publish
 type: post
 image: http://farm3.static.flickr.com/2162/2542450115_6576d19185.jpg

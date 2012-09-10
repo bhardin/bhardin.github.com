@@ -2,7 +2,7 @@
 layout: post
 title: Cross Site Request Forgery (CSRF)
 tags:
-- Vulnerabilities
+- vulnerabilities
 status: publish
 type: post
 image: http://farm4.static.flickr.com/3197/2689052349_07738f5902.jpg

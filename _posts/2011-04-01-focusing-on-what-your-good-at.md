@@ -2,9 +2,9 @@
 layout: post
 title: Focusing On What Your Good At
 tags:
-- General Thoughts
-- The Basics
-- Vulnerabilities
+- general thoughts
+- security basics
+- vulnerabilities
 status: publish
 type: post
 published: true

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Understanding Cookies
-tags:
-- The Basics
+tags: [security basics]
 status: publish
 image: http://farm2.static.flickr.com/1280/1117398599_b86f47800a.jpg
 image_credit: Mrs. Magic
