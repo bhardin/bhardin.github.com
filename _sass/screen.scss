@@ -36,13 +36,18 @@ header {
 
 .main-content {
 	h1 {
-		font-family: "Raleway", Helvetica, sans-serif;
+		font-family: 'Oswald', Helvetica, sans-serif;
 		line-height: 44px;
 		padding-top: 25px;
-		font-weight: 300px;
+		font-weight: 400;
 		a {
 			color: black;
 		}
+	}
+
+	h2 {
+		font-family: 'Dosis', Helvetica, sans-serif;
+		font-weight: 400;
 	}
 }
 
