@@ -3,8 +3,8 @@ layout: post
 title: Understanding Cookies
 tags: [security basics]
 status: publish
-image: http://farm2.static.flickr.com/1280/1117398599_b86f47800a.jpg
-image_credit: Mrs. Magic
+image: http://farm4.staticflickr.com/3325/4555506269_5515869189.jpg
+image_credit: nettsu
 type: post
 published: true
 meta:
