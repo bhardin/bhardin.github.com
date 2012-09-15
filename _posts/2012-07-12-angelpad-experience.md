@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My AngelPad Experience"
-image: http://farm7.staticflickr.com/6237/6268401377_70b3209f88.jpg
+image: http://farm7.staticflickr.com/6117/6268927090_523df18705.jpg
 image_credit: kawanet
 category: startup
 tags: [startups, incubators]
