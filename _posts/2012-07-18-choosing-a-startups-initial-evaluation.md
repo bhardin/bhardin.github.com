@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Choosing A Startups Initial Evaluation"
-image: http://farm5.staticflickr.com/4040/4441258960_5b3d336acd.jpg
-image_credit: Chrissy Johnson1
+image: http://farm4.staticflickr.com/3157/2750890246_c4eb32e3e7.jpg
+image_credit: Alan Cleaver
 category: 
 tags: [startups, financing]
 meta_description: Choosing an initial valuation for your company is tricky. You should keep these things in mind.
