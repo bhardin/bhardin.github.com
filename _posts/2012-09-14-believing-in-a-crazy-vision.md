@@ -2,7 +2,7 @@
 layout: post
 title: "Believing in A Crazy Vision"
 image: http://farm9.staticflickr.com/8001/7433731222_6c9030d1b0.jpg
-image_credit: Rubén Chase
+image_credit: Ruben Chase
 category: 
 tags: [vision, failure]
 meta_description: Successful things are built from those who completely believe in their crazy vision.
