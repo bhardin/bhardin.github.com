@@ -22,5 +22,19 @@
 	<!-- 
 	Facebook Subscribe
 	-->
-	<li><iframe src="//www.facebook.com/plugins/subscribe.php?href=https%3A%2F%2Fwww.facebook.com%2Fhardin.brett&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;font&amp;width=200&amp;appId=408184379218327" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px;" allowTransparency="true"></iframe></li>
+	<li>
+	<iframe src="//www.facebook.com/plugins/subscribe.php?href=https%3A%2F%2Fwww.facebook.com%2Fhardin.brett&amp;layout=button_count&amp;show_faces=true&amp;colorscheme=light&amp;font&amp;width=220&amp;appId=408184379218327" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:220px; height: 30px;" allowTransparency="true"></iframe>
+	</li>
+
+	{% if site.related_posts %}
+	<h2>Recent Posts</h2>
+	<div class="related-posts">
+	{% for post in site.related_posts limit: 3 %}
+		<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+	</div>
+	{% endif %}
+
+
+
 </div>
