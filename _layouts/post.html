@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-<div id="page">
-  <h1>{{ page.title }}</h1>
+<div id="post">
 
 	{% if page.image %}
 	<div class="post-image">
-			<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
-			{% if page.image_credit %}
-			<p class="caption-text">Photo: {{ page.image_credit }}</p>
-			{% endif %}
+		<div class="post-header-fix">
+  		<h1>{{ page.title }}</h1>
+		</div>	
+
+		<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
 	</div>
 	{% endif %}
 
@@ -47,6 +47,10 @@ layout: default
   </div> <!-- pagination div -->
 
 	{% include disqus %}
+
+	{% if page.image_credit %}
+			Image Credit: {{ page.image_credit }}
+	{% endif %}
   
 </div><!-- End Page -->
 

@@ -90,17 +90,41 @@ blockquote {
 	padding-bottom: 20px;
 }
 
+#post {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+
+	.post-header-fix {
+		position: absolute;
+		z-index: 99;
+		width: 100%;
+		background-color: rgba(0, 0, 0, 0.398438);
+		border-radius: 5px 5px 0 0;
+		text-shadow: black 1px 0 2px;
+		top: 0;
+		left: 0;
+
+		h1 {
+			padding: 10px 20px;
+			color: white;	
+		}
+	}
+}
+
 .post-image {
-	border: 1px solid #DDD;
-	display: inline;
-	float: right;
-	margin-left: 15px;
-	background-color: #EEE;
+	position: relative;
+	width: 500px;
+	margin-top: 10px;
+	margin-bottom: 15px;
 
 	img {
-		width: 340px;
-		float: right;
-		padding: 10px 10px 5px 10px;
+		positiion: absolute;
+		top: 0;
+		left: 0;
+		z-index: 90;
+		
+		/* padding: 10px 10px 5px 10px; */
 	}
 
 	.caption-text {
