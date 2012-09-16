@@ -10,8 +10,8 @@ type: post
 published: true
 meta:
   _edit_last: '1'
-image: http://farm1.static.flickr.com/5/5669185_4aedac659f_z.jpg?zz=1
-image_credit: Photo Monkey
+image: http://farm1.staticflickr.com/130/418180402_d5fb8a8713.jpg
+image_credit: Shonk
 ---
 When I was in high school I was focused on being good at everything. Some time passed and I realized that successful people focus on one (1) aspect of their life and dive deep. Really Deep.
 
