@@ -6,14 +6,16 @@ layout: page
 <div class="post">
 	{% if post.image %}
 	<div class="post-image">
+		<a href="{{ post.url }}">
 		<div class="post-header-fix">
   		<h1>{{ post.title }}</h1>
 		</div>	
 
 		<img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}">
+		</a>
 	</div>
 	{% else %}
-		<h1>{{ post.title }}</h1>
+		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 	{% endif %}
 
 	<div class="content">
