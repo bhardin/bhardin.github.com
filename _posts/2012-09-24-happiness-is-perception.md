@@ -23,7 +23,7 @@ Tony Robbins suggests, an hour of power, walking each morning and saying out lou
 
 Think about it. If you are living in a first-world country you have, clean running water, cheap abundant food, and relative easy access to health care. 95% of the world doesn't even have these 3 things. But are you thankful for this amazing things? We are so focused on what we want that we take what we have for granted.
 
-To put this in perspective the U.S. Government puts out a cost of Food at Home Plan every month. For July 2012, an average person's meals for a month costs around $250. This is not even the thrifty plan. Your $2000 laptop could feed someone for 8 months. Are you thankful you can afford a device to read this on?
+To put this in perspective the U.S. Government puts out a cost of [Food at Home Plan](http://www.cnpp.usda.gov/Publications/FoodPlans/2012/CostofFoodJul2012.pdf) every month. For July 2012, an average person's meals for a month costs around $250. This is not even the thrifty plan. Your $2000 laptop could feed someone for 8 months. Are you thankful you can afford a device to read this on?
 
 Everything is Amazing and No One Is Happy
 -------------------------------------------------------
