@@ -113,15 +113,17 @@ blockquote p {
 .posts .post-header-fix h1 {
   padding: 10px 20px;
   color: white;
+  margin-bottom: 0px;
 }
 
-/* line 116, ../../_sass/screen.scss */
+/* This is the same code as above... need to refactor as a mixin */
+/* line 119, ../../_sass/screen.scss */
 #post {
   width: 500px;
   margin-left: auto;
   margin-right: auto;
 }
-/* line 121, ../../_sass/screen.scss */
+/* line 124, ../../_sass/screen.scss */
 #post .post-header-fix {
   position: absolute;
   z-index: 99;
@@ -132,20 +134,21 @@ blockquote p {
   top: 0;
   left: 0;
 }
-/* line 131, ../../_sass/screen.scss */
+/* line 134, ../../_sass/screen.scss */
 #post .post-header-fix h1 {
   padding: 10px 20px;
   color: white;
+  margin-bottom: 0px;
 }
 
-/* line 138, ../../_sass/screen.scss */
+/* line 142, ../../_sass/screen.scss */
 .post-image {
   position: relative;
   width: 500px;
   margin-top: 10px;
   margin-bottom: 15px;
 }
-/* line 144, ../../_sass/screen.scss */
+/* line 148, ../../_sass/screen.scss */
 .post-image img {
   positiion: absolute;
   top: 0;
@@ -153,18 +156,18 @@ blockquote p {
   z-index: 90;
   /* padding: 10px 10px 5px 10px; */
 }
-/* line 153, ../../_sass/screen.scss */
+/* line 157, ../../_sass/screen.scss */
 .post-image .caption-text {
   text-align: right;
   padding-right: 15px;
   margin-bottom: 5px;
 }
-/* line 158, ../../_sass/screen.scss */
+/* line 162, ../../_sass/screen.scss */
 .post-image .caption-text p {
   font-size: 12px;
 }
 
-/* line 164, ../../_sass/screen.scss */
+/* line 168, ../../_sass/screen.scss */
 .part-of-a-series {
   padding: 10px 15px 8px 10px;
   margin-bottom: 18px;
@@ -178,36 +181,36 @@ blockquote p {
   border-radius: 4px;
 }
 
-/* line 178, ../../_sass/screen.scss */
+/* line 182, ../../_sass/screen.scss */
 .share-buttons {
   margin-bottom: 25px;
 }
 
-/* line 182, ../../_sass/screen.scss */
+/* line 186, ../../_sass/screen.scss */
 a:hover {
   text-decoration: none;
 }
 
-/* line 186, ../../_sass/screen.scss */
+/* line 190, ../../_sass/screen.scss */
 .fixed {
   position: fixed;
   width: 220px;
   top: 10px;
 }
 
-/* line 193, ../../_sass/screen.scss */
+/* line 197, ../../_sass/screen.scss */
 .side_bar li {
   list-style: none;
   margin-bottom: 5px;
 }
-/* line 198, ../../_sass/screen.scss */
+/* line 202, ../../_sass/screen.scss */
 .side_bar form.feedburner-email input[type="text"] {
   width: 140px;
   border: 1px solid #CCC;
   padding: 5px;
   border-radius: 5px 0 0 5px;
 }
-/* line 204, ../../_sass/screen.scss */
+/* line 208, ../../_sass/screen.scss */
 .side_bar form.feedburner-email button {
   padding: 5px;
   border: 1px solid #CCC;
@@ -222,7 +225,7 @@ a:hover {
   background-image: linear-gradient(top, #ffffff, #dedede);
   cursor: pointer;
 }
-/* line 219, ../../_sass/screen.scss */
+/* line 223, ../../_sass/screen.scss */
 .side_bar a.rss {
   border: 1px solid #DF912C;
   padding: 2px;
@@ -242,7 +245,7 @@ a:hover {
   font-family: helvetica, verdana, arial, sans-serif;
   text-decoration: none;
 }
-/* line 238, ../../_sass/screen.scss */
+/* line 242, ../../_sass/screen.scss */
 .side_bar a.rss i {
   background-image: url("http://f.cl.ly/items/14433T2E0d0q1r2c2G2t/rss_icon.png");
   width: 11px;
@@ -251,12 +254,12 @@ a:hover {
   top: 3px;
   left: 3px;
 }
-/* line 248, ../../_sass/screen.scss */
+/* line 252, ../../_sass/screen.scss */
 .side_bar a.rss:hover {
   border-color: #93601D;
   text-decoration: none !important;
 }
-/* line 253, ../../_sass/screen.scss */
+/* line 257, ../../_sass/screen.scss */
 .side_bar a.rss-count {
   font-family: helvetica, verdana, arial, sans-serif;
   font-size: 10px;
@@ -268,7 +271,7 @@ a:hover {
   border-radius: 3px;
 }
 
-/* line 265, ../../_sass/screen.scss */
+/* line 269, ../../_sass/screen.scss */
 .post-footer {
   padding: 5px 10px 1px 10px;
   margin-top: 5px;
@@ -280,18 +283,18 @@ a:hover {
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 278, ../../_sass/screen.scss */
+/* line 282, ../../_sass/screen.scss */
 .post-footer a {
   color: blue;
 }
-/* line 282, ../../_sass/screen.scss */
+/* line 286, ../../_sass/screen.scss */
 .post-footer .avatar {
   float: left;
   margin: 12px 15px 0 4px;
 }
 
 /* tag_box ======================================================== */
-/* line 294, ../../_sass/screen.scss */
+/* line 298, ../../_sass/screen.scss */
 .tag_box {
   list-style: none;
   margin: 0;
@@ -299,17 +302,17 @@ a:hover {
   overflow: hidden;
 }
 
-/* line 300, ../../_sass/screen.scss */
+/* line 304, ../../_sass/screen.scss */
 .tag_box li {
   line-height: 28px;
 }
 
-/* line 303, ../../_sass/screen.scss */
+/* line 307, ../../_sass/screen.scss */
 .tag_box.inline li {
   float: left;
 }
 
-/* line 306, ../../_sass/screen.scss */
+/* line 310, ../../_sass/screen.scss */
 .tag_box a {
   padding: 3px 6px;
   margin: 2px;
@@ -319,13 +322,13 @@ a:hover {
   text-decoration: none;
 }
 
-/* line 314, ../../_sass/screen.scss */
+/* line 318, ../../_sass/screen.scss */
 .tag_box a span {
   vertical-align: super;
   font-size: 0.8em;
 }
 
-/* line 318, ../../_sass/screen.scss */
+/* line 322, ../../_sass/screen.scss */
 .tag_box a.active {
   background: #57A957;
   border: 1px solid #4C964D;

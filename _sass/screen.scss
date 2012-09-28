@@ -109,10 +109,13 @@ blockquote {
 		h1 {
 			padding: 10px 20px;
 			color: white;	
+			margin-bottom: 0px;
 		}
 	}
 }
 
+
+/* This is the same code as above... need to refactor as a mixin */
 #post {
 	width: 500px;
 	margin-left: auto;
@@ -131,6 +134,7 @@ blockquote {
 		h1 {
 			padding: 10px 20px;
 			color: white;	
+			margin-bottom: 0px;
 		}
 	}
 }
