@@ -12,6 +12,7 @@ header {
 	padding-top: 25px;
 
 	h1, a {
+		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 		color: lighten(complement($header_color), 70);
 		margin-bottom: 10px;
 		line-height: 5px;
@@ -36,7 +37,7 @@ header {
 
 .main-content {
 	h1 {
-		font-family: 'Oswald', Helvetica, sans-serif;
+		font-family: 'Archivo Narrow', Helvetica, sans-serif;
 		line-height: 44px;
 		padding-top: 25px;
 		font-weight: 400;
