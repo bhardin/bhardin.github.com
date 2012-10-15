@@ -6,7 +6,9 @@ image_credit: Scottwdw
 category: 
 tags: [life, people, communication]
 ---
-My co-founder recently talked about being a [socially awkward founder](http://www.matthewstump.com/misc/2012/05/01/the-socially-awkward-founder/). Supposedly, I'm a "natural" people person. I've learned to become natural through understanding how to effectively communicate with people. My parents helped me to understand about personality types from a very early age. They read personality books and broke down the content to me. This post is a bunch of that information boiled down. If you would like to read more I have listed books, with affiliate links, in the reference section.
+My co-founder recently talked about being a [socially awkward founder](http://www.matthewstump.com/misc/2012/05/01/the-socially-awkward-founder/). Supposedly, I'm a "natural" people person. I've learned to become natural through understanding how to effectively communicate with people. My parents helped me to understand about personality types from a very early age. They read personality books and broke down the content to me. The two books of knowledge they transfered onto me were [Personality Plus](http://www.amazon.com/gp/product/080075445X/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=080075445X) and [Dancing with Porcupines](http://www.amazon.com/gp/product/0830713336/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0830713336).
+
+This post is a bunch of that information boiled down. If you would like to read more I have listed books, with affiliate links, in the reference section.
 
 To understand how to communicate with someone effectively, it's important to understand the concept of personality types. After understanding the high-level personality types, you can triage people within 30 seconds and understand how to communicate with them easier. I want to put a not here: This is not NLP. That is a discussion for another day, and I personality think NLP is pseudoscience.
 
