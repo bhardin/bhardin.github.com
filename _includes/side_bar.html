@@ -26,15 +26,8 @@
 	<iframe src="//www.facebook.com/plugins/subscribe.php?href=https%3A%2F%2Fwww.facebook.com%2Fhardin.brett&amp;layout=button_count&amp;show_faces=true&amp;colorscheme=light&amp;font&amp;width=220&amp;appId=408184379218327" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:220px; height: 30px;" allowTransparency="true"></iframe>
 	</li>
 
-	{% if site.related_posts %}
-	<h2>Recent Posts</h2>
-	<div class="related-posts">
-	{% for post in site.related_posts limit: 3 %}
-		<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-	{% endfor %}
+	<h2>Popular Articles</h2>
+	<div class="trending_content">
+		{% include trending_content.html %}
 	</div>
-	{% endif %}
-
-
-
 </div>

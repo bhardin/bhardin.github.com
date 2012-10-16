@@ -187,6 +187,13 @@ a:hover {
 	text-decoration: none;
 }
 
+.trending_content {
+	font-size: 13px;
+	.addthis-content-row {
+		margin-bottom: 0.2em
+	}
+}
+
 .fixed {
   position: fixed;
 	width: 220px;
