@@ -179,10 +179,6 @@ blockquote {
 	border-radius: 4px;
 }
 
-.share-buttons {
-	margin-bottom: 25px;
-}
-
 a:hover {
 	text-decoration: none;
 }
@@ -198,6 +194,15 @@ a:hover {
   position: fixed;
 	width: 220px;
 	top: 10px;
+}
+
+.sb-fixed {
+	position: fixed;
+	top: 10px;	
+}
+
+.share_buttons {
+
 }
 
 .side_bar {

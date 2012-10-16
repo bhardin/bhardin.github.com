@@ -6,6 +6,9 @@
 			
 		if($(window).scrollTop() > 125) $('.side_bar').addClass('fixed');
 			else $('.side_bar').removeClass('fixed');
+		
+		if($(window).scrollTop() > 125) $('.share_buttons').addClass('sb-fixed');
+			else $('.share_buttons').removeClass('sb-fixed');
 		});
 	});
 </script>
