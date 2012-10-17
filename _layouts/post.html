@@ -1,49 +1,53 @@
 ---
 layout: default
 ---
-<div id="post">
-
-	{% if page.image %}
-	<div class="post-image">
-		<div class="post-header-fix">
-  		<h1>{{ page.title }}</h1>
-		</div>	
-
-		<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
-	</div>
-	{% else %}
-		<h1>{{ page.title }}</h1>
-	{% endif %}
-
-	<div class="content">
-  {{ content }}
+<div class="row">
+	<div class="span3" style="padding-top: 10px;">
+		{% include share_buttons.html %}
 	</div>
 
-	{% include me-footer.html %}
-		
-  <div class="pagination">
-	<ul>	
- 	 {% if page.previous %}
-	    <li class="prev">
-			<a href="{{ page.previous.url }}" class="prev" title="{{ page.previous.title }}">&larr; Earlier Post</a>
-		</li>
-	  {% endif %}
+	<div class="span9">
+		<div id="post">
 
-	  {% if page.next %}
-		<li class="next">
-	    	<a href="{{ page.next.url }}" class="next" title="{{ page.next.title }}">Next Post &rarr;</a>
-		</li>
-	  {% endif %}
-	</ul>
-  </div> <!-- pagination div -->
+			{% if page.image %}
+			<div class="post-image">
+				<div class="post-header-fix">
+		  		<h1>{{ page.title }}</h1>
+				</div>	
 
-	{% include disqus %}
+				<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+			</div>
+			{% else %}
+				<h1>{{ page.title }}</h1>
+			{% endif %}
 
-	{% if page.image_credit %}
-			Image Credit: {{ page.image_credit }}
-	{% endif %}  
-</div><!-- End Page -->
+			<div class="content">
+		  {{ content }}
+			</div>
 
+			{% include me-footer.html %}
+				
+		  <div class="pagination">
+			<ul>	
+		 	 {% if page.previous %}
+			    <li class="prev">
+					<a href="{{ page.previous.url }}" class="prev" title="{{ page.previous.title }}">&larr; Earlier Post</a>
+				</li>
+			  {% endif %}
 
+			  {% if page.next %}
+				<li class="next">
+			    	<a href="{{ page.next.url }}" class="next" title="{{ page.next.title }}">Next Post &rarr;</a>
+				</li>
+			  {% endif %}
+			</ul>
+		  </div> <!-- pagination div -->
 
+			{% include disqus %}
 
+			{% if page.image_credit %}
+					Image Credit: {{ page.image_credit }}
+			{% endif %}  
+		</div><!-- End Post -->
+	</div> <!-- End Span9 -->
+</div> <!-- End Row -->
