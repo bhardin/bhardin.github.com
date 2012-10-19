@@ -7,6 +7,11 @@ Brett Hardin <a href="https://twitter.com/miscsecurity" class="twitter-follow-bu
 ============
 Brett Hardin is the CEO of [SourceNinja](http://www.sourceninja.com). He is a developer, author, advisor, and speaker on information security and entrepreneurship. Brett began programming at the age of 8 and began his professional career getting paid to find and exploit vulnerabilities within Fortune 500 organizations. Brett also co-authored the book Hacking: The Next Generation.
 
+Fun First!
+---------
+* Organizer of [Silisec](http://www.silisec.org)
+* [Recommended Reading](/books)
+
 Presentations & Publications
 --------------------
 * [Security Bsides SF 2012 - Security: The Wrong Way](http://www.brighttalk.com/webcast/7651/44289)
@@ -17,15 +22,12 @@ Presentations & Publications
 Patents
 --------
 * [System and method of web application discovery via capture and analysis of HTTP requests for external resources](http://www.patentgenius.com/patent/8286248.html)
-* [Method and system for detection of remote file inclusion vulnerabilities](http://www.patentgenius.com/patent/8239952.html)
+* [Method and system for detection of remote file inclusion vulnerabilitiess](http://www.patentgenius.com/patent/8239952.html)
 
-Other Fun
+Other Presences
 ---------
-* Organizer of [Silisec](http://www.silisec.org)
-* [Books I suggest reading](/books)
+* [Github](https://www.github.com/bhardin)
 
-Presences
----------
 <a href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="false" onclick="_gaq.push(['_trackEvent', 'Followed', 'Twitter', 'bottom of about page']);">Follow @miscsecurity</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
