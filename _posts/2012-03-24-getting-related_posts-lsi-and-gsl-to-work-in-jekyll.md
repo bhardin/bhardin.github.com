@@ -24,6 +24,17 @@ But, how do I install and old version of GSL?
 
 Welcome to Hacking Brew
 -----------------------
+* * *
+
+__Edit:__ Levi Figueira pointed out an easier way to do what follows. His alternative method is the following:
+
+	$ brew tap homebrew/versions
+	$ brew install gsl114
+
+This should be all you actually need and can skip the rest of this section. If this doesn't work for you, let me know in the comments.
+
+* * *
+
 Brew is just a github repository. So, what you want to do, is checkout a branch that contains the version you want to install. In our case, we want to install gsl 1.14. First, you need to identify where brew is installed. Mine is installed in `/usr/local`. A simple way to find out is to locate a brew formula. `locate gsl.rb`. 
 
 	$ locate gsl.rb
