@@ -2,7 +2,7 @@
 layout: post
 title: "First Post?"
 category: 
-tags: [general]
+tags: [general thoughts]
 ---
 
 I recently decided that I wanted to move my blog from [misc-security.com](http://misc-security.com) to a more general purpose blog. One reason is that I have had a shift from security into entrepreneurship, which is a hard word to spell, and startups.

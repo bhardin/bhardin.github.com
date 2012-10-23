@@ -4,7 +4,7 @@ title: "Avoid Distractions and Remain Focused"
 image: http://farm2.staticflickr.com/1389/4721798240_0beb2a46ab.jpg
 image_credit: Bethan
 category: 
-tags: [startups, advice, burn-out]
+tags: [startups, advice]
 ---
 
 Building a startup is exciting. Every day you are working to create something that will shake up an industry, perhaps even change the world.

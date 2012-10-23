@@ -4,7 +4,7 @@ title: "Advice and Advisors"
 image: http://farm3.staticflickr.com/2389/2234720298_7d51c59970.jpg
 image_credit: Martin Gommel
 category: 
-tags: [startups]
+tags: [startups, advice]
 meta_description: Seeking advice from advisors is critical with being successful. But how do you identify good advice from bad?
 ---
 
