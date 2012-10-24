@@ -33,7 +33,7 @@ Investors of any size want deals. It doesn't matter if you are taking from angel
 
 I am a strong believer in smaller valuations at the early stage. Angels won't invest in you if you are raising at higher than a $4m valuation. Some won't invest in you unless you are raising at a $3m valuation. But Why? Angels won't invest in follow on rounds and don't execute their pro rata rights. They will be diluted just as the founders shares are. The returns they receive will not work for them if they are participating in larger company valuations.
 
-Investors of any size want to see their investments growing. If investors see their initial investment taking a down round, it means there was no point in getting in early. You want to keep your shareholders happy. Don't make your investors sad.
+Investors of any size want to see their investments growing. If investors see their initial investment taking a down round, it means there was no point in getting in early. You want to keep your shareholders [happy](/2012/09/happiness-is-perception/). Don't make your investors sad.
 
 ## Capital is Critical
 Capital is the most important thing to a business. __Capital reduces your chances of failure, but doesn't guarantee success.__

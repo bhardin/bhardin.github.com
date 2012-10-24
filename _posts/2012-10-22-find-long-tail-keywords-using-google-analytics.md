@@ -30,7 +30,7 @@ According HitTail's [site](http://www.hittail.com/why.asp), "HitTail tells you, 
 
 I really don't care about the "real-time" aspect of the service. What I did want was a way to identify topics I should write about based on what search terms users were using to find my site. This would help me identify posts I could write for [additional learning](/2012/06/challenge-yourself-always-learn/).
 
-Remember, I am cheap and a service has to be incredible for me to pay for it. I assumed Google Analytics had the same data HitTail was using to determine what long tail keywords I should focus on. So, how could I generate a report in Google Analytics which has the same function as HitTail.
+Remember, [I'm cheap](/2012/10/im-cheap-products-i-pay-for-have-to-be-awesome/) and a service has to be incredible for me to pay for it. I assumed Google Analytics had the same data HitTail was using to determine what long tail keywords I should focus on. So, how could I generate a report in Google Analytics which has the same function as HitTail.
 
 ## Identifying the Keywords
 
