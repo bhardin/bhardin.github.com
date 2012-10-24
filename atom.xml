@@ -8,7 +8,7 @@ layout: nil
  <link href="http://bretthard.in/atom.xml" rel="self"/>
  <link href="http://bretthard.in/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://bretthard.in</id>
+ <id>http://bretthard.in/</id>
  <author>
    <name>Brett Hardin</name>
    <email>hardin.brett@gmail.com</email>
@@ -17,6 +17,7 @@ layout: nil
  {% for post in site.posts limit: 10 %}
  <entry>
    <title>{{ post.title }}</title>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
    <link href="http://bretthard.in{{ post.url }}"/>
    <id>http://bretthard.in{{ post.id }}</id>
    <content type="html">
