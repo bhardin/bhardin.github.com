@@ -349,6 +349,19 @@ a:hover {
   color: #FFF;
 }
 
+/* line 345, ../../_sass/screen.scss */
+.content .talk-design .color div {
+  float: left;
+  margin-right: 5px;
+  padding: 0px 10px 0px;
+  border: 1px solid black;
+  font-size: 12px;
+}
+/* line 353, ../../_sass/screen.scss */
+.content .talk-design .color .white {
+  color: white;
+}
+
 @font-face {
   font-family: 'Raleway';
   src: url("/assets/fonts/Raleway/raleway_thin-webfont.eot");
