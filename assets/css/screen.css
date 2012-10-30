@@ -365,11 +365,3 @@ a:hover {
 .content .talk-design .color .white {
   color: white;
 }
-
-@font-face {
-  font-family: 'Raleway';
-  src: url("/assets/fonts/Raleway/raleway_thin-webfont.eot");
-  /* IE9 Compat Modes */
-  src: url("/assets/fonts/Raleway/raleway_thin-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/Raleway/raleway_thin-webfont.woff") format("woff"), url("/assets/fonts/Raleway/raleway_thin-webfont.ttf") format("truetype"), url("/assets/fonts/Raleway/raleway_thin-webfont.svg#svgFontName") format("svg");
-  /* Legacy iOS */
-}
