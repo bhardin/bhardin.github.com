@@ -32,13 +32,17 @@ layout: page
 	<ul>
 		{% if paginator.next_page %}
 	    <li class="next"> 
-			<a href="/page{{paginator.next_page}}" class="next">&larr; Older Posts</a>
+			<a href="/page{{paginator.next_page}}" title="Next Page" class="next">&larr; Older Posts</a>
 			</li>
 	  {% endif %}
 	
 	  {% if paginator.previous_page %}
 	    <li class="prev">
-			<a href="/page{{paginator.previous_page}}" class="prev">Newer Posts &rarr;</a>
+				{% if paginator.previous_page == 1 %}
+      		<a href="/" title="Previous Page" class="prev">Newer Posts &rarr;</a>
+      	{% else %}
+					<a href="/page{{paginator.previous_page}}" title="Previous Page" class="prev">Newer Posts &rarr;</a>
+				{% endif %}
 			</li>
 	  {% endif %}
 	</ul>
