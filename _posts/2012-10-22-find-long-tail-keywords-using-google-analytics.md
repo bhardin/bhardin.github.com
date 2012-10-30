@@ -4,7 +4,7 @@ title: "Find Long Tail Keywords Using Google Analytics"
 image: http://farm1.staticflickr.com/1/1110334_a1977da14f.jpg
 image_credit: drp
 category: 
-tags: [seo, marketing, ROI]
+tags: [SEO, marketing, ROI]
 meta_description: 
 ---
 I recently discovered [HitTail](http://www.hittail.com), an awesome service for discovering long tail keywords to maximize SEO.

@@ -4,7 +4,7 @@ title: "Jekyll and SEO Optimization"
 image: http://farm2.staticflickr.com/1318/1431384410_db38f8a58f.jpg
 image_credit: woodleywonderworks
 category: 
-tags: [blogging, tech]
+tags: [blogging, tech, SEO]
 ---
 
 After moving my blog from Wordpress to Jekyll, I missed one plugin greatly: The Wordpress SEO plugin by Yoast.
