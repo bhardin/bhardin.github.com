@@ -47,4 +47,4 @@ Comments need to be approved. So, even if this XSS was valid I would personally 
 
 ### Return to Focusing
 
-The next time you put things in perspective ask yourself, "Am I focusing on something I care about?" If the answer is yes, continue down the righteous path. If the answer is No, Find Your Purpose.
+The next time you put things in perspective ask yourself, "Am I focusing on something I care about?" If the answer is yes, continue down the righteous path. If the answer is no, find your purpose.
