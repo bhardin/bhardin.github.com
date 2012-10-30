@@ -8,18 +8,26 @@ layout: default
 
 	<div class="span10">
 		<div id="post">
-
 			{% if page.image %}
 			<div class="post-image">
 				<div class="post-header-fix">
 		  		<h1>{{ page.title }}</h1>
 				</div>	
-
 				<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
 			</div>
 			{% else %}
 				<h1>{{ page.title }}</h1>
 			{% endif %}
+			
+			<p>
+				<small>
+					This entry was tagged with
+					
+					{% for tag in page.tags %}
+						<a href="/tags.html#{{ tag }}-ref" onclick="_gaq.push(['_trackEvent', 'clicked tag', '{{ tag }}', '{{ page.title }}']);"><span class="label notice">{{ tag }}</span></a>
+					{% endfor %}
+				</small>
+			</p>
 
 			<div class="content">
 		  {{ content }}
