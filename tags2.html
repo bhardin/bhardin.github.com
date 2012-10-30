@@ -6,6 +6,14 @@ group: navigation
 ---
 {% include JB/setup %}
 
+{% for post in site.posts%}
+	{% if post.tags %}
+		{{ post.tags | array_to_sentence_string }} [ {{ post.tags }} ]<br/>
+	{% else %}
+		Full.
+	{% endif %}
+{% endfor %}
+
 <ul class="tag_box inline">
   {% assign tags_list = site.tags %}  
   <span class="label notice">{% include JB/tags_list %}</span>

@@ -18,20 +18,21 @@ layout: default
 			{% else %}
 				<h1>{{ page.title }}</h1>
 			{% endif %}
-			
+
+			<div class="content">
+		  {{ content }}
+			</div>
+
 			<p>
 				<small>
-					This entry was tagged with
-					
+					Tags:
 					{% for tag in page.tags %}
 						<a href="/tags.html#{{ tag }}-ref" onclick="_gaq.push(['_trackEvent', 'clicked tag', '{{ tag }}', '{{ page.title }}']);"><span class="label notice">{{ tag }}</span></a>
 					{% endfor %}
 				</small>
 			</p>
 
-			<div class="content">
-		  {{ content }}
-			</div>
+			<hr/>
 
 			{% include me-footer.html %}
 

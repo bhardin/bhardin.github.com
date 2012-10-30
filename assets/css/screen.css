@@ -128,6 +128,10 @@ blockquote p {
   margin-right: auto;
 }
 /* line 128, ../../_sass/screen.scss */
+#post .post-footer {
+  margin-bottom: 20px;
+}
+/* line 132, ../../_sass/screen.scss */
 #post .post-header-fix {
   position: absolute;
   z-index: 99;
@@ -138,21 +142,21 @@ blockquote p {
   top: 0;
   left: 0;
 }
-/* line 138, ../../_sass/screen.scss */
+/* line 142, ../../_sass/screen.scss */
 #post .post-header-fix h1 {
   padding: 10px 20px;
   color: white;
   margin-bottom: 0px;
 }
 
-/* line 146, ../../_sass/screen.scss */
+/* line 150, ../../_sass/screen.scss */
 .post-image {
   position: relative;
   width: 500px;
   margin-top: 10px;
   margin-bottom: 15px;
 }
-/* line 152, ../../_sass/screen.scss */
+/* line 156, ../../_sass/screen.scss */
 .post-image img {
   positiion: absolute;
   top: 0;
@@ -160,18 +164,18 @@ blockquote p {
   z-index: 90;
   /* padding: 10px 10px 5px 10px; */
 }
-/* line 161, ../../_sass/screen.scss */
+/* line 165, ../../_sass/screen.scss */
 .post-image .caption-text {
   text-align: right;
   padding-right: 15px;
   margin-bottom: 5px;
 }
-/* line 166, ../../_sass/screen.scss */
+/* line 170, ../../_sass/screen.scss */
 .post-image .caption-text p {
   font-size: 12px;
 }
 
-/* line 172, ../../_sass/screen.scss */
+/* line 176, ../../_sass/screen.scss */
 .part-of-a-series {
   padding: 10px 15px 8px 10px;
   margin-bottom: 18px;
@@ -185,46 +189,46 @@ blockquote p {
   border-radius: 4px;
 }
 
-/* line 186, ../../_sass/screen.scss */
+/* line 190, ../../_sass/screen.scss */
 a:hover {
   text-decoration: none;
 }
 
-/* line 190, ../../_sass/screen.scss */
+/* line 194, ../../_sass/screen.scss */
 .trending_content {
   font-size: 13px;
 }
-/* line 192, ../../_sass/screen.scss */
+/* line 196, ../../_sass/screen.scss */
 .trending_content .addthis-content-row {
   margin-bottom: 0.2em;
 }
 
-/* line 197, ../../_sass/screen.scss */
+/* line 201, ../../_sass/screen.scss */
 .fixed {
   position: fixed;
   width: 220px;
   top: 10px;
 }
 
-/* line 203, ../../_sass/screen.scss */
+/* line 207, ../../_sass/screen.scss */
 .sb-fixed {
   position: fixed;
   top: 10px;
 }
 
-/* line 213, ../../_sass/screen.scss */
+/* line 217, ../../_sass/screen.scss */
 .side_bar li {
   list-style: none;
   margin-bottom: 5px;
 }
-/* line 218, ../../_sass/screen.scss */
+/* line 222, ../../_sass/screen.scss */
 .side_bar form.feedburner-email input[type="text"] {
   width: 140px;
   border: 1px solid #CCC;
   padding: 5px;
   border-radius: 5px 0 0 5px;
 }
-/* line 224, ../../_sass/screen.scss */
+/* line 228, ../../_sass/screen.scss */
 .side_bar form.feedburner-email button {
   padding: 5px;
   border: 1px solid #CCC;
@@ -239,7 +243,7 @@ a:hover {
   background-image: linear-gradient(top, #ffffff, #dedede);
   cursor: pointer;
 }
-/* line 239, ../../_sass/screen.scss */
+/* line 243, ../../_sass/screen.scss */
 .side_bar a.rss {
   border: 1px solid #DF912C;
   padding: 2px;
@@ -259,7 +263,7 @@ a:hover {
   font-family: helvetica, verdana, arial, sans-serif;
   text-decoration: none;
 }
-/* line 258, ../../_sass/screen.scss */
+/* line 262, ../../_sass/screen.scss */
 .side_bar a.rss i {
   background-image: url("http://f.cl.ly/items/14433T2E0d0q1r2c2G2t/rss_icon.png");
   width: 11px;
@@ -268,12 +272,12 @@ a:hover {
   top: 3px;
   left: 3px;
 }
-/* line 268, ../../_sass/screen.scss */
+/* line 272, ../../_sass/screen.scss */
 .side_bar a.rss:hover {
   border-color: #93601D;
   text-decoration: none !important;
 }
-/* line 273, ../../_sass/screen.scss */
+/* line 277, ../../_sass/screen.scss */
 .side_bar a.rss-count {
   font-family: helvetica, verdana, arial, sans-serif;
   font-size: 10px;
@@ -285,7 +289,7 @@ a:hover {
   border-radius: 3px;
 }
 
-/* line 285, ../../_sass/screen.scss */
+/* line 289, ../../_sass/screen.scss */
 .post-footer {
   padding: 5px 10px 1px 10px;
   margin-top: 5px;
@@ -297,18 +301,18 @@ a:hover {
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 298, ../../_sass/screen.scss */
+/* line 302, ../../_sass/screen.scss */
 .post-footer a {
   color: blue;
 }
-/* line 302, ../../_sass/screen.scss */
+/* line 306, ../../_sass/screen.scss */
 .post-footer .avatar {
   float: left;
   margin: 12px 15px 0 4px;
 }
 
 /* tag_box ======================================================== */
-/* line 314, ../../_sass/screen.scss */
+/* line 318, ../../_sass/screen.scss */
 .tag_box {
   list-style: none;
   margin: 0;
@@ -316,17 +320,17 @@ a:hover {
   overflow: hidden;
 }
 
-/* line 320, ../../_sass/screen.scss */
+/* line 324, ../../_sass/screen.scss */
 .tag_box li {
   line-height: 28px;
 }
 
-/* line 323, ../../_sass/screen.scss */
+/* line 327, ../../_sass/screen.scss */
 .tag_box.inline li {
   float: left;
 }
 
-/* line 326, ../../_sass/screen.scss */
+/* line 330, ../../_sass/screen.scss */
 .tag_box a {
   padding: 3px 6px;
   margin: 2px;
@@ -336,20 +340,20 @@ a:hover {
   text-decoration: none;
 }
 
-/* line 334, ../../_sass/screen.scss */
+/* line 338, ../../_sass/screen.scss */
 .tag_box a span {
   vertical-align: super;
   font-size: 0.8em;
 }
 
-/* line 338, ../../_sass/screen.scss */
+/* line 342, ../../_sass/screen.scss */
 .tag_box a.active {
   background: #57A957;
   border: 1px solid #4C964D;
   color: #FFF;
 }
 
-/* line 345, ../../_sass/screen.scss */
+/* line 349, ../../_sass/screen.scss */
 .content .talk-design .color div {
   float: left;
   margin-right: 5px;
@@ -357,7 +361,7 @@ a:hover {
   border: 1px solid black;
   font-size: 12px;
 }
-/* line 353, ../../_sass/screen.scss */
+/* line 357, ../../_sass/screen.scss */
 .content .talk-design .color .white {
   color: white;
 }
