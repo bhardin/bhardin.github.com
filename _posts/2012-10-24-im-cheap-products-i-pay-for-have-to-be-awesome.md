@@ -32,13 +32,13 @@ Here is the list of products I pay for:
 ## Products I Don't Pay For
 I use many products I couldn't live without and I don't pay for them. I think the company hasn't yet found the right balance of pain in the freemium model. All of these services I would be willing to pay for, but their freemium products are good enough I don't see value in converting at this time.
 
-[Evernote](http://evernote.com) - I found out how awesome Evernote was, once I discovered the web clipper extension for Chrome. I used to use delicious to store bookmarks, but found I couldn't always find what I previously saved. The Evernote web clipper takes the whole page and indexes it. Super simple to find things I have previously read.
+* [Evernote](http://evernote.com) - I found out how awesome Evernote was, once I discovered the web clipper extension for Chrome. I used to use delicious to store bookmarks, but found I couldn't always find what I previously saved. The Evernote web clipper takes the whole page and indexes it. Super simple to find things I have previously read.
 
-[Dropbox](http://db.tt/bhIK3HUa) - I already mentioned I use Dropbox with 1password, but I don't pay for it. I think the service is incredibly valuable, but haven't had the need to go over my current 2.4G of bandwidth.
+* [Dropbox](http://db.tt/bhIK3HUa) - I already mentioned I use Dropbox with 1password, but I don't pay for it. I think the service is incredibly valuable, but haven't had the need to go over my current 2.4G of bandwidth.
 
-[Spotify](http://www.spotify.com) - I have already [talked](/2012/10/thoughts-on-spotify/) about why I find Spotify so great, but haven't had the need yet to convert to a paying user.
+* [Spotify](http://www.spotify.com) - I have already [talked](/2012/10/thoughts-on-spotify/) about why I find Spotify so great, but haven't had the need yet to convert to a paying user.
 
-[FourSquare](http://foursquare.com) - Although FourSquare doesn't have a way to convert I love using the product. My [use case](/2012/01/foursquare/) though is a little different than most people.
+* [FourSquare](http://foursquare.com) - Although FourSquare doesn't have a way to convert I love using the product. My [use case](/2012/01/foursquare/) though is a little different than most people.
 
 Hopefully this demonstrate how cheap I am. I love finding new services and products I previously didn't know about. What services could you not live without but aren't currently paying for?
 
