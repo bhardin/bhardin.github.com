@@ -1,17 +1,11 @@
 ---
 layout: post
 title: Failure to Restrict URL Access
-tags:
-- vulnerabilities
+tags: [vulnerabilities, owasp]
 status: publish
 image: http://farm2.staticflickr.com/1376/4602805654_db8b6569fb.jpg
 image_credit: Chris Devers
 type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: failure-to-restrict-url-access
-  _headspace_page_title: Failure to Restrict URL Access
 ---
 {% include top10.md %}
 

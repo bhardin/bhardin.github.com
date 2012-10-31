@@ -1,17 +1,9 @@
 ---
 layout: post
 title: Malicious File Execution
-tags:
-- vulnerabilities
-status: publish
-type: post
+tags: [vulnerabilities, owasp]
 image: http://farm1.staticflickr.com/215/512701846_d22cf2a72c.jpg
 image_credit: aphasiafilms
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  _headspace_page_title: Malicious File Execution
 ---
 {% include top10.md %}
 

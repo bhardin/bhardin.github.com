@@ -1,17 +1,10 @@
 ---
 layout: post
 title: Insecure Direct Object Reference
-tags:
-- vulnerabilities
+tags: [vulnerabilities, owasp]
 status: publish
-type: post
 image: http://farm4.static.flickr.com/3167/2538415572_b61ff16742.jpg
 image_credit: tim_norris
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  _headspace_page_title: Insecure Direct Object Reference
 ---
 {% include top10.md %}
 

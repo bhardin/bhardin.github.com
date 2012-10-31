@@ -1,17 +1,9 @@
 ---
 layout: post
 title: Cross Site Request Forgery (CSRF)
-tags:
-- vulnerabilities
-status: publish
-type: post
+tags: [vulnerabilities, owasp]
 image: http://farm4.static.flickr.com/3197/2689052349_07738f5902.jpg
 image_credit: Joe Penniston
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  _headspace_page_title: Cross Site Request Forgery (CSRF)
 ---
 {% include top10.md %}
 

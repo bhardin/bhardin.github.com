@@ -1,17 +1,11 @@
 ---
 layout: post
 title: Insecure Cryptographic Storage
-tags:
-- vulnerabilities
+tags: [vulnerabilities, owasp]
 status: publish
 image: http://farm3.static.flickr.com/2387/2452639579_e165388718.jpg
 image_credit: fpsurgeon
 type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  _headspace_page_title: Insecure Cryptographic Storage
 ---
 {% include top10.md %}
 

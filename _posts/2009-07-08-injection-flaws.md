@@ -3,15 +3,7 @@ layout: post
 title: Injection Flaws
 image: http://farm5.static.flickr.com/4069/4561376850_6f002abeb9.jpg
 image_credit: Doug88888
-tags:
-- vulnerabilities
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  _headspace_page_title: Injection Flaws
+tags: [owasp, vulnerabilities]
 ---
 {% include top10.md %}
 

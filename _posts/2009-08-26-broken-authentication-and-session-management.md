@@ -1,17 +1,10 @@
 ---
 layout: post
 title: Broken Authentication and Session Management
-tags:
-- vulnerabilities
-status: publish
+tags: [vulnerabilities, owasp]
 image: http://farm5.static.flickr.com/4063/4266314914_0ab7cac5c4.jpg
 image_credit: Rinoninha
 type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  _headspace_page_title: Broken Authentication and Session Management
 ---
 {% include top10.md %}
 

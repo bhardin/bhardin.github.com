@@ -1,17 +1,11 @@
 ---
 layout: post
 title: Insecure Communications
-tags:
-- vulnerabilities
-status: publish
+tags: [vulnerabilities, owasp]
 type: post
 published: true
 image: http://farm5.static.flickr.com/4038/4417602702_7b5e9b62f6.jpg
 image_credit: Jens Finke - fotografie grafik verlag
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  _headspace_page_title: Insecure Communications
 ---
 {% include top10.md %}
 

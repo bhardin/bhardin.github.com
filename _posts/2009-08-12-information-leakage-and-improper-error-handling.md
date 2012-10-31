@@ -1,17 +1,10 @@
 ---
 layout: post
 title: Information Leakage and Improper Error Handling
-tags:
-- vulnerabilities
-status: publish
+tags: [vulnerabilities, owasp]
 image: http://farm4.static.flickr.com/3154/3058009462_f59cb3ed1a.jpg
 image_credit: bitzcelt
 type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  _headspace_page_title: Information Leakage and Improper Error Handling
 ---
 {% include top10.md %}
 
