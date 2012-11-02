@@ -31,7 +31,9 @@ Breakthroughs are made by borrowing from other departments. Breadth allows you t
 
 Computer Science has taught me to embrace the breadth over depth concept. Learn a little about a lot and do a deeper dive when necessary. 
 
-Please note: I am not advocating not being deep. Mike Edmiston [said](http://www.av8n.com/physics/breadth-depth.htm), "A person who is a mile wide and an inch deep is not an educated person. But a person who is a mile deep and an inch wide is not an educated person either."
+Please note: I am not advocating not being deep. You have to be [both.](http://www.av8n.com/physics/breadth-depth.htm)
+
+> A person who is a mile wide and an inch deep is not an educated person. But a person who is a mile deep and an inch wide is not an educated person either.
 
 Depth takes time, is incredibly hard, and is a constant struggle. What I am saying is this: Your deep subject can benefit from your breadth.
 
