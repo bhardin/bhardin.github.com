@@ -13,12 +13,19 @@
 
 //Custom Variables
 @baseFontSize: 15px;
+@baseLineHeight: 25px;
 @header_color: #18697B;
 @linkColor: #469CB1;
+
+// General Format
+h2 {
+	font-size: 24px;
+}
 
 // Header & Navbar
 .nav {
 	float: right;
+	margin-bottom: 0px;
 
 	a {
 		color: @header_color;
@@ -28,9 +35,12 @@
 .page-header {
 	/* font-family: 'Yanone Kaffeesatz', Helvetica, Arial, sans-serif; */
 	letter-spacing: 1.2px;
+	margin-top: 0px;
+	margin-bottom: 25px;
 
 	h1, a {
 		color: @header_color;
+		margin: 0px 0px 0px;
 	}
 
 	p {
@@ -60,16 +70,6 @@
 
 .content{
 	text-align: justify;
-
-	/*
-	img {
-		width: 500px;
-	}
-	*/
-}
-
-li {
-	line-height: 25px;
 }
 
 .posts {
