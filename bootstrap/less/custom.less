@@ -12,14 +12,15 @@
 @import "responsive.less";
 
 //Custom Variables
-@baseFontSize: 15px;
+@baseFontSize: 16px;
 @baseLineHeight: 25px;
 @header_color: #18697B;
 @linkColor: #469CB1;
 
 // General Format
 h2 {
-	font-size: 24px;
+	font-size: 26px;
+	margin-bottom: 1px; 
 }
 
 // Header & Navbar
@@ -80,9 +81,17 @@ h2 {
 	margin-right: auto;
 
 	.post-header-fix {
+		width: 100%;
+
+		/* This is only added in, if the width is greater than the image */
+		margin-left: 20px;
+		width: 500px;
+		/* Remove this if the width is < 500 pixes */
+
+
 		position: absolute;
 		z-index: 99;
-		width: 100%;
+		
 		background-color: rgba(0, 0, 0, 0.6);
 		border-radius: 5px 5px 0 0;
 		text-shadow: black 1px 0 2px;
