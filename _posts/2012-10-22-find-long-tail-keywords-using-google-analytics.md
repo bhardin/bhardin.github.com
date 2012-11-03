@@ -40,15 +40,78 @@ It was interesting that not all of HitTail's suggestions were in Google Analytic
 
 Here is a breakdown of the suggested keywords I found in Google Analtyics:
 
-| Query | Impressions | Clicks | Average Position | CTR |
-|:------|------------:|:------:|:----------------:|:---:|
-| fear of rejection       | 170 |  5  | 68  | 2.94% 
-| market size             | 170 |  5  | 140 | 2.94% 
-| types of personalities  | 70  |  5  | 58  | 7.14% 
-| different personalities | 500 |  16 | 30  | 3.20% 
-| cross site scripting    | 90  |  5  | 210 | 5.56% 
-| different personality   | 900 |  12 | 45  | 1.33% 
-| types of personality    | 60  |  5  | 120 | 8.33% 
+<table class="table">
+<thead>
+<tr>
+<th></th>
+<th align="left"> Query </th>
+<th align="right"> Impressions </th>
+<th align="center"> Clicks </th>
+<th align="center"> Average Position </th>
+<th align="center"> CTR </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td align="left"> fear of rejection       </td>
+<td align="right"> 170 </td>
+<td align="center">  5  </td>
+<td align="center"> 68  </td>
+<td align="center"> 2.94% </td>
+</tr>
+<tr>
+<td></td>
+<td align="left"> market size             </td>
+<td align="right"> 170 </td>
+<td align="center">  5  </td>
+<td align="center"> 140 </td>
+<td align="center"> 2.94% </td>
+</tr>
+<tr>
+<td></td>
+<td align="left"> types of personalities  </td>
+<td align="right"> 70  </td>
+<td align="center">  5  </td>
+<td align="center"> 58  </td>
+<td align="center"> 7.14% </td>
+</tr>
+<tr>
+<td></td>
+<td align="left"> different personalities </td>
+<td align="right"> 500 </td>
+<td align="center">  16 </td>
+<td align="center"> 30  </td>
+<td align="center"> 3.20% </td>
+</tr>
+<tr>
+<td></td>
+<td align="left"> cross site scripting    </td>
+<td align="right"> 90  </td>
+<td align="center">  5  </td>
+<td align="center"> 210 </td>
+<td align="center"> 5.56% </td>
+</tr>
+<tr>
+<td></td>
+<td align="left"> different personality   </td>
+<td align="right"> 900 </td>
+<td align="center">  12 </td>
+<td align="center"> 45  </td>
+<td align="center"> 1.33% </td>
+</tr>
+<tr>
+<td></td>
+<td align="left"> types of personality    </td>
+<td align="right"> 60  </td>
+<td align="center">  5  </td>
+<td align="center"> 120 </td>
+<td align="center"> 8.33% </td>
+</tr>
+</tbody>
+</table>
+
+
 
 My site gets around 400 hits a day. I don't know if the same results would apply to a larger site.
 
