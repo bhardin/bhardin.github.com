@@ -6,11 +6,13 @@ layout: default
 	<div class="post-image">
 		<div class="post-header-fix">
 			<h1>{{ page.title }}</h1>
-		</div>	
+			<p class="date">Written on {{ page.date | date:"%B %d, %Y" }}</p>
+		</div>
 		<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
 	</div>
 	{% else %}
 		<h1>{{ page.title }}</h1>
+		<p class="date">Written on {{ page.date | date:"%B %d, %Y" }}</p>
 	{% endif %}
 
 	<div class="content">

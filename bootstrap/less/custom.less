@@ -49,7 +49,6 @@ h2 {
 	}
 }
 
-
 // Main Content
 .main-content {
 	h1 {
@@ -73,6 +72,10 @@ h2 {
 }
 
 .posts {
+	.dark-image-styling;
+}
+
+.dark-image-styling {
 	margin-left: auto;
 	margin-right: auto;
 
@@ -80,7 +83,7 @@ h2 {
 		position: absolute;
 		z-index: 99;
 		width: 100%;
-		background-color: rgba(0, 0, 0, 0.398438);
+		background-color: rgba(0, 0, 0, 0.6);
 		border-radius: 5px 5px 0 0;
 		text-shadow: black 1px 0 2px;
 		top: 0;
@@ -91,46 +94,33 @@ h2 {
 			color: white;	
 			margin-bottom: 10px;
 		}
+
+		.date {
+			.white;
+			padding-left: 10px;
+		}
 	}
 }
 
-/* This is the same code as above... need to refactor as a mixin */
 .post {
-	margin-left: auto;
-	margin-right: auto;
+	.dark-image-styling;
 
+	
 	img {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
 	}
 
+	/*
 	.post-footer {
 		margin-bottom: 20px;
 	}
-
-	.post-header-fix {
-		position: absolute;
-		z-index: 99;
-		width: 100%;
-		background-color: rgba(0, 0, 0, 0.398438);
-		border-radius: 5px 5px 0 0;
-		text-shadow: black 1px 0 2px;
-		top: 0;
-		left: 0;
-
-		h1 {
-			padding: 10px 20px;
-			color: white;	
-			margin-bottom: 0px;
-		}
-	}
+	*/
 }
 
 .post-image {
 	position: relative;
-	
-	/* width: 500px; */
 	
 	margin-top: 10px;
 	margin-bottom: 15px;
@@ -195,6 +185,10 @@ a:hover {
 
 .share_buttons {
 
+}
+
+.white {
+	color: white;
 }
 
 .side_bar {
@@ -344,10 +338,6 @@ a:hover {
 		padding: 0px 10px 0px;
 		border: 1px solid black;
 		font-size: 12px;
-	}
-
-	.white {
-		color: white;
 	}
 }
 */
