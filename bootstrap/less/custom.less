@@ -12,9 +12,9 @@
 @import "responsive.less";
 
 //Custom Variables
-@baseFontSize: 16px;
+@baseFontSize: 15px;
 @header_color: #18697B;
-@linkColor: @header_color;
+@linkColor: #469CB1;
 
 // Header & Navbar
 .nav {
@@ -39,7 +39,8 @@
 	}
 }
 
-/*
+
+// Main Content
 .main-content {
 	h1 {
 		font-family: 'Archivo Narrow', Helvetica, sans-serif;
@@ -57,35 +58,18 @@
 	}
 }
 
-
-
 .content{
 	text-align: justify;
 
+	/*
 	img {
 		width: 500px;
 	}
+	*/
 }
 
 li {
 	line-height: 25px;
-}
-
-blockquote {
-	p {
-		font-weight: 500;
-		color: #469CB1;
-	}
-}
-
-.container {
-	/* width: 640px; */
-
-	img {
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
-	}
 }
 
 .post {
@@ -94,7 +78,7 @@ blockquote {
 }
 
 .posts {
-	width: 500px;
+	/* width: 500px; */
 	margin-left: auto;
 	margin-right: auto;
 
@@ -119,7 +103,7 @@ blockquote {
 
 /* This is the same code as above... need to refactor as a mixin */
 #post {
-	width: 500px;
+	/* width: 500px; */
 	margin-left: auto;
 	margin-right: auto;
 
@@ -147,7 +131,9 @@ blockquote {
 
 .post-image {
 	position: relative;
-	width: 500px;
+	
+	/* width: 500px; */
+	
 	margin-top: 10px;
 	margin-bottom: 15px;
 
@@ -174,7 +160,9 @@ blockquote {
 .part-of-a-series {
 	padding: 10px 15px 8px 10px;
 	margin-bottom: 18px;
-	width: 470px;
+	
+	/* width: 470px; */
+
 	color: #C09853;
 
 	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
@@ -198,7 +186,7 @@ a:hover {
 
 .fixed {
   position: fixed;
-	width: 220px;
+	width: 300px;
 	top: 10px;
 }
 
@@ -308,6 +296,14 @@ a:hover {
 	.about-me {
 
 	}
+}
+
+// Footer
+
+.footer {
+	border-top: 1px solid #EEE;
+	padding-top: 10px;
+	margin: 10px 0 5px;
 }
 
 
