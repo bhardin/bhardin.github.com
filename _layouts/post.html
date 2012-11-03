@@ -2,6 +2,12 @@
 layout: default
 ---
 <div class="post">
+<div class="row">
+	<div class="span2">
+	{% include share_buttons.html %}
+	</div>
+	
+	<div class="span6">
 	{% if page.image %}
 	<div class="post-image">
 		<div class="post-header-fix">
@@ -35,4 +41,6 @@ layout: default
 	{% if page.image_credit %}
 			Image Credit: {{ page.image_credit }}
 	{% endif %}  
+</div> <!-- End of Span6 -->
+</div> <!-- End of Row -->
 </div><!-- End Post -->
