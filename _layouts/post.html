@@ -1,46 +1,38 @@
 ---
 layout: default
 ---
-<div class="row">
-	<div class="span1" style="padding-top: 10px;">
-		{% include share_buttons.html %}
+<div id="post">
+	{% if page.image %}
+	<div class="post-image">
+		<div class="post-header-fix">
+			<h1>{{ page.title }}</h1>
+		</div>	
+		<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+	</div>
+	{% else %}
+		<h1>{{ page.title }}</h1>
+	{% endif %}
+
+	<div class="content">
+	{{ content }}
 	</div>
 
-	<div class="span10">
-		<div id="post">
-			{% if page.image %}
-			<div class="post-image">
-				<div class="post-header-fix">
-		  		<h1>{{ page.title }}</h1>
-				</div>	
-				<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
-			</div>
-			{% else %}
-				<h1>{{ page.title }}</h1>
-			{% endif %}
+	<p>
+		<small>
+			Tags:
+			{% for tag in page.tags %}
+				<a href="/tags.html#{{ tag }}-ref" onclick="_gaq.push(['_trackEvent', 'clicked tag', '{{ tag }}', '{{ page.title }}']);"><span class="label notice">{{ tag }}</span></a>
+			{% endfor %}
+		</small>
+	</p>
 
-			<div class="content">
-		  {{ content }}
-			</div>
+	<hr/>
 
-			<p>
-				<small>
-					Tags:
-					{% for tag in page.tags %}
-						<a href="/tags.html#{{ tag }}-ref" onclick="_gaq.push(['_trackEvent', 'clicked tag', '{{ tag }}', '{{ page.title }}']);"><span class="label notice">{{ tag }}</span></a>
-					{% endfor %}
-				</small>
-			</p>
+	{% include me-footer.html %}
 
-			<hr/>
+	{% include disqus %}
 
-			{% include me-footer.html %}
-
-			{% include disqus %}
-
-			{% if page.image_credit %}
-					Image Credit: {{ page.image_credit }}
-			{% endif %}  
-		</div><!-- End Post -->
-	</div> <!-- End Span9 -->
-</div> <!-- End Row -->
+	{% if page.image_credit %}
+			Image Credit: {{ page.image_credit }}
+	{% endif %}  
+</div><!-- End Post -->
