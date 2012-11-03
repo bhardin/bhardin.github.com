@@ -6,7 +6,7 @@ layout: default
 	<div class="post-image">
 		<div class="post-header-fix">
 			<h1>{{ page.title }}</h1>
-			<p class="date">Written on {{ page.date | date:"%B %d, %Y" }}</p>
+			<small><p class="date-and-comment">Written on {{ page.date | date:"%B %d, %Y" }} - <a href="#disqus_thread">Comments</a></p></small>
 		</div>
 		<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
 	</div>
@@ -23,12 +23,10 @@ layout: default
 		<small>
 			Tags:
 			{% for tag in page.tags %}
-				<a href="/tags.html#{{ tag }}-ref" onclick="_gaq.push(['_trackEvent', 'clicked tag', '{{ tag }}', '{{ page.title }}']);"><span class="label notice">{{ tag }}</span></a>
+				<a href="/tags.html#{{ tag }}-ref" onclick="_gaq.push(['_trackEvent', 'clicked tag', '{{ tag }}', '{{ page.title }}']);"><span class="label label-warning">{{ tag }}</span></a>
 			{% endfor %}
 		</small>
 	</p>
-
-	<hr/>
 
 	{% include me-footer.html %}
 
