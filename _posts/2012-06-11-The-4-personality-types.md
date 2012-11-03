@@ -40,10 +40,13 @@ Most sitcoms and dramas have each of these personality types represented. With e
 Drivers are very strong personalities. Typically they have a go-get-it-done or whatever-it-takes personality. They can seem very dominant and are quick to take action. The negative is they can sometimes come across as stubborn or arrogant. Sometimes the personality type can come across as brash, running over others in order to get things accomplished.
 
 #### Examples
+
 Simpsons
+
 ![Bart Simpson](/assets/images/bart.png)
 
 Star Trek
+
 ![Captain Kirk](/assets/images/kirk.jpg)
 
 ### Analytical
@@ -51,9 +54,11 @@ Most people reading this blog post from Hacker News will fit with this personali
 
 #### Examples
 Simpsons
+
 ![Burns](/assets/images/burns.png)
 
 Star Trek
+
 ![Dr. Spock](/assets/images/spock.jpg)
 
 ### Expressive
@@ -61,9 +66,11 @@ Star Trek
 
 #### Examples
 Simpsons
+
 ![Homer](/assets/images/homer.png)
 
 Star Trek
+
 ![McCoy](/assets/images/mccoy.jpg)
 
 ###Amiable
@@ -71,9 +78,11 @@ The most calm, flat-type personality. Amiable types are laid back and are hard t
 
 #### Examples
 Simpsons
+
 ![Marge Simpson](/assets/images/marge.png)
 
 Star Trek
+
 ![chekov](/assets/images/chekov.jpg)
 
 ## Further Reading
