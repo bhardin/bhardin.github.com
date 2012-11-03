@@ -1013,7 +1013,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .main-content h1{font-family:'Archivo Narrow',Helvetica,sans-serif;line-height:44px;padding-top:25px;font-weight:400;}.main-content h1 a{color:black;}
 .main-content h2{font-family:'Dosis',Helvetica,sans-serif;font-weight:400;}
 .content{text-align:justify;}
-.posts{margin-left:auto;margin-right:auto;}.posts .post-header-fix{position:absolute;z-index:99;width:100%;background-color:rgba(0, 0, 0, 0.398438);border-radius:5px 5px 0 0;text-shadow:black 1px 0 2px;top:0;left:0;}.posts .post-header-fix h1{padding:10px 20px;color:white;margin-bottom:0px;}
+.posts{margin-left:auto;margin-right:auto;}.posts .post-header-fix{position:absolute;z-index:99;width:100%;background-color:rgba(0, 0, 0, 0.398438);border-radius:5px 5px 0 0;text-shadow:black 1px 0 2px;top:0;left:0;}.posts .post-header-fix h1{padding:0px 10px;color:white;margin-bottom:10px;}
 .post{margin-left:auto;margin-right:auto;}.post img{display:block;margin-left:auto;margin-right:auto;}
 .post .post-footer{margin-bottom:20px;}
 .post .post-header-fix{position:absolute;z-index:99;width:100%;background-color:rgba(0, 0, 0, 0.398438);border-radius:5px 5px 0 0;text-shadow:black 1px 0 2px;top:0;left:0;}.post .post-header-fix h1{padding:10px 20px;color:white;margin-bottom:0px;}
