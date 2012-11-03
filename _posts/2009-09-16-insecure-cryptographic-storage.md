@@ -9,7 +9,7 @@ type: post
 ---
 {% include top10.md %}
 
-### What is Insecure Cryptographic Storage
+## What is Insecure Cryptographic Storage
 Insecure cryptographic storage occurs when an application doesn't securely encrypt it's sensitive data when it is stored into a database. This definition is similar to the picture above, recursive.
 
 Simply stated, insecure cryptographic storage occurs when one of following happens:
@@ -22,15 +22,35 @@ If you think you are smart enough to write your own cryptographic algorithms, yo
 
 The main business concern with not encrypting sensitive data is that it can lead to confidentiality loss. All companies are concerned with unauthorized individuals viewing their sensitive data. In addition, encrypting sensitive data is be a regulatory compliance. [PCI-DSS requirement 3](https://www.pcisecuritystandards.org/security_standards/index.php).
 
-### An Example of Insecure Cryptographic Storage
+## An Example of Insecure Cryptographic Storage
 Here is a simplified example. Selecting the users table from a database we are returned the following:
 
 	> select * from users;
 
-| id | username | password |
-|:-----------|:------------|:------------|
-| 1 | Brett | 5f4dcc3b5aa765d61d8327deb882cf99 |
-| 2 | Dan | 3c3662bcb661d6de679c636744c66b62 |
+<table class="table">
+<thead>
+<tr>
+<th></th>
+<th align="left"> id </th>
+<th align="left"> username </th>
+<th align="left"> password </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td align="left"> 1 </td>
+<td align="left"> Brett </td>
+<td align="left"> 5f4dcc3b5aa765d61d8327deb882cf99</td>
+</tr>
+<tr>
+<td></td>
+<td align="left"> 2 </td>
+<td align="left"> Dan </td>
+<td align="left"> 3c3662bcb661d6de679c636744c66b62</td>
+</tr>
+</tbody>
+</table>
 
 The passwords in these table are 32 characters long. Could these passwords be MD5 hashes?
 
@@ -38,7 +58,7 @@ As with all hashing algorithms, MD5 hashes can't be reversed. However, they can 
 
 After inserting _5f4dcc3b5aa765d61d8327deb882cf99_ into the hash table lookup the resulting password is returned. In this example, the password is "password."
 
-### How Do You Prevent Insecure Cryptographic Storage From Occurring
+## How Do You Prevent Insecure Cryptographic Storage From Occurring
 If the data is sensitive and stored it NEEDS to be encrypted. Examples of items that are considered to be sensitive can include:
 *	Credit Cards
 *	Usernames
