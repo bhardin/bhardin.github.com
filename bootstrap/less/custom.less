@@ -72,23 +72,21 @@ h2 {
 	text-align: justify;
 }
 
-.posts {
+.post-main-page {
 	.dark-image-styling;
 }
 
-.dark-image-styling {
+.post {
+	.dark-image-styling;
+}
+
+.dark-image-styling(@margin-left: 20px, @width: 500px) {
 	margin-left: auto;
 	margin-right: auto;
 
 	.post-header-fix {
+		
 		width: 100%;
-
-		/* This is only added in, if the width is greater than the image */
-		margin-left: 20px;
-		width: 500px;
-		/* Remove this if the width is < 500 pixes */
-
-
 		position: absolute;
 		z-index: 99;
 		
@@ -115,28 +113,18 @@ h2 {
 	}
 }
 
-.post {
-	.dark-image-styling;
-
-	
-	img {
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
-	}
-
-	/*
-	.post-footer {
-		margin-bottom: 20px;
-	}
-	*/
-}
-
 .post-image {
 	position: relative;
+
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
 	
 	margin-top: 10px;
 	margin-bottom: 15px;
+	width: 500px;
 
 	img {
 		positiion: absolute;
