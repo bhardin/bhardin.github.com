@@ -7,11 +7,10 @@ layout: page
 	{% if post.image %}
 	<div class="post-image">
 		<a href="{{ post.url }}">
-		<div class="post-header-fix">
-  		<h1>{{ post.title }}</h1>
-		</div>	
-
-		<img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}">
+			<div class="post-header-fix">
+	  		<h1>{{ post.title }}</h1>
+			</div>
+			<img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}" />
 		</a>
 	</div>
 	{% else %}
