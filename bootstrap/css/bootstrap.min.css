@@ -840,7 +840,7 @@ h2{font-size:26px;margin-bottom:1px;}
 .page-header p{font-weight:lighter;color:#000000;}
 .main-content h1{font-family:'Archivo Narrow',Helvetica,sans-serif;line-height:44px;padding-top:25px;font-weight:400;}.main-content h1 a{color:black;}
 .main-content h2{font-family:'Dosis',Helvetica,sans-serif;font-weight:400;}
-.content{text-align:justify;}
+.content{text-align:justify;}.content img{display:block;margin-left:auto;margin-right:auto;}
 .post-main-page{margin-left:auto;margin-right:auto;}.post-main-page .post-header-fix{width:100%;position:absolute;z-index:99;background-color:rgba(0, 0, 0, 0.6);border-radius:5px 5px 0 0;text-shadow:black 1px 0 2px;top:0;left:0;}.post-main-page .post-header-fix h1{padding:0px 10px;color:white;margin-bottom:10px;}
 .post-main-page .post-header-fix .date-and-comment{color:white;padding-left:10px;}.post-main-page .post-header-fix .date-and-comment a{color:white;}
 .post{margin-left:auto;margin-right:auto;}.post .post-header-fix{width:100%;position:absolute;z-index:99;background-color:rgba(0, 0, 0, 0.6);border-radius:5px 5px 0 0;text-shadow:black 1px 0 2px;top:0;left:0;}.post .post-header-fix h1{padding:0px 10px;color:white;margin-bottom:10px;}
