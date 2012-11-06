@@ -18,9 +18,9 @@ You use `brew install gsl` and then attempt to install the gem `gem install gsl`
 
 __BORKED!!!__
 
-What gives? Well, clearly the gem [isn't compatible with latest version of GSL, 1.15]((http://rubyforge.org/tracker/index.php?func=detail&aid=29508&group_id=285&atid=1167)), duh!
+What gives? Well, clearly the gem [isn't compatible with latest version of GSL, 1.15][1], duh! But, how do I install and old version of GSL?
 
-But, how do I install and old version of GSL?
+[1]: http://rubyforge.org/tracker/index.php?func=detail&aid=29508&group_id=285&atid=1167
 
 Welcome to Hacking Brew
 -----------------------
