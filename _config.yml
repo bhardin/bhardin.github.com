@@ -4,3 +4,4 @@ permalink: /:categories/:year/:month/:title/
 markdown: rdiscount
 paginate: 3
 feed: http://feeds.feedburner.com/bretthardin
+subscribers: "81"
