@@ -1,15 +1,7 @@
 ---
 layout: post
 title: Focusing On What Your Good At
-tags:
-- general thoughts
-- security basics
-- vulnerabilities
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+tags: [general thoughts, life]
 image: http://farm1.staticflickr.com/130/418180402_d5fb8a8713.jpg
 image_credit: Shonk
 ---
