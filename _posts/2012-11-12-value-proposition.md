@@ -4,7 +4,7 @@ title: "Value Proposition"
 image: http://farm3.staticflickr.com/2069/2187900425_cecdc1a5dc.jpg
 image_credit: Balaji.B
 category: 
-tags: [lean, startups]
+tags: [lean, startups, marketing]
 meta_description: A value proposition states the pain you are solving or the gain potential customers receive when using your product.
 ---
 
