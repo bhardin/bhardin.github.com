@@ -92,4 +92,5 @@ If you want to know more about how to effectively communicate with each personal
 
 * [Personality Plus](http://www.amazon.com/gp/product/080075445X/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=080075445X)
 * [Dancing with Porcupines](http://www.amazon.com/gp/product/0830713336/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0830713336)
+* [Other Books I reccommend](/books)
 
