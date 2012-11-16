@@ -21,7 +21,7 @@ layout: nil
    <link href="http://bretthard.in{{ post.url }}"/>
    <id>http://bretthard.in{{ post.id }}</id>
    <content type="html">
-   	{{ post.content | strip_html | truncatewords: 50 }}
+   	{{ post.content | strip_html }}
    </content>
  </entry>
  {% endfor %}
