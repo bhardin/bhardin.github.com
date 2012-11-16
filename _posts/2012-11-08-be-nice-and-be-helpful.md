@@ -30,4 +30,4 @@ I'm motivated to help others to make them happy. Do the same.
 Help others in order to make them happy. Make people smile. When seeing someone hurting or in pain, see how you can help. If we all help each other, without trying to get something out of it, we can achieve great things. The world, and humanity, is very selfish. Be contrary to what the rest of the world does. Go against the grain. Be nice and be helpful.
 
 [1]: http://www.elephantjournal.com/2011/08/be-the-change-you-wish-to-see-in-the-world-not-gandhi/
-[2]: "Why I write"
+[2]: {% post_url 2012-10-23-writing-about-what-i-learn %} "Why I write"

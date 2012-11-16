@@ -8,7 +8,7 @@ tags: [startups, design, buzzwords, tech]
 meta_description: What do data scientists and designers do and how do I find one for my startup.
 ---
 
-A often ask founders is, "What type of people are you looking to hire?" The answer is always either a designer or a data scientist.
+I often ask founders, "What type of people are you looking to hire?" The answer is always either a designer or a data scientist.
 
 If the company says a designer then the current product, in the mind of the founders, isn't working because the look and feel is bad. If the company says a data scientist they are looking for a way to make useful information from their data.
 
