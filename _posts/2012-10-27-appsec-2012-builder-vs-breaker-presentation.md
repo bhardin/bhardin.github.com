@@ -14,7 +14,8 @@ Builders and Breakers don't understand one another. Rather than finding a way to
 <script async class="speakerdeck-embed" data-id="508c069361e4780002031671" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Video
-Coming soon.
+
+<iframe src="http://player.vimeo.com/video/54121246" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 ## Design Notes
 
