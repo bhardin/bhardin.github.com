@@ -43,8 +43,6 @@ Amazon was still generating revenue and attempting everything to get to profitab
 
 Stop wasting time and resources, get to profitability as fast as possible.
 
-UV4NK89UBMAC
-
 [1]: http://www.quicksprout.com/about/ "Neil Patel Bio"
 [2]: http://en.wikipedia.org/wiki/Amazon.com
 [3]: /2012/08/raising-a-seed-round-a-step-by-step-guide/
