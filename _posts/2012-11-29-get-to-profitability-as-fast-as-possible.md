@@ -30,7 +30,7 @@ Once your business starts making money you have time to seek out the investors y
 
 Atlassian raised money after bootstrapping to profitability. Atlassian emailed venture capitalists with an outline of the terms they wanted. Many of the venture capitalists responded to them, however, Accel was the only one that read the email and responded the way Atalassian wanted.
 
-_Note: I heard this on a podcast, but I can't remember where I heard this. If you know which podcast it was, please let me know._
+_Note: I heard the Atlassian email story on a podcast, but I can't remember where I heard this. If you know which podcast it was, please let me know._
 
 ## Companies Are Supposed To Generate Profit
 When you are building a startup you are juggling a ton of things. You may be focused on user acquisition, [financing][3], product development, customer support, hiring, [blogging][4], customer development, marketing or [sales][5]. It is easy to forget the purpose of a company. The purpose of any company is to generate revenue. More importantly, __a company is supposed to generate profit__. The cash you receive is called capital, not money, because you are supposed to create money from the capital.
