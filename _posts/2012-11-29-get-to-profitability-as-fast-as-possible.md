@@ -8,6 +8,8 @@ tags: [startups, revenue]
 meta_description: 
 ---
 
+UV4NK89UBMAC
+
 Once you raise money a clock starts. When the clock runs out of time you have no money left and need to shutdown the business. The clock can be extended by increasing revenue, decreasing expenses, or by raising additional financing. It's in the best interest of the company if you get the company to profitability quickly. Once your profitable, the clock reverses and begins to run the other way.
 
 There has been a shift recently with how startup companies are ran. The _old school_ way of thinking was to build a sustainable business. A sustainable business grows organically. If a business runs out of money then it stops operating. Venture capitalists came into the picture to to _bridge_ the company until profitability. Early venture capitalists wanted sustainable businesses because it meant better exits.
