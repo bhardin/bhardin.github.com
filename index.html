@@ -2,31 +2,39 @@
 layout: page_with_subscribe_bar
 ---
 <div class="posts">
-{% for post in paginator.posts %}
-<div class="post-main-page">
-	{% if post.image %}
-	<div class="post-image">
-		<a href="{{ post.url }}">
-			<div class="post-header-fix">
-	  		<h1>{{ post.title }}</h1>
+	{% for post in paginator.posts %}
+		<div class="row">
+			<div class="span1">
+				<div class="date">
+				{{ post.date | date:"%m/%d/%y" }}
+				</div>
 			</div>
-			<img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}" />
-		</a>
-	</div>
-	{% else %}
-		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-	{% endif %}
 
-	<div class="content">
-		{{ post.content }}
-	</div>
+			<div class="span7">
+				<div class="post-main-page">
+					{% if post.image %}
+					<div class="post-image">
+						<a href="{{ post.url }}">
+							<div class="post-header-fix">
+					  		<h1>{{ post.title }}</h1>
+							</div>
+							<img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}" />
+						</a>
+					</div>
+					{% else %}
+						<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+					{% endif %}
 
-	{% include me-footer.html %}
-</div>
+					<div class="content">
+						{{ post.content }}
+					</div>
 
-<hr/>
-
-{% endfor %}
+					{% include me-footer.html %}
+				</div> <!-- End Post-Main-Page -->
+				<hr/>
+			</div>
+		</div> <!-- End Row Class -->
+	{% endfor %}
 </div>
 
 <!-- Pagination links -->

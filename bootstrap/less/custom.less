@@ -16,7 +16,7 @@
 //Custom Variables
 @baseFontSize: 16px;
 @baseLineHeight: 25px;
-@header_color: #18697B;
+@header_color: #469CB1;
 @linkColor: #469CB1;
 
 // General Format
@@ -84,10 +84,29 @@ h2 {
 
 .post-main-page {
 	.dark-image-styling;
+
+	.post-header-fix {
+		h1 {
+			margin: 2px 0 5px 0;
+		}
+	}
 }
 
 .post {
 	.dark-image-styling;
+
+	.post-header-fix {
+		h1 {
+			margin: 3px 0 3px 0;
+		}
+	}
+}
+
+.date {
+	font-size: 25px; 
+	color: @linkColor; 
+	font-family: 'oswald'; 
+	margin-top: 20px;
 }
 
 .dark-image-styling(@margin-left: 20px, @width: 500px) {
@@ -108,13 +127,13 @@ h2 {
 
 		h1 {
 			padding: 0px 10px;
-			color: white;	
-			margin-bottom: 10px;
+			color: white;
 		}
 
 		.date-and-comment {
 			.white;
 			padding-left: 10px;
+			margin-bottom: 3px;
 
 			a {
 				.white;
