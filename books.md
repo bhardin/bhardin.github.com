@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_with_subscribe_bar
 title: Books I suggest reading
 ---
 
