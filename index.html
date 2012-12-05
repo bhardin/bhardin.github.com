@@ -6,7 +6,8 @@ layout: page_with_subscribe_bar
 		<div class="row">
 			<div class="span1">
 				<div class="date">
-				{{ post.date | date:"%m/%d/%y" }}
+				<div>{{ post.date | date:"%b %d" }}</div>
+				<div>{{ post.date | date:"%Y" }}</div>
 				</div>
 			</div>
 
