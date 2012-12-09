@@ -7,7 +7,7 @@ meta_description:
 
 Companies are building their applications on reusable code. Third-party libraries make up the bulk of a companies code base and is the foundation of the application. 
 
-However, when companies look for vulnerabilities in their applications they only look at their custom code, which makes up a very small percentage of application. When conducting security audits and code revies, companies need to look at the available updates to their third-party code. This presentation outlines the three principles that companies need to understand and adopt in order to overcome the abundance of code that is not currently being monitored for security flaws.
+However, when companies look for vulnerabilities in their applications they only look at their custom code, which makes up a very small percentage of application. When conducting security audits and code reviews, companies need to look at the available updates to their third-party code. This presentation outlines the three principles that companies need to understand and adopt in order to overcome the abundance of code that is not currently being monitored for security flaws.
 
 The presentation uses the parable of the man building his house on sand instead of rock. When the bad comes, the foolish man who built his house (or application) on sand crashes to the ground.
 
