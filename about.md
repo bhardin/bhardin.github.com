@@ -14,10 +14,12 @@ Fun First!
 
 Presentations & Publications
 --------------------
-* [Security Bsides SF 2012 - Security: The Wrong Way](http://www.brighttalk.com/webcast/7651/44289)
-* Security BSides SF 2011
+* [BayThreat 2012 - Building Your House on Sand](/2012/12/building-your-house-on-sand/)
+* [AppSec 2012 - Builders vs. Breakers](/2012/10/appsec-2012-builder-vs-breaker-presentation/)
+* [BsidesSF 2012 - Security: The Wrong Way](/2012/02/security-the-wrong-way/)
+* [BsidesSF 2011 - Your Alone. Enjoy It.](/2011/02/youre-alone-enjoy-it/)
 * [Hacking: The Next Generationn](http://www.amazon.com/gp/product/0596154577/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596154577)
-* [Security BsidesSF 2010 - Security? Who Cares!](/2010/03/no-one-cares-about-security/)
+* [BsidesSF 2010 - Security? Who Cares!](/2010/03/no-one-cares-about-security/)
 
 Patents
 --------
