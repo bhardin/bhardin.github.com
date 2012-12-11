@@ -4,7 +4,7 @@ title: "The Security and Developer Passion Dilema"
 image: http://farm3.staticflickr.com/2192/2058198168_fac0e21ee1.jpg
 image_credit: Orangeya
 category: 
-tags: [security, infosec, developers]
+tags: [infosec, developers]
 meta_description: 
 ---
 I get nauseous when thinking about developing a security process at a large company again. It has nothing to do with creating an awesome process which is easy to follow and will benefit the company, developers, security researchers, and the shareholders.

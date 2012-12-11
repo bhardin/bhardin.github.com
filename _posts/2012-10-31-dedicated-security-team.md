@@ -4,7 +4,7 @@ title: "A Dedicated Security Team"
 image: http://farm1.staticflickr.com/114/264806933_f68e9632ea.jpg
 image_credit: Paulgi
 category:
-tags: [security, culture, large organizations, happiness, developers]
+tags: [infosec, culture, large organizations, happiness, developers]
 meta_description: Hiring a dedicated security team is a need for many organizations. Security people need to ask the following questions to evaluate this opportunity.
 ---
 

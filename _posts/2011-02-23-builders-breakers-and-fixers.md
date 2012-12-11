@@ -1,13 +1,7 @@
 ---
 layout: post
 title: Builders, Breakers, and Fixers
-tags:
-- general thoughts
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+tags: [general thoughts, change, infosec]
 ---
 Currently the Information Security industry is going through an interesting time.
 

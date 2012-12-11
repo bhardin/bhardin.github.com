@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Your House on Sand"
-tags: [presentation, open source, security, slides]
+tags: [presentation, open source, infosec, slides]
 meta_description: 
 ---
 

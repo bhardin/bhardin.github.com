@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Security the Wrong Way"
-tags: [presentation, security, slides, infosec]
+tags: [presentation, infosec, slides, infosec]
 meta_description: 
 ---
 

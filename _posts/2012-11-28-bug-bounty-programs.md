@@ -4,7 +4,7 @@ title: "Bug Bounty Programs"
 image: http://farm4.staticflickr.com/3515/3942045952_0cbebeede1.jpg
 image_credit: Jillian Stewart
 category: 
-tags: [vulnerabilities, security, infosec]
+tags: [vulnerabilities, infosec, bugs]
 meta_description: 
 ---
 

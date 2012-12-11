@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You're Alone. Enjoy It."
-tags: [presentation, security, slides]
+tags: [presentation, infosec, slides]
 meta_description: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being Sneaky About Security Regulations"
-tags: [presentation, compliance, security, slides]
+tags: [presentation, compliance, infosec, slides]
 meta_description: 
 ---
 

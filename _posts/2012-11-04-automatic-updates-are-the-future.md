@@ -4,7 +4,7 @@ title: "Automatic Updates Are The Future"
 image: http://farm6.staticflickr.com/5049/5346013882_1622484340.jpg
 image_credit: Malenkov in Exile
 category: 
-tags: [security, general thoughts, tech]
+tags: [infosec, general thoughts, tech]
 meta_description: 
 ---
 
