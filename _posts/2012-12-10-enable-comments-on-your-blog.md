@@ -42,11 +42,11 @@ I love seeing Disqus on blogs. I'm more likely to post a comment because I know 
 
 I don't want to create credentials for a website or give personal information before I can comment. Although, these methods have been created to deter spam, they increase my barrier to comment on your thoughts, since I don't know if I'm going to contribute to your site more than once.
 
-Disqus has established an identity for commenters. The person's identity travels from site to site. This is a better way of decreasing spam while also decreasing the barrier to entry for comment.
+Disqus has established an identity for commenter's. The person's identity travels from site to site. This is a better way of decreasing spam while also decreasing the barrier to entry for comment.
 
 With Disqus, I can post a comment on one site and then be alerted to a response while reading content on another site. If I decide to comment on a new post, I'm already [logged in][7]. Disqus has created a central place to manage my responses across all the communities I participate in.
 
-When I first started seeing Disqus on blogs, I was pessimistic. I couldn't see the value of hosting comments through a third-party from an [SEO perspective][8]. Affter using Disqus though, I have changed my mind on the value of their service.
+When I first started seeing Disqus on blogs, I was pessimistic. I couldn't see the value of hosting comments through a third-party from an [SEO perspective][8]. After using Disqus though, I have changed my mind on the value of their service.
 
 The Internet allows us to write content and share it with others. Books have been published for thousands of years using this method. An author writes content, gets the content published, and distributes it to an audience. 
 
