@@ -28,7 +28,7 @@ Chrome has [already][4] granted developers system-level access which can be used
 
 But this isn't all. Google gives [a few other examples][4] of things developers can interact with, including shells like VMWare, Citrix, SSH, RDP, or VNC clients. Does this scare anyone else?
 
-My only solstice is that Google hasn't given the ability to publish these applications:
+My only solace is that Google hasn't given the ability to publish these applications:
 
 > Packaged apps are still evolving. We're giving you an early look at how to build them, but it's a developer preview; they aren't ready yet for building production applications.
 > This means that you can't just yet publish your packaged apps in the Chrome Web Store - __but you will be able to do so very soon.__
