@@ -1,9 +1,7 @@
 ---
-layout: page_with_subscribe_bar
+layout: page
 title: Brett Hardin's Presentations
 ---
-
-# Talks
 
 ## 2012
 * [Building Your House on Sand](/2012/12/building-your-house-on-sand/)
