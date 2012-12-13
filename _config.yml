@@ -4,4 +4,4 @@ permalink: /:categories/:year/:month/:title/
 markdown: rdiscount
 paginate: 3
 feed: http://feeds.bretthard.in/bretthardin
-subscribers: "114"
+subscribers: "115"
