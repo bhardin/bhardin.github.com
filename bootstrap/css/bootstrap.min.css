@@ -835,7 +835,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
 h2{font-size:26px;margin-bottom:1px;}
-.nav{float:right;margin-bottom:0px;}.nav a{color:#469cb1;}
+.nav{font-family:'Oswald';float:right;margin-bottom:0px;}.nav a{color:#469cb1;}
 .page-header{letter-spacing:1.2px;margin-top:0px;margin-bottom:25px;}.page-header h1,.page-header a{font-size:35px;color:#469cb1;margin:0px 0px 0px;}
 .page-header p{font-weight:lighter;color:#1b3b43;}
 .main-content{}.main-content h1{font-family:'Archivo Narrow',Helvetica,sans-serif;line-height:44px;padding-top:25px;font-weight:400;font-size:35px;}.main-content h1 a{color:black;}
