@@ -118,7 +118,13 @@ h2 {
 	color: @linkColor; 
 	font-family: 'oswald', Helvetica, sans-serif; 
 	margin-top: 10px;
-	text-align: right;
+	text-align: center;
+
+	.opposite-color {
+		color: white; 
+		background-color: @linkColor; 
+		padding: 1px 0px 1px 0px;
+	}
 }
 
 .dark-image-styling(@margin-left: 20px, @width: 500px) {
