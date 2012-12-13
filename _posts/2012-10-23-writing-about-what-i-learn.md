@@ -4,7 +4,7 @@ title: "Writing About What I Learn"
 image: http://farm9.staticflickr.com/8161/7848802162_19cf82a13f.jpg
 image_credit: msabba
 category: 
-tags: [blogging, life, general thoughts]
+tags: [blogging, life, writing, learning]
 meta_description: Why I write about everything I learn.
 ---
 The following Russian expression guides my learning.

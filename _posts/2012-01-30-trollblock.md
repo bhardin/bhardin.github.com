@@ -4,7 +4,7 @@ title: "TrollBlock.com"
 category:
 image: http://farm4.staticflickr.com/3104/2788648775_48c7ec9e08.jpg
 image_credit: kevin dooley
-tags: [general thoughts, startups]
+tags: [startups]
 ---
 I just came back from Startup Weekend San Jose. This is my second startup weekend that I attended and just like last time the event was amazing.
 

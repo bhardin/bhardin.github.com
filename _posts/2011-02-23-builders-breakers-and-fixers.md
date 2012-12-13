@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Builders, Breakers, and Fixers
-tags: [general thoughts, change, infosec]
+tags: [change, infosec]
 image: http://farm4.staticflickr.com/3616/3312115991_cc2a483d06.jpg
 image_credit: JanneM
 ---

@@ -4,7 +4,7 @@ title: "Thoughts on Spotify"
 image: http://farm4.staticflickr.com/3031/2886860917_4d34c0db73.jpg
 image_credit: kelvin255
 category: 
-tags: [general thoughts, tech, product reviews]
+tags: [tech, product reviews]
 meta_description: Spotify is a streaming music service. This article talks about pro's and con's of the service.
 ---
 If you haven't heard of Spotify yet, stop reading this, and go download it. Spotify is a service which allows you to listen to any song, right now. Instead of downloading music, everything streams, just like YouTube. The product restriction is you don't have the ability to burn the music to a CD, or download it to a device. Spotify gets around this problem through subscriptions. For $10/month you can get access to all the music from your smartphone, thus circumventing the need to store the music. However, this is only valuable if the device you want to listen to music on has access to the internet.

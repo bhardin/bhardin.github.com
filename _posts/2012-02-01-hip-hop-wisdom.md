@@ -4,7 +4,7 @@ title: Hip Hop Entrepreneurship
 image: http://farm6.staticflickr.com/5209/5369646057_466f889213.jpg
 image_credit: Pedro Vezini
 category: 
-tags: [general thoughts]
+tags: [music, startups]
 ---
 It's hard to listen to hip hop without hearing it's entrepreneurial spirit. More than any other musical type, hip-hop is all about marketing and business.
 
