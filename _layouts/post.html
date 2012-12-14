@@ -26,22 +26,21 @@ layout: page_with_subscribe_bar
 	{{ content }}
 	</div>
 
-	<p>
-		<small>
-			Tags:
-			{% for tag in page.tags %}
-				<a href="/tags.html#{{ tag }}-ref" onclick="_gaq.push(['_trackEvent', 'clicked tag', '{{ tag }}', '{{ page.title }}']);"><span class="label label-warning">{{ tag }}</span></a>
-			{% endfor %}
-		</small>
-	</p>
+	<p><small>
+		Tags:
+		{% for tag in page.tags %}
+			<a href="/tags.html#{{ tag }}-ref" onclick="_gaq.push(['_trackEvent', 'clicked tag', '{{ tag }}', '{{ page.title }}']);"><span class="label label-warning">{{ tag }}</span></a>
+		{% endfor %}
+	
+		{% if page.image_credit %}
+			<br/>Image Credit: {{ page.image_credit }}
+		{% endif %}
+	</small></p>
 
 	{% include me-footer.html %}
 
 	{% include disqus %}
-
-	{% if page.image_credit %}
-			Image Credit: {{ page.image_credit }}
-	{% endif %}  
+	
 </div> <!-- End of Span6 -->
 </div> <!-- End of Row -->
 </div><!-- End Post -->
