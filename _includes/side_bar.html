@@ -1,32 +1,33 @@
 <div class="side_bar">
-<p>Take action! Change yourself and start constantly learning.</p>
-<!-- Subscribe via Email -->
-<div style="margin-bottom: 55px">
-<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=bretthardin', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-	<p><input type="text" placeholder="Subscribe via Email" name="email"/></p>
-	<input type="hidden" value="bretthardin" name="uri"/>
-	<input type="hidden" name="loc" value="en_US"/>
-	<input type="submit" class="btn" style="float: right;" value="Subscribe" onclick="_gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Side Bar']);" />
-</form>
-</div>
-<hr/>
+	<p>Take action! Change yourself and start constantly learning.</p>
+	<!-- Subscribe via Email -->
+	<div style="margin-bottom: 55px">
+	<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=bretthardin', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+		<p><input type="text" placeholder="Subscribe via Email" name="email"/></p>
+		<input type="hidden" value="bretthardin" name="uri"/>
+		<input type="hidden" name="loc" value="en_US"/>
+		<input type="submit" class="btn" style="float: right;" value="Subscribe" onclick="_gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Side Bar']);" />
+	</form>
+	</div>
+	<hr/>
 
-	<!-- 
-	Subscribe with RSS
-	-->
-<ul>
-	<li><a class="rss" target="_blank" href="{{ site.feed }}" rel="alternate" type="application/rss+xml"><i></i>Subscribe with RSS</a><a class="rss-count arrow-box" onclick="_gaq.push(['_trackEvent', 'Subscribe', 'RSS', 'Side Bar']);" target="_blank" href="{{ site.feed }}" rel="alternate" type="application/rss+xml">{{ site.subscribers }} subscribers</a></li>
+		<!-- 
+		Subscribe with RSS
+		-->
+	<ul>
+		<li><a class="rss" target="_blank" href="{{ site.feed }}" rel="alternate" type="application/rss+xml"><i></i>Subscribe with RSS</a><a class="rss-count arrow-box" onclick="_gaq.push(['_trackEvent', 'Subscribe', 'RSS', 'Side Bar']);" target="_blank" href="{{ site.feed }}" rel="alternate" type="application/rss+xml">{{ site.subscribers }} subscribers</a></li>
 
-	<!-- Twitter -->
-	<li><a onclick="_gaq.push(['_trackEvent', 'Subscribe', 'Twitter', 'Side Bar']);" href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="true">Follow @miscsecurity</a></li>
-	<!-- 
-	Facebook Subscribe
-	-->
-	<li>
-	<iframe src="//www.facebook.com/plugins/subscribe.php?href=https%3A%2F%2Fwww.facebook.com%2Fhardin.brett&amp;layout=button_count&amp;show_faces=true&amp;colorscheme=light&amp;font&amp;width=220&amp;appId=408184379218327" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:220px; height: 30px;" allowTransparency="true"></iframe>
-	</li>
-</ul>
+		<!-- Twitter -->
+		<li><a onclick="_gaq.push(['_trackEvent', 'Subscribe', 'Twitter', 'Side Bar']);" href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="true">Follow @miscsecurity</a></li>
+		<!-- 
+		Facebook Subscribe
+		-->
+		<li>
+		<iframe src="//www.facebook.com/plugins/subscribe.php?href=https%3A%2F%2Fwww.facebook.com%2Fhardin.brett&amp;layout=button_count&amp;show_faces=true&amp;colorscheme=light&amp;font&amp;width=220&amp;appId=408184379218327" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:220px; height: 30px;" allowTransparency="true"></iframe>
+		</li>
+	</ul>
 
+	
 	<h2>Popular Articles</h2>
 	<div class="trending_content">
 		{% include trending_content.html %}
