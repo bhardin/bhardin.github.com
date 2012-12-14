@@ -867,6 +867,7 @@ a:hover{text-decoration:none;}
 .post-footer{padding:5px 15px 0px 15px;margin:5px 0px 10px 0px;text-align:justify;color:#3A87AD;background-color:#D9EDF7;text-shadow:0 1px 0 rgba(255, 255, 255, 0.5);border:1px solid #BCE8F1;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}.post-footer a{color:blue;}
 .post-footer .avatar{float:left;margin:12px 15px 0 4px;}
 .footer{border-top:1px solid #EEE;padding-top:10px;margin:10px 0 5px;}
+#disqus_thread{margin-top:15px;}
 .tag_box{list-style:none;margin:0;padding:5px 0 ;overflow:hidden;}
 .tag_box li{line-height:28px;}
 .tag_box.inline li{float:left;}
