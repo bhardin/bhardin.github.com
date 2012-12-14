@@ -27,5 +27,7 @@ meta_description:
 * Typefaces: [Segoe UI](http://www.microsoft.com/typography/fonts/family.aspx?FID=331), Bodoni, Arial
 * Software: [Google Docs](https://docs.google.com)
 
+## External References
 
+* [Tripwire Blog](http://www.tripwire.com/state-of-security/off-topic/infosec-conference-hub-in-san-francisco-rsa-bsides-metricon-agc/)
 
