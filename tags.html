@@ -1,15 +1,20 @@
 ---
-layout: page
+layout: page_with_subscribe_bar
 title: Topics
 ---
 {% include JB/setup %}
 
-<ul class="tag_box inline">
-  {% assign tags_list = site.tags %}  
-  {% include JB/tags_list %}
-</ul>
+<div class="row">
+	
+<div class="span3">
+	<h2>Topics</h2>
+	<ul class="tag_box">
+	  {% assign tags_list = site.tags %}  
+	  {% include JB/tags_list %}
+	</ul>
+</div>
 
-
+<div class="span5">
 {% for tag in site.tags %} 
   <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
   <ul>
@@ -17,3 +22,6 @@ title: Topics
     {% include JB/pages_list %}
   </ul>
 {% endfor %}
+</div>
+
+</div>

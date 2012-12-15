@@ -5,3 +5,4 @@ markdown: rdiscount
 paginate: 10
 feed: http://feeds.bretthard.in/bretthardin
 subscribers: "115"
+tags_path: /tags.html
