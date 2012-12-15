@@ -2,7 +2,7 @@
 layout: post
 title: Understanding Cross-Site Scripting (XSS)
 tags: [vulnerabilities, owasp]
-series: Owasp Top 10
+series: the Owasp Top 10
 image: http://farm3.static.flickr.com/2557/3671317489_b797daaf22.jpg
 image_credit: Urban Woodswalker
 ---
@@ -23,7 +23,7 @@ Basically, There are 3 types of Cross-Site Scripting:
 
 All of these names make it confusing for a first timer to understand XSS. There really should be a better web application security standards organization. Here is a breakdown of Persistent XSS and Reflective XSS. These are the big two that most people talk about when they are referring to Cross Site Scripting. If you understand these well, you will be able to participate in 90% of XSS conversations.
 
-### Persistent Cross-Site Scripting
+## Persistent Cross-Site Scripting
 
 Persistent XSS is arguably more dangerous than reflective XSS. This attack embeds the malicious script permanently into the web application. The script will then wait until people access the page it is located on.
 
@@ -36,7 +36,7 @@ Here is an attack using Persistent Cross-Site Scripting:
 
 Note: Obviously, someone can increase the chances of the victim visiting this page (step 2) through social engineering, phishing, etc.
 
-### Reflective Cross-Site Scripting
+## Reflective Cross-Site Scripting
 
 These are the ones the media usually reports on. [1](http://www.spamfighter.com/News-12410-XSS-Vulnerability-Found-in-Recording-Industry-Association-of-America-Website.htm),[2](http://www.darkreading.com/security/application-security/217500479/index.html),[3](http://www.mxlogic.com/securitynews/viruses-worms/six-av-vendor-websites-open-to-xss-attacks095.cfm). In this attack, some type of social engineering is involved for the attack to be successful.
 
@@ -50,25 +50,20 @@ Here is an attack, using Reflective Cross-Site Scripting:
 
 Note: I want to reiterate that this attack requires some type of user intervention (step 2).
 
-### Why is Cross-Site Scripting Bad?
+## Why is Cross-Site Scripting Bad?
 
 Cross-Site Scripting can lead to all sorts of different exploits, including system compromise. For an attacker to do this, they need to break out of the browser's context. We have seen examples that [breaking out of the browser](http://dvlabs.tippingpoint.com/blog/2009/03/21/pwn2own-wrap-up) is not that hard to do.
 
 In addition, an attacker can also establish a bi-directional channel using iframes. This creates a man-in-the-middle attack. The attacker can then intercept key strokes, use the victim as an intranet port scanner, and even stealing credentials. The attacker is only limited by their knowledge of scripting.
 
-![Example of a bi-directional channel](http://misc-security.com/blog/wp-content/uploads/2011/02/xsstunnel.gif)
-
 Hopefully, this gives you a better understanding of Cross-Site Scripting. Feel free to leave comments if you don't understand something and I will address it in the article.
 
-### Additional Resources
+## Additional Resources
 
-[Cross-Site Scripting (XSS) FAQ](http://www.cgisecurity.com/xss-faq.html)
-
-[OWASP Guide to XSS](http://www.owasp.org/index.php/Cross_site_scripting)
-
-[XSS Video Tutorial (via youtube)](http://www.youtube.com/watch?v=_OhuqDCs2LA)
-
-[XSS Attack API](http://www.gnucitizen.org/blog/attackapi/)
+* [Cross-Site Scripting (XSS) FAQ](http://www.cgisecurity.com/xss-faq.html)
+* [OWASP Guide to XSS](http://www.owasp.org/index.php/Cross_site_scripting)
+* [XSS Video Tutorial (via youtube)](http://www.youtube.com/watch?v=_OhuqDCs2LA)
+* [XSS Attack API](http://www.gnucitizen.org/blog/attackapi/)
 
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Failure to Restrict URL Access
 tags: [vulnerabilities, owasp]
-series: Owasp Top 10
+series: the Owasp Top 10
 image: http://farm2.staticflickr.com/1376/4602805654_db8b6569fb.jpg
 image_credit: Chris Devers
 ---

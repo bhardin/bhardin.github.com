@@ -2,7 +2,7 @@
 layout: post
 title: Insecure Cryptographic Storage
 tags: [vulnerabilities, owasp]
-series: Owasp Top 10
+series: the Owasp Top 10
 status: publish
 image: http://farm3.static.flickr.com/2387/2452639579_e165388718.jpg
 image_credit: fpsurgeon
