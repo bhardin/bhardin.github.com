@@ -4,7 +4,7 @@
 	$(function(){
 		$(window).scroll(function(){
 
-		var height_of_header = 159;
+		var height_of_header = 150;
 			
 		if($(window).scrollTop() > height_of_header) $('.side_bar').addClass('fixed');
 			else $('.side_bar').removeClass('fixed');

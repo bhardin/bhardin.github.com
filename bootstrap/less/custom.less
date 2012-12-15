@@ -41,15 +41,26 @@ h2 {
 	margin-top: 0px;
 	margin-bottom: 25px;
 
-	h1, a {
-		font-size: 35px;
-		color: @header_color;
-		margin: 0px 0px 0px;
+	.heading {
+		a {
+			font-family: 'Open Sans', Helvetica, sans-serif;
+			font-weight: 700;
+			font-style: italic;
+			font-size: 50px;
+		}
 	}
 
-	p {
-		font-weight: lighter;
-		color: darken(@header_color, 30);
+	.sub-text {
+		font-family: 'Open Sans', Helvetica, sans-serif;
+		font-weight: 300;
+
+		.box {
+			background-color: #F89406;
+			padding: 2px 4px;
+			line-height: 40px;
+			.border-radius( 3px );
+			color: #FFF;
+		}
 	}
 }
 

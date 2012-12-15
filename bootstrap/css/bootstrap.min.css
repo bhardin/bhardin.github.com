@@ -836,8 +836,8 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .affix{position:fixed;}
 h2{font-size:26px;margin-bottom:1px;}
 .nav{font-family:'Oswald',Helvetica,sans-serif;float:right;margin-bottom:0px;}.nav a{color:#469cb1;}
-.page-header{letter-spacing:1.2px;margin-top:0px;margin-bottom:25px;}.page-header h1,.page-header a{font-size:35px;color:#469cb1;margin:0px 0px 0px;}
-.page-header p{font-weight:lighter;color:#1b3b43;}
+.page-header{letter-spacing:1.2px;margin-top:0px;margin-bottom:25px;}.page-header .heading a{font-family:'Open Sans',Helvetica,sans-serif;font-weight:700;font-style:italic;font-size:50px;}
+.page-header .sub-text{font-family:'Open Sans',Helvetica,sans-serif;font-weight:300;}.page-header .sub-text .box{background-color:#F89406;padding:2px 4px;line-height:40px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;color:#FFF;}
 .main-content{}.main-content h1{font-family:'Archivo Narrow',Helvetica,sans-serif;line-height:44px;padding-top:25px;font-weight:400;font-size:35px;}.main-content h1 a{color:black;}
 .main-content h1.no-image{padding-top:0px;margin-top:0px;}
 .main-content .no-image-date{margin-bottom:12.5px;color:#469cb1;}
