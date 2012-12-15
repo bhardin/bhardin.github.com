@@ -2,7 +2,7 @@
 layout: post
 title: OWASP 2007 Top 10 Presentation
 tags: [presentation, owasp]
-series: owasp-series
+series: Owasp Top 10
 status: publish
 type: post
 ---

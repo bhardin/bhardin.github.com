@@ -3,11 +3,11 @@ layout: post
 title: "Company Purpose"
 image: http://farm8.staticflickr.com/7210/6893444109_f85d723ed5.jpg
 image_credit: Konabish
-category: 
-tags: [startups]
+series: business plans
+tags: [startups, investor deck, purpose, investors]
 meta_description: Identify what your company purpose is before presenting to potential investors.
 ---
-{% include investor-deck.html %}
+{% include series.html %}
 
 The company purpose slide is arguably the most important slide in the entire deck. This should be a single sentence that outlines the larger goal of the company. Founders often struggle with this slide. Either they don't want to share their larger vision or they are thinking in terms of product.
 

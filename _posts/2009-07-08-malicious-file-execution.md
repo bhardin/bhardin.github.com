@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Malicious File Execution
-series: owasp-series
+series: Owasp Top 10
 tags: [vulnerabilities, owasp]
 image: http://farm1.staticflickr.com/215/512701846_d22cf2a72c.jpg
 image_credit: aphasiafilms

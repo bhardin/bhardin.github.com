@@ -2,7 +2,7 @@
 layout: post
 title: Insecure Communications
 tags: [vulnerabilities, owasp]
-series: owasp-series
+series: Owasp Top 10
 image: http://farm5.static.flickr.com/4038/4417602702_7b5e9b62f6.jpg
 image_credit: Jens Finke - fotografie grafik verlag
 ---

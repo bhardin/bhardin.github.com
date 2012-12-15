@@ -3,12 +3,12 @@ layout: post
 title: "Market Size"
 image: http://farm3.staticflickr.com/2083/2291498814_923636ac78.jpg
 image_credit: Perpetualtourist2000
-category: 
-tags: [investor deck, markets]
-meta_description: 
+series: business plans
+tags: [investor deck, markets, startups, investors]
+meta_description: Market size is arguablly the most important thing when deciding to build a business. How do you go about calculating your market size?
 ---
 
-{% include investor-deck.html %}
+{% include series.html %}
 
 One of the questions you will be asked again and again when financing is, "How large is your market?" Market size is an incredibly important metric for measuring the opportunity of a startup.
 
