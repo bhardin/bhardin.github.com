@@ -27,13 +27,12 @@ layout: page_with_subscribe_bar
 	</div>
 
 	<p><small>
-		Tags:
 		{% for tag in page.tags %}
-			<a href="/tags.html#{{ tag }}-ref" onclick="_gaq.push(['_trackEvent', 'clicked tag', '{{ tag }}', '{{ page.title }}']);"><span class="label label-warning">{{ tag }}</span></a>
+			 <a href="/tags.html#{{ tag }}-ref" onclick="_gaq.push(['_trackEvent', 'clicked tag', '{{ tag }}', '{{ page.title }}']);"><span class="label label-warning"><i class="icon-tags icon-white"></i> {{ tag }}</span></a>
 		{% endfor %}
 	
 		{% if page.image_credit %}
-			<br/>Image Credit: {{ page.image_credit }}
+			<br/><i class="icon-camera"></i> {{ page.image_credit }}
 		{% endif %}
 	</small></p>
 
