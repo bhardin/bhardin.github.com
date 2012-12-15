@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Insecure Cryptographic Storage
-tags: [vulnerabilities, owasp]
+tags: [vulnerabilities, owasp, encryption, hashing]
 series: the Owasp Top 10
 status: publish
 image: http://farm3.static.flickr.com/2387/2452639579_e165388718.jpg
@@ -10,21 +10,25 @@ type: post
 ---
 {% include series.html %}
 
-## What is Insecure Cryptographic Storage
-Insecure cryptographic storage occurs when an application doesn't securely encrypt it's sensitive data when it is stored into a database. This definition is similar to the picture above, recursive.
+Insecure cryptographic storage occurs when an application doesn't _securely_ encrypt it's sensitive data. This vulnerability is about data at rest. Data in transit is considered [insecure communication][1] not insecure cryptographic storage.
 
-Simply stated, insecure cryptographic storage occurs when one of following happens:
-*	**The developers don't encrypt the data that is being stored in the database.**
-*	The developers do encrypt the data being stored in the database, but they rely on encryption methods they have developed. (Also known as home-grown cryptography)
+[1]: /2009/10/insecure-communications/
+[2]: http://rdist.root.org/2008/09/18/dangers-of-amateur-cryptography/
+[3]: /2009/11/confidentiality-integrity-availability/
+[4]: https://www.pcisecuritystandards.org/security_standards/index.php
+[5]: http://en.wikipedia.org/wiki/Rainbow_table
 
-After reading these two points you may say, "only an <em>idiot</em> wouldn't encrypt sensitive data being stored in the database." I refer you to number two in the list above.
+Insecure cryptographic storage occurs in the following situations:
 
-If you think you are smart enough to write your own cryptographic algorithms, you my friend, are the <em>idiot</em>.
+*	Developers don't encrypt data being stored in the database.
+*	Developers encrypt data with homegrown encryption.
 
-The main business concern with not encrypting sensitive data is that it can lead to confidentiality loss. All companies are concerned with unauthorized individuals viewing their sensitive data. In addition, encrypting sensitive data is be a regulatory compliance. [PCI-DSS requirement 3](https://www.pcisecuritystandards.org/security_standards/index.php).
+Many developers know they should encrypt their sensative data; not doing so creates a code smell. But, many developers will create their own encryption methods rather than using ones which have already been developed. If you think you are smart enough to write your own cryptographic algorithms, you're not. There is an entire encryption industry, with lots of peer review, to develop secure encryption methods. Developing a simple, easy-to-use, [encryption algorithm is not easy][2].
+
+Not encrypting sensitive data leads to [confidentiality][3] loss. All companies are concerned with unauthorized individuals viewing their sensitive data. In addition, encrypting sensitive data is a requirement by different regulations, such as [PCI-DSS requirement 3][4].
 
 ## An Example of Insecure Cryptographic Storage
-Here is a simplified example. Selecting the users table from a database we are returned the following:
+Here is a simplified example. We have a database that contains a `users` table. If we return all of the columns from the `users` table we recieve the following output:
 
 	> select * from users;
 
@@ -53,21 +57,17 @@ Here is a simplified example. Selecting the users table from a database we are r
 </tbody>
 </table>
 
-The passwords in these table are 32 characters long. Could these passwords be MD5 hashes?
+The passwords returned by the query are 32 characters long. Could these passwords be MD5 hashes?
 
-As with all hashing algorithms, MD5 hashes can't be reversed. However, they can be pre-computed. Using a hash table lookup we can identify what the password is before it was ran through the MD5 hashing algorithm.
+As with all hashing algorithms, MD5 hashes can't be reversed. However, they can be [pre-computed][5]. Using a hash table lookup we can identify what the password is before it was ran through the MD5 hashing algorithm.
 
-After inserting _5f4dcc3b5aa765d61d8327deb882cf99_ into the hash table lookup the resulting password is returned. In this example, the password is "password."
+Finding the hash, _5f4dcc3b5aa765d61d8327deb882cf99_, in our hashtable returns the password, `password.`
 
 ## Preventing Insecure Cryptographic Storage
-If the data is sensitive and stored it NEEDS to be encrypted. Examples of items that are considered to be sensitive can include:
-*	Credit Cards
-*	Usernames
-*	Passwords
-*	User Data
+If the data is sensitive, it needs to be encrypted when at rest. Any time sensative data is stored it NEEDS to be encrypted. Examples of information which is considered sensitive includes credit cards, usernames, passwords, and can include user-created data based on what your application does.
 
-There are other things to keep in mind when making sure you securely store information. This includes not creating your own cryptographic algorithms. No matter how smart you or your peers think you are **DO NOT attempt to invent a new encryption algorithm**. Leave this work to the experts.
+* Remember to use standard methods for doing encryption. Use known secure encryption methods. Don't create your own encryption algorthims. No matter how smart you, or your peers, are __DO NOT attempt to invent your own encryption algorithm__. Leave this work to the experts.
 
-Ensure that the data stored is not easy to decrypt. This can usually be averted by not using known **weak algorithms** such as RC3, RC4, MD5 and SHA-1.
+* Ensure that the data stored is not easy to decrypt. This can usually be averted by not using known **weak algorithms** such as RC3, RC4, MD5 and SHA-1.
 
-If you are using asymmetric key encryption make sure to store your private keys carefully. If an attacker gets hold of the private key, you might as well not encrypt the data in the first place.
+* If you are using asymmetric key encryption make sure to store your private keys carefully. If an attacker gets hold of the private key, you might as well not encrypt the data in the first place.

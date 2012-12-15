@@ -38,10 +38,12 @@ As with all prevention methods preventing these vulnerabilities takes careful pl
 
 * Only use the native session management mechanism. Do not write your own session handlers. Do not use home-grown cookies for authentication or session-management.
 * Use a single authentication mechanism. Again, do not write your own authentication mechanism.
-* Do not allow the login process to happen from an unencrypted page.
+* Do not allow the login process to happen from an [unencrypted page][1].
 * Once a user authenticates, issue them a new session cookie and invalidate the previous session cookie. This will prevent session hijacking attacks from occurring.
 * Verify that every page of the application has a logout link that is easily identified by the user.
 * Have adequate timeouts for inactive sessions. Shorter is better.
 * Verify the user knows their old password before changing their password.
 * Do not send credentials (including the user name) over insecure channels, such as email.
 * Do not expose session identifiers, such as the session token, in the URL.
+
+[1]: /2009/10/insecure-communications/

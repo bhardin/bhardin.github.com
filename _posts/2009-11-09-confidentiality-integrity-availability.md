@@ -25,7 +25,7 @@ Confidentiality loss happens when information can be viewed (read) by individual
 
 Loss of confidentiality can happen physically or electronically.
 
-Electronic confidentiality loss can happen when the clients and servers aren't encrypting their communications. This allows malicious entities to view private communications.
+Electronic confidentiality loss can happen when the clients and servers aren't [encrypting their communications][1]. This allows malicious entities to view private communications.
 
 Physical confidential loss can happen through social engineering or through theft. This typically means having laptops stolen.
 	
@@ -40,3 +40,5 @@ Accidental integrity loss happens when a system modifies or deletes records that
 Availability is the simple idea that when a user or system attempts to access something, it is available to be accessed. This is extremely important for mission critical systems. Availability for these systems are so critical that most companies have business continuity plans (BCP's) in order for there systems to have redundancy.
 
 Just like confidentiality and integrity loss, availability loss can happen by accident, a car crashing into a fiber pole disabling access to a system, or through malicious intent, such as a Denial-of-Service attack.
+
+[1]: /2009/10/insecure-communications/
