@@ -3,17 +3,9 @@ layout: post
 title: Confidentiality, Integrity, and Availability
 image: http://farm3.staticflickr.com/2438/3928848343_aa499af7ab.jpg
 image_credit: Express Monorail
-tags:
-- buzzwords
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _headspace_page_title: Confidentiality, Integrity, and Availability - Key Security
-    Concepts
-  _wp_old_slug: confidentiality-integrity-and-availability
+tags: [security basics, buzzwords, infosec, confidentiality, integrity, availability]
 ---
+
 Being security aware and security conscious often boils down to understanding three key concepts that are common to risk management.
 
 These security concepts have been around since the inception of information security. Although, these are high-level generalizations, they are important for everyone to know about.
