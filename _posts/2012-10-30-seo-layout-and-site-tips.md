@@ -40,20 +40,16 @@ The title of your post is the [most important][3] factor. You want whatever cont
 
 Also, don't put your brand name before what the content is about. The closer the word is to the left of the title the more relevant the content must be.
 
-### Good
-SEO: A Quick Blog Primer - Constantly Learning
+__Good:__ SEO: A Quick Blog Primer - Constantly Learning
 
-### Bad
-Constantly Learning - SEO: A Quick Blog Primer
+__Bad:__ Constantly Learning - SEO: A Quick Blog Primer
 
 ## Permalink Structure
 The title of your post should be in the url. Wordpress and most modern blog frameworks, including [Jekyll][6] by default put the title of the post in the url.
 
-### Good
-http://www.mysite.com/maximizing-seo/
+__Good:__ http://www.mysite.com/maximizing-seo/
 
-### Bad
-http://www.mysite.com/11345/p207.html
+__Bad:__ http://www.mysite.com/11345/p207.html
 
 ## Subfolder or Subdomain
 This is one of the more interesting arguments in the SEO world. To answer this question it [depends on your use case][9].
@@ -66,7 +62,8 @@ If you do want a folder, you can use a [reverse proxies][8] to accomplish it.
 ## Alt Tags on Images
 Tag all of your images with an alt tag. Search engines use alt tags for credit towards the keywords.
 
-### Example
+#### Example
+
      <img src="http://mysite.com/coolpic.jpg" alt="cool pic" title="cool pic">
 
 Alt tags for images can be done fairly simple in Jekyll as follows:

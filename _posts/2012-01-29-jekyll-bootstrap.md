@@ -9,11 +9,11 @@ I recently discovered [Jekyll](https://github.com/mojombo/jekyll) a static site 
 
 There is also a Jekyll-bootstrap that is specifically for creating blogs. I started to create this site with that, but quickly realized I wanted to learn more about how Jekyll worked. So scrapped v1 and begun working on what you see now. However, along the way I did find some helpful Jekyll-bootstrap commands (Jekyll-bootstrap comes with a rake file) and wanted to document them for later use.
 
-### Create a new post
+## Create a new post
 
     rake post title="POST-TITLE"
 
-### Changing Themes
+## Changing Themes
 
     rake switch_theme name="the-minimum"
 

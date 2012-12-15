@@ -17,7 +17,7 @@ In the book, [Hacking: The Next Generation](http://www.amazon.com/gp/product/059
 
 I put it in Appendix B in the book, but figured it would be nice to have some place to copy & paste it.
 
-### Cache_Snoop.pl
+## Cache_Snoop.pl
 Let me know if you have any questions or comments. Have Fun!
 
 <script src="https://gist.github.com/1997866.js?file=Cache_Snoop.pl"></script>

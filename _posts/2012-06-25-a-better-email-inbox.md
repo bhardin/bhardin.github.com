@@ -32,7 +32,7 @@ My process for unsubscribing:
 
 There are two ways you can unsubscribe. 
 
-### 1. Unsubscribe Link
+__1. Unsubscribe Link__
 
 Each email you receive has a link at the bottom of the email that says, "unsubscribe." You can even search for this when looking at an email that has a ton of text.
 
@@ -44,7 +44,7 @@ However, some emails are crafty. They won't use that language, but the link is s
 
 You will need to do this for a while, but your efforts will be well worth it. Your email stream will become more valuable to you with every email you do this for.
 
-### 2. Gmail Unsubscribe
+__2. Gmail Unsubscribe__
 
 Gmail has a really cool unsubscribe feature. It doesn't work for some emails, but in my experience it works 50% of the time. At the top of the email, where it has your name, there will be a drop down button. After clicking this, at the bottom is a link to, "Unsubscribe from this sender."
 

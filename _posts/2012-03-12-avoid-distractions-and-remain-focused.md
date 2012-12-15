@@ -26,7 +26,7 @@ The _only thing_ that matters is delivering value.
 
 But, what value should you deliver? This is determined by your customer.
 
-### Initial Value And Pivot
+## Initial Value And Pivot
 When you begin working on your startup, even before building product, you assume what your customers will care about. Once you begin gathering customers and engaging with them you _will_ change your value add.
 
 What value you deliver can take multiple forms. But remember your customers will define it, not you.

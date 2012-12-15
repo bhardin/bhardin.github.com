@@ -26,19 +26,19 @@ For those unfamiliar with cookies, a cookie consists of a name/value pair. In th
 
 Following the cookie name/value pair are the attribute/value pairs that apply to that cookie and are delimited with a semicolon. In this example their are three attribute/value pairs: expires, path, and domain.
 
-### Expires Attribute
+## Expires Attribute
 
 	expires=Thu, 30 Dec 2037 00:00:00 GMT
 	
 The expires attribute is used to tell the browser when the cookie should no longer be used. Browsers will cache this cookie locally until the expires date is reached. When the expires date is reached the browser will stop sending the cookie after the browser is closed. In our example the cookie will remain valid until December 30th, 2037.
 
-### Path Attribute
+## Path Attribute
 	
 	path=/
 
 The Path attribute specifies the subset of URLs to which this cookie applies. In this case, the cookie will be sent for any request to this server. If a user requests /bobsapp/ or /tomsapp/ this cookie will be sent.
 
-### Domain Attribute
+## Domain Attribute
 	
 	domain=.misc-security.com
 	
@@ -46,8 +46,7 @@ The Domain attribute specifies the domain for which the cookie is valid.  An exp
 
 In a future article we will continue looking at the attribute/value pairs that cookies can have and will even revisit these attributes explaining how each needs to be understood to securely handle a user's session.
 
-#### Further Reading
+## Further Reading
 
-[RFC 2109 - HTTP State Management Mechanism](http://www.ietf.org/rfc/rfc2109.txt)
-
-[RFC 2965 - HTTP State Management Mechanism - New VERSION!!!](http://www.ietf.org/rfc/rfc2965)
+* [RFC 2109 - HTTP State Management Mechanism](http://www.ietf.org/rfc/rfc2109.txt)
+* [RFC 2965 - HTTP State Management Mechanism - New VERSION!!!](http://www.ietf.org/rfc/rfc2965)
