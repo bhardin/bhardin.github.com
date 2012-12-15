@@ -8,21 +8,21 @@ image_credit: Chris Devers
 ---
 {% include series.html %}
 
-### What is the problem with Failing to Restrict URL Access?
+## What is the Problem with Failing to Restrict URL Access?
 A common problem in web applications, failing to restrict URL access typically happens when a page doesn't have the correct access control policy in place. Unauthorized users are able to view content that they shouldn't have the ability to view.
 
 Having these vulnerabilities in your application exposes privileged functionality to unauthorized users. It can also create a problem with your record trails. If users can access records without being authenticated the chain of custody is completely broken, preventing good auditing from taking place.
 
 Failing to restrict URL access can also lead to problems with bypassing [session management](/2009/08/broken-authentication-and-session-management/), another of the OWASP Top 10.
 
-### An Example of Failing to Restrict URL Access
+## An Example of Failing to Restrict URL Access
 Developers attempting to hide functionality from a user by creating "hidden" pages can create a failure to restrict URL access situation.
 
 Hidden pages are defined as pages that don't have a link pointing to them, preventing web crawlers, such as Google, from indexing them. Some developers believe that these pages will never be found by anyone who doesn't know the exact URL. However, attackers typically find these pages through forceful browsing and the access controls on these pages tend to not be restrictive.
 
 Another example of a page that can have this type of vulnerability is one where all of the privileges are checked client side but not server side. Attackers using personal proxies can bypass these client-side privileges and access functionality not intended for them to access.
 
-### How Do You Restrict URL Access
+## How Do You Restrict URL Access
 Most of these problems arise from a change in policy happening on paper, but not being implemented thoroughly across the application.
 
 Restricting URL access correctly takes careful planning by the developer and the supporting organization. Organizations can follow some simple rules that will help them in preventing this vulnerability.

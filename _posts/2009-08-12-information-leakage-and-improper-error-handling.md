@@ -9,12 +9,12 @@ type: post
 ---
 {% include series.html %}
 
-### What is Information Leakage and Improper Error Handling
+## What is Information Leakage and Improper Error Handling
 Information leakage and improper error handling happen when web applications do not limit the amount of information they return to their users. A classic example of improper error handling is when an application doesn't sanitize SQL error messages that are returned to the user. Upon receiving a SQL error message an attacker will immediately identify a place for identifying <a href="http://misc-security.com/blog/2009/07/injection-flaws/">injection flaws</a>.
 
 Although preventing error messages from reaching users will not prevent vulnerabilities from occurring, it does make it difficult for an attacker to accomplish his goal and it is also an industry best practice.
 
-### An Example of Information Leakage
+## An Example of Information Leakage
 Common examples of information leakage include helpful error messages and service banners. Developers and system administrators often forget or disregard how something as simple as a server banner can be used by an attacker.
 
 As an example, if your server is running Apache and you return the server header with your responses, an attacker could leverage this to fingerprint the version of the web server you are running.
@@ -27,7 +27,7 @@ Using nmap an attacker could send a few packets at your application server using
 
 The attacker has now identified your Apache version and can now search for vulnerabilities affecting that version of Apache.
 
-### An Example of Improper Error Handling
+## An Example of Improper Error Handling
 
 Attackers attempt to leverage information that applications freely volunteer. If an application displays an error messages to the user (attacker), there is not guarantee that the user will "ignore" this error message.
 
@@ -37,7 +37,7 @@ Attackers love seeing error messages such as:
 
 	ERROR:  unterminated quoted string at or near "'''"
 
-### How Do You Prevent Information Leakage and Improper Error Handling
+## Preventing Information Leakage and Improper Error Handling
 
 When developing applications, developers should assume all of the users are hostile. As a developer having this mentality will greatly aid you in developing secure applications.
 

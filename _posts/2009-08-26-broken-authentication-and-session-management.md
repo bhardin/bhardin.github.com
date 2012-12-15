@@ -9,7 +9,7 @@ type: post
 ---
 {% include series.html %}
 
-### What is Broken Authentication and Session Management
+## What is Broken Authentication and Session Management
 When developers are programming web application based solutions they rarely focus on how the user's session is managed. Failing to keep this in mind can lead developers to introduce session management vulnerabilities in their applications.
 
 Session management vulnerabilities occur when developers fail to protect their users sensitive information such as user names, passwords, and session tokens.
@@ -18,17 +18,17 @@ Broken authentication vulnerabilities occur when developers fail to use authenti
 
 These vulnerabilities are very hard for developers to identify on their own due to the far-reaching aspect of the code that handles session and authentication.
 
-### An Example of Broken Authentication and Session Management
+## An Example of Broken Authentication and Session Management
 
 Due to the broad reach of this vulnerability there are many examples of broken authentication and session management occurring. Examples include forgotten password functionality, emailing user credentials, relying on IP address for session, not authenticating a user before changing a password, and not having adequate timeouts for inactive sessions.
 
-#### Forgotten Password Functionality
+Forgotten Password Functionality is probably the easiest to understand.
 
 Web applications often have a forgotten password functionality that allows a user to submit their user name to the application and are taken to a page with secret questions or a temporary password reset function.
 
 Attackers can exploit this functionality to enumerate valid user name for the application. Developers often forget that a user name is half the puzzle to an attacker. Is an attacker knowing a password damaging if they don't know a user name to go along with it?
 
-### How Do You Prevent Broken Authentication and Session Management
+## Preventing Broken Authentication and Session Management
 
 Protecting credentials and session cookies is one of the most difficult tasks for a developer. Protecting this critical pieces of data can touch on many lines of code in several different files.
 

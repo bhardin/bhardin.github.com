@@ -59,7 +59,7 @@ As with all hashing algorithms, MD5 hashes can't be reversed. However, they can 
 
 After inserting _5f4dcc3b5aa765d61d8327deb882cf99_ into the hash table lookup the resulting password is returned. In this example, the password is "password."
 
-## How Do You Prevent Insecure Cryptographic Storage From Occurring
+## Preventing Insecure Cryptographic Storage
 If the data is sensitive and stored it NEEDS to be encrypted. Examples of items that are considered to be sensitive can include:
 *	Credit Cards
 *	Usernames
