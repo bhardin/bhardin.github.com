@@ -18,7 +18,7 @@ There are three ways to present without sounding like you are pitching your prod
 
 1. __Talk About The Problem__ - Educate your potential users to the problem your solution solves. You're an expert on the problem and very few people, if any, know more about the problem than you do. Even if people are aware of the problem, assume the audience doesn't. Educate them to the problem set.
 
-2. __Demonstrate The [Value][4] of Solving the Problem__ - Your solution either solves a problem or fulfills a need. Talk about it. Don't talk about the solution you've created to solve it. What benefit do people get from solving the problem you've just described? 
+2. __Demonstrate The Value of Solving the Problem__ - Your solution either solves a problem or fulfills a need. Talk about it. Don't talk about the solution you've created to solve it. What benefit do people get from [solving the problem][4] you've just described? 
 
 3. __Walk Through Potential Solutions__ - You've already built a solution, but there are other ways to solve the problem. Rather than saying, "Buy my service," give your audience solutions to solving the problem. Don't talk about the competition. Talk about ways they could solve the problem in-house. What would they need to do to build your solution?
 
