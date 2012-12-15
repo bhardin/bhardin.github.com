@@ -1,0 +1,7 @@
+<div class="related_posts">
+	<ul class="posts">
+		{% for post in site.related_posts limit:5 %}
+			<li><a href="{{ post.url }}" onclick="_gaq.push(['_trackEvent', 'related post', 'Clicked {{ post.title }}', 'From {{ page.title }}']);">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+</div>
