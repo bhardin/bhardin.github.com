@@ -23,12 +23,12 @@ Insecure cryptographic storage occurs in the following situations:
 *	Developers don't encrypt data being stored in the database.
 *	Developers encrypt data with homegrown encryption.
 
-Many developers know they should encrypt their sensative data; not doing so creates a code smell. But, many developers will create their own encryption methods rather than using ones which have already been developed. If you think you are smart enough to write your own cryptographic algorithms, you're not. There is an entire encryption industry, with lots of peer review, to develop secure encryption methods. Developing a simple, easy-to-use, [encryption algorithm is not easy][2].
+Many developers know they should encrypt their sensitive data; not doing so creates a code smell. But, many developers will create their own encryption methods rather than using ones which have already been developed. If you think you are smart enough to write your own cryptographic algorithms, you're not. There is an entire encryption industry, with lots of peer review, to develop secure encryption methods. Developing a simple, easy-to-use, [encryption algorithm is not easy][2].
 
 Not encrypting sensitive data leads to [confidentiality][3] loss. All companies are concerned with unauthorized individuals viewing their sensitive data. In addition, encrypting sensitive data is a requirement by different regulations, such as [PCI-DSS requirement 3][4].
 
 ## An Example of Insecure Cryptographic Storage
-Here is a simplified example. We have a database that contains a `users` table. If we return all of the columns from the `users` table we recieve the following output:
+Here is a simplified example. We have a database that contains a `users` table. If we return all of the columns from the `users` table we receive the following output:
 
 	> select * from users;
 
@@ -61,10 +61,10 @@ The passwords returned by the query are 32 characters long. Could these password
 
 As with all hashing algorithms, MD5 hashes can't be reversed. However, they can be [pre-computed][5]. Using a hash table lookup we can identify what the password is before it was ran through the MD5 hashing algorithm.
 
-Finding the hash, _5f4dcc3b5aa765d61d8327deb882cf99_, in our hashtable returns the password, `password.`
+Finding the hash, _5f4dcc3b5aa765d61d8327deb882cf99_, in our hash table returns the password, `password.`
 
 ## Preventing Insecure Cryptographic Storage
-If the data is sensitive, it needs to be encrypted when at rest. Any time sensative data is stored it NEEDS to be encrypted. Examples of information which is considered sensitive includes credit cards, usernames, passwords, and can include user-created data based on what your application does.
+If the data is sensitive, it needs to be encrypted when at rest. Any time sensitive data is stored it NEEDS to be encrypted. Examples of information which is considered sensitive includes credit cards, usernames, passwords, and can include user-created data based on what your application does.
 
 * Remember to use standard methods for doing encryption. Use known secure encryption methods. Don't create your own encryption algorthims. No matter how smart you, or your peers, are __DO NOT attempt to invent your own encryption algorithm__. Leave this work to the experts.
 
