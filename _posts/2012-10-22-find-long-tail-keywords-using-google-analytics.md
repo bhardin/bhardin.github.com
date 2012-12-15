@@ -7,7 +7,9 @@ category:
 tags: [SEO, marketing, ROI]
 meta_description: 
 ---
-I recently discovered [HitTail](http://www.hittail.com), an awesome service for discovering long tail keywords to maximize SEO.
+I recently discovered [HitTail](http://www.hittail.com), an awesome service for discovering long tail keywords to [maximize SEO][1].
+
+[1]: /2012/10/seo-layout-and-site-tips/
 
 HitTail uses a proprietary alogrithm for identifying keywords used in search terms which you should target. After using the service for about a week, I wanted to understand how the algorithm worked. I tumbled down the rabbit hole and learned crazy amounts along the way.
 

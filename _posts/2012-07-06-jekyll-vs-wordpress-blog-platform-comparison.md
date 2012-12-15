@@ -21,7 +21,7 @@ I was an avid WordPress user before using Jekyll. I love the simplicity of Jekyl
 * __Github hosted blogs Lack Scheduling__ - If you host on github, there is no way to schedule a post. This is my biggest gripe with jekyll on github. If you locally host, it is not a problem and can be handled with plugins.
 
 ## Pros of WordPress:
-* __Out of the box SEO__ - Hands down the best feature of WordPress over Jekyll is it's default optimization for search engines. It took me a little research to understand how to design the jekyll layout for SEO, but I enjoy learning these things. 
+* __Out of the box SEO__ - Hands down the best feature of WordPress over Jekyll is it's default optimization for search engines. It took me a little research to understand how to design the [jekyll layout for SEO][1], but I enjoy learning these things. 
 * __Plugin Database__ - The shear amount of plugins available for WordPress is incredible. When you have an idea for an addition to your blog, it is incredibly easy to find someone who has already developed something that you can benefit from.
 * __Under the Covers__ - WordPress handles a lot of the things for you automatically. Tagging, categories, pagination, etc.
 
@@ -31,4 +31,4 @@ I was an avid WordPress user before using Jekyll. I love the simplicity of Jekyl
 
 Hopefully this gives you a good breakdown of both technologies and helps you decide which technology to use for your blog. Do you have other pros or cons about using WordPress or Jekyll? I would love to know more. Leave a comment so others can benefit.
 
-
+[1]: /2012/10/seo-layout-and-site-tips/

@@ -46,7 +46,7 @@ Disqus has established an identity for commenter's. The person's identity travel
 
 With Disqus, I can post a comment on one site and then be alerted to a response while reading content on another site. If I decide to comment on a new post, I'm already [logged in][7]. Disqus has created a central place to manage my responses across all the communities I participate in.
 
-When I first started seeing Disqus on blogs, I was pessimistic. I couldn't see the value of hosting comments through a third-party from an [SEO perspective][8]. After using Disqus though, I have changed my mind on the value of their service.
+When I first started seeing Disqus on blogs, I was pessimistic. I couldn't see the value of hosting comments through a third-party from an [SEO perspective][9]. But, after using Disqus, I changed my mind on the value of their service. They also fixed the original [SEO problems][8].
 
 The Internet allows us to write content and share it with others. Books have been published for thousands of years using this method. An author writes content, gets the content published, and distributes it to an audience. 
 
@@ -62,3 +62,4 @@ So turn on comments and begin a conversation.
 [6]: http://tom.preston-werner.com/
 [7]: /2009/09/understanding-http-cookies/ "Understanding Cookies"
 [8]: http://blog.disqus.com/post/22325598158/try-out-disqus-2012
+[9]: /2012/10/seo-layout-and-site-tips/

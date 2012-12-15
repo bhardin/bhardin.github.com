@@ -9,7 +9,9 @@ tags: [blogging, tech, SEO]
 
 After moving my blog from Wordpress to Jekyll, I missed one plugin greatly: The Wordpress SEO plugin by Yoast.
 
-I thought about writing a plugin for Jekyll, but I wouldn't be able to run it since [github hosted sites can't run plugins](https://github.com/mojombo/jekyll/issues/325). I decided to [write a script](https://github.com/bhardin/jekyll-seo-script/blob/master/jekyll-seo.rb) to help me with SEO for my blog posts. Since Yoast had already given me a nice template to work from, I started with 4 of the most basic features of the plugin.
+I thought about writing a plugin for Jekyll, but I wouldn't be able to run it since [github hosted sites can't run plugins](https://github.com/mojombo/jekyll/issues/325). I decided to [write a script](https://github.com/bhardin/jekyll-seo-script/blob/master/jekyll-seo.rb) to help me with [basic SEO][1] for my blog posts. Since Yoast had already given me a nice template to work from, I started with 4 of the most basic features of the plugin.
+
+[1]: /2012/10/seo-layout-and-site-tips/
 
 I wrote the initial version quickly. It only took me a few hours. I will be expanding on it to make it a little more thorough but wanted to push it out to others, so they could benefit immediately. If you have feature requests, please ask, I can easily write them in.
 
