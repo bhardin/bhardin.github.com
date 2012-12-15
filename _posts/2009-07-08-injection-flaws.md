@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Injection Flaws
+series: owasp-series
 image: http://farm5.static.flickr.com/4069/4561376850_6f002abeb9.jpg
 image_credit: Doug88888
 tags: [owasp, vulnerabilities]
 ---
-{% include top10.md %}
+{% include series.html %}
 
 ## What are Injection Flaws
 

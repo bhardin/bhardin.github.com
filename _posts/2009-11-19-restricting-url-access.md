@@ -2,12 +2,11 @@
 layout: post
 title: Failure to Restrict URL Access
 tags: [vulnerabilities, owasp]
-status: publish
+series: owasp-series
 image: http://farm2.staticflickr.com/1376/4602805654_db8b6569fb.jpg
 image_credit: Chris Devers
-type: post
 ---
-{% include top10.md %}
+{% include series.html %}
 
 ### What is the problem with Failing to Restrict URL Access?
 A common problem in web applications, failing to restrict URL access typically happens when a page doesn't have the correct access control policy in place. Unauthorized users are able to view content that they shouldn't have the ability to view.

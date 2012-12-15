@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Malicious File Execution
+series: owasp-series
 tags: [vulnerabilities, owasp]
 image: http://farm1.staticflickr.com/215/512701846_d22cf2a72c.jpg
 image_credit: aphasiafilms
 ---
-{% include top10.md %}
+{% include series.html %}
 
 ### What is Malicious File Execution
 Some web applications allow the user to specify input that is used directly into file streams or allows the user to upload files to the server. At a later time the web application accesses the user supplied input in the web applications context. By doing this, the web application is allowing the potential for malicious file execution.

@@ -4,9 +4,10 @@ title: Broken Authentication and Session Management
 tags: [vulnerabilities, owasp]
 image: http://farm5.static.flickr.com/4063/4266314914_0ab7cac5c4.jpg
 image_credit: Rinoninha
+series: owasp-series
 type: post
 ---
-{% include top10.md %}
+{% include series.html %}
 
 ### What is Broken Authentication and Session Management
 When developers are programming web application based solutions they rarely focus on how the user's session is managed. Failing to keep this in mind can lead developers to introduce session management vulnerabilities in their applications.

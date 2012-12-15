@@ -2,12 +2,11 @@
 layout: post
 title: Insecure Communications
 tags: [vulnerabilities, owasp]
-type: post
-published: true
+series: owasp-series
 image: http://farm5.static.flickr.com/4038/4417602702_7b5e9b62f6.jpg
 image_credit: Jens Finke - fotografie grafik verlag
 ---
-{% include top10.md %}
+{% include series.html %}
 
 ### What are Insecure Communications
 Insecure communications is when a client and server communicate over a n0n-secure (non-encrypted) channel. By doing this, the developer is ensuring that their communication channel can be viewed by eyes they didn't intend.

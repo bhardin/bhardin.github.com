@@ -2,9 +2,14 @@
 layout: post
 title: OWASP 2007 Top 10 Presentation
 tags: [presentation, owasp]
+series: owasp-series
 status: publish
 type: post
 ---
+
+{% include series.html %}
+
+
 I recently did a presentation on the OWASP Top 10 for SecurityStreams. [Nitesh Dhanjani](http://www.dhanjani.com/) of SecurityStreams was nice enough to allow me to embed the videos of the presentations on this site.
 
 If you are new to the [OWASP Top 10](/2009/07/owasp-top-10-2007/), I highly suggest watching this presentation, it's 45 minutes and should give you a high level understanding of all the OWASP Top 10.

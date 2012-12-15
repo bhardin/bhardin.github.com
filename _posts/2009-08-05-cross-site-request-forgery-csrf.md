@@ -2,10 +2,11 @@
 layout: post
 title: Cross Site Request Forgery (CSRF)
 tags: [vulnerabilities, owasp]
+series: owasp-series
 image: http://farm4.static.flickr.com/3197/2689052349_07738f5902.jpg
 image_credit: Joe Penniston
 ---
-{% include top10.md %}
+{% include series.html %}
 
 ### What is Cross-Site Request Forgery (CSRF)
 Cross-Site request forgery is a client-side vulnerability that allows an attacker to make requests on the user's behalf. Although, most CSRF exploits require a user to be authenticated to the susceptible site to be successful, this is not always the case.

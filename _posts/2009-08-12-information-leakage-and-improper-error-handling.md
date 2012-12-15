@@ -2,11 +2,12 @@
 layout: post
 title: Information Leakage and Improper Error Handling
 tags: [vulnerabilities, owasp]
+series: owasp-series
 image: http://farm4.static.flickr.com/3154/3058009462_f59cb3ed1a.jpg
 image_credit: bitzcelt
 type: post
 ---
-{% include top10.md %}
+{% include series.html %}
 
 ### What is Information Leakage and Improper Error Handling
 Information leakage and improper error handling happen when web applications do not limit the amount of information they return to their users. A classic example of improper error handling is when an application doesn't sanitize SQL error messages that are returned to the user. Upon receiving a SQL error message an attacker will immediately identify a place for identifying <a href="http://misc-security.com/blog/2009/07/injection-flaws/">injection flaws</a>.

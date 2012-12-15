@@ -2,12 +2,13 @@
 layout: post
 title: Insecure Cryptographic Storage
 tags: [vulnerabilities, owasp]
+series: owasp-series
 status: publish
 image: http://farm3.static.flickr.com/2387/2452639579_e165388718.jpg
 image_credit: fpsurgeon
 type: post
 ---
-{% include top10.md %}
+{% include series.html %}
 
 ## What is Insecure Cryptographic Storage
 Insecure cryptographic storage occurs when an application doesn't securely encrypt it's sensitive data when it is stored into a database. This definition is similar to the picture above, recursive.

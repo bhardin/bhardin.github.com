@@ -2,11 +2,12 @@
 layout: post
 title: Insecure Direct Object Reference
 tags: [vulnerabilities, owasp]
+series: owasp-series
 status: publish
 image: http://farm4.static.flickr.com/3167/2538415572_b61ff16742.jpg
 image_credit: tim_norris
 ---
-{% include top10.md %}
+{% include series.html %}
 
 ### What is Insecure Direct Object Reference
 Insecure Direct Object Reference is when a web application exposes an internal implementation object to the user. Some examples of internal implementation objects are database records, URLs, or files.
