@@ -44,7 +44,9 @@ We make want-based purchases when we're lonely. We require a temporary delight a
 ## Reinforcement
 Both rational and emotional purchases can be supported and reinforced by others. If someone recommends a product, our need for that product grows. The more we like the person, the stronger the need becomes. This is why celebrities are paid for endorsing products. When we see someone we respect, using a specific product, our perception of the product's value is increased.
 
-After reading a Gigaom article discussing [products with great user experience][1], I suddenly wanted two of the products discussed. My current toothbrush and iPad case work fine. But, I wasn't having a great experience with my products. I didn't want to share them with others. My current toothbrush seemed worthless compared to the [Oral B Professional Care SmartSeries 4000][6]!
+After reading a Gigaom article discussing [products with great user experience][1], I suddenly wanted two of the products discussed. My current toothbrush and iPad case work fine. But, I wasn't having a great experience with my products. I didn't want to share them with others. My current toothbrush seemed worthless compared to the Oral B Professional Care SmartSeries 4000!
+
+> Compared to barebones electric toothbrush, the [SmartSeries 4000][6] sets great default behaviors that require virtually no brain cycles for the user to brush properly (perfect for those groggy mornings). For instance, the brush beeps every 30 seconds (or 45 if you choose), ensuring that you spend enough time on each quadrant of your mouth. If you ever brush too hard, a prominent red light engages and the brush vibrates at an audibly different frequency to alert you. Another nice touch: The bristle color fades to indicate when it’s time to change the brush head, so you never have to keep track yourself.
 
 My decision was being driven by want. When marketing a product, case-studies and positive external reviews will drive more leads for your product than advertising or press coverage. You will acquire more customers from a positive review on a well-read blog than a TechCrunch article.
 
