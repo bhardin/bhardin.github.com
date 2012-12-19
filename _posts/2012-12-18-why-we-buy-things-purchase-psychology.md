@@ -12,7 +12,7 @@ We substitute need for want when we speak. I need a vacation. I need a higher gr
 
 But, they aren't a necessity.
 
-It's hard for humans to understand the value of things. We allow outside factors, not necessary to the purchase, affect our decision. Behavioral economics is completely focused on understanding why we make purchases with our hearts rather than our minds.
+It's hard for humans to understand the value of things. We allow outside factors, not necessary to the purchase, affect our decision. [Behavioral economics][2] is completely focused on understanding why we make purchases with our hearts rather than our minds.
 
 Many variables and human bias come into play when making purchasing decisions, but, all purchasing is based around a rational or emotional decision.
 
