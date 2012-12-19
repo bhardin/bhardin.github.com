@@ -12,7 +12,7 @@ Recently, companies have been offering money for the responsible disclosure of s
 
 > But some of the biggest vendors, who might be expected to have bounty programs, don't. Microsoft, Adobe and Apple are just three software makers who have been criticized for not paying independent researchers for bugs they have found, even though the companies benefit greatly from the free work done by those who uncover and disclose security vulnerabilities.
 
-Criticizing a company because they don't pay people who report security bugs is weak. Some companies have created a culture of responsible disclosure, while others haven't.
+Criticizing a company because they don't pay people who report security bugs is weak. Some companies have created a [culture of responsible disclosure][4], while others haven't.
 
 In the same article, Chris Evans of Google:
 
@@ -43,3 +43,4 @@ Even if companies aren't paying researchers to disclose vulnerabilities, they sh
 [1]: http://www.wired.com/threatlevel/2012/11/bug-bounties/all/
 [2]: http://blog.trailofbits.com/2009/03/22/no-more-free-bugs/
 [3]: http://theexpiredmeter.com/2009/04/parking-ticket-geek-arrestedalmost/
+[4]: /2012/08/company-culture-is-defined-by-you-and-your-actions/

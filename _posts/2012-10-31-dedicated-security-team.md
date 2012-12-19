@@ -40,7 +40,7 @@ Regardless of the reasons why you need a dedicated security team, realize the se
 
 Finding an organization who requires a security team immediately can be financially beneficial to a security person. The company has a high need (demand) and since security is a specialized skill set, low supply. 
 
-This is the best time for you as a security person to implement change. Changing culture is hard. This doesn't matter if the company has a security need or not. However, when the business understands the security need the security person has an edge. Securing a company is impossible unless management fundamentally cares about security.
+This is the best time for you as a security person to implement change. [Changing culture is hard][1]. This doesn't matter if the company has a security need or not. However, when the business understands the security need the security person has an edge. Securing a company is impossible unless management fundamentally cares about security.
 
 If you are going to be the first security hire at the company, asking these questions will help you make a decision as to whether you should join a company in this position.
 
@@ -57,3 +57,5 @@ These questions help you understand the culture of the management team. Do they 
 All security boils down to process and procedure. It doesn't matter if you are breaking into something or fixing something. A company that follows process and procedure will be better at security than a company that doesn't. Make sure to ask these questions to multiple people at the organization. If you get different answers then the company has more problems than you can reveal in an interview.
 
 Do you think any other questions are important to ask when thinking about being the first dedicated security person?
+
+[1]: /2012/08/company-culture-is-defined-by-you-and-your-actions/
