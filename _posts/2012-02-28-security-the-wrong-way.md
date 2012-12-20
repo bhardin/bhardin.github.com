@@ -11,7 +11,7 @@ Some examples of how we are handling security incorrectly include:
 
 * 47% of developers don't know if their open source is out-of-date.
 * We use vulnerability scanners to identify assets.
-* We hire penetration testers before having a _simple_ security process in place.
+* We hire [penetration testers][1] before having a _simple_ security process in place.
 
 ## Slides
  
@@ -34,3 +34,5 @@ Some examples of how we are handling security incorrectly include:
 
 * Typefaces: Helvetica Neue, Gills Sans
 * Software: [Keynote](http://www.apple.com/iwork/keynote/)
+
+[1]: /2012/12/penetration-testing-as-a-first-step/

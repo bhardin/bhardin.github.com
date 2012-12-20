@@ -14,7 +14,7 @@ Currently the Information Security industry is going through an interesting time
 
 If this is the case, then why aren't our problems fixed?
 
-In the past few years the industry has become one of builders (people who write code) and breakers (penetration testers). I recently presented on why I think this is an incorrect view. To summarize, builders are good at innovating and breakers are good at finding security vulnerabilities in the software builders build.
+In the past few years the industry has become one of builders (people who write code) and breakers ([penetration testers][1]). I recently presented on why I think this is an incorrect view. To summarize, builders are good at innovating and breakers are good at finding security vulnerabilities in the software builders build.
 
 However, when the "fix" comes along, the builder has to take time out of his feature mentality and focus on refactoring code. To date, I have never met a developer who likes to refactor.
 
@@ -35,3 +35,5 @@ I have been doing this in my current job role and I have never had so much satis
 
 Keep in mind the boy scout motto:
 > "Always Leave It Better Than You Found It."
+
+[1]: /2012/12/penetration-testing-as-a-first-step/

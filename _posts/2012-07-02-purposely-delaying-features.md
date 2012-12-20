@@ -7,7 +7,7 @@ category:
 tags: [startups, product management]
 ---
 
-In a previous life I was a penetration tester. Companies hire penetration testers to break into their computer systems by finding flaws and exploiting them. At the end of the engagement the penetration tester presents the company with a report or a deliverable.
+In a previous life I was a [penetration tester][1]. Companies hire penetration testers to break into their computer systems by finding flaws and exploiting them. At the end of the engagement the penetration tester presents the company with a report or a deliverable.
 
 While the engagement is being conducted, the penetration tester sends status updates to the main contact at the company. This status report is the vulnerabilities that were found that day.
 
@@ -46,3 +46,5 @@ Release one and talk about it. Now develop feature C. When feature C is feature 
 I have occasionally broken the work flow above to get certain critical items resolved. I use this as a general approach, but results may vary. I am sure this can be applied to other things other than product management and penetration testing.
 
 I would love to hear any success and/or failure stories where you have attempted to use this work flow in some other area.
+
+[1]: /2012/12/penetration-testing-as-a-first-step/

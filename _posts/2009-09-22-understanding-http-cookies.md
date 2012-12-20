@@ -11,7 +11,7 @@ meta:
   _edit_last: '1'
   _headspace_page_title: Understanding Cookies
 ---
-When testing web applications, penetration testers should look at how the session is handled. Session management is commonly overlooked by developers and system administrators. It is so often overlooked that it is one of the OWASP Top 10, refereed to as [Broken Authentication and Session Management](/2009/08/broken-authentication-and-session-management/).
+When testing web applications, [penetration testers][1] should look at how the session is handled. Session management is commonly overlooked by developers and system administrators. It is so often overlooked that it is one of the OWASP Top 10, refereed to as [Broken Authentication and Session Management](/2009/08/broken-authentication-and-session-management/).
 
 This article will cover certain attributes that cookies typically have. In the future we will address how to use attribute tags to help aid developers in securing their applications. This article assumes the reader has a basic understanding of what a cookie is.
 
@@ -50,3 +50,5 @@ In a future article we will continue looking at the attribute/value pairs that c
 
 * [RFC 2109 - HTTP State Management Mechanism](http://www.ietf.org/rfc/rfc2109.txt)
 * [RFC 2965 - HTTP State Management Mechanism - New VERSION!!!](http://www.ietf.org/rfc/rfc2965)
+
+[1]: /2012/12/penetration-testing-as-a-first-step/
