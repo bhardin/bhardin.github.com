@@ -17,7 +17,7 @@ The presentation uses the parable of the man building his house on sand instead 
 
 ## Video
 
-Coming Soon.
+<iframe src="http://player.vimeo.com/video/56036416" width="500" height="382" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 ## Design Notes
 
