@@ -834,6 +834,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .show{display:block;}
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
+body{background:url(/bootstrap/img/background.png) repeat 0 0;}
 h2{font-size:26px;margin-bottom:1px;}
 .nav{font-family:'Oswald',Helvetica,sans-serif;float:right;margin-bottom:0px;}.nav a{color:#469cb1;}
 .page-header{letter-spacing:1.2px;margin-top:0px;margin-bottom:25px;}.page-header .heading a{font-family:'Open Sans',Helvetica,sans-serif;font-weight:700;font-style:italic;font-size:50px;}
