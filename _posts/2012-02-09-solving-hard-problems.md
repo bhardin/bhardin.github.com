@@ -4,7 +4,7 @@ title: "Do They Solve Hard Problems?"
 image: http://farm3.staticflickr.com/2261/2207748365_f851029338.jpg
 image_credit: emma.c
 category: 
-tags: [startups, challenge]
+tags: [startups, problems]
 ---
 
 There are many questions investors (Angels and Venture Capitalists) ask you and themselves when determining whether to provide financing. One that is often heard is, "Are they solving a really hard problem?"
