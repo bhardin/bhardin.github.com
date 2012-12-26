@@ -4,7 +4,7 @@
 
 <head>
   
-		<title>Constantly Learning - Missing Page!!!</title>
+		<title>Constantly Learning</title>
 	
 
 	
@@ -42,7 +42,7 @@
   
 
   <!-- Fonts -->
-  <link href='http://fonts.googleapis.com/css?family=Oswald|Open+Sans:700italic,300|Archivo+Narrow' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
 
   <!-- RSS FEED -->
   <link href="http://feeds.bretthard.in/bretthardin" rel="alternate" type="application/atom+xml" title="Brett Hardin" />
@@ -53,13 +53,11 @@
 	$(function(){
 		$(window).scroll(function(){
 
-		var height_of_header = 150;
+		var height_of_header = 192;
 			
-		if($(window).scrollTop() > height_of_header) $('.side_bar').addClass('fixed');
-			else $('.side_bar').removeClass('fixed');
+		if($(window).scrollTop() > height_of_header) $('.below-header-sticky').addClass('fixed');
+			else $('.below-header-sticky').removeClass('fixed');
 		
-		if($(window).scrollTop() > height_of_header) $('.share_buttons').addClass('sb-fixed');
-			else $('.share_buttons').removeClass('sb-fixed');
 		});
 	});
 </script>
@@ -78,44 +76,114 @@
 </head>
     
 <body>
-	<div class="container">
-		<ul class="nav nav-pills">
-		  <li><a href="/about" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'About Me']);">About Me</a></li>
-			<li><a href="/tags" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'tags']);">Topics</a></li>
-			<li><a href="/talks" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'talks']);">Talks</a></li>
-		</ul>
+	
+	<div class="top-bar">
+		<div style="float: right; padding: 5px 5px;">
+	<!-- AddThis Follow BEGIN -->
+	<div class="addthis_toolbox addthis_default_style">
+	<a class="addthis_button_facebook_follow" addthis:userid="hardin.brett"></a>
+	<a class="addthis_button_twitter_follow" addthis:userid="miscsecurity"></a>
+	<a class="addthis_button_rss_follow" addthis:userid="http://feeds.bretthard.in/bretthardin"></a>
 	</div>
-
-	<div class="container">
-		<div class="page-header">
-		  <div class="heading"><a href="/">Constantly Learning</a></div>
-		  <div class="sub-text">Things Brett Hardin <span class="box">thinks</span> , lessons he's <span class="box">learned</span> . true story.</div>
-		</div>
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f8cae456464e357"></script>
+	<!-- AddThis Follow END -->
+</div>
 	</div>
 	
-	<div class="main-content">
-		<div class="container">
-			<div style="text-align: center;">
+	
+	<div class="header-bar">
+	<div class="container">	
+		<div class="header">
+			<a href="/">constantly learning</a>
+		</div>
+		<ul class="nav nav-pills center">
+		  <li><a href="/books" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'read']);">Read</a></li>
+			<li><a href="/tags" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'write']);">Write</a></li>
+			<li><a href="/talks" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'talk']);">Talk</a></li>
+			<li><a href="/about" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'About Me']);">About Me</a></li>
+		</ul>
+	</div></div>
+
+	<div class="below-header-sticky" style="padding: 15px">
+		<div class="input-append">
+			<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=bretthardin', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="margin-bottom: 0px">
+				<input type="text" placeholder="Subscribe via email" name="email"/>
+				<input type="hidden" value="bretthardin" name="uri"/>
+				<input type="hidden" name="loc" value="en_US"/>
+				<input type="submit" class="btn btn-success" value="Subscribe!" onclick="_gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Side Bar']);"/>
+			</form>
+		</div>
+	</div>
+
+	<div class="container main-content">	
+		<div class="row">
+	<div class="span8">
+		<div style="text-align: center">
 <h1>Kaaaaaaaaaaaahn!!!!!</h1>
-<h4>This page has been abandoned on another planet.</h4>
+<h4>I've abandoned this page on another planet.</h4>
 
 <img src="/assets/images/kahn.gif" />
 
 <h2>Please <a href="https://twitter.com/miscsecurity">let me know</a> this page no longer exists</h2>
-
-
 </div>
 
 
-		</div>
 	</div>
+
+	<div class="span4" style="padding-top: 10px;">
+		<div class="side_bar">
+	<h2>About Me</h2>
+	<div class="about_me" style="text-align: justify;">
+	<img class="avatar img-circle" alt="Brett Hardin" src="https://en.gravatar.com/userimage/8781599/408ff2d80d284339d894c762915fde94.jpg" />
 	
+	<p><small>
+	<a href="/about">Brett Hardin</a> hates writing in third-person. I'm the Founder of <a href="http://www.sourceninja.com/">SourceNinja</a> and love learning. If you found this article helpful or annoying, I'd love to <a href="#disqus_thread">start a dialogue.</a>
+	</small>
+	</p>
+
+	<div style="padding-bottom: 10px;">
+		<!-- AddThis Follow BEGIN -->
+		<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+		<a class="addthis_button_facebook_follow" addthis:userid="hardin.brett"></a>
+		<a class="addthis_button_twitter_follow" addthis:userid="miscsecurity"></a>
+		<a class="addthis_button_google_follow" addthis:userid="114765575870882823509"></a>
+		<a class="addthis_button_rss_follow" addthis:userid="http://feeds.bretthard.in/bretthardin"></a>
+		</div>
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f8cae456464e357"></script>
+		<!-- AddThis Follow END -->
+	</div>
+</div>
+	
+	<h2>Popular Articles</h2>
+	<div class="trending_content">
+		<!-- AddThis Trending Content BEGIN -->
+<div id="addthis_trendingcontent"></div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f8cae456464e357"></script>
+<script type="text/javascript">
+addthis.box("#addthis_trendingcontent", {
+    feed_title : "",
+    feed_type : "trending",
+    feed_period : "month",
+    num_links : 5,
+    height : "auto",
+    width : "auto",
+    remove : "Constantly Learning: "});
+</script>
+<!-- AddThis Trending Content END -->
+
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
 	<footer class="footer">
 		<div class="container">
-			<p>Site Built with Sublime Text2, BootStrap, and Jekyll</p>
-			<p>Copyright &copy; 2012 <a href="http://twitter.com/miscsecurity">Brett Hardin</a></p>
+			<p style="float: left;">Site Built with Sublime Text2, BootStrap, and Jekyll</p>
+			<p style="float: right;">Copyright &copy; 2012 <a href="http://twitter.com/miscsecurity">Brett Hardin</a></p>
 		</div>
 	</footer>
+
 	<!-- HitTail Code -->
 <script type="text/javascript">
 	(function(){ var ht = document.createElement('script');ht.async = true;

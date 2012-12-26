@@ -1,30 +1,16 @@
 ---
-layout: page_with_subscribe_bar
+layout: sidebar
 ---
 <div class="post">
 <div class="row">
-	
-	<div class="span1">
-		{% include share_buttons.html %}
-	</div>
-	
-	<div class="span7">
-	{% if page.image %}
-	<div class="post-image">
-		<div class="post-header-fix">
-			<h1>{{ page.title }}</h1>
-			<small><p class="date-and-comment">Written on {{ page.date | date:"%B %d, %Y" }} - <a href="#disqus_thread">Comments</a></p></small>
-		</div>
-		<img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
-	</div>
-	{% else %}
-		<h1 class="no-image">{{ page.title }}</h1>
-		<div class="no-image-date">Written on {{ page.date | date:"%B %d, %Y" }}</div>
-	{% endif %}
+	<div class="span8">
+	{% include heading_with_image.html %}
 
 	<div class="content">
 	{{ content }}
 	</div>
+
+	{% include share_buttons.html %}
 
 	<!-- Tags -->
 	<ul class="tag_box inline">
@@ -36,8 +22,6 @@ layout: page_with_subscribe_bar
 	{% if page.image_credit %}
 		<i class="icon-camera"></i> {{ page.image_credit }}
 	{% endif %}
-
-	{% include me-footer.html %}
 
 	<h2>Recent Posts</h2>	
 	{% include recent_posts.html %}

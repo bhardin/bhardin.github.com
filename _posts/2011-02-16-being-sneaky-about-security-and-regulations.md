@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Being Sneaky About Security Regulations"
+image: http://farm2.staticflickr.com/1276/702923963_3d95b82ea8.jpg
+image_credit: loungerie
 tags: [presentation, compliance, infosec, slides]
-meta_description: 
+meta_description: Presentation Mike Dahn and Brett Hardin gave during Security BsidesSF 2011.
 ---
 
 [Mike Dahn](http://chaordicmind.com/blog/) and I believe that you can't create a corporate security policy based on regulations or compliance. In creating a security process that is attempting to pass compliance standards companies will fail at security. Instead, companies can focus on actual security process and as a byproduct pass compliance and regulatory audits.

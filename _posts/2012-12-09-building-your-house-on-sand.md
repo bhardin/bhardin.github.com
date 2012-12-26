@@ -2,6 +2,8 @@
 layout: post
 title: "Building Your House on Sand"
 tags: [presentation, open source, infosec, slides]
+image: http://farm8.staticflickr.com/7165/6452974091_53f12a7532.jpg
+image_credit: fabiogis50
 meta_description: 
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: "You're Alone. Enjoy It."
 tags: [presentation, infosec, slides]
-meta_description: 
+image: http://farm6.staticflickr.com/5226/5652405755_b01e6b7ba8.jpg
+image_credit: elBidule
 ---
 
 I spoke at BsidesSF 2011 by submitting the following Abstract.

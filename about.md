@@ -3,9 +3,9 @@ layout: page
 title: Brett Hardin
 ---
 
-<a href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="false" onclick="_gaq.push(['_trackEvent', 'Followed', 'Twitter', 'top of about page']);">Follow @miscsecurity</a>
-
 Brett Hardin is the CEO of [SourceNinja](http://www.sourceninja.com). He is a developer, author, advisor, and speaker on information security and entrepreneurship. Brett began programming at the age of 8 and began his professional career getting paid to find and exploit vulnerabilities within Fortune 500 organizations. Brett also co-authored the book Hacking: The Next Generation.
+
+<a href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="false" onclick="_gaq.push(['_trackEvent', 'Followed', 'Twitter', 'top of about page']);">Follow @miscsecurity</a>
 
 Fun First!
 ---------
@@ -29,19 +29,7 @@ Patents
 Other Presences
 ---------
 * [Github](https://www.github.com/bhardin)
-
-<a href="https://twitter.com/miscsecurity" class="twitter-follow-button" data-show-count="false" onclick="_gaq.push(['_trackEvent', 'Followed', 'Twitter', 'bottom of about page']);">Follow @miscsecurity</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-<iframe src="http://githubbadge.appspot.com/badge/bhardin?s=1&a=0" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder=0></iframe>
-
-<span class="quora-follow-button" data-name="Brett-Hardin">Follow <a href="http://www.quora.com/Brett-Hardin">Brett Hardin</a> on <a href="http://www.quora.com">Quora</a><script type="text/javascript" src="http://www.quora.com/widgets/follow?embed_code=4RnvTXp"></script></span>
-
-<style>.ig-b- { display: inline-block; }
-.ig-b- img { visibility: hidden; }
-.ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
-.ig-b-v-24 { width: 137px; height: 24px; background: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24.png) no-repeat 0 0; }
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
-.ig-b-v-24 { background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }</style>
-<a href="http://instagram.com/bretth?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a>
+* [Instagram](http://instagram.com/bretth)
+* [Twitter](https://twitter.com/miscsecurity)
+* [Quora](http://www.quora.com/Brett-Hardin)
 

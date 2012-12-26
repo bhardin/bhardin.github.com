@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: sidebar
 title: Brett Hardin's Presentations
 ---
+
+# {{ page.title }}
 
 ## 2012
 * [Building Your House on Sand](/2012/12/building-your-house-on-sand/)

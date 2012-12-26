@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Security? Who Cares!
-tags: [conferences, presentation, infosec, slides]
+image: http://farm2.staticflickr.com/1119/5115509979_e74215b7e2.jpg
+image_credit: R4vi
+tags: [presentation, infosec, slides]
 ---
 The security industry constantly reminds us that privacy is important. But, is this true? Current trends show us that the concept of privacy is going away. The general public continues to use services that violate privacy agreements. Although the security community belives that privacy is important to the population, the concept of privacy is dying.
 

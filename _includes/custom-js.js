@@ -4,13 +4,11 @@
 	$(function(){
 		$(window).scroll(function(){
 
-		var height_of_header = 150;
+		var height_of_header = 192;
 			
-		if($(window).scrollTop() > height_of_header) $('.side_bar').addClass('fixed');
-			else $('.side_bar').removeClass('fixed');
+		if($(window).scrollTop() > height_of_header) $('.below-header-sticky').addClass('fixed');
+			else $('.below-header-sticky').removeClass('fixed');
 		
-		if($(window).scrollTop() > height_of_header) $('.share_buttons').addClass('sb-fixed');
-			else $('.share_buttons').removeClass('sb-fixed');
 		});
 	});
 </script>

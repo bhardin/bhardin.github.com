@@ -16,7 +16,7 @@
 	{% include bootstrap.js.html %}
 
   <!-- Fonts -->
-  <link href='http://fonts.googleapis.com/css?family=Oswald|Open+Sans:700italic,300|Archivo+Narrow' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
 
   <!-- RSS FEED -->
   <link href="{{ site.feed }}" rel="alternate" type="application/atom+xml" title="Brett Hardin" />
@@ -27,33 +27,47 @@
 </head>
     
 <body>
-	<div class="container">
-		<ul class="nav nav-pills">
-		  <li><a href="/about" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'About Me']);">About Me</a></li>
-			<li><a href="/tags" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'tags']);">Topics</a></li>
-			<li><a href="/talks" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'talks']);">Talks</a></li>
+	
+	<div class="top-bar">
+		{% include social.html %}
+	</div>
+	
+	
+	<div class="header-bar">
+	<div class="container">	
+		<div class="header">
+			<a href="/">constantly learning</a>
+		</div>
+		<ul class="nav nav-pills center">
+		  <li><a href="/books" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'read']);">Read</a></li>
+			<li><a href="/tags" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'write']);">Write</a></li>
+			<li><a href="/talks" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'talk']);">Talk</a></li>
+			<li><a href="/about" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'About Me']);">About Me</a></li>
 		</ul>
+	</div></div>
+
+	<div class="below-header-sticky" style="padding: 15px">
+		<div class="input-append">
+			<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=bretthardin', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="margin-bottom: 0px">
+				<input type="text" placeholder="Subscribe via email" name="email"/>
+				<input type="hidden" value="bretthardin" name="uri"/>
+				<input type="hidden" name="loc" value="en_US"/>
+				<input type="submit" class="btn btn-success" value="Subscribe!" onclick="_gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Side Bar']);"/>
+			</form>
+		</div>
 	</div>
 
-	<div class="container">
-		<div class="page-header">
-		  <div class="heading"><a href="/">Constantly Learning</a></div>
-		  <div class="sub-text">Things Brett Hardin <span class="box">thinks</span> , lessons he's <span class="box">learned</span> . true story.</div>
-		</div>
+	<div class="container main-content">	
+		{{ content }}
 	</div>
-	
-	<div class="main-content">
-		<div class="container">
-			{{ content }}
-		</div>
-	</div>
-	
+
 	<footer class="footer">
 		<div class="container">
-			<p>Site Built with Sublime Text2, BootStrap, and Jekyll</p>
-			<p>Copyright &copy; {{ site.time | date: "%Y" }} <a href="http://twitter.com/miscsecurity">Brett Hardin</a></p>
+			<p style="float: left;">Site Built with Sublime Text2, BootStrap, and Jekyll</p>
+			<p style="float: right;">Copyright &copy; {{ site.time | date: "%Y" }} <a href="http://twitter.com/miscsecurity">Brett Hardin</a></p>
 		</div>
 	</footer>
+
 	{% include bottom-js.html %}
 </body>
 </html>
