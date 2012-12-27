@@ -1,11 +1,11 @@
 {% if page.image %}
 	<div class="post-image">
 		<div class="ribbon">
-			<a href="{{ page.url }}" rel="me">{{ page.date | date:"%b %d, %Y" }}</a>
+			<a onClick="_gaq.push(['_trackEvent', 'Header Click', '{{ page.title }}', 'ribbon']);" href="{{ page.url }}" rel="me">{{ page.date | date:"%b %d, %Y" }}</a>
 		</div>
 
 		<div class="post-header-fix">
-			<a href="{{ page.url }}"><h1>{{ page.title }}</h1></a>
+			<a onClick="_gaq.push(['_trackEvent', 'Header Click', '{{ page.title }}', 'text']);" href="{{ page.url }}"><h1>{{ page.title }}</h1></a>
 		</div>
 
 		<img class="img-rounded" src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">

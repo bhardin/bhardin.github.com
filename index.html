@@ -5,7 +5,21 @@ layout: default
 	{% for page in paginator.posts %}
 		{% cycle '<div class="row">', '' %}
 			<div class="post span6">
-				{% include heading_with_image.html %}
+				
+				<!-- This is duplicated in _includes/heading_with_image.html -->
+
+				<div class="post-image">
+					<div class="ribbon">
+						<a onClick="_gaq.push(['_trackEvent', 'Clicked Through', '{{ page.title }}', 'ribbon']);" href="{{ page.url }}" rel="me">{{ page.date | date:"%b %d, %Y" }}</a>
+					</div>
+
+					<div class="post-header-fix">
+						<a onClick="_gaq.push(['_trackEvent', 'Clicked Through', '{{ page.title }}', 'text']);" href="{{ page.url }}"><h1>{{ page.title }}</h1></a>
+					</div>
+
+					<img class="img-rounded" src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+				</div>
+
 			</div>
 		{% cycle '', '</div>' %}
 	{% endfor %}
