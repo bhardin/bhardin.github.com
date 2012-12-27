@@ -22,7 +22,16 @@ body {
 	min-height: 26px;
 }
 
-.header {
+
+// HEADER
+.header-bar {
+	background: url(/bootstrap/img/background.png) repeat 0 0;
+	border-top: 1px solid #E6E6E6;
+	border-bottom: 1px solid #E6E6E6;
+	text-align: center;
+	width: 100%;
+
+	.header {
 	font-size: 40px;
 	padding-top: 20px;
 	padding-bottom: 15px;
@@ -31,24 +40,16 @@ body {
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
 
-	a {
-		color: #333;
+		a {
+			color: #333;
+		}
 	}
-}
-
-.header-bar {
-	background: url(/bootstrap/img/background.png) repeat 0 0;
-	border-top: 1px solid #E6E6E6;
-	border-bottom: 1px solid #E6E6E6;
-	text-align: center;
 }
 
 .below-header-sticky {
 	background-color: #222;
 	border-top: 1px solid #E6E6E6;
-	text-align: center;	
-	z-index: 9000;
-	.border-radius( 5px );
+	text-align: center;
 }
 
 .center.nav,
@@ -159,7 +160,7 @@ h2 {
 		z-index: 99;
 		
 		background-color: rgba(0, 0, 0, 0.6);
-		border-radius: 5px 5px 0 0;
+		.border-radius( 5px );
 		text-shadow: black 1px 0 2px;
 		top: 0;
 		left: 0;
@@ -210,9 +211,7 @@ h2 {
 	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
 	background-color: #FCF8E3;
 	border: 1px solid #FBEED5;
-	-webkit-border-radius: 4px;
-	-moz-border-radius: 4px;
-	border-radius: 4px;
+	.border-radius( 4px );
 }
 
 a:hover {
@@ -230,6 +229,8 @@ a:hover {
   position: fixed;
   top: -1px;
   right: -1px;
+  .border-radius( 5px );
+  z-index: 9000;
 }
 
 .white {
@@ -280,7 +281,7 @@ a:hover {
   margin: 2px;
   background: #F89406;
   color: #FFFFFF;
-  border-radius: 3px;
+  .border-radius( 3px );
   text-decoration:none;
 }
 .tag_box a span{

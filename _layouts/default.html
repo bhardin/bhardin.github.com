@@ -34,17 +34,18 @@
 	
 	
 	<div class="header-bar">
-	<div class="container">	
-		<div class="header">
-			<a href="/">constantly learning</a>
+		<div class="container">	
+			<div class="header">
+				<a href="/">constantly learning</a>
+			</div>
+			<ul class="nav nav-pills center">
+			  <li><a href="/books" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'read']);">Read</a></li>
+				<li><a href="/tags" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'write']);">Write</a></li>
+				<li><a href="/talks" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'talk']);">Talk</a></li>
+				<li><a href="/about" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'About Me']);">About Me</a></li>
+			</ul>
 		</div>
-		<ul class="nav nav-pills center">
-		  <li><a href="/books" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'read']);">Read</a></li>
-			<li><a href="/tags" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'write']);">Write</a></li>
-			<li><a href="/talks" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'talk']);">Talk</a></li>
-			<li><a href="/about" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'About Me']);">About Me</a></li>
-		</ul>
-	</div></div>
+	</div>
 
 	<div class="below-header-sticky" style="padding: 15px">
 		<div class="input-append">
