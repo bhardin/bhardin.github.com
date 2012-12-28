@@ -6,7 +6,7 @@ layout: nil
   {% for post in site.posts %}
     {% unless post.hide %}
 		  <url>
-		    <loc>{{ site.url }}{{ post.url }}</loc>
+		    <loc>http://bretthard.in{{ post.url }}</loc>
 		    {% if post.lastmod %}
 		    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
 		    {% else %}
