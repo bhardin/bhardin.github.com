@@ -3,15 +3,40 @@ layout: nil
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.sitemaps.org/schemas/sitemap-image/1.1" xmlns:video="http://www.sitemaps.org/schemas/sitemap-video/1.1">
+  
+
+  <url>
+	  <loc>http://bretthard.in/</loc>
+	  <lastmod>2012-12-28T02:12:38+00:00</lastmod>
+	  <changefreq>hourly</changefreq>
+	</url>
+	<url>
+	  <loc>http://bretthard.in/books</loc>
+	  <lastmod>2012-12-28T02:12:38+00:00</lastmod>
+	  <changefreq>monthly</changefreq>
+	</url>
+	<url>
+	  <loc>http://bretthard.in/tags</loc>
+	  <lastmod>2012-12-28T02:12:38+00:00</lastmod>
+	  <changefreq>monthly</changefreq>
+	</url>
+	<url>
+	  <loc>http://bretthard.in/talks</loc>
+	  <lastmod>2012-12-28T02:12:38+00:00</lastmod>
+	  <changefreq>monthly</changefreq>
+	</url>
+	<url>
+	  <loc>http://bretthard.in/about</loc>
+	  <lastmod>2012-12-28T02:12:38+00:00</lastmod>
+	  <changefreq>monthly</changefreq>
+	</url>
+
   {% for post in site.posts %}
     {% unless post.hide %}
 		  <url>
 		    <loc>http://bretthard.in{{ post.url }}</loc>
-		    {% if post.lastmod %}
-		    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-		    {% else %}
 		    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-		    {% endif %}
+		    <changefreq>weekly</changefreq>
 		  </url>
 	  {% endunless %}
   {% endfor %}
