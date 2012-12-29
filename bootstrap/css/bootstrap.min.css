@@ -858,6 +858,7 @@ a:hover{text-decoration:none;}
 .fixed{position:fixed;top:-1px;right:-1px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;z-index:9000;}
 .white{color:white;}
 #disqus_thread{margin-top:15px;}
+.recent_posts .thumbnails p{line-height:1.4em;margin:5px 0 5px 0;}
 .side_bar h2{margin-top:0px;}
 .side_bar .about_me{line-height:1.2em;}.side_bar .about_me .avatar{float:right;margin:10px 0 0 10px;}
 .tag_box{list-style:none;margin:0;padding:5px 0 ;overflow:hidden;}
