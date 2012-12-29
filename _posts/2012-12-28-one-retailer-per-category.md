@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "One Retailer per Category"
-image: http://farm4.staticflickr.com/3337/3194325451_e3abfb45b9.jpg
-image_credit: postaletrice
+title: "A Single Retail Store"
+image: http://farm3.staticflickr.com/2057/2125571346_dc8745359b.jpg
+image_credit: Eridony
 tags: [retail, startups, prediction]
 meta_description: 
 ---
