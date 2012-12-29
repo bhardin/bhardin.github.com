@@ -26,7 +26,7 @@ We've inherited broken imaginations from our elders. What they considered realis
 
 But, how many of us still have our imaginations intact? The world affects us all. But, a few still slip through the cracks. Steve Jobs labeled them _[the crazy ones][5]_.
 
-In, [Inventing on Principle][3], Bret describes how fragile ideas are. His commentary starts at 9:32:
+In, [Inventing on Principle][3], Bret Victor describes how fragile ideas are. His commentary starts at 9:32:
 
 > Ideas are very important to me and the thing about ideas is that ideas start small. Ideas start out tiny and weak and fragile. __In order to develop and mature, ideas need an environment where the creator can nurture them. Take care of them and feed them and shape there growth__. This is what the principle of immediate connection is all about. Since ideas are so precious to me, when I see this principle violated, when I see ideas stillborn or stunted because the creator couldn't see what they were doing, I feel that's wrong. Not wrong in the sense of violating a UI guideline or going against a best practice, but wrong in a deeper sense than that.
 
