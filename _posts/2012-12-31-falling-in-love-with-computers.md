@@ -11,7 +11,7 @@ The first computer I ever used was an Apple IIe. My elementary school had a comp
 
 These computers, which booted on 5 1/4 floppy disks, were amazing to me and the other kids. I've read about other's early experiences with computers and how they wanted to command them to do their bidding. I was no different. I programmed and entire copy of a Choose Your Own Adventure book using BASIC and GOTO statements.
 
-When I was in 3rd grade, I remember playing some game one of the 5th graders had written. He programmed a space game that procedurally generated a map using the at ("@") symbol. You would use the arrow keys to navigate a space ship, which looked an awful lot like the letter "I", between a ravine. __To this day, I still think how amazing it was that a 5th grader wrote that program.__
+When I was in 3rd grade, I remember playing some game one of the 5th graders had written. He programmed a space game that procedurally generated a map using the at ("@") symbol. You would use the arrow keys to navigate a space ship, which looked an awful lot like the letter "I", between a ravine. __To this day, I still think how amazing it was that a [5th grader wrote that program][7].__
 
 Around the same time my father was working at California State University at Sacramento helping professors and other educators connect to the [PLATO network][5]. In order to understand more about the technology our family purchased our first computer, an Apple Macintosh Classic.
 
@@ -37,3 +37,4 @@ My entire love of computers and information security can be traced to having an 
 [4]: http://en.wikipedia.org/wiki/Logo_(programming_language)
 [5]: http://en.wikipedia.org/wiki/PLATO_(computer_system)
 [6]: http://bbslist.textfiles.com/916/
+[7]: http://eviltrout.com/2012/12/30/programming-since-i-was-seven.html
