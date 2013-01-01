@@ -2,32 +2,44 @@
 layout: sidebar
 ---
 <div class="post">
-<div class="row">
-	<div class="span8">
-	{% include heading_with_image.html %}
+	<div class="row">
+		<div class="span8">
+		{% include heading_with_image.html %}
 
-	<div class="content">
-	{{ content }}
-	</div>
+		<div class="content">
+		{{ content }}
+		</div>
 
-	{% include share_buttons.html %}
+		<div class="below_post" style="margin-bottom: 15px;">
+			{% include share_buttons.html %}
 
-	<!-- Tags -->
-	<ul class="tag_box inline">
-		{% assign tags_list = page.tags %}
-  	{% include JB/tags_list %}
-	</ul>
+			<!-- Tags -->
+			<ul class="tag_box inline">
+				{% assign tags_list = page.tags %}
+		  	{% include JB/tags_list %}
+			</ul>
 
-	<!-- Photo Credit -->
-	{% if page.image_credit %}
-		<i class="icon-camera"></i> {{ page.image_credit }}
-	{% endif %}
+			<!-- Photo Credit -->
+			{% if page.image_credit %}
+				Image credit: {{ page.image_credit }}
+			{% endif %}
+		</div>
 
-	<h2>Recent Posts</h2>	
-	{% include recent_posts.html %}
+		<!-- bottom footer -->
+		<div class="row" style="border-top: 1px solid #E6E6E6; border-bottom: 4px solid #E6E6E6; background-color: #FAFAFA;">
+			<div class="span8">
+			<h3>Subscribe</h3>
+			{% include subscribe_form %}
+			</div>
 
-	{% include disqus %}
-	
-</div> <!-- End of Span6 -->
-</div> <!-- End of Row -->
+			<div class="span8">
+			<h4>Recent Posts</h4>
+			{% include recent_posts.html %}	
+			</div>
+		</div>
+
+		{% include disqus %}
+		
+		</div> <!-- End of Span8 -->
+	</div> <!-- End of Row -->
 </div><!-- End Post -->

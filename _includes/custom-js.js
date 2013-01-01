@@ -6,8 +6,10 @@
 
 		var height_of_header = 192;
 			
+		/*
 		if($(window).scrollTop() > height_of_header) $('.below-header-sticky').addClass('fixed');
 			else $('.below-header-sticky').removeClass('fixed');
+		*/
 		
 		});
 	});
