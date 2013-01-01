@@ -7,18 +7,6 @@ category:
 tags: [SEO, good enough, design]
 meta_description: Quick things that I have found about how to layout your site in order to be SEO efficient. 
 ---
-[1]: http://www.seomoz.org/google-algorithm-change "Changes to Google index algorithm"
-[3]: http://www.searchenginejournal.com/on-page-seo-factors-which-ones-have-the-most-impact-on-rankings/40926/
-[4]: /2012/10/the-facebook-like-button-is-a-web-bug/
-[5]: /2012/06/jekyll-and-seo-optimization/
-[6]: https://github.com/mojombo/jekyll/wiki/Permalinks
-[7]: /2012/10/find-long-tail-keywords-using-google-analytics/
-[8]: http://www.seomoz.org/blog/what-is-a-reverse-proxy-and-how-can-it-help-my-seo
-[9]: http://www.whitefireseo.com/site-architecture/subdomain-or-subfolder-post-panda/360/
-[10]: http://searchengineland.com/five-step-strategy-for-solving-seo-pagination-problems-95494
-[11]: http://googlewebmastercentral.blogspot.com/2011/09/pagination-with-relnext-and-relprev.html
-[12]: http://www.codinghorror.com/blog/2007/10/how-to-achieve-ultimate-blog-success-in-one-easy-step.html
-[13]: http://website-in-a-weekend.net/building-traffic/on-page-seo-multiple-h1-elements/
 
 Every time I create a site layout, I'm always concerned about how to make the site SEO compatible. I'm not talking about hacking the site so that it handles all the [new algorithms][1] that Google comes out with. I'm talking about just the basics. 
 
@@ -75,7 +63,7 @@ Web crawlers judge you by the overall impression of your page. Broken links piss
 
 Once Webmaster tools are setup. Click Health -> Crawl Errors -> Not Found
 
-[!webmaster tools pic](http://cl.ly/image/3E0w1p280Z20/Screen%20shot%202012-10-30%20at%201.57.42%20PM.png)
+![webmaster tools pic](http://cl.ly/image/3E0w1p280Z20/Screen%20shot%202012-10-30%20at%201.57.42%20PM.png)
 
 ## Duplication caused by pagination
 Only do the following if you have a sitemap.xml or else some of your content won't be found. Upon [doing research][10], I found out that google penalizes sites that have duplicate content. This means pagination can screw your site.
@@ -100,9 +88,22 @@ Links help people and search engines navigate your site. Internal links with goo
 ## One H1?
 Dave Doolin, the author of hRecipe, says:
 
-> Matt Cutts states in this video that multiple h1 elements is something Google watches for, and may penalize if the useage [sic] doesn’t make sense.
+> Matt Cutts states in this video that multiple h1 elements is something Google watches for, and may penalize if the useage [sic] doesn't make sense.
 
-> Since Google gets to decide what makes sense, I’m keeping hRecipe titles marked up as h2 elements.
+> Since Google gets to decide what makes sense, I'm keeping hRecipe titles marked up as h2 elements.
 Also, and this is important, hRecipe is open source under the GPL. Everyone is free to modify, or have someone else modify the plugin any way they see fit.
 
 So Google decides what makes sense for layout. Don't over do it.
+
+[1]: http://www.seomoz.org/google-algorithm-change "Changes to Google index algorithm"
+[3]: http://www.searchenginejournal.com/on-page-seo-factors-which-ones-have-the-most-impact-on-rankings/40926/
+[4]: /2012/10/the-facebook-like-button-is-a-web-bug/
+[5]: /2012/06/jekyll-and-seo-optimization/
+[6]: https://github.com/mojombo/jekyll/wiki/Permalinks
+[7]: /2012/10/find-long-tail-keywords-using-google-analytics/
+[8]: http://www.seomoz.org/blog/what-is-a-reverse-proxy-and-how-can-it-help-my-seo
+[9]: http://www.whitefireseo.com/site-architecture/subdomain-or-subfolder-post-panda/360/
+[10]: http://searchengineland.com/five-step-strategy-for-solving-seo-pagination-problems-95494
+[11]: http://googlewebmastercentral.blogspot.com/2011/09/pagination-with-relnext-and-relprev.html
+[12]: http://www.codinghorror.com/blog/2007/10/how-to-achieve-ultimate-blog-success-in-one-easy-step.html
+[13]: http://website-in-a-weekend.net/building-traffic/on-page-seo-multiple-h1-elements/
