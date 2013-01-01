@@ -37,4 +37,6 @@ Although creativity is a major byproduct of solitude, so is depression. Being al
 
 Emily Dickinson is a great example. She lived in seclusion most of her life and was depressed for most of it.
 
-The trick is to only seclude yourself when you are creating. You need to come up for air and feedback once you are at a good stopping point. I disagree with most people thinking that they are going to build a beautiful first product before releasing. Don't let the mantra of Steve Jobs wannabes persuade you. Develop something good enough, and release it. Take feedback and iterate.
+The trick is to only seclude yourself when you are creating. You need to come up for air and feedback once you are at a good stopping point. I disagree with most people thinking that they are going to build a beautiful first product before releasing. Don't let the mantra of Steve Jobs wannabes persuade you. [Develop something good enough, and release it][1]. Take feedback and iterate.
+
+[1]: /2013/01/its-good-enough-ship-it/

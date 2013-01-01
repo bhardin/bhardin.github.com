@@ -42,7 +42,7 @@ People in large organizations need to protect themselves. If they make a poor de
 
 In order to be more effective, you need to accomplish more. You need to focus your time on energies on lots of things, a never ending stream of to-do's. You can't create more hours in a day. But, you can open up more time by not focusing on perfection.
 
-Nothing sucks more time then attempting to create something perfect. Whatever you are working on right now doesn't need to be perfect. It needs to be good enough. When you complete the first draft of whatever you are working on, ask yourself, "is this good enough?"
+Nothing sucks more time then attempting to create something perfect. Whatever you are working on right now doesn't need to be perfect. [It needs to be good enough][1]. When you complete the first draft of whatever you are working on, ask yourself, "is this good enough?"
 
 Is this code, good enough to push to production? Is this design good enough to be effective? Is this text good enough for people to understand? 80% of the time your first draft is good enough. Push it. You can always come back to it if problems arise.
 
@@ -50,4 +50,5 @@ Doing these simple things will help free up more of your time to work on more th
 
 Stay productive.
 
+[1]: /2013/01/its-good-enough-ship-it/
 

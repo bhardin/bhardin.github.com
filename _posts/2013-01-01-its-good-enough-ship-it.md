@@ -3,7 +3,7 @@ layout: post
 title: "It's Good Enough. Ship It."
 image: http://farm9.staticflickr.com/8040/7905984008_bd5b442d71.jpg
 image_credit: Greg Annandale
-tags: []
+tags: [good enough, startups, productivity]
 meta_description: 
 ---
 
@@ -33,7 +33,7 @@ Seth Godin said that finding the perfect answer, isn't about initially knowing i
 > Step by step, page by page, interaction by interaction. As you start moving, you can't help but improve, can't help but incrementally find yourself getting back toward your north star.
 > You might not end up with perfect, but it's significantly more valuable than being stuck.
 
-Stop waiting for perfection. The current iteration of it is good-enough. Release it. Get important feedback and then work on the next thing. It doesn't matter if it's a feature for a product, a blog post, or a presentation. It can always be improved, nothing is ever perfect. If it was, it wouldn't need us.
+Stop waiting for perfection. The current iteration is good-enough. Release it. Get important feedback and then work on the next thing. It doesn't matter if it's a feature for a product, a blog post, or a presentation. It can always be improved, nothing is ever perfect. If it was, it wouldn't need us.
 
 It's good enough. Ship it.
 
