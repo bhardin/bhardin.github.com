@@ -849,7 +849,7 @@ h2{font-size:26px;margin-bottom:1px;}
 .main-content h2{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:400;}
 .content{text-align:justify;}.content img{display:block;margin-left:auto;margin-right:auto;}
 .post .post-header-fix{width:100%;position:absolute;z-index:99;background-color:rgba(0, 0, 0, 0.6);-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;text-shadow:black 1px 0 2px;top:0;left:0;}.post .post-header-fix h1{padding:0px 10px;color:white;}
-.post .post-header-fix h1{margin:3px 0 3px 70px;}
+.post .post-header-fix h1{margin:3px 0 3px 60px;}
 .post-image{position:relative;display:block;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:15px;width:450px;}.post-image img{positiion:absolute;top:0;left:0;z-index:90;}
 .post-image .caption-text{text-align:right;padding-right:15px;margin-bottom:5px;}.post-image .caption-text p{font-size:12px;}
 .part-of-a-series{padding:10px 15px 8px 10px;margin-bottom:18px;color:#C09853;text-shadow:0 1px 0 rgba(255, 255, 255, 0.5);background-color:#FCF8E3;border:1px solid #FBEED5;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}
@@ -868,6 +868,6 @@ a:hover{text-decoration:none;}
 .tag_box a span{vertical-align:super;font-size:0.8em;}
 .tag_box a.active{background:#57A957;border:1px solid #4C964D;color:#FFF;}
 .content .talk-design .color div{float:left;margin-right:5px;padding:0px 10px 0px;border:1px solid black;font-size:12px;}
-.ribbon{height:149px;width:149px;overflow:hidden;padding:0;margin:-2px 0px 0px -2px;position:absolute;z-index:200;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans serif;}
-.ribbon a{display:block;width:110px;font-size:12px;font-weight:600;background-color:#469CB1;color:#FFF;text-decoration:none;padding:0px 0px 0px 30px;position:relative;left:-45px;top:30px;text-align:center;-moz-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);}
+.ribbon{height:149px;width:149px;overflow:hidden;padding:0;margin:0;position:absolute;z-index:200;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans serif;}
+.ribbon a{display:block;width:120px;font-size:12px;font-weight:600;background-color:#469CB1;color:#FFF;text-decoration:none;padding:0px 0px 0px 35px;position:relative;left:-57px;top:30px;text-align:center;-moz-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);}
 .footer{padding:10px 0px 5px 0px;border-top:1px solid #E6E6E6;background-color:#000;color:#999999;}
