@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+
+<!-- Put the following javascript before the closing </head> tag. -->
+  
+<script>
+  (function() {
+    var cx = '002035833672648265384:iympw7bozf8';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<div class="search_form" style="padding-top: 25px; text-align: center;">
+	{% include search_form %}
+</div>
+
+<!-- Place this tag where you want the search results to render -->
+<gcse:searchresults-only></gcse:searchresults-only> 

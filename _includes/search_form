@@ -1,0 +1,6 @@
+<form class="form-search" action="/search.html">
+	  <div class="input-append">
+	    <input type="text" class="span3 search-query" name="q" placeholder="Search Constantly Learning">
+	    <button type="submit" class="btn">Search</button>
+	  </div>
+</form>
