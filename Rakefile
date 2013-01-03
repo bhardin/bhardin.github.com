@@ -43,6 +43,24 @@ task :post do
 end # task :post
 
 
+desc "Counts the number of words written"
+task :count_words do |t|
+  total_words = 0
+
+  puts "Counting Words in #{CONFIG['posts']}"
+  abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
+
+  Dir.glob(File.join(CONFIG['posts'], '*')).each do |filename|
+    # puts "Counting words in #{filename}"
+    f = File.new(filename)
+    total_words += f.read.scan(/\w+/).size
+    #puts post.scan(/\w+/).size
+  end
+
+  puts "Total Words Written: #{total_words}"
+end
+
+
 
 # Twitter Bootstrap
 # * If any of the Javascript files in the Bootstrap directory has changed, 
