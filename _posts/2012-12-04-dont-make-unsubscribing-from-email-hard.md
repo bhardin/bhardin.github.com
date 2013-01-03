@@ -14,7 +14,7 @@ These emails aren't spam. Spam is unwanted email that you haven't asked to recei
 
 Attempting to [unsubscribe from many mailing lists][13] has demonstrated that the process is hard. So hard, that Gmail has even [attempted to build unsubscribe][1] functionality into their client.
 
-Unsubscribing functionality isn't a hard problem, but, there isn't a design pattern around it. People do it differently. Large companies seem to be the worst offenders. LinkedIn is an amazing product but to stop receiving their email seems to be impossible.
+Unsubscribing functionality isn't a [hard problem][14], but, there isn't a design pattern around it. People do it differently. Large companies seem to be the worst offenders. LinkedIn is an amazing product but to stop receiving their email seems to be impossible.
 
 When companies have been built to [solve the problem][12], things are getting out of hand. Both [Unroll.me][4] and [Theswizzle][7] allows you to unsubscribe from unwanted email and rolls up email into a daily digest.
 
@@ -58,3 +58,4 @@ Do you think these requests are out of line? Do these thing bother you too?
 [11]: ttp://www.amazon.com/gp/product/1591843758/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1591843758&linkCode=as2&tag=breharsblo-20
 [12]: /2012/02/solving-hard-problems/
 [13]: /2012/06/a-better-email-inbox/
+[14]: /2012/02/solving-hard-problems/

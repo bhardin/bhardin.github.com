@@ -21,8 +21,6 @@ __Open Redirects__
 
 This is where the web application has a parameter that allows the website to [redirect the user somewhere else][1]. If this parameter is not implemented properly using a white list, attackers can use this in a phishing attack to lure potential victims to a site of their choosing.
 
-[1]: http://cwe.mitre.org/data/definitions/601.html
-
 __Directory Traversal__
 
 Assume a web application allows for a file to be rendered to a user that is stored on the local machine. If the application isn't verifying what files should be accessed, an attacker can request other files on the file system and those will also be displayed.
@@ -42,4 +40,7 @@ As always, web application developers can prevent these attacks through good pla
 
 Developers **should** use indirect reference maps. Direct mapping can easily be guessed by attackers. Developers should avoid exposing private objects to users. File names, external/internal URL's, and database keys are all examples of things that should not be displayed to the user.
 
-If direct objects must be used, then the developers should ensure through validation that the user is authorized to view what they are attempting to access. In the directory traversal example, determine what files the user should access and only grant them privileges to those files. This is known as an "accept known good" approach and is always a good idea when it comes to developing secure applications.
+If direct objects must be used, then the developers should ensure through validation that the user is authorized to view what they are attempting to access. In the directory traversal example, determine what files the user should access and only grant them privileges to those files. This is known as an "accept known good" approach and is always a good idea when it comes to [developing secure applications][2].
+
+[1]: http://cwe.mitre.org/data/definitions/601.html
+[2]: /2013/01/how-to-secure-any-application/

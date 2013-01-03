@@ -39,10 +39,12 @@ Attackers love seeing error messages such as:
 
 ## Preventing Information Leakage and Improper Error Handling
 
-When developing applications, developers should assume all of the users are hostile. As a developer having this mentality will greatly aid you in developing secure applications.
+When developing applications, developers should assume all of the users are hostile. As a developer having this mentality will greatly aid you in [developing secure applications][1].
 
 All information returned from a web server should be reviewed for potential leakage. This can be automated by a QA team using a fuzzer.
 
 Developers should also use a standard exception handling architecture to prevent information leakage from occurring. This architecture should be used and shared across the entire development team. **All developers should handle their errors the same way**.
 
 Developers or product managers may also decide to create a default error handler which returns sanitized error messages for most users in production for all error paths. Doing this will greatly reduce the attack surface that can be exploited through error message generation.
+
+[1]: /2013/01/how-to-secure-any-application/

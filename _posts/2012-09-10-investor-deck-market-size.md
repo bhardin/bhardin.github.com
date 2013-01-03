@@ -42,10 +42,12 @@ If you think you are in a new market, which hasn't been defined, it is your resp
 
 Is Our Market Large Enough to Obtain Capital?
 -------------------------------------------------------------
-Just because you have a hard problem to solve with paying users, doesn't mean it can be a venture backed business. Venture capitalists require really large markets in order to make profits. Although you could be sitting on an easy $50mm or $100mm per year opportunity, venture capital will have no problem telling you no.
+Just because you have a [hard problem to solve][1] with paying users, doesn't mean it can be a venture backed business. Venture capitalists require really large markets in order to make profits. Although you could be sitting on an easy $50mm or $100mm per year opportunity, venture capital will have no problem telling you no.
 
 In order to get venture backing consumer markets should be at least 1B potential users. With the amount of users available to you, you can get a lot of people using your products. A lot of people means a lot of eyes to see ads.
 
 Business markets (B2B), by definition, won't have the same size of opportunity as consumer-based businesses. Those business however make up for it in average sale price. The cost of having a direct sales or direct marketing team however needs to be cost effective.
 
 Your market size is the most important part of your investor slide deck. Make sure the answer to your market-size question is data backed and rock solid.
+
+[1]: /2012/02/solving-hard-problems/

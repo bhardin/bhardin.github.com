@@ -9,7 +9,7 @@ image_credit: Chris Devers
 {% include series.html %}
 
 ## What is the Problem with Failing to Restrict URL Access?
-A common problem in web applications, failing to restrict URL access typically happens when a page doesn't have the correct access control policy in place. Unauthorized users are able to view content that they shouldn't have the ability to view.
+A common problem in web applications, failing to restrict URL access happens when a page doesn't have the correct access control policy in place. Unauthorized users are able to view content that they shouldn't have the ability to view.
 
 Having these vulnerabilities in your application exposes privileged functionality to unauthorized users. It can also create a problem with your record trails. If users can access records without being authenticated the chain of custody is completely broken, preventing good auditing from taking place.
 
