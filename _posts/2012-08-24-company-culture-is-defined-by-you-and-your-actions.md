@@ -5,7 +5,7 @@ image: http://farm8.staticflickr.com/7174/6518709955_947152296a.jpg
 image_credit: maistora
 category: 
 tags: [culture, startups]
-meta_description: 
+meta_description: You can't define company culuture on a piece of paper. Employees will follow what their leaders are doing.
 ---
 
 Culture is an important thing for startups. The best way to attract great talent is having an environment that attracts people to it. Additionally, a strong culture allows your company to retain employees. People like working for a company who's culture they believe in. 

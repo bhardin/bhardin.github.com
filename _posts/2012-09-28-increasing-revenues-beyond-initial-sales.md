@@ -5,7 +5,7 @@ image: http://farm1.staticflickr.com/31/64027565_79b890c8c4.jpg
 image_credit: splorp
 category: 
 tags: [sales, revenue, startups, growth]
-meta_description: 
+meta_description: Once you have some initial sales these techniques can be used to get to the next step in your business.
 ---
 Before starting a B2B company I had never sold anything. Although many B2B businesses are starting to utilize similar strategies to acquire customers as consumer-based businesses, I was advised to understand how to sell.
 

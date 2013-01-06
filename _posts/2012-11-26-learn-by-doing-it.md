@@ -5,7 +5,7 @@ image: http://farm4.staticflickr.com/3042/3058182308_c0d72d4c55.jpg
 image_credit: woodleywonderworks
 category: 
 tags: [learning, education, experience]
-meta_description: 
+meta_description: The best way to learn anything is by taking a leap of faith and begin doing it. You'll make mistakes, but will learn in the process.
 ---
 
 The best way to learn something is by _actually doing it_.  The knowledge gained by completing a task is far more valuable than any other method of learning. Education gained from texts help you understand an experience, but, doesn't grant you the _actual_ experience.

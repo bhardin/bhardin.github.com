@@ -5,7 +5,7 @@ image: http://farm1.staticflickr.com/130/358458442_3c2a178f71.jpg
 image_credit: Bukutgirl
 category: 
 tags: [happiness, perception, mindset]
-meta_description: 
+meta_description: Happiness isn't something you achieve by making more money or finding love. Happiness is your mental state.
 ---
 
 Western cultures are incredibly unhappy. Although we have the hugest amount of opportunity available to us, we aren't happy. In fact, we are stressed all the time.

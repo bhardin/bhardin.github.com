@@ -5,7 +5,7 @@ image: http://farm3.staticflickr.com/2079/2939337382_d7e1268752.jpg
 image_credit: marfis75
 series: business plans
 tags: [problems, startups, investor deck]
-meta_description: 
+meta_description: Focus on solving peoples problems and you will never have a hard time making money.
 ---
 
 When you meet someone, the first question often asked is, "What do you do?" If you respond by saying, "I've founded a company," they'll respond by asking, what your company does.

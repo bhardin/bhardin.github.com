@@ -5,6 +5,7 @@ image: http://farm1.staticflickr.com/51/141295823_dba343e789.jpg
 image_credit: Isobel T
 category: 
 tags: [startups, product management]
+meta_description: Don't release each feature as you build it. Hold a few back and release them on a recurring basis.
 ---
 
 In a previous life I was a [penetration tester][1]. Companies hire penetration testers to break into their computer systems by finding flaws and exploiting them. At the end of the engagement the penetration tester presents the company with a report or a deliverable.

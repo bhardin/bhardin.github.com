@@ -5,7 +5,7 @@ image: http://farm3.staticflickr.com/2492/4147276281_7991f7bdaf.jpg
 image_credit: Adam Foster of Codefor
 category: 
 tags: [tech, blogging]
-meta_description: 
+meta_description: Are you using feedburner the right way? I wasn't and I've been using it for over 5 years.
 ---
 
 I love Feedburner and originally setup my RSS feed on to use feedburner. I was researching how to use the feedburner API when I discovered Google has [deprecated the API][1].

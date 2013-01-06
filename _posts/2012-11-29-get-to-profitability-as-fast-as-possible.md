@@ -5,7 +5,7 @@ image: http://farm3.staticflickr.com/2724/4146016291_4e4649b7a5.jpg
 image_credit: kaneda99
 category: 
 tags: [startups, revenue]
-meta_description: 
+meta_description: If you take VC money, you need to exit. If you are profitable, you can extend your shelf life.
 ---
 
 Once you raise money a clock starts. When the clock runs out of time you have no money left and need to shutdown the business. The clock can be extended by increasing revenue, decreasing expenses, or by raising additional financing. It's in the best interest of the company if you get the company to profitability quickly. Once your profitable, the clock reverses and begins to run the other way.

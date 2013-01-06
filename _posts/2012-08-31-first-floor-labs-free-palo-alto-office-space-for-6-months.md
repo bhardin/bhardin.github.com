@@ -5,7 +5,7 @@ image: http://farm8.staticflickr.com/7263/7699848790_6a1f2922cb.jpg
 image_credit: davidrdesign
 category: 
 tags: [startups, office space, incubators]
-meta_description: 
+meta_description: My experience with First Floor Labs and whether it's worth it.
 ---
 
 Finding office space is a pain. Upon completing AngelPad we were looking for office space to accommodate our growing team and started looking around San Francisco and the valley for great office space.

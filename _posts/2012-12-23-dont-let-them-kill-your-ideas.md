@@ -4,7 +4,7 @@ title: "Don't Let Them Kill Your Ideas"
 image: http://farm4.staticflickr.com/3267/2856148495_05d2f16d70.jpg
 image_credit: Sean Rogers1
 tags: [ideas, vision, imagination]
-meta_description: 
+meta_description: As children we have amazing dreams. But, as we age they die because we're told they aren't possible. Don't let people kill your dreams.
 ---
 My daughter said, "Wouldn't it be awesome if you got paid millions of dollars to lounge around all day?"
 

@@ -5,7 +5,7 @@ image: http://farm9.staticflickr.com/8308/7936244500_78ffd961d8.jpg
 image_credit: International Campaign to Abolish Nuclear Weapons
 category: 
 tags: [marketing, public relations, press]
-meta_description: 
+meta_description: THE END OF THE WORLD HAS COME AND GONE!
 ---
 According to the press, the world will end in less than 24 hours. 
 

@@ -3,8 +3,8 @@ layout: post
 title: "Be Determined and Focused"
 image: http://farm4.staticflickr.com/3204/2953428679_1050cba9f9.jpg
 image_credit: Doug88888
-category: 
 tags: [story, focus]
+meta_description: You can get anything you want by staying persistent.
 ---
 
 My first job was as a barista at a local coffee shop. I needed the job in order to purchase my first vehicle. Unlike most, Mom and Dad would not buy me a car, not due to lack of money, but because they wanted me to earn it. At the time, I was pissed.

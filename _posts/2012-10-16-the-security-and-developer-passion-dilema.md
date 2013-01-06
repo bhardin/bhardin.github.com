@@ -5,7 +5,7 @@ image: http://farm3.staticflickr.com/2192/2058198168_fac0e21ee1.jpg
 image_credit: Orangeya
 category: 
 tags: [infosec, developers]
-meta_description: 
+meta_description: Developing and security seem to be opposing forces. Developers will never develop securly. But, if that's true, why do we continue to try?
 ---
 I get nauseous when thinking about developing a security process at a large company again. It has nothing to do with creating an awesome process which is easy to follow and will benefit the company, developers, security researchers, and the shareholders.
 

@@ -5,7 +5,7 @@ image: http://farm9.staticflickr.com/8154/6954844640_ca64cde57d.jpg
 image_credit: Thomas Hawk
 category: 
 tags: [meetup, community, building, growth]
-meta_description: 
+meta_description: Grow a meetup group from zero people to 500 people per month using these simple steps.
 ---
 
 [Jason Craig](https://twitter.com/3141592f) and I built a security meetup group in the southern bay area called Silisec. After telling multiple people how we did it. I figured I would outline what we did here and then I can refer people to this page.

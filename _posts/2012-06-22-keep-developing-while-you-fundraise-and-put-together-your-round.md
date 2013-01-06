@@ -3,8 +3,8 @@ layout: post
 title: "Have Fun While Raising Venture Capital"
 image: http://farm1.staticflickr.com/145/381941233_99ba9795b3.jpg
 image_credit: Johnny Vulkan
-category: 
 tags: [financing, startups]
+meta_description: Raising venture capital is frustrating. Make sure you remember the reason why you're raising it.
 ---
 
 Fund raising is incredibly depressing. Some days, you don't want to get out of bed. You don't want to hear for the last time, "I think your market is too small" or "We have invested in something similar." To some extent you need to build up your tolerance to hearing no.

@@ -5,7 +5,7 @@ image: http://farm8.staticflickr.com/7278/6881449630_37e31fc143.jpg
 image_credit: seyed mostafa zamani
 category: 
 tags: [lean, seclusion, productivity]
-meta_description: 
+meta_description: The greatest writers used seclusion to maximize their ideas. Can you use these techniques to maximize your output?
 ---
 
 I recently read through this [presentation](http://www.slideshare.net/pbohm/having-an-impact) and was intrigued by an idea presented:

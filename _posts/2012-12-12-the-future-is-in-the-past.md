@@ -3,8 +3,8 @@ layout: post
 title: "The Future is in the Past"
 image: http://farm4.staticflickr.com/3538/3395061105_0fd264698f.jpg
 image_credit: Daccc
-category: 
 tags: [tech, blogging, hardware]
+meta_description: We've already built interesting things previously. We continue to build the same thing over and over again. We like reinventing the wheel.
 ---
 
 The world creates new and exciting things every day. To fill our time we want fun distractions. Sometimes these distractions lead to amazing new discoveries and technologies that completely change the way society works. Smart phones, The Internet, and Facebook have brought the world closer together while creating fun things for us to play with. If any of these things were removed we would feel lost.

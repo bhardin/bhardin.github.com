@@ -4,7 +4,7 @@ title: "A Single Retail Store"
 image: http://farm3.staticflickr.com/2057/2125571346_dc8745359b.jpg
 image_credit: Eridony
 tags: [retail, startups, prediction]
-meta_description: 
+meta_description: The internet is making physical stores go out of business faster than Walmart. Only one store will survive in a single category.
 ---
 
 Alex Muir wrote an article about having only [one brand left in each retail category][1]. Although Alex lives in the United Kingdom, it's a pretty interesting idea and one which has a chance of becoming true.

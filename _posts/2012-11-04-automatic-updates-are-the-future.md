@@ -5,7 +5,7 @@ image: http://farm6.staticflickr.com/5049/5346013882_1622484340.jpg
 image_credit: Malenkov in Exile
 category: 
 tags: [infosec, tech]
-meta_description: 
+meta_description: An applications ability to update itself should be built in funcationlity. It shouldn't be an exception to the rule.
 ---
 
 Kaspersky's Q3 IT Threat Evolution Report was released last week and although reports like these are typically used as marketing fluff by vendors they still provide interesting insights.

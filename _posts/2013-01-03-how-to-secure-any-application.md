@@ -4,7 +4,7 @@ title: "How to Secure Any Application"
 image: http://farm5.staticflickr.com/4057/4245415240_9789056ff3.jpg
 image_credit: Rab's Da
 tags: [vulnerabilities, security basics, infosec, programming]
-meta_description: 
+meta_description: All vulnerable applications suffer form the same underlying problem. If your applications have ever been exploited it's because of this one simple thing.
 ---
 
 Do you want to prevent your application from being hacked? I'll let you in on a little secret. Every security vulnerability in existence exploits the same underlying problem.

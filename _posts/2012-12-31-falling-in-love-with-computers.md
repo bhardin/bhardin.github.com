@@ -4,7 +4,7 @@ title: "Falling In Love With Computers"
 image: http://farm5.staticflickr.com/4140/4906802490_0997fabd5c.jpg
 image_credit: kenfagerdotcom
 tags: [tech, computers, story]
-meta_description: 
+meta_description: All of us remember the first time we loved something. This is how I fell in love with computers and technology.
 ---
 
 The first computer I ever used was an Apple IIe. My elementary school had a computer lab and if you went to school early, you could play with computers instead of the playground. Some of the  _cool kids_ would go to the computer room, so I followed. We learned to use [LOGO][4] and BASIC along with playing video games like [Karateka][3].

@@ -4,6 +4,7 @@ title: "iA Writer Is My Killer App"
 image: http://farm4.staticflickr.com/3455/3242023336_4e32f5c751.jpg
 image_credit: JD Hancock
 tags: [writing, blogging, product reviews, tech]
+meta_description: I never thought the justification for my iPad would be a word processing applciation.
 ---
 
 It's taken me a long time to identify a killer app. Since purchasing the iPad, I've experimented with many different use cases attempting to find a justification for it. I love technology and Apple products, but, was hesitant when the iPad arrived. Other than being cool, I couldn't understand a device that lived between my phone and laptop.

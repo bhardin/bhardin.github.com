@@ -5,7 +5,7 @@ image: http://farm4.staticflickr.com/3010/2693784352_b4747cd81b.jpg
 image_credit: Kasaa
 category: 
 tags: [productivity, large organizations, good enough]
-meta_description: 
+meta_description: When people show up to work, they aren't being productive, they're staying busy.
 ---
 
 When asking any startup, "How are things going?" The response will always be, busy. But why? What specifically makes them feel busy?

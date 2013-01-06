@@ -5,7 +5,7 @@ image: http://farm1.staticflickr.com/1/1110334_a1977da14f.jpg
 image_credit: drp
 category: 
 tags: [SEO, marketing, ROI]
-meta_description: 
+meta_description: How do you find interesting articles to write about? You can use long tail keywords that you already have to generate more traffic from them.
 ---
 I recently discovered [HitTail](http://www.hittail.com), an awesome service for discovering long tail keywords to [maximize SEO][1].
 

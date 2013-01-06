@@ -4,7 +4,7 @@ title: "Gift Cards Are Impersonal"
 image: http://farm4.staticflickr.com/3225/3131341442_cbd664f5b1.jpg
 image_credit: allerleirau
 tags: [shopping, gifts]
-meta_description: 
+meta_description: The worst gift you can ever give is a gift card. By giving someone a gift card you are telling them you don't care about them.
 ---
 
 One day before Christmas, I was in Target and noticed 15 people standing around the gift card display, urgently grabbing handfuls of gift cards for their friends and family. Many selections were available, including movie theaters, outdoor sports stores, and even the International House of Pancakes. These people couldn't be bothered to go to different places to get the gift cards. No. They were located in one store, so they could do all of their shopping in 10 minutes.

@@ -5,7 +5,7 @@ image: http://farm5.staticflickr.com/4110/4982662859_5b5726c9ca.jpg
 image_credit: Bethan
 category: 
 tags: [facebook, infosec, bugs]
-meta_description: 
+meta_description: The like button tracks you across all sites as long as you're logged in to facebook.
 ---
 The Facebook like button is the most interesting product Facebook publishes. After asking numerous people what they think the Facebook button is for and hearing their responses, I realize not many people know what Facebook actually gets from having their like button distributed all over the Internet.
 

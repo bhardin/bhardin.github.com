@@ -5,7 +5,7 @@ image: http://farm4.staticflickr.com/3354/3188003733_a294ca421e.jpg
 image_credit: Johan.V.
 category: 
 tags: [sales, presenting, marketing]
-meta_description: 
+meta_description: Giving a presentation at a technical conference is already challenging, but, how do you make the audience to understand your product without sounding like you're selling it to them.
 ---
 
 People don't like vendors. They know the vendor is trying to sell them something. People don't like being sold to; they want to be educated. People like buying from people who are likeable subject matter experts. They don't like buying from companies who are out to make the sale.

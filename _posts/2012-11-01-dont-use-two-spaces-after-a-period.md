@@ -5,7 +5,7 @@ image: http://farm7.staticflickr.com/6044/6242157701_90ed52064b.jpg
 image_credit: txcrew
 category: 
 tags: [communication, design, writing]
-meta_description: 
+meta_description: The age old argument is finally settled. Only use one space after a period.
 ---
 
 [1]: http://www.vletter.com/graphics/declaration_closeup.gif

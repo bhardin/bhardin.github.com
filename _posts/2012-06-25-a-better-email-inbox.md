@@ -2,9 +2,9 @@
 layout: post
 title: "A Better Email Inbox"
 image: http://farm5.staticflickr.com/4123/4774087006_f73cd99ea1.jpg
-image_credit: net_efekt
-category: 
+image_credit: net_efekt 
 tags: [email, lifestyle]
+meta_description: Your inbox has too many messages. The signal to noise ratio is high. Here is how you can improve it.
 ---
 
 I am overburdened with how many emails I receive. Everyday I get more and more email. When I first setup my personal email account I didn't think about how many mails I would receive and how often I would receive them.

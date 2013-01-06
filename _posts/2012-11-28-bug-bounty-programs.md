@@ -5,7 +5,7 @@ image: http://farm4.staticflickr.com/3515/3942045952_0cbebeede1.jpg
 image_credit: Jillian Stewart
 category: 
 tags: [vulnerabilities, infosec, bugs]
-meta_description: 
+meta_description: The purpose of bug bounty programs isn't to pay people. It's to grant legal immunity.
 ---
 
 Recently, companies have been offering money for the responsible disclosure of security vulnerabilities. Google and Facebook led the way and others are starting to follow suit. According to [Wired][1], the programs have been successful but some are criticizing companies who don't have bug bounty programs.

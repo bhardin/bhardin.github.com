@@ -4,7 +4,7 @@ title: "Why We Buy Things"
 image: http://farm6.staticflickr.com/5017/5473185104_f3e3c1f147.jpg
 image_credit: x-ray delta one
 tags: [marketing, psychology, decisions]
-meta_description: 
+meta_description: The psychology around why we buy things boils down to either need or want based purchases.
 ---
 
 There are only two reasons we buy things. We make purchasing decisions based on either need or want. However, We become confused between the two. 

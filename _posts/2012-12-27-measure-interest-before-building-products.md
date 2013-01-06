@@ -4,7 +4,7 @@ title: "Measure Interest Before Building Products"
 image: http://farm9.staticflickr.com/8203/8165522990_35bb77482b.jpg
 image_credit: Public Record Office Victoria
 tags: [lean, marketing, testing, startups, programming]
-meta_description: 
+meta_description: Before building something, make sure to identify the need that users have.
 ---
 Before you ever sell a product you should be marketing to everyone. Unlike traditional marketing, which includes branding, this is a different approach. You determine the interest of users before you ever try to sell your product.
 

@@ -5,7 +5,7 @@ image: http://farm3.staticflickr.com/2255/2445843615_44d78c897e.jpg
 image_credit: Brennan Moore
 category: 
 tags: [blogging, communication, community, product experience]
-meta_description: 
+meta_description: If you have a blog and don't have comments enabled then you don't have a blog. You have a soapbox.
 ---
 
 If you post content on the Internet but don't have comments enabled you're missing out. You're already writing valuable content and sharing ideas, but you're not getting feedback on those ideas? The goal of posting any content is about sharing ideas with others. Your blog should be a place where people come to communicate and discuss subjects around your thoughts and ideas.

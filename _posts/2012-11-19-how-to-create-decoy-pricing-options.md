@@ -5,7 +5,7 @@ image: http://farm1.staticflickr.com/149/378610215_6b569a8689.jpg
 image_credit: M J M
 category: 
 tags: [marketing, sales, pricing, psychology]
-meta_description: 
+meta_description: A summary of what decoy pricing is and how to use it in your pricing strategy.
 ---
 
 Companies can use decoy pricing to make certain products more desirable. Decoy pricing exploits the decoy effect in humans. The decoy effect is a phenomenon where we change preference for one of two items when a third is introduced.

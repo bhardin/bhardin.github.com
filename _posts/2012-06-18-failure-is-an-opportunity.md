@@ -3,7 +3,7 @@ layout: post
 title: "Failure Is An Opportunity"
 image: http://farm5.staticflickr.com/4076/4746541991_ae5c672a98.jpg
 image_credit: Brandon Doran
-category: 
+meta_description: A humans natural reaction to failure is as a negative. But, successful people use failure as a learning tool.
 tags: [startups, failure]
 ---
 

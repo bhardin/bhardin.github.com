@@ -4,7 +4,7 @@ title: "Extracurricular Activities of Passionate People"
 image: http://farm5.staticflickr.com/4050/4512779257_260aeb5b3b.jpg
 image_credit: PhotoBen27
 tags: [developers, passion, differentiate, off-time]
-meta_description: 
+meta_description: Successful people seem to do many things in their offtime. Is this the sign of someone who is truly passionate about things?
 ---
 One part of college admissions is the extracurricular activities section. Some colleges, such as [MIT][2], can place high value in the interests a candidate has outside of their school's general requirements. Many gifted people are underachievers, since school doesn't challenge them, and they self-educate around other things they find interesting.
 

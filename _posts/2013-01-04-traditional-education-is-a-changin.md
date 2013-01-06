@@ -4,7 +4,7 @@ title: "Traditional Education Is a Changin'"
 image: http://farm3.staticflickr.com/2243/2540055580_8ea9caee01.jpg
 image_credit: I, Timmy
 tags: [education, learning, change]
-meta_description: 
+meta_description: We don't learn in the real world the way schools teach us. Is education changing to represent the way we learn naturally?
 ---
 
 With every generation of educators the world becomes better at teaching. Most common knowledge today, wasn't common 100 years ago. For instance, modern calculus wasn't _invented_ (discovered is a better word) until 1687, but is now the cornerstone of any scientific education. 300 years ago the concept was brand new but now it's a requirement!

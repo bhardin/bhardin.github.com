@@ -4,7 +4,7 @@ title: "It's Good Enough. Ship It."
 image: http://farm9.staticflickr.com/8040/7905984008_bd5b442d71.jpg
 image_credit: Greg Annandale
 tags: [good enough, startups, productivity]
-meta_description: 
+meta_description: Before you do anything, prove the value in shipping the idea. Time and energy can be saved by building things people value.
 ---
 
 Being done always trumps perfection. All humans, to some extent, are perfectionists. Our ideas, projects, and productions are fragile. We doubt ourselves and don't want to be embarrassed by something we've put our name on. We think people we respect will laugh at us if our work isn't any good.

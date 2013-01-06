@@ -5,6 +5,7 @@ image: http://farm2.staticflickr.com/1318/1431384410_db38f8a58f.jpg
 image_credit: woodleywonderworks
 category: 
 tags: [blogging, tech, SEO]
+meta_description: Jekyll doesn't have built in SEO tools. Here is a tool you can use to apply SEO principles to each of your posts.
 ---
 
 After moving my blog from Wordpress to Jekyll, I missed one plugin greatly: The Wordpress SEO plugin by Yoast.
