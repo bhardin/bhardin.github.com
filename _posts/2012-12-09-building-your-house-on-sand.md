@@ -4,7 +4,7 @@ title: "Building Your House on Sand"
 tags: [presentation, open source, infosec, slides]
 image: http://farm8.staticflickr.com/7165/6452974091_53f12a7532.jpg
 image_credit: fabiogis50
-meta_description: BayThreat 2012 presentation: Third-Party library dependencies are the source of many of our security issues. How can we manage them in a maintable way?
+meta_description: Third-Party library dependencies are the source of many of our security issues. How can we manage them in a maintable way?
 ---
 
 Companies are building their applications on reusable code. Third-party libraries make up the bulk of a companies code base and is the foundation of the application. 
