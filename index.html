@@ -2,27 +2,19 @@
 layout: default
 ---
 <div class="posts">
+	<ul class="thumbnails">
 	{% for page in paginator.posts %}
-		{% cycle '<div class="row">', '' %}
-			<div class="post span6">
-				
-				<!-- This is duplicated in _includes/heading_with_image.html -->
-
-				<div class="post-image">
-					<div class="ribbon">
-						<a onClick="_gaq.push(['_trackEvent', 'Clicked Through', '{{ page.title }}', 'ribbon']);" href="{{ page.url }}" rel="me">{{ page.date | date:"%b %d, %Y" }}</a>
-					</div>
-
-					<div class="post-header-fix">
-						<a onClick="_gaq.push(['_trackEvent', 'Clicked Through', '{{ page.title }}', 'text']);" href="{{ page.url }}"><h1>{{ page.title }}</h1></a>
-					</div>
-
-					<img class="img-rounded" src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
-				</div>
-
-			</div>
-		{% cycle '', '</div>' %}
+		{% cycle '<div class="row" style="padding-top: 30px;">', '' %}
+		<li class="span6">
+			<a href="#" class="thumbnail">
+    	<h2 style="margin-top: 0px; text-align: center;">{{ page.title }}</h2>
+    	<img src="{{ page.image }}" alt="">
+  		<p style="color: #AAA; text-align: right;">{{ page.date | date:"%b %d, %Y" }}</p>
+  		</a>
+    </li>
+    {% cycle '', '</div>' %}
 	{% endfor %}
+	</ul>
 </div>
 
 <!-- Pagination links -->
