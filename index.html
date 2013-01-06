@@ -6,9 +6,9 @@ layout: default
 	{% for page in paginator.posts %}
 		{% cycle '<div class="row" style="padding-top: 30px;">', '' %}
 		<li class="span6">
-			<a href="#" class="thumbnail">
+			<a href="{{ page.url }}" class="thumbnail">
     	<h2 style="margin-top: 0px; text-align: center;">{{ page.title }}</h2>
-    	<img src="{{ page.image }}" alt="">
+    	<img src="{{ page.image }}" alt="{{ page.title }}">
   		<p style="color: #AAA; text-align: right;">{{ page.date | date:"%b %d, %Y" }}</p>
   		</a>
     </li>
