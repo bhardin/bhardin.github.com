@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Broken Authentication and Session Management
-tags: [vulnerabilities, owasp]
+tags: [vulnerabilities, owasp, authentication]
 image: http://farm5.static.flickr.com/4063/4266314914_0ab7cac5c4.jpg
 image_credit: Rinoninha
 series: the Owasp Top 10
