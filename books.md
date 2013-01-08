@@ -1,6 +1,7 @@
 ---
 layout: page_with_sidebar
 title: Recommended Reading for Everyone
+meta_description: Books Brett Hardin recommends reading. All of these books will help you with some aspect of your life.
 ---
 
 ### [How to Win Friends and Influence People](http://www.amazon.com/gp/product/0671027034/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0671027034)

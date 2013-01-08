@@ -1,6 +1,7 @@
 ---
 layout: sidebar
 title: Brett Hardin's Presentations
+meta_description: Presentations Brett Hardin has given at various conferences and meetups.
 ---
 
 # {{ page.title }}
