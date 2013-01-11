@@ -14,8 +14,9 @@
 //Custom Variables
 @purple: 						#C825F0;
 @orange: 						#F89406;
-@baseFontSize: 			16px;
-@baseLineHeight: 		25px;
+@baseFontSize: 			15px;
+@textColor: 				#666;
+@baseLineHeight: 		22px;
 @linkColor: 				@orange;
 
 body {
@@ -25,6 +26,12 @@ body {
 .top-bar {
 	background: url(/bootstrap/img/background2.png) repeat 0 0;
 	min-height: 26px;
+}
+
+
+// This should eventually be removed... It is a hack.
+blockquote p {
+	font-size: @baseFontSize;
 }
 
 
@@ -98,7 +105,9 @@ h2 {
 	background-color: #FFF;
 	padding-left: 60px;
 	padding-right: 60px;
-
+	p {
+		font-weight: 300;
+	}
 
 	h1 {
 		font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
