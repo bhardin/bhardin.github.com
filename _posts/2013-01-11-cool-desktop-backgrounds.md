@@ -7,9 +7,9 @@ tags: [tech, github, infosec]
 meta_description: Here are some cool desktop backgrounds that I put on github. Feel free to send me a pull request, if you want to add one.
 ---
 
-Let's face it. Desktop backgrounds -- or desktop wallpapers -- are super cool. Having an awesome desktop background will make you the envy of your friends and coworkers. Nothing says how hard you are like a background of a cute kitty. If you don't have a unique desktop background you aren't a real computer user. 
+Let's face it. Desktop backgrounds - or desktop wallpapers - are super cool. Having an awesome desktop background will make you the envy of your friends and coworkers. Nothing says how hard you are like a background of a cute kitty. If you don't have a unique desktop background you aren't a real computer user. 
 
-Desktop backgrounds show others who you are, without saying anything. Having a single color background demonstrates your minimalism. A background with a Winston Churchill phrase show's you care about others. Using the standard background that comes with your computer tells others you don't know how to operate a computer.
+Desktop backgrounds show others who you are, without saying anything. Having a single color background demonstrates your minimalism. A background with a Winston Churchill quote may [explain to others why you care about their attitude][8]. Using the standard background that comes with your computer tells others you don't know how to operate a computer.
 
 Every time I see the standard image as a background, I die a little inside. I won't explain how to change your background, because if you don't know how to [Google it][7], you should return your computer from where you got it.
 
@@ -29,3 +29,4 @@ I don't know if desktop wallpapers can [blow up your computer][6]. But, I love c
 [5]: http://www.securelist.com/en/calendar
 [6]: http://www.linuxhaxor.net/hackers-can-turn-your-home-computer-into-a-bomb/
 [7]: https://www.google.com/search?q=changing%20your%20desktop%20background
+[8]: https://github.com/bhardin/backgrounds/blob/master/Churchill-attitude.jpg "Winston Churchill"
