@@ -883,8 +883,7 @@ a:hover{text-decoration:none;}
 .white{color:white;}
 #disqus_thread{margin-top:15px;}
 .recent_posts .thumbnails p{line-height:1.4em;margin:5px 0 5px 0;}
-.side_bar h2{margin-top:0px;}
-.side_bar .about_me{line-height:1.2em;}.side_bar .about_me .avatar{float:right;margin:10px 0 0 10px;}
+.side_bar .about_me .avatar{float:right;margin:10px 0 0 10px;}
 .tag_box{list-style:none;margin:0;padding:5px 0 ;overflow:hidden;}
 .tag_box li{line-height:28px;}
 .tag_box.inline li{float:left;}
