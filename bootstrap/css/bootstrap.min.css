@@ -851,21 +851,26 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .show{display:block;}
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
+h1,h2{line-height:44px;}
+h1{font-size:30px;}
+h2{font-size:26.25px;}
+h3{font-size:18.75px;}
+h3{line-height:27.5px;}
+h4{font-size:15px;}
+h5{font-size:12.75px;}
+h6{font-size:9px;}
+blockquote p{font-size:15px;}
+p,li{font-weight:300;}
+h1,h2,h3{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:400;}
 body{background:url(/bootstrap/img/background2.png) repeat 0 0;}
 .top-bar{background:url(/bootstrap/img/background2.png) repeat 0 0;min-height:26px;}
-blockquote p{font-size:15px;}
 .header-bar{background:url(/bootstrap/img/background.png) repeat 0 0;border-top:1px solid #E6E6E6;border-bottom:1px solid #E6E6E6;text-align:center;width:100%;}.header-bar .header{font-size:40px;padding-top:20px;padding-bottom:15px;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:0.2em;}.header-bar .header a{color:#333;}
-.below-header-sticky{background-color:#222;border-top:1px solid #E6E6E6;text-align:center;}
+.below-header{background-color:#222;border-top:1px solid #E6E6E6;text-align:center;padding:15px;}
 .center.nav,.center.nav>li{float:none;display:inline-block;*display:inline;*zoom:1;vertical-align:top;}
 .center{margin-bottom:0;}
 .center .nav{text-align:center;}
 .nav>li>a{text-transform:uppercase;font-family:Georgia, serif;color:#777;}
-h2{font-size:26px;margin-bottom:1px;}
-.main-content{background-color:#FFF;padding-left:60px;padding-right:60px;}.main-content p{font-weight:300;}
-.main-content h1{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;line-height:40px;padding-top:25px;font-weight:400;font-size:32px;}.main-content h1 a{color:black;}
-.main-content h1.no-image{padding-top:0px;}
-.main-content .no-image-date{margin-bottom:12.5px;color:#999999;}
-.main-content h2{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:400;}
+.main-content{background-color:#FFF;padding-left:60px;padding-right:60px;}
 .content{text-align:justify;}.content img{display:block;margin-left:auto;margin-right:auto;}
 .post .post-header-fix{width:100%;position:absolute;z-index:99;background-color:rgba(0, 0, 0, 0.6);-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;text-shadow:black 1px 0 2px;top:0;left:0;}.post .post-header-fix h1{padding:0px 10px;color:white;}
 .post .post-header-fix h1{margin:3px 0 3px 60px;}

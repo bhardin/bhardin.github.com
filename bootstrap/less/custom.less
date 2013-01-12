@@ -19,6 +19,24 @@
 @baseLineHeight: 		22px;
 @linkColor: 				@orange;
 
+//Overwriting Base Bootstrap values
+h1,h2 { line-height: @baseLineHeight * 2; }
+h1 { font-size: @baseFontSize * 2; }
+h2 { font-size: @baseFontSize * 1.75; } 
+h3 { font-size: @baseFontSize * 1.25; } 
+h3 { line-height: @baseLineHeight * 1.25; }
+h4 { font-size: @baseFontSize; } 
+h5 { font-size: @baseFontSize * 0.85; }
+h6 { font-size: @baseFontSize * 0.60; } 
+// This should eventually be removed... It is a hack.
+blockquote p { font-size: @baseFontSize; }
+p, li { font-weight: 300; }
+
+h1, h2, h3 { 
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	font-weight: 400;
+}
+
 body {
 	background: url(/bootstrap/img/background2.png) repeat 0 0;
 }
@@ -29,10 +47,6 @@ body {
 }
 
 
-// This should eventually be removed... It is a hack.
-blockquote p {
-	font-size: @baseFontSize;
-}
 
 
 // HEADER
@@ -58,10 +72,11 @@ blockquote p {
 	}
 }
 
-.below-header-sticky {
+.below-header {
 	background-color: #222;
 	border-top: 1px solid #E6E6E6;
 	text-align: center;
+	padding: 15px;
 }
 
 .center.nav,
@@ -89,52 +104,14 @@ blockquote p {
 
 
 // -----------------------
-// Old Stuff
+// Main Content
 // -----------------------
 
-// General Format
-h2 {
-	font-size: 26px;
-	margin-bottom: 1px; 
-}
-
-// Main Content
 .main-content {
-	
 	//Main Color Look and Feel
 	background-color: #FFF;
 	padding-left: 60px;
 	padding-right: 60px;
-	p {
-		font-weight: 300;
-	}
-
-	h1 {
-		font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-		line-height: 40px;
-		padding-top: 25px;
-		font-weight: 400;
-		font-size: 32px;
-		a {
-			color: black;
-		}
-	}
-
-	// Correcting the height of h1 if there is no image
-	h1.no-image {
-		padding-top: 0px; 
-		//margin-top: 0px;
-	}
-
-	.no-image-date {
-		margin-bottom: 12.5px;
-		color: @grayLight;
-	}
-
-	h2 {
-		font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-		font-weight: 400;
-	}
 }
 
 .content{
@@ -148,7 +125,7 @@ h2 {
 }
 
 // ----------------------------------
-// Used for the Dark Image Overlay
+// Dark Image Overlay
 // ----------------------------------
 
 .post {
@@ -197,8 +174,6 @@ h2 {
 		top: 0;
 		left: 0;
 		z-index: 90;
-		
-		// padding: 10px 10px 5px 10px;
 	}
 
 	.caption-text {
@@ -211,6 +186,8 @@ h2 {
 		}
 	}
 }
+
+// ----------------------------------
 
 .part-of-a-series {
 	padding: 10px 15px 8px 10px;
