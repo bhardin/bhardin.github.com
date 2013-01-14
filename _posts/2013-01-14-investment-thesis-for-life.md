@@ -9,7 +9,7 @@ meta_description: Measure all aspects of your life using investment theses. Crea
 
 > Everybody against me. Why? Why me? I have not brought violence to you. I have not brought Thug Life to America. I didn't create Thug Life. I diagnosed it. -Tupac Shakur
 
-When I saw Reid Hoffman speak to a small group at StartX, he stated that he used an investment thesis for everything he does. An investment thesis helps investors set up goals and metrics for their investments. It helps investors determine whether the investment is [on track for success][2].
+When I saw [Reid Hoffman][5] speak to a small group at StartX, he stated that he used an investment thesis for everything he does. An investment thesis helps investors set up goals and metrics for their investments. It helps investors determine whether the investment is [on track for success][2].
 
 Reid stated that after some time, he'll revisit his investment thesis to measure how he's doing. If a project he's working on is still inline with his original goals, he'll continue working on it. If he determines the project is not doing what it originally intended, he abandons it.
 
@@ -33,3 +33,4 @@ What do you think? Do you think having an investment thesis for everything in yo
 [2]: /2012/11/building-a-successful-habit-successfully/
 [3]: /2012/06/challenge-yourself-always-learn/
 [4]: http://sebastianmarshall.com/1-improvement-per-day
+[5]: https://twitter.com/quixotic
