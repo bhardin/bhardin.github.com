@@ -11,7 +11,7 @@ I originally saw this posted on HackerNews and wanted to repost it for those who
 
 I wanted to create a duplicate of the [original][1], just in-case Hackpad ever went away.
 
-## Advertising
+## [Advertising](http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models-advertising.html)
 
 * Display Ads - ex. Yahoo!
 * Search Ads - ex. Google
@@ -31,7 +31,7 @@ I wanted to create a duplicate of the [original][1], just in-case Hackpad ever w
 * Location-based offers - ex/ Foursquare
 * Sponsorships / Site Takeovers -  ex. Pandora
 
-## Commerce
+## [Commerce](http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models-commerce.html)
 
 * Retailing - ex. Zappos
 * Marketplace - ex. Etsy
@@ -51,7 +51,7 @@ I wanted to create a duplicate of the [original][1], just in-case Hackpad ever w
 * Reverse Auction - ex Priceline
 * Barter for services ex. SwapRight
 
-## Subscription
+## [Subscription](http://www.avc.com/a_vc/2013/01/mba-mondays-revenue-models-subscriptions.html)
 * Software as a Service (SAAS) - ex. Salesforce
 * Service as a Service - ex. Shopify
 * Content as a Service - ex: Spotify, Netflix
@@ -64,7 +64,7 @@ I wanted to create a duplicate of the [original][1], just in-case Hackpad ever w
 * Paywall - ex. NYTimes
 * Voice and video-conferencing - ex. Uberconference
 
-## Peer to Peer
+## [Peer to Peer](http://www.avc.com/a_vc/2013/01/mba-mondays-revenue-models-peer-to-peer.html)
 * Peer-to-Peer Lending - ex. Lending Club,
 * Peer-to-Peer Gambling - ex. BetFair
 * Peer-to-peer buying - ex Etsy
