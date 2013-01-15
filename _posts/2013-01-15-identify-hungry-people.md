@@ -23,6 +23,8 @@ You can identify them, because they may be interviewing for a job that doesn't e
 
 If you hear them say, "I don't know how to do this, but I'm learning more about it every day" or "I don't have a background in this, but I'll give it my best shot" they are the right people. They want to bust their ass for your company. There is a reason they reached out to your company, and not others. They are passionate about you and your team.
 
-Give those people an opportunity to grow with your company. They may not be the most valuable resource currently. But, if you make an investment in them they will take your company to new places.
+In hiring these people you are creating a loyal employee. They are interviewing for a position that's out of their reach because they want to work with you. Give hungry people an opportunity to grow with your company.
+
+Hungry people may not currently be the most valuable resource. But, if you make an investment in them they will live and die with you.
 
 [1]: /2012/08/company-culture-is-defined-by-you-and-your-actions/
