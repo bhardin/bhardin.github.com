@@ -9,7 +9,7 @@
 // -----------------------
 
 // bootstrap.less doesn't include the responsive CSS. Pull it in.
-// @import "responsive.less";
+@import "responsive.less"; //need to include this to make bootstrap responsive
 
 //Custom Variables
 @purple: 						#C825F0;
@@ -25,6 +25,29 @@
 @background-post-color:	@offGray;
 @base_fonts: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
+//@Dave: tune your media queries here:
+
+/* Large desktop */
+@media (min-width: 1200px) {  }
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {  }
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {  }
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {  }
+
+//Overwriting Base Bootstrap values
+h1,h2 { line-height: @baseLineHeight * 2; }
+h1 { font-size: @baseFontSize * 2; }
+h2 { font-size: @baseFontSize * 1.75; } 
+h3 { font-size: @baseFontSize * 1.25; } 
+h3 { line-height: @baseLineHeight * 1.25; }
+h4 { font-size: @baseFontSize; } 
+h5 { font-size: @baseFontSize * 0.85; }
+h6 { font-size: @baseFontSize * 0.60; } 
 // This should eventually be removed... It is a hack.
 blockquote {
 	background-image:url('/assets/images/quote.png');
