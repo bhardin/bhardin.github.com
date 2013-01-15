@@ -9,7 +9,8 @@
 // -----------------------
 
 // bootstrap.less doesn't include the responsive CSS. Pull it in.
-// @import "responsive.less";
+@import "responsive.less"; //need to include this to make bootstrap responsive
+
 
 //Custom Variables
 @purple: 						#C825F0;
@@ -18,6 +19,20 @@
 @textColor: 				#666;
 @baseLineHeight: 		22px;
 @linkColor: 				@orange;
+
+//@Dave: tune your media queries here:
+
+/* Large desktop */
+@media (min-width: 1200px) {  }
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {  }
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {  }
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {  }
 
 //Overwriting Base Bootstrap values
 h1,h2 { line-height: @baseLineHeight * 2; }

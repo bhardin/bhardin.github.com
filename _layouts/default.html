@@ -4,15 +4,17 @@
 <head>
   {% if page.title %}
   	<title>Constantly Learning: {{ page.title }}</title>
-	{% else %}
-		<title>Constantly Learning</title>
-	{% endif %}
+  {% else %}
+	<title>Constantly Learning</title>
+  {% endif %}
 
 	{% if page.meta_description %}
 		<meta name="description" content="{{ page.meta_description }}" />
 	{% endif %}
 
-	 <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css"/>
 	{% include bootstrap.js.html %}
 
   <!-- Fonts -->
