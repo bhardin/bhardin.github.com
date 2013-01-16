@@ -7,9 +7,9 @@ tags: [book review, lifestyle, struggle]
 meta_description: A review of The Dip. A little book by Seth Godin teaching you when to quit.
 ---
 
-I noticed _[Permission Marketing][2]_ on Gino's Shelf. I've been reading Seth Godin's Blog - the author of _Permission Marketing_ - for about six months and asked Gino if he thought _Permission Marketing_ was the best book Seth Godin has written. Gino owns all Seth's books and thinks _Purple Cow_ and _The Dip_ are his best.
+I noticed _[Permission Marketing][2]_ on Geno's Shelf. I've been reading Seth Godin's Blog - the author of _Permission Marketing_ - for about six months and asked Geno if he thought _Permission Marketing_ was the best book Seth Godin has written. [Geno Moscetti][4] owns all Seth's books and thinks _Purple Cow_ and _The Dip_ are his best.
 
-Gino is from a financial services background, something different from my own. I surround myself with smart people, from diverse backgrounds, who's opinions I respect. I think I can learn more by having a diverse set of friends. When friends suggest books to read, I do. I love learning from other's mentors.
+Geno is from a financial services background, something different from my own. I surround myself with smart people, from diverse backgrounds, who's opinions I respect. I think I can learn more by having a diverse set of friends. When friends suggest books to read, I do. I love learning from other's mentors.
 
 I've heard of _[Purple Cow][3]_ but not _[The Dip][1]_  so I decided to read it first.
 
@@ -45,3 +45,4 @@ Let me know if you found the review helpful. If you've read [The Dip][1], what r
 [1]: http://amzn.to/10sNFaK "The Dip"
 [2]: http://amzn.to/VYfmBs "Permission Marketing"
 [3]: http://amzn.to/UXBmNr "Purple Cow"
+[4]: http://genomoscetti.com/ 
