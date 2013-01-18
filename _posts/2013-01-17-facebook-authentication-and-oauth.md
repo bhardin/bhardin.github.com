@@ -32,7 +32,7 @@ The three -- or four if you count LinkedIn -- will continue to fight for identit
 ## Mobile Applications
 If you are creating the authentication pattern for a mobile application, don't ask for a password.
 
-Mobile applications -- more than web applications -- should never ask for a user to create credentials. It's a horrible design interaction. But, neither should ever need to ask users to create an account. We already have established authentication services. Applications can use Facebook, Twitter, or Google for user authentication. There is no reason to ask a user to _create _ an account.
+Mobile applications -- more than web applications -- should never ask for a user to create credentials. It's a horrible design interaction. Neither should need to ask users to create an account. We already have established authentication services. Applications can use Facebook, Twitter, or Google for user authentication. There is no reason to ask a user to _create _ an account.
 
 ## Two-Factor Auth
 
