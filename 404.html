@@ -43,26 +43,12 @@
 
   <!-- Fonts -->
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
 
   <!-- RSS FEED -->
   <link href="http://feeds.bretthard.in/bretthardin" rel="alternate" type="application/atom+xml" title="Brett Hardin" />
 
-	<script src="http://code.jquery.com/jquery-1.7.2.min.js" type="text/javascript" ></script>
-
-<script type="text/javascript">
-	$(function(){
-		$(window).scroll(function(){
-
-		var height_of_header = 192;
-			
-		/*
-		if($(window).scrollTop() > height_of_header) $('.below-header-sticky').addClass('fixed');
-			else $('.below-header-sticky').removeClass('fixed');
-		*/
-		
-		});
-	});
-</script>
+	
 
 	<script type="text/javascript">
   var _gaq = _gaq || [];
@@ -107,7 +93,7 @@
 		</div>
 	</div>
 
-	<div class="below-header-sticky" style="padding: 15px">
+	<div class="below-header">
 		<div class="input-append">
 			<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=bretthardin', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="margin-bottom: 0px">
 				<input type="text" placeholder="Subscribe via email" name="email"/>
@@ -129,7 +115,7 @@
 
 <h2>Please <a href="https://twitter.com/miscsecurity">let me know</a> this page no longer exists.</h2>
 
-<p>You can also use me to find what you're looking for:</p>
+<p>You can also use this to find what you were looking for:</p>
 <form class="form-search" action="/search.html">
       <div class="input-append">
         <input type="text" class="span3 search-query" name="q" placeholder="Search Constantly Learning">
