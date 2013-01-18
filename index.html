@@ -4,15 +4,15 @@ layout: default
 <div class="posts">
 	<ul class="thumbnails">
 	{% for page in paginator.posts %}
-		{% cycle '<div class="row" style="padding-top: 30px;">', '' %}
-		<li class="span6">
+		{% cycle '<div class="row" style="padding-top: 30px;">', '', '' %}
+		<li class="span4">
 			<a href="{{ page.url }}" class="thumbnail">
-    	<h2 style="margin-top: 0px; text-align: center;">{{ page.title }}</h2>
     	<img src="{{ page.image }}" alt="{{ page.title }}">
-  		<p style="color: #AAA; text-align: right;">{{ page.date | date:"%b %d, %Y" }}</p>
+  		<h3 class="title">{{ page.title }}</h3>
+  		<h5 class="date">{{ page.date | date:"%B %d, %Y" }}</h5>
   		</a>
     </li>
-    {% cycle '', '</div>' %}
+    {% cycle '', '', '</div>' %}
 	{% endfor %}
 	</ul>
 </div>

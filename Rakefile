@@ -8,6 +8,8 @@ BOOTSTRAP_SOURCE = ENV['BOOTSTRAP_SOURCE'] || File.expand_path("~/Documents/proj
 # Where to find our custom LESS file.
 BOOTSTRAP_CUSTOM_LESS = 'bootstrap/less/custom.less'
 
+NODE_MODULES_PATH = '/Users/bhardin/node_modules/.bin/'
+
 SOURCE = "."
 CONFIG = {
   'posts' => File.join(SOURCE, "_posts"),
@@ -117,7 +119,7 @@ task :bootstrap_css do |t|
   end
 
   puts "Compiling #{BOOTSTRAP_CUSTOM_LESS}"
-  sh 'lessc', '--compress', BOOTSTRAP_CUSTOM_LESS, 'bootstrap/css/bootstrap.min.css'
+  sh "#{NODE_MODULES_PATH}lessc", '--compress', BOOTSTRAP_CUSTOM_LESS, 'bootstrap/css/bootstrap.min.css'
 end
 
 task :default => :jekyll
