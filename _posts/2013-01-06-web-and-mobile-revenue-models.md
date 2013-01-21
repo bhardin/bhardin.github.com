@@ -73,7 +73,7 @@ I wanted to create a duplicate of the [original][1], just in-case Hackpad ever w
 * Peer-to-peer service - ex. Mechanical Turk, TaskRabbit
 * Peer-to-peer Mobile WiFi/Tethering - ex (??)
 
-## Transaction processing
+## [Transaction Processing](http://www.avc.com/a_vc/2013/01/mba-mondays-revenue-models-transaction-processing.html)
 * Merchant Acquiring - ex. PayPal (Online / Offline), Stripe (Online), Square (Offline)
 * Intermediary - ex. IP Commerce (POS 2.0), CardSpring
 * Acquiring Processing - ex. Paymentech
