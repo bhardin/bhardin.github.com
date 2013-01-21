@@ -8,6 +8,8 @@ tags: [problems, startups, investor deck]
 meta_description: Focus on solving peoples problems and you will never have a hard time making money.
 ---
 
+{% include series.html %}
+
 When you meet someone, the first question often asked is, "What do you do?" If you respond by saying, "I've founded a company," they'll respond by asking, what your company does.
 
 What they're asking is, "What problem does your business solve?"
