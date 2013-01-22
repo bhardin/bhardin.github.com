@@ -3,7 +3,7 @@ layout: post
 title: "How to Use Anchor Pricing"
 image: http://farm7.staticflickr.com/6090/6089730465_c92f686e7c.jpg
 image_credit: Franck Vervial
-tags: [marketing, pricing, sales, psychology]
+tags: [marketing, pricing, sales, psychology, cognitive bias]
 meta_description: An intersting pshylogical condition with humans can be utilized to sell things at higher price-points.
 ---
 Anchoring describes the human tendency to use the first piece of information presented when making decisions. The first thing offered is called the anchor. We use this anchor to make decisions about anything subsequently offered.

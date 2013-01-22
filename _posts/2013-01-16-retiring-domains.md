@@ -40,7 +40,7 @@ We could fork the content. If Aaron's essays were in a repository we could creat
 drivingmenuts has an interesting thought on the [Hacker News Thread][3] discussing the idea of retiring domains:
 > Will the internet become littered with millions of permanent monuments to misguided souls, like the little crosses on side of our highways?
 
-_Note: I usually call people by there first names when mentioning them later. In Jackie Robinson's case, I couldn't bring myself to calling him anything other than Mr. Robinson out of enormous respect._
+_Note: I usually call people by their first names after mentioning thier full name in an article. In Jackie Robinson's case, I couldn't bring myself to calling him anything other than Mr. Robinson._
 
 [1]: http://threads2.scripting.com/2013/january/weShouldRetireAaronsNumber
 [2]: http://archive.org/about/
