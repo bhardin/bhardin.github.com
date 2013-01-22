@@ -20,7 +20,7 @@
 @linkColor: 				@orange;
 
 //Overwriting Base Bootstrap values
-h1,h2 { line-height: @baseLineHeight * 2; }
+h1,h2 { line-height: @baseLineHeight * 1.45; }
 h1 { font-size: @baseFontSize * 2; }
 h2 { font-size: @baseFontSize * 1.75; } 
 h3 { font-size: @baseFontSize * 1.25; } 
@@ -29,7 +29,9 @@ h4 { font-size: @baseFontSize; }
 h5 { font-size: @baseFontSize * 0.85; }
 h6 { font-size: @baseFontSize * 0.60; } 
 // This should eventually be removed... It is a hack.
-blockquote p { font-size: @baseFontSize; }
+blockquote p { 
+	line-height: @baseLineHeight;
+	}
 p, li { 
 	font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
 }
@@ -148,7 +150,7 @@ body {
 
 	.post-header-fix {
 		h1 {
-			margin: 3px 0 3px 60px;
+			margin: 9px 0 3px 60px;
 		}
 	}
 }
