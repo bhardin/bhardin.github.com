@@ -29,9 +29,18 @@ h4 { font-size: @baseFontSize; }
 h5 { font-size: @baseFontSize * 0.85; }
 h6 { font-size: @baseFontSize * 0.60; } 
 // This should eventually be removed... It is a hack.
-blockquote p { 
-	line-height: @baseLineHeight;
+blockquote {
+	border-left: 5px solid @linkColor;
+
+	p { 
+		line-height: @baseLineHeight;
 	}
+	li {
+		text-align: right;
+		list-style-type: none;
+		font-size: @baseFontSize * 1.25;
+	}
+}
 p, li { 
 	font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
 }

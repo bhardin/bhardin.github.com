@@ -859,7 +859,8 @@ h3{line-height:35px;}
 h4{font-size:16px;}
 h5{font-size:13.6px;}
 h6{font-size:9.6px;}
-blockquote p{line-height:28px;}
+blockquote{border-left:5px solid #f89406;}blockquote p{line-height:28px;}
+blockquote li{text-align:right;list-style-type:none;font-size:20px;}
 p,li{font-family:'Droid Sans',Helvetica,Arial,sans-serif;}
 h1,h2,h3{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:400;}
 body{background:url(/bootstrap/img/background2.png) repeat 0 0;}
