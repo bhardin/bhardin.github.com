@@ -3,8 +3,8 @@ layout: post
 title: "Avoid Distractions and Remain Focused"
 image: http://farm2.staticflickr.com/1389/4721798240_0beb2a46ab.jpg
 image_credit: Bethan
-category: 
 tags: [startups, advice]
+meta_description: In order to build something amazing you need to remain focused on builidng that thing. Let nothing else distract you.
 ---
 
 Building a startup is exciting. Every day you are working to create something that will shake up an industry, perhaps even change the world.
@@ -35,7 +35,7 @@ What value you deliver can take multiple forms. But remember your customers will
 
 > A-B-C. A-Always, B-Be, C-Closing. Always be closing, always be closing.   
 
-> - Blake
+> * [Blake](http://www.youtube.com/watch?v=w7y6EOGY87U)
 
 To be a __successful__ startup you need to have your metric. This is the hockey stick that everyone talks about. The item the metric is measuring should tie directly to how successful you will be.
 
@@ -50,7 +50,7 @@ At [SourceNinja](http://www.sourceninja.com) our metric is how many packages are
 ## Don't Burn Out
 > It's better to burn out, than to fade away.
 
-> - Neil Young
+> * Neil Young
 
 Although it is fundamentally important to your startup that you remain focused on providing value and not being distracted, there is one exception. Don't burn out.
 

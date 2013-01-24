@@ -11,7 +11,7 @@ There are many questions investors (Angels and Venture Capitalists) ask you and 
 
 > A startup is a small company that takes on a hard technical problem.
 
-> - Paul Graham
+> * Paul Graham
 
 Investors believe if you are solving something really hard it loosens people's wallets. People want to pay for things that make their lives easier. A great example is Netflix. Netflix was originally a way to avoid paying late fees from Blockbuster. People hate late fees.
 

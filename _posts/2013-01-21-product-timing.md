@@ -12,7 +12,7 @@ meta_description: Why is now the time for your product? Has it been attempted be
 
 > One resists the invasion of armies; one does not resist the invasion of ideas. 
 
-> -Victor Hugo
+> * Victor Hugo
 
 Your investor presentation should contain the historical events explaining how and why your category has changed. These changes should signal why now is the right time for your product or service. Your idea and Cthulhu can't devour the world, unless the [stars are right][2].
 
@@ -52,7 +52,7 @@ The trends should point to why the market is ready for your idea.
 
 > You are not special. You are not a beautiful or unique snowflake. You're the same decaying organic matter as everything else.
 
-> -Tyler Durden
+> * [Tyler Durden](http://www.youtube.com/watch?v=4X2AvfSTi6Q)
 
 Your idea is not new, but, every idea has a _right time_. Recent trends and the history of the category should align for your product's adoption. 
 

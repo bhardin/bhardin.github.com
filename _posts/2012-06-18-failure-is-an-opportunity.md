@@ -12,7 +12,7 @@ Founding a startup is a huge leap of faith. Most startup fail. Yes, that means y
 ## Failure Isn't Fun
 > My great concern is not whether you have failed, but whether you are content with your failure.
 
-> - Abraham Lincoln
+> * Abraham Lincoln
 
 No one likes failure. No one wants to fail. Even people who say, "I love failing! I learn so much," Don't like to fail. Everyone wants to be successful in every aspect of their life.
 
@@ -24,7 +24,7 @@ The good news is that most __people will only remember your success__. Tenacity 
 
 > Success consists of going from failure to failure without loss of enthusiasm.
 
-> - Winston Churchill
+> * Winston Churchill
 
 Learn Quickly. If you don't like failing. Don't do a startup.
 
@@ -40,7 +40,7 @@ You need to constantly experiment and figure out where your capital is best util
 ## The Edge Case
 > Success is often achieved by those who don't know that failure is inevitable.
 
-> - Coco Chanel
+> * Coco Chanel
 
 In software, there are edge cases. Edge cases are ways the product isn't generally used. If the majority of businesses fail, then success is an edge case. __Your businesses success will be defined on whether you find the edge case fast enough.__ You can't concern yourself with the business failing while you are putting all your energies in it to succeed.
 
@@ -51,7 +51,7 @@ Have one eye on your burn rate, but have the other eye and your brain focused on
 
 > Do not fear mistakes. You will know failure. Continue to reach out.
 
-> - Benjamin Franklin
+> * Benjamin Franklin
 
 **You Will Know Failure!** I love this quote. Every successful person was a failure at some point. It takes failures in order to find success.
 
