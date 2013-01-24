@@ -3,6 +3,6 @@
 		<input type="text" placeholder="Subscribe via email" name="email"/>
 		<input type="hidden" value="bretthardin" name="uri"/>
 		<input type="hidden" name="loc" value="en_US"/>
-		<input type="submit" class="btn btn-success" value="Subscribe!" onclick="_kmq.push(['record', 'Conversion']); _gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Bottom of Post']);"/>
+		<input type="submit" class="btn btn-success" value="Subscribe!" onclick="_kmq.push(['record', 'Email Subscribe']); _gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Bottom of Post']);"/>
 	</form>
 </div>
