@@ -2,8 +2,8 @@
 layout: post
 title: "Let's Kill Subversion"
 image: http://farm9.staticflickr.com/8463/8119188557_3e7ee663cc.jpg
-image_credit: 
-tags: [version control, product reviews, adoption, software]
+image_credit: TexasEagle
+tags: [version control, software, tools, tech]
 meta_description: Subversion sucks. As software developers we need to kill things we don't like and adopt better technologies.
 ---
 
