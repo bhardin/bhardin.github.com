@@ -71,6 +71,8 @@ But, chaneling Ms. Wilson can be hard because you don't know what to look for. F
 
 Copy and paste the article of your text into Nitpicker and you will learn how bad of a writer you are. Remember, we put our well written draft into this tool and it still comes out red - or yellow in this case.
 
+![Nitpicker Screenshot](http://cl.ly/image/433N1E2t3y23/nitpicker.png)
+
 The first time you use nitpicker, you will not even know what it's complaining about. Do your research. This is why the first twenty articles are painful. There is a large hill to climb, but with repetition, you will learn about each of the items the tool is complaining about. Pay attention to [passive voice][5].
 
 But, don't fix all the things nitpicker points out. The tool is making suggestions, but you are the author of the work. Use the highlights as suggestions. For instance, I like reading [contractions for blog posts][1]. It's less formal and reads the way a friend talks. Keep in mind what type of reading your audience perfers.
