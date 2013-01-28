@@ -859,12 +859,13 @@ h3{line-height:35px;}
 h4{font-size:16px;}
 h5{font-size:13.6px;}
 h6{font-size:9.6px;}
-blockquote{border-left:5px solid #f89406;}blockquote p{line-height:28px;}
+blockquote{border-left:5px solid #f89406;background-color:#ffffff;margin-right:30px;margin-left:30px;padding-left:15px;padding-right:15px;}blockquote p{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;line-height:28px;text-align:left;font-size:17.6px;}
 blockquote li{text-align:right;list-style-type:none;font-size:20px;}
 p,li{font-family:'Droid Sans',Helvetica,Arial,sans-serif;}
 h1,h2,h3{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:400;}
 body{background:url(/bootstrap/img/background2.png) repeat 0 0;}
 .top-bar{background:url(/bootstrap/img/background2.png) repeat 0 0;min-height:26px;}
+.below-post{border-top:1px solid #E6E6E6;border-bottom:4px solid #E6E6E6;background-color:#ffffff;}
 .header-bar{background:url(/bootstrap/img/background.png) repeat 0 0;border-top:1px solid #E6E6E6;border-bottom:1px solid #E6E6E6;text-align:center;width:100%;}.header-bar .header{font-size:40px;padding-top:20px;padding-bottom:15px;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:0.2em;}.header-bar .header a{color:#333;}
 .below-header{background-color:#222;border-top:1px solid #E6E6E6;text-align:center;padding:15px;}
 .center.nav,.center.nav>li{float:none;display:inline-block;*display:inline;*zoom:1;vertical-align:top;}

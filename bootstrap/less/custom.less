@@ -18,6 +18,8 @@
 @textColor: 				#222;
 @baseLineHeight: 		28px;
 @linkColor: 				@orange;
+//@offGray:						#FAFAFA;
+@offGray:						#FFFFFF;
 
 //Overwriting Base Bootstrap values
 h1,h2 { line-height: @baseLineHeight * 1.45; }
@@ -31,9 +33,17 @@ h6 { font-size: @baseFontSize * 0.60; }
 // This should eventually be removed... It is a hack.
 blockquote {
 	border-left: 5px solid @linkColor;
-
+	background-color: @offGray;
+	margin-right: 30px;
+	margin-left: 30px;
+	padding-left: 15px;
+	padding-right: 15px;
+	
 	p { 
+		font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 		line-height: @baseLineHeight;
+		text-align: left;
+		font-size: @baseFontSize * 1.1;
 	}
 	li {
 		text-align: right;
@@ -59,6 +69,11 @@ body {
 	min-height: 26px;
 }
 
+.below-post {
+	border-top: 1px solid #E6E6E6; 
+	border-bottom: 4px solid #E6E6E6; 
+	background-color: @offGray;
+}
 
 
 
