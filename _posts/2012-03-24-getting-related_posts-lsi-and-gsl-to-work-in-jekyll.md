@@ -22,56 +22,21 @@ What gives? Well, clearly the gem [isn't compatible with latest version of GSL, 
 
 [1]: http://rubyforge.org/tracker/index.php?func=detail&aid=29508&group_id=285&atid=1167
 
-Welcome to Hacking Brew
------------------------
-* * *
+## Installing GSL 1.14
 
-__Edit:__ Levi Figueira pointed out an easier way to do what follows. His alternative method is the following:
+Thanks to [Levi Figueira](http://levifig.com/) for pointed out an easier way to install GSL 1.14 without hacking homebrew.
 
 	$ brew tap homebrew/versions
 	$ brew install gsl114
+	
+Once installed, you need to unlink the old gsl and link the new gsl.
+	
+	$ brew unlink gsl
+	Unlinking /usr/local/Cellar/gsl/1.15... 16 links removed
+	$ brew link gsl114
+	Linking /usr/local/Cellar/gsl114/1.14... 16 symlinks created
 
 This should be all you actually need and can skip the rest of this section. If this doesn't work for you, let me know in the comments.
-
-* * *
-
-Brew is just a github repository. So, what you want to do, is checkout a branch that contains the version you want to install. In our case, we want to install gsl 1.14. First, you need to identify where brew is installed. Mine is installed in `/usr/local`. A simple way to find out is to locate a brew formula. `locate gsl.rb`. 
-
-	$ locate gsl.rb
-	/usr/local/Library/Formula/gsl.rb
-
-Now, we need to identify the checkin that changed the version of GSL.
-
-	git log -S '1.14' -- Library/Formula/gsl.rb
-
-This command looks for commits where the string `1.14` was either added or removed in the file `Library/Formula/gsl.rb`. Two receive two commits.
-
-	commit 02910443658a267b71d980372bbbb832c7401cd0
-	Author: Mary <mary@Marys-MacBook-Pro.local>
-	Date:   Sat Aug 13 00:02:02 2011 -0400
-
-	    gsl 1.15
-	    
-	    Signed-off-by: Adam Vandenberg <flangy@gmail.com>
-
-	commit c06fcf417448f6291d54b4600e4acc7af434a84f
-	Author: David Höppner <0xffea@gmail.com>
-	Date:   Sat Mar 20 11:33:34 2010 +0100
-
-	    gsl: version update to 1.14
-
-Awesome. We need to checkout and old commit in order to install 1.14. The `c06fcf417448f6291d54b4600e4acc7af434a84f` is the commit we want. So we simply run:
-
-	git checkout -b gsl-1.14 c06fcf417448f6291d54b4600e4acc7af434a84f
-
-Now we are inside of a branch called gsl-1.14. Simply run:
-	
-	brew install gsl
-
-Cleanup time: Checking out master and deleting the branch we created.
-
-	git checkout master
-	git branch -d gsl-1.14
 
 Installing the GSL gem
 ----------------------
