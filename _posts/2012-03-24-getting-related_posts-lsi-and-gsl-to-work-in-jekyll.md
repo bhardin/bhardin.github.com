@@ -71,7 +71,7 @@ Now we are inside of a branch called gsl-1.14. Simply run:
 Cleanup time: Checking out master and deleting the branch we created.
 
 	git checkout master
-	git branch -d postgresql-8.4.4
+	git branch -d gsl-1.14
 
 Installing the GSL gem
 ----------------------
