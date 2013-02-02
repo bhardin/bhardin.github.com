@@ -7,8 +7,6 @@ tags: [psychology, life]
 meta_description: Having personal insecurities is a human condition. It stems from perception and comparing yourself to others.
 ---
 
-# Personal Insecurities
-
 > Because one believes in oneself, one doesn't try to convince others. Because one is content with oneself, one doesn't need others' approval. Because one accepts oneself, the whole world accepts him or her. 
 
 > * [Lao Tzu][2]
