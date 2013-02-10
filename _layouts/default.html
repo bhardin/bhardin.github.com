@@ -16,6 +16,10 @@
 	{% include bootstrap.js.html %}
 
   <!-- Fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Volkhov:700' rel='stylesheet' type='text/css'>
+
+	<script src="http://use.edgefonts.net/league-gothic.js"></script>
+
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
 
@@ -28,22 +32,16 @@
 </head>
     
 <body>
-	
-	<div class="top-bar">
-		{% include social.html %}
-	</div>
-	
-	
 	<div class="header-bar">
 		<div class="container">	
 			<div class="header">
 				<a href="/">constantly learning</a>
 			</div>
 			<ul class="nav nav-pills center">
-			  <li><a href="/books" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'read']);">Read</a></li>
-				<li><a href="/tags" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'write']);">Write</a></li>
-				<li><a href="/talks" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'talk']);">Talk</a></li>
-				<li><a href="/about" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'About Me']);">About Me</a></li>
+			  <li><a href="/books.html" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'read']);">Read</a></li>
+				<li><a href="/tags.html" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'write']);">Write</a></li>
+				<li><a href="/talks.html" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'talk']);">Talk</a></li>
+				<li><a href="/about.html" onClick="_gaq.push(['_trackEvent', 'Clicked Link', 'About Me']);">About Me</a></li>
 			</ul>
 		</div>
 	</div>

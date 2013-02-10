@@ -1,5 +1,5 @@
 ---
-layout: page_with_sidebar
+layout: page
 title: Recommended Reading for Everyone
 meta_description: Books Brett Hardin recommends reading. All of these books will help you with some aspect of your life.
 ---

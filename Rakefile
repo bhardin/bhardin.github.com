@@ -8,7 +8,7 @@ BOOTSTRAP_SOURCE = ENV['BOOTSTRAP_SOURCE'] || File.expand_path("~/Documents/proj
 # Where to find our custom LESS file.
 BOOTSTRAP_CUSTOM_LESS = 'bootstrap/less/custom.less'
 
-NODE_MODULES_PATH = '/Users/bhardin/node_modules/.bin/'
+NODE_MODULES_PATH = '/usr/local/share/npm/bin/'
 
 SOURCE = "."
 CONFIG = {

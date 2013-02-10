@@ -1,45 +1,39 @@
 ---
-layout: sidebar
+layout: default
 ---
 <div class="post">
-	<div class="row">
-		<div class="span8">
-		{% include heading_with_image.html %}
+	<div class="span8 offset2">
+		<h1>{{ page.title }}</h1>
+		<p class="date">Brett Hardin - {{ page.date | date:"%B %d, %Y" }}<p>
+		<img style="display: block; margin-left: auto; margin-right: auto;" src="{{page.image}}">
 
 		<div class="content">
 		{{ content }}
 		</div>
 
-		<div class="below_post" style="margin-bottom: 15px;">
-			{% include share_buttons.html %}
+		<!-- Photo Credit -->
+		{% if page.image_credit %}
+			<p>Image credit: {{ page.image_credit }}</p>
+		{% endif %}
 
-			<!-- Tags -->
-			<ul class="tag_box inline">
-				{% assign tags_list = page.tags %}
-		  	{% include JB/tags_list %}
-			</ul>
+		<!-- Tags -->
+		<ul class="tag_box inline" style="margin-bottom: 15px">
+			{% assign tags_list = page.tags %}
+	  	{% include JB/tags_list %}
+		</ul>
 
-			<!-- Photo Credit -->
-			{% if page.image_credit %}
-				Image credit: {{ page.image_credit }}
-			{% endif %}
-		</div>
+		{% include about_me.html %}
 
 		<!-- bottom footer -->
-		<div class="row below-post">
-			<div class="span8">
+		<div class="below-post">
 			<h3>Subscribe</h3>
 			{% include subscribe_form %}
-			</div>
-
-			<div class="span8">
+			
 			<h3>Recent Posts</h3>
 			{% include recent_posts.html %}	
-			</div>
 		</div>
 
-		{% include disqus %}
-		
-		</div> <!-- End of Span8 -->
-	</div> <!-- End of Row -->
-</div><!-- End Post -->
+		{% include disqus %}	
+
+	</div> <!-- End of Span8 -->
+</div> <!-- End of Post -->

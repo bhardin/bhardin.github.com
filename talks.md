@@ -1,10 +1,8 @@
 ---
-layout: sidebar
+layout: page
 title: Brett Hardin's Presentations
 meta_description: Presentations Brett Hardin has given at various conferences and meetups.
 ---
-
-# {{ page.title }}
 
 ## 2012
 * [Building Your House on Sand](/2012/12/building-your-house-on-sand/)

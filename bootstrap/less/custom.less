@@ -14,33 +14,28 @@
 //Custom Variables
 @purple: 						#C825F0;
 @orange: 						#F89406;
-@baseFontSize: 			16px;
-@textColor: 				#222;
+@baseFontSize: 			18px;
+@textColor: 				#4A4A4A;
 @baseLineHeight: 		28px;
-@linkColor: 				@orange;
-//@offGray:						#FAFAFA;
-@offGray:						#FFFFFF;
+@linkColor: 				#1DD31D;
+//@offGray:					#FAFAFA;
+@offGray:						#EFEFEF;
+@serifFontFamily:		'league-gothic', serif;
+@headingsColor:			@linkColor;
+@background-post-color:	@offGray;
 
-//Overwriting Base Bootstrap values
-h1,h2 { line-height: @baseLineHeight * 1.45; }
-h1 { font-size: @baseFontSize * 2; }
-h2 { font-size: @baseFontSize * 1.75; } 
-h3 { font-size: @baseFontSize * 1.25; } 
-h3 { line-height: @baseLineHeight * 1.25; }
-h4 { font-size: @baseFontSize; } 
-h5 { font-size: @baseFontSize * 0.85; }
-h6 { font-size: @baseFontSize * 0.60; } 
 // This should eventually be removed... It is a hack.
 blockquote {
-	border-left: 5px solid @linkColor;
-	background-color: @offGray;
+	background-image:url('/assets/images/quote.png');
+	background-repeat:no-repeat;
+
+	border-left: none;
 	margin-right: 30px;
-	margin-left: 30px;
-	padding-left: 15px;
+	margin-left: 10px;
+	padding-left: 45px;
 	padding-right: 15px;
 	
 	p { 
-		font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 		line-height: @baseLineHeight;
 		text-align: left;
 		font-size: @baseFontSize * 1.1;
@@ -51,28 +46,34 @@ blockquote {
 		font-size: @baseFontSize * 1.25;
 	}
 }
+
+p.date {
+	margin-top: 14px;
+}
+
 p, li { 
-	font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
 h1, h2, h3 { 
-	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
-	font-weight: 400;
+	font-family: 'league-gothic', serif; 
+	color: #111111;
+	margin-top: 30px;
+	margin-bottom: 0px;
 }
 
 body {
-	background: url(/bootstrap/img/background2.png) repeat 0 0;
-}
-
-.top-bar {
-	background: url(/bootstrap/img/background2.png) repeat 0 0;
-	min-height: 26px;
+	//background: url(/bootstrap/img/background.png) repeat 0 0;
+	background-color: @background-post-color
 }
 
 .below-post {
 	border-top: 1px solid #E6E6E6; 
 	border-bottom: 4px solid #E6E6E6; 
-	background-color: @offGray;
+
+	h3 {
+		margin-top: 10px;
+	}
 }
 
 
@@ -137,7 +138,7 @@ body {
 
 .main-content {
 	//Main Color Look and Feel
-	background-color: #FFF;
+	background-color: @background-post-color;
 	padding-left: 60px;
 	padding-right: 60px;
 }
@@ -156,11 +157,24 @@ body {
 	text-align: center;
 	margin-left: 0px;
 
+	.thumbnail {
+		background-color: #FFF;
+		padding-top: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
 	h3.title {
 		color: #333;
+		font-size: 20px;
+		font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+		font-weight: 400;
+		line-height: 35px;
 	}
 
 	h5.date {
+		font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+		font-size: 13.6px;
 		text-transform:uppercase;
 	}
 }
@@ -233,12 +247,7 @@ body {
 .part-of-a-series {
 	padding: 10px 15px 8px 10px;
 	margin-bottom: 18px;
-	color: #C09853;
-
-	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-	background-color: #FCF8E3;
-	border: 1px solid #FBEED5;
-	.border-radius( 4px );
+	border-bottom: 2px solid #CCC;
 }
 
 a:hover {
