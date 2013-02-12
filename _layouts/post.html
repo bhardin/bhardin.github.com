@@ -13,7 +13,11 @@ layout: default
 
 		<!-- Photo Credit -->
 		{% if page.image_credit %}
+			{% if page.image_credit_url %}
+			<p>Image credit: <a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></p>
+			{% else %}
 			<p>Image credit: {{ page.image_credit }}</p>
+			{% endif %}
 		{% endif %}
 
 		<!-- Tags -->
