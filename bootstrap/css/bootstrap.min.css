@@ -851,12 +851,11 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .show{display:block;}
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
-blockquote{background-image:url('/assets/images/quote.png');background-repeat:no-repeat;border-left:none;margin-right:30px;margin-left:10px;padding-left:45px;padding-right:15px;}blockquote p{line-height:28px;text-align:left;}
-blockquote li{text-align:right;list-style-type:none;}
+blockquote{background-image:url('/assets/images/quote.png');background-repeat:no-repeat;border-left:none;margin-right:30px;margin-left:10px;padding-left:45px;padding-right:15px;}blockquote p{line-height:28px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;text-align:left;}
 p.date{margin-top:14px;}
 p,li{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;}
-h1,h2,h3{font-family:'league-gothic',serif;color:#111111;margin-top:30px;margin-bottom:0px;}
-body{background-color:#efefef;}
+h1,h2,h3{font-family:'league-gothic',serif;color:#111111;margin-top:30px;}
+body{background-color:#fdfdfd;}
 .below-post{border-top:1px solid #E6E6E6;border-bottom:4px solid #E6E6E6;}.below-post h3{margin-top:10px;}
 .header-bar{background:url(/bootstrap/img/background.png) repeat 0 0;border-top:1px solid #E6E6E6;border-bottom:1px solid #E6E6E6;text-align:center;width:100%;}.header-bar .header{font-size:40px;padding-top:20px;padding-bottom:15px;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:0.2em;}.header-bar .header a{color:#333;}
 .below-header{background-color:#222;border-top:1px solid #E6E6E6;text-align:center;padding:15px;}
@@ -864,7 +863,7 @@ body{background-color:#efefef;}
 .center{margin-bottom:0;}
 .center .nav{text-align:center;}
 .nav>li>a{text-transform:uppercase;font-family:Georgia, serif;color:#777;}
-.main-content{background-color:#efefef;padding-left:60px;padding-right:60px;}
+.main-content{background-color:#fdfdfd;padding-left:60px;padding-right:60px;}
 .content{text-align:justify;}.content img{display:block;margin-left:auto;margin-right:auto;}
 .posts .thumbnails{text-align:center;margin-left:0px;}.posts .thumbnails .thumbnail{background-color:#FFF;padding-top:10px;padding-left:10px;padding-right:10px;}
 .posts .thumbnails h3.title{color:#333;font-size:20px;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:400;line-height:35px;}

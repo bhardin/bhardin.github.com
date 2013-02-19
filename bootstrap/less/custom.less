@@ -19,7 +19,7 @@
 @baseLineHeight: 		28px;
 @linkColor: 				#1DD31D;
 //@offGray:					#FAFAFA;
-@offGray:						#EFEFEF;
+@offGray:						rgb(253, 253, 253);
 @serifFontFamily:		'league-gothic', serif;
 @headingsColor:			@linkColor;
 @background-post-color:	@offGray;
@@ -37,11 +37,9 @@ blockquote {
 	
 	p { 
 		line-height: @baseLineHeight;
+		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+		font-size: @baseFontSize;
 		text-align: left;
-	}
-	li {
-		text-align: right;
-		list-style-type: none;
 	}
 }
 
@@ -57,7 +55,6 @@ h1, h2, h3 {
 	font-family: 'league-gothic', serif; 
 	color: #111111;
 	margin-top: 30px;
-	margin-bottom: 0px;
 }
 
 body {
