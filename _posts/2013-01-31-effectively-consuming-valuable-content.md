@@ -3,6 +3,7 @@ layout: post
 title: "Effectively Consuming Valuable Content"
 image: http://farm9.staticflickr.com/8466/8086793181_5b5acb2359.jpg
 image_credit: Lotus Carroll
+image_credit_url: http://www.flickr.com/photos/thelotuscarroll/8086793181/
 tags: [learning, consumption, reading]
 meta_description: A method for staying informed to information you care about.
 ---

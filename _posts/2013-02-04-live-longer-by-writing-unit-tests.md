@@ -3,6 +3,7 @@ layout: post
 title: "Live Longer By Writing Unit Tests"
 image: http://farm3.staticflickr.com/2585/3803517719_61fc214012.jpg
 image_credit: thephotographymuse
+image_credit_url: http://www.flickr.com/photos/marcygallery/3803517719/in/photostream
 tags: [programming, testing, developers, software]
 meta_description: You will continue to live through your unit and regression tests after you pass away or leave a company.
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "A Better Writing Process in 5 Steps"
 image: http://farm3.staticflickr.com/2306/1969185955_8add08fc7d.jpg
 image_credit: Marco Arment
+image_credit_url: http://www.flickr.com/photos/marcoarment/1969185955/
 tags: [writing, blogging, editing, rewriting]
 meta_description: 
 ---

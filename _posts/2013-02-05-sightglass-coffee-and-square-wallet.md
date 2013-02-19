@@ -3,6 +3,7 @@ layout: post
 title: "Sightglass Coffee and Square Wallet"
 image: http://farm9.staticflickr.com/8145/7672539434_cfe9d73242.jpg
 image_credit: Scott Beale
+image_credit_url: http://www.flickr.com/photos/laughingsquid/7672539434/
 tags: [product review, payments, product experience]
 meta_description: The Hands-Free Checkout Option of Square Wallet makes the purchasing experience at Sightglass coffee amazing.
 ---
