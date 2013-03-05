@@ -851,9 +851,9 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .show{display:block;}
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
-blockquote{background-image:url('/assets/images/quote.png');background-repeat:no-repeat;border-left:none;margin-right:30px;margin-left:10px;padding-left:45px;padding-right:15px;}blockquote p{line-height:28px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;text-align:left;}
+blockquote{background-image:url('/assets/images/quote.png');background-repeat:no-repeat;border-left:none;margin-right:30px;margin-left:10px;padding-left:30px;padding-right:15px;}blockquote p{line-height:28px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;text-align:left;}
 p.date{margin-top:14px;}
-p,li{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;}
+p,li{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;}
 h1,h2,h3{font-family:'league-gothic',serif;color:#111111;margin-top:30px;}
 body{background-color:#fdfdfd;}
 .below-post{border-top:1px solid #E6E6E6;border-bottom:4px solid #E6E6E6;}.below-post h3{margin-top:10px;}

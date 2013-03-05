@@ -23,6 +23,7 @@
 @serifFontFamily:		'league-gothic', serif;
 @headingsColor:			@linkColor;
 @background-post-color:	@offGray;
+@base_fonts: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 // This should eventually be removed... It is a hack.
 blockquote {
@@ -32,12 +33,12 @@ blockquote {
 	border-left: none;
 	margin-right: 30px;
 	margin-left: 10px;
-	padding-left: 45px;
+	padding-left: 30px;
 	padding-right: 15px;
 	
 	p { 
 		line-height: @baseLineHeight;
-		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+		font-family: @base_fonts;
 		font-size: @baseFontSize;
 		text-align: left;
 	}
@@ -48,7 +49,7 @@ p.date {
 }
 
 p, li { 
-	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-family: @base_fonts;
 }
 
 h1, h2, h3 { 
