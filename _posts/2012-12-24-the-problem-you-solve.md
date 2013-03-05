@@ -43,7 +43,7 @@ Regardless of what your customers currently do to solve the problem, your produc
 
 >  The primary thing that any technology startup must do is build a product that's at least 10 times better at doing something than the current prevailing way of doing that thing. 
 
-## Editing and Revising Your Problem Statement
+## Revising Your Problem Statement
 Similar to copy editing you need to cut words out when describing your problem. Initially, you will iterate on your problem statement. Telling people different things to craft a better explanation. But how do you know when your description is good enough? 
 
 If a common response to your explanation is, "I've had that problem." It's not good enough. __They aren't throwing money at you to solve it.__ You need to find a better way to explain it. The problem should be so bad, that potential customers are willing to do anything to solve the issue.
