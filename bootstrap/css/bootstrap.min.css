@@ -852,6 +852,12 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
 blockquote{background-image:url('/assets/images/quote.png');background-repeat:no-repeat;border-left:none;margin-right:30px;margin-left:10px;padding-left:30px;padding-right:15px;}blockquote p{line-height:28px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;text-align:left;}
+h1{font-size:40.5px;}
+h2{font-size:31.5px;}
+h3{font-size:22.5px;}
+h4{font-size:19.8px;}
+h5{font-size:18px;}
+h6{font-size:15.299999999999999px;}
 p.date{margin-top:14px;}
 p,li{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;}
 h1,h2,h3{font-family:'league-gothic',serif;color:#111111;margin-top:30px;}
