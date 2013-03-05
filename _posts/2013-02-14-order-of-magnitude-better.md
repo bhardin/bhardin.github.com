@@ -14,7 +14,7 @@ If your idea is breakthrough, you won't have to worry about other's stealing it.
 
 One common idea is building a better mouse trap. Common startup sense states a better mouse trap is a bad idea. [Ben Horowitz][2] addressed these points when he keynoted Digital-Life-Design Conference.
 
-> The key thing is the idea has to be a breakthrough. __When you are talking about technology it means literally a much better way of doing things. To make money it really has to be an order of magnitude better.__ The problem with breakthroughs is they look insane. If it didn'tt seem crazy, it wouldn't be a breakthrough because everybody else would already have solved that problem.
+> The key thing is the idea has to be a breakthrough. __When you are talking about technology it means literally a much better way of doing things. To make money it really has to be an order of magnitude better.__ The problem with breakthroughs is they look insane. If it didn't seem crazy, it wouldn't be a breakthrough because everybody else would already have solved that problem.
 
 In order for a new technology to displace the current incumbent it needs to be an order of magnitude better. Facebook and Google  displaced incumbents by building better mouse traps.
 
@@ -26,7 +26,7 @@ Simple is trying to displace the banking industry by focusing on the interface. 
 
 > Simple is not a bank. Simple replaces your bank with everything you need to spend smarter and save more. Your funds live in FDIC-insured accounts with our partner bank, The Bancorp Bank, and we provide everything else.
 > We offer beautifully-designed web interface and iPhone and Android apps, no surprise fees, and real customer service.
-> We take care of you, the bank takes care of your money, and jointly, we’ve designed a better financial experience.  
+> We take care of you, the bank takes care of your money, and jointly, we've designed a better financial experience.  
 
 I've used Simple for 6 months. Their web interface is beautiful, their iPhone app is amazing, and little features - auto-categorizing and showing my purchases on a map - are great. But, I don't know if it's an order of magnitude greater. 
 
