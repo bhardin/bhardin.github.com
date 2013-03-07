@@ -39,7 +39,8 @@ Things that shouldn't happen:
 * __Force me to give a reason for unsubscribing__ - If you force users to give you a reason for unsubscribing before you unsubscribe them you are going to get data that isn't worthwhile. The responses will range from "asdfasdfasdf" to "stop bothering me." Mailchimp did this the right way. They unsubscribe first, then ask for a reason. A reason does not have to be given.
 
 * __Using words other than unsubscribe__ - [George Saines][3] puts this incredibly well.
-> But increasingly, I see emails sent from large, respectable companies [1] that provide me with no unsubscribe link. Instead there is an insidious trend towards "Managing Preferences," which invariably requires a log in, a brief search to find the unsubscribe option, and a form submit. And after all that am I unsubscribed? Apparently not because I keep getting messages.
+
+> But increasingly, I see emails sent from large, respectable companies that provide me with no unsubscribe link. Instead there is an insidious trend towards "Managing Preferences," which invariably requires a log in, a brief search to find the unsubscribe option, and a form submit. And after all that am I unsubscribed? Apparently not because I keep getting messages.
 
 * __Sending more email__ - When I unsubscribe return a page that says, "The email address blah@blah.com has been unsubscribed from an amazing mailing list." Upon unsubscribing, you don't need to send me another email saying I have been unsubscribed. I just told you I don't want to receive emails from you anymore.
 
@@ -55,7 +56,7 @@ Do you think these requests are out of line? Do these thing bother you too?
 [8]: http://www.3ones.com/2012/01/14/best-and-worst-practices-for-email-unsubscribing/ "Best (and Worst) Practices for Email Unsubscribing"
 [9]: http://kb.mailchimp.com/article/about-unsubscribes
 [10]: http://en.wikipedia.org/wiki/CAN-SPAM_Act_of_2003
-[11]: ttp://www.amazon.com/gp/product/1591843758/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1591843758&linkCode=as2&tag=breharsblo-20
+[11]: http://www.amazon.com/gp/product/1591843758/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1591843758&linkCode=as2&tag=breharsblo-20
 [12]: /2012/02/solving-hard-problems/
 [13]: /2012/06/a-better-email-inbox/
 [14]: /2012/02/solving-hard-problems/
