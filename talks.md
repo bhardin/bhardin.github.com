@@ -4,6 +4,9 @@ title: Brett Hardin's Presentations
 meta_description: Presentations Brett Hardin has given at various conferences and meetups.
 ---
 
+## 2013
+* [Pentesting is Stupid](/2013/02/penetration-testing-is-stupid/)
+
 ## 2012
 * [Building Your House on Sand](/2012/12/building-your-house-on-sand/)
 * [Builders vs. Breakers](/2012/10/appsec-2012-builder-vs-breaker-presentation/)

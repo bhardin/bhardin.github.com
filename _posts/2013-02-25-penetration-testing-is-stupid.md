@@ -4,7 +4,7 @@ title: "Penetration Testing is Stupid"
 image: http://farm8.staticflickr.com/7260/6870002408_abf6b5b6a8.jpg
 image_credit: dustball
 image_credit_url: http://www.flickr.com/photos/brianklug/6870002408/
-tags: [presentations, talks, penetration testing, security]
+tags: [presentation, slides, penetration testing, security]
 meta_description: Organizations think they need penetration tests before they actually do.
 ---
 
