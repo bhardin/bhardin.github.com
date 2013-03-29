@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Automatic Updates Are The Future"
-image: http://farm6.staticflickr.com/5049/5346013882_1622484340.jpg
+image: http://farm9.staticflickr.com/8236/8505342511_03fc666f2f.jpg
+image_credit_url: http://www.flickr.com/photos/shanelin/8505342511/in/set-72157632848286261/
 image_credit: Malenkov in Exile
-category: 
 tags: [infosec, tech]
-meta_description: An applications ability to update itself should be built in funcationlity. It shouldn't be an exception to the rule.
+meta_description: An applications ability to update itself should be built in functionality. It shouldn't be an exception to the rule.
 ---
 
 Kaspersky's Q3 IT Threat Evolution Report was released last week and although reports like these are typically used as marketing fluff by vendors they still provide interesting insights.
@@ -35,7 +35,7 @@ and
 
 >  These two types of malware are mostly distributed via so-called alternative app stores created by cybercriminals [sic].
 
-So it's the users fault. __Don't install software from untrusted sources.__ Only install software from the app store. If you try to get around paying for the software by downloading a _pirated_ version you will eventually pay for it by having your phone owned.
+So it's the users fault. __Don't install software from untrusted sources.__ Only install software from the [app store][4]. If you try to get around paying for the software by downloading a _pirated_ version you will eventually pay for it by having your phone owned.
 
 ## Desktop & Microsoft
 
@@ -74,3 +74,4 @@ Although mobile devices don't have automatic updates yet, it should be on the ho
 [1]: http://thenextweb.com/microsoft/2012/11/02/microsofts-security-team-is-killing-it-not-one-product-on-kasperskys-top-10-vulnerabilities-list/
 [2]: http://www.securelist.com/en/analysis/204792250/IT_Threat_Evolution_Q3_2012
 [3]: /2012/10/the-security-and-developer-passion-dilema/
+[4]: /2013/03/automatic-updates-from-the-app-store/
