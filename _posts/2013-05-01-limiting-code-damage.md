@@ -8,8 +8,6 @@ tags: [software development, engineering, coding, programming]
 meta_description: Software development is a lot like creating a Dungeons & Dragons character.
 ---
 
-# Limiting Code Damage
-
 When choosing a character in any role-playing game there are only two archetypes. Strong and Slow or Fast and Weak. All other classes are iterations of these basic attributes. Rouges, wizards, thieves, and rangers are just variations of the Rouge and Barbarian.
 
 These two traits are a sliding scale. The stronger the player is the slower they are. The faster they are the weaker they are. You are unable to get the best of both worlds. You can't create a buffed out warrior who is lightning fast. Muscle is slow.
