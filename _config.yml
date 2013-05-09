@@ -3,5 +3,4 @@ permalink: /:categories/:year/:month/:title/
 markdown: rdiscount
 paginate: 9
 feed: http://feeds.bretthard.in/bretthardin
-subscribers: "115"
 tags_path: /tags.html
