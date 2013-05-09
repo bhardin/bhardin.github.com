@@ -1,5 +1,4 @@
 name: Brett Hardin's Blog
-auto: true
 permalink: /:categories/:year/:month/:title/
 markdown: rdiscount
 paginate: 9

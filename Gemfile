@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'jekyll'
 gem 'rake'
 gem 'rdiscount'
-# gem 'gsl'
-gem 'jekyll'
 gem 'uglifier'
