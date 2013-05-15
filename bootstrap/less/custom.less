@@ -4,12 +4,27 @@
 
 @import "bootstrap.less";
 
+// ----------------------
+// Responsive
+// ----------------------
+
+@import "responsive.less";
+
+/* Large desktop */
+@media (min-width: 1200px) {  }
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {  }
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {  }
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {  }
+
 // -----------------------
 // Custom stuff goes here.
 // -----------------------
-
-// bootstrap.less doesn't include the responsive CSS. Pull it in.
-@import "responsive.less"; //need to include this to make bootstrap responsive
 
 //Custom Variables
 @purple: 						#C825F0;
@@ -18,51 +33,16 @@
 @textColor: 				#4A4A4A;
 @baseLineHeight: 		28px;
 @linkColor: 				#1DD31D;
-//@offGray:					#FAFAFA;
-@offGray:						rgb(253, 253, 253);
+@gray:							#95a5a6;
 @serifFontFamily:		'league-gothic', serif;
 @headingsColor:			@linkColor;
-@background-post-color:	@offGray;
 @base_fonts: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
-//@Dave: tune your media queries here:
-
-/* Large desktop */
-@media (min-width: 1200px) {  }
- 
-/* Portrait tablet to landscape and desktop */
-@media (min-width: 768px) and (max-width: 979px) {  }
- 
-/* Landscape phone to portrait tablet */
-@media (max-width: 767px) {  }
- 
-/* Landscape phones and down */
-@media (max-width: 480px) {  }
-
-//@Dave: tune your media queries here:
-
-/* Large desktop */
-@media (min-width: 1200px) {  }
- 
-/* Portrait tablet to landscape and desktop */
-@media (min-width: 768px) and (max-width: 979px) {  }
- 
-/* Landscape phone to portrait tablet */
-@media (max-width: 767px) {  }
- 
-/* Landscape phones and down */
-@media (max-width: 480px) {  }
-
-//Overwriting Base Bootstrap values
-h1,h2 { line-height: @baseLineHeight * 2; }
-h1 { font-size: @baseFontSize * 2; }
-h2 { font-size: @baseFontSize * 1.75; } 
-h3 { font-size: @baseFontSize * 1.25; } 
+// //Overwriting Base Bootstrap values
+h1,h2 { line-height: @baseLineHeight * 2.5; }
 h3 { line-height: @baseLineHeight * 1.25; }
-h4 { font-size: @baseFontSize; } 
-h5 { font-size: @baseFontSize * 0.85; }
-h6 { font-size: @baseFontSize * 0.60; } 
-// This should eventually be removed... It is a hack.
+
+// // This should eventually be removed... It is a hack.
 blockquote {
 	background-image:url('/assets/images/quote.png');
 	background-repeat:no-repeat;
@@ -81,15 +61,19 @@ blockquote {
 	}
 }
 
-h1 { font-size: @baseFontSize * 2.25; } // ~38px
-h2 { font-size: @baseFontSize * 1.75; } // ~32px
-h3 { font-size: @baseFontSize * 1.25; } // ~24px
-h4 { font-size: @baseFontSize * 1.10; } // ~18px
+h1 { 
+	font-size: @baseFontSize * 3.5; // ~63px
+	margin-bottom: 0px;
+} 
+h2 { font-size: @baseFontSize * 2.5; } 
+h3 { font-size: @baseFontSize * 2; } 
+h4 { font-size: @baseFontSize * 1.25; } 
 h5 { font-size: @baseFontSize; }
-h6 { font-size: @baseFontSize * 0.85; } // ~12px
+h6 { font-size: @baseFontSize * 0.85; } 
 
 p.date {
-	margin-top: 14px;
+	font-size: @baseFontSize * 0.85;
+	color: @gray;
 }
 
 p, li { 
@@ -104,7 +88,6 @@ h1, h2, h3 {
 
 body {
 	//background: url(/bootstrap/img/background.png) repeat 0 0;
-	background-color: @background-post-color
 }
 
 .below-post {
@@ -116,7 +99,9 @@ body {
 	}
 }
 
-// HEADER
+// -----------------------
+// Header
+// -----------------------
 .header-bar {
 	background: url(/bootstrap/img/background.png) repeat 0 0;
 	border-top: 1px solid #E6E6E6;
@@ -143,7 +128,7 @@ body {
 	background-color: #222;
 	border-top: 1px solid #E6E6E6;
 	text-align: center;
-	padding: 15px;
+	padding-top: 15px;
 }
 
 .center.nav,
@@ -169,6 +154,30 @@ body {
 	color: #777;
 }
 
+// -----------------------
+// Share Buttons
+// -----------------------
+.sharing {
+	.linkedin { background-color: #4875B4; }
+	.facebook { background-color: #3B5998; }
+	.twitter  { background-color: #33CCFF; }
+
+	a {
+		color: white;
+		font-size: 35px;
+	}
+}
+
+// -----------------------
+// Image Credit
+// -----------------------
+
+.image_credit {
+	p {
+		font-size: @baseFontSize * 0.85;
+		color: @gray;
+	}
+}
 
 // -----------------------
 // Main Content
@@ -176,7 +185,6 @@ body {
 
 .main-content {
 	//Main Color Look and Feel
-	background-color: @background-post-color;
 	padding-left: 60px;
 	padding-right: 60px;
 }

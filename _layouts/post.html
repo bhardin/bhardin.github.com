@@ -2,10 +2,10 @@
 layout: default
 ---
 <div class="post">
-	<div class="span8 offset2">
+		<img style="float: right; padding-top: 30px; padding-left: 20px; padding-bottom: 20px;" src="{{page.image}}">
+
 		<h1>{{ page.title }}</h1>
-		<p class="date">Brett Hardin - {{ page.date | date:"%B %d, %Y" }}<p>
-		<img style="display: block; margin-left: auto; margin-right: auto;" src="{{page.image}}">
+		<p class="date">Brett Hardin - {{ page.date | date:"%B %d, %Y" }}</p>
 
 		<div class="content">
 		{{ content }}
@@ -13,18 +13,24 @@ layout: default
 
 		<!-- Photo Credit -->
 		{% if page.image_credit %}
-			{% if page.image_credit_url %}
-			<p>Image credit: <a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></p>
-			{% else %}
-			<p>Image credit: {{ page.image_credit }}</p>
-			{% endif %}
+			<div class="image_credit">
+				{% if page.image_credit_url %}
+				<p>Image credit: <a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></p>
+				{% else %}
+				<p>Image credit: {{ page.image_credit }}</p>
+				{% endif %}
+			</div>
 		{% endif %}
 
 		<!-- Tags -->
+		<!--
 		<ul class="tag_box inline" style="margin-bottom: 15px">
 			{% assign tags_list = page.tags %}
-	  	{% include JB/tags_list %}
+			{% include JB/tags_list %}
 		</ul>
+		-->
+
+		{% include share_buttons.html %}
 
 		{% include about_me.html %}
 
@@ -38,6 +44,4 @@ layout: default
 		</div>
 
 		{% include disqus %}	
-
-	</div> <!-- End of Span8 -->
 </div> <!-- End of Post -->
