@@ -1,24 +1,29 @@
-<div class="about_me" style="margin-top: 25px; text-align: justify; border-top: 2px solid #CCC; border-bottom: 1px solid #CCC">
-	<div style="float: left; padding: 20px;">
-		<img class="avatar img-circle" alt="Brett Hardin" src="https://en.gravatar.com/userimage/8781599/408ff2d80d284339d894c762915fde94.jpg" />
-	</div>
-	
-	<h4>About Brett Hardin</h4>
-	<div style="padding-bottom: 13px;">
-		<p>I write code at <a href="http://www.kissmetrics.com/">KISSmetrics</a> and love <a onclick="_gaq.push(['_trackEvent', 'Clicked Link', 'love learning', 'side bar']);" href="/2012/10/writing-about-what-i-learn/">writing about what I learn</a>. If you found this article helpful or annoying, I'd love to <a href="{{ post.url }}#disqus_thread" onclick="_gaq.push(['_trackEvent', 'Clicked Link', 'Disqus', 'side bar']);">start a dialogue.</a>
-		</p>
-		<div style="padding-bottom: 10px; padding-left: 120px;">
-			<!-- AddThis Follow BEGIN -->
-			<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
-			<a class="addthis_button_facebook_follow" addthis:userid="hardin.brett"></a>
-			<a class="addthis_button_twitter_follow" addthis:userid="miscsecurity"></a>
-			<a class="addthis_button_google_follow" addthis:userid="114765575870882823509"></a>
-			<a class="addthis_button_rss_follow" addthis:userid="http://feeds.bretthard.in/bretthardin"></a>
-			</div>
-			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f8cae456464e357"></script>
-			<!-- AddThis Follow END -->
-		</div>
-	</div>
+<div class="about_me" style="padding-top: 50px">
+	<img class="avatar img-circle" alt="Brett Hardin" src="https://en.gravatar.com/userimage/8781599/408ff2d80d284339d894c762915fde94.jpg" />
 
+	<h4>Brett Hardin</h4>
+
+	<p>I write code at <a href="http://www.kissmetrics.com/">KISSmetrics</a> and love <a onclick="_gaq.push(['_trackEvent', 'Clicked Link', 'love learning', 'side bar']);" href="/2012/10/writing-about-what-i-learn/">writing about what I learn</a>.
+
+	<hr/>
+	<p>{{ page.date | date:"%B %d, %Y" }}</p>
+	<hr/>
+
+	{% if page.image %}
+		<img src="{{page.image}}">
+	{% endif %}
+
+	<!-- Photo Credit -->
+	{% if page.image_credit %}
+		<div class="image_credit">
+			{% if page.image_credit_url %}
+			<p>Image credit: <a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></p>
+			{% else %}
+			<p>Image credit: {{ page.image_credit }}</p>
+			{% endif %}
+		</div>
+	{% endif %}
+
+	<hr/>
 
 </div>

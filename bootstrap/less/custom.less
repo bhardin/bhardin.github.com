@@ -29,18 +29,14 @@
 //Custom Variables
 @purple: 						#C825F0;
 @orange: 						#F89406;
-@baseFontSize: 			18px;
+@baseFontSize: 			20px;
 @textColor: 				#4A4A4A;
-@baseLineHeight: 		28px;
+@baseLineHeight: 		31px;
 @linkColor: 				#1DD31D;
-@gray:							#95a5a6;
-@serifFontFamily:		'league-gothic', serif;
-@headingsColor:			@linkColor;
-@base_fonts: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-
-// //Overwriting Base Bootstrap values
-h1,h2 { line-height: @baseLineHeight * 2.5; }
-h3 { line-height: @baseLineHeight * 1.25; }
+@gray:							rgb(51, 51, 50);
+@headingsColor:			#333332;
+@base_fonts: 				ff-tisa-web-pro, Georgia, Cambria, 'Times New Roman', Times, serif;
+@serifFontFamily: 	freight-sans-pro, 'Myriad Pro', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
 
 // // This should eventually be removed... It is a hack.
 blockquote {
@@ -62,27 +58,28 @@ blockquote {
 }
 
 h1 { 
-	font-size: @baseFontSize * 3.5; // ~63px
-	margin-bottom: 0px;
+	font-size: @baseFontSize * 2.6;
+	line-height: @baseLineHeight * 2;
 } 
-h2 { font-size: @baseFontSize * 2.5; } 
-h3 { font-size: @baseFontSize * 2; } 
+h2 { 
+	font-size: @baseFontSize * 2; 
+	line-height: @baseLineHeight * 2;
+} 
+h3 { 
+	font-size: @baseFontSize * 2; 
+	line-height: @baseLineHeight * 1.25;
+} 
 h4 { font-size: @baseFontSize * 1.25; } 
 h5 { font-size: @baseFontSize; }
 h6 { font-size: @baseFontSize * 0.85; } 
-
-p.date {
-	font-size: @baseFontSize * 0.85;
-	color: @gray;
-}
 
 p, li { 
 	font-family: @base_fonts;
 }
 
 h1, h2, h3 { 
-	font-family: 'league-gothic', serif; 
-	color: #111111;
+	font-family: @serifFontFamily;
+	color: #333332;
 	margin-top: 30px;
 }
 
@@ -96,6 +93,29 @@ body {
 
 	h3 {
 		margin-top: 10px;
+	}
+}
+
+.about_me {
+	font-family: @base_fonts;
+	color: rgb(51, 51, 50);
+	font-size: 18px;
+	line-height: 25px;
+	text-align: right;
+
+	p {
+		color: #666665;
+		font-size: 14px;
+		font-size: 14px;
+		font-style: italic;
+		font-weight: normal;
+		line-height: 19px;
+		word-wrap: break-word;
+	}
+
+	h4 {
+		color: #443433;
+		font-size: 18px;
 	}
 }
 
@@ -169,17 +189,6 @@ body {
 }
 
 // -----------------------
-// Image Credit
-// -----------------------
-
-.image_credit {
-	p {
-		font-size: @baseFontSize * 0.85;
-		color: @gray;
-	}
-}
-
-// -----------------------
 // Main Content
 // -----------------------
 
@@ -216,12 +225,6 @@ body {
 		font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 		font-weight: 400;
 		line-height: 35px;
-	}
-
-	h5.date {
-		font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
-		font-size: 13.6px;
-		text-transform:uppercase;
 	}
 }
 
@@ -328,11 +331,6 @@ a:hover {
 .recent_posts .thumbnails p {
 	line-height: 1.4em;
 	margin: 5px 0 5px 0;
-}
-
-.side_bar .about_me .avatar {
-	float: right;
-	margin: 10px 0 0 10px;
 }
 
 // tag_box ======================================================== //

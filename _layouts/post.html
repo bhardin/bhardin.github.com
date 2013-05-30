@@ -1,26 +1,17 @@
 ---
 layout: default
 ---
-<div class="post">
-		<img style="float: right; padding-top: 30px; padding-left: 20px; padding-bottom: 20px;" src="{{page.image}}">
+<div class="post" style="padding-top: 30px">
+	<div class="span2 offset1">
+		{% include about_me.html %}
+	</div>
 
+	<div class="span8">
 		<h1>{{ page.title }}</h1>
-		<p class="date">Brett Hardin - {{ page.date | date:"%B %d, %Y" }}</p>
 
 		<div class="content">
 		{{ content }}
 		</div>
-
-		<!-- Photo Credit -->
-		{% if page.image_credit %}
-			<div class="image_credit">
-				{% if page.image_credit_url %}
-				<p>Image credit: <a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></p>
-				{% else %}
-				<p>Image credit: {{ page.image_credit }}</p>
-				{% endif %}
-			</div>
-		{% endif %}
 
 		<!-- Tags -->
 		<!--
@@ -32,10 +23,8 @@ layout: default
 
 		{% include share_buttons.html %}
 
-		{% include about_me.html %}
-
 		<!-- bottom footer -->
-		<div class="below-post">
+		<div class="below-post" style="margin-top: 20px">
 			<h3>Subscribe</h3>
 			{% include subscribe_form.html %}
 			
@@ -43,5 +32,6 @@ layout: default
 			{% include recent_posts.html %}	
 		</div>
 
-		{% include disqus %}	
+		{% include disqus %}
+	</div>	
 </div> <!-- End of Post -->
