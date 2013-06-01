@@ -32,7 +32,7 @@
 @baseFontSize: 			20px;
 @textColor: 				#4A4A4A;
 @baseLineHeight: 		31px;
-@linkColor: 				#1DD31D;
+@linkColor: 				#21B526;
 @gray:							rgb(51, 51, 50);
 @headingsColor:			#333332;
 @base_fonts: 				ff-tisa-web-pro, Georgia, Cambria, 'Times New Roman', Times, serif;
@@ -96,17 +96,23 @@ body {
 	}
 }
 
-.about_me {
+.sidebar {
 	font-family: @base_fonts;
-	color: rgb(51, 51, 50);
-	font-size: 18px;
+	color: #666665;
+	font-size: 14px;
 	line-height: 25px;
 	text-align: right;
 
+	strong {
+		font-family: @serifFontFamily;
+	}
+
+	hr {
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
 	p {
-		color: #666665;
-		font-size: 14px;
-		font-size: 14px;
 		font-style: italic;
 		font-weight: normal;
 		line-height: 19px;
@@ -114,7 +120,6 @@ body {
 	}
 
 	h4 {
-		color: #443433;
 		font-size: 18px;
 	}
 }

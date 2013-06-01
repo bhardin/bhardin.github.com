@@ -1,12 +1,35 @@
 ---
 layout: default
 ---
-<div class="post" style="padding-top: 30px">
+<div class="post" style="padding-top: 130px">
 	<div class="span2 offset1">
-		{% include about_me.html %}
+		<div class="sidebar">
+			{% include about_me.html %}
+
+			<hr/>
+			<strong>Published</strong>
+			<p>{{ page.date | date:"%B %d, %Y" }}</p>
+
+			<!-- Photo Credit -->
+			{% if page.image_credit %}
+				<hr/>
+				<div class="image_credit">
+					{% if page.image_credit_url %}
+						<strong>Image Credit</strong>
+						<p><a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></p>
+					{% else %}
+						<p>{{ page.image_credit }}</p>
+					{% endif %}
+				</div>
+			{% endif %}
+		</div>
 	</div>
 
 	<div class="span8">
+		{% if page.image %}
+			<img src="{{page.image}}">
+		{% endif %}
+
 		<h1>{{ page.title }}</h1>
 
 		<div class="content">

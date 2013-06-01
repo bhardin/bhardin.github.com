@@ -1,29 +1,7 @@
-<div class="about_me" style="padding-top: 50px">
+<div class="about_me">
 	<img class="avatar img-circle" alt="Brett Hardin" src="https://en.gravatar.com/userimage/8781599/408ff2d80d284339d894c762915fde94.jpg" />
 
-	<h4>Brett Hardin</h4>
+	<h4><a href="/about-me">Brett Hardin</a></h4>
 
 	<p>I write code at <a href="http://www.kissmetrics.com/">KISSmetrics</a> and love <a onclick="_gaq.push(['_trackEvent', 'Clicked Link', 'love learning', 'side bar']);" href="/2012/10/writing-about-what-i-learn/">writing about what I learn</a>.
-
-	<hr/>
-	<p>{{ page.date | date:"%B %d, %Y" }}</p>
-	<hr/>
-
-	{% if page.image %}
-		<img src="{{page.image}}">
-	{% endif %}
-
-	<!-- Photo Credit -->
-	{% if page.image_credit %}
-		<div class="image_credit">
-			{% if page.image_credit_url %}
-			<p>Image credit: <a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></p>
-			{% else %}
-			<p>Image credit: {{ page.image_credit }}</p>
-			{% endif %}
-		</div>
-	{% endif %}
-
-	<hr/>
-
 </div>
