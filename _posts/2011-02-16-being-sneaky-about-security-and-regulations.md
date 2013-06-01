@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Being Sneaky About Security Regulations"
-image: http://farm2.staticflickr.com/1276/702923963_3d95b82ea8.jpg
-image_credit: loungerie
+image: http://farm4.staticflickr.com/3106/2716147621_3747e52b82_b.jpg
+image_credit: Henry Stern
+image_credit_url: http://www.flickr.com/photos/artisticrichmond/
 tags: [presentation, compliance, infosec, slides]
 meta_description: Presentation Mike Dahn and Brett Hardin gave during Security BsidesSF 2011.
 ---

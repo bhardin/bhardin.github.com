@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Facebook Authentication and OAuth"
-image: http://farm2.staticflickr.com/1418/4724726923_df9cb9c6c1.jpg
+image: http://farm2.staticflickr.com/1418/4724726923_df9cb9c6c1_b.jpg
 image_credit: Karen Maraj
+image_credit_url: http://www.flickr.com/photos/kmaraj/
 tags: [facebook, oauth, authentication, design pattern]
 meta_description: Stop asking users to create an account. Instead, use an online identity authority for handling authentication.
 ---

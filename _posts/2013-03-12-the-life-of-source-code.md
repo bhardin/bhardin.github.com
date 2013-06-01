@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Life of Source Code"
-image: http://farm4.staticflickr.com/3259/3154123453_9ede626b49.jpg
+image: http://farm4.staticflickr.com/3259/3154123453_9ede626b49_b.jpg
 image_credit: John Carleton
-image_credit_url: http://www.flickr.com/photos/johncarleton/3154123453/
+image_credit_url: http://www.flickr.com/photos/johncarleton/
 tags: [programming, code smell, developers]
 meta_description: Developers contribute different things to the code base depending on how old the code is.
 ---

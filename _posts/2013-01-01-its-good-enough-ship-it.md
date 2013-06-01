@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "It's Good Enough. Ship It."
-image: http://farm9.staticflickr.com/8040/7905984008_bd5b442d71.jpg
-image_credit: Greg Annandale
+image: http://farm3.staticflickr.com/2195/1582198827_ca490660a9_b.jpg
+image_credit: Karen McAllister
+image_credit_url: http://www.flickr.com/photos/karen_mcallister_photography/
 tags: [good enough, startups, productivity]
 meta_description: Before you do anything, prove the value in shipping the idea. Time and energy can be saved by building things people value.
 ---

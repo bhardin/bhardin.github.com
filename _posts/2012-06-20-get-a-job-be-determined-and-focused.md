@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Be Determined and Focused"
-image: http://farm4.staticflickr.com/3204/2953428679_1050cba9f9.jpg
-image_credit: Doug88888
+image: http://farm2.staticflickr.com/1408/867883420_772d65a85d_b.jpg
+image_credit: Ray Lopez
+image_credit_url: http://www.flickr.com/photos/raylopez/
 tags: [story, focus]
 meta_description: You can get anything you want by staying persistent.
 ---

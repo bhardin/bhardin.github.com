@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Programming Language Adoption"
-image: http://farm8.staticflickr.com/7047/6799056802_0256de3c9a.jpg
+image: http://farm8.staticflickr.com/7047/6799056802_0256de3c9a_b.jpg
 image_credit: simonini
-image_credit_url: http://www.flickr.com/photos/simonini/6799056802/
+image_credit_url: http://www.flickr.com/photos/simonini/
 tags: [programming, adoption]
 meta_description: The only programming languages that are adopted are those that are used by successful startups. Once successful, the companies pump money into the support of the technologies they use.
 ---

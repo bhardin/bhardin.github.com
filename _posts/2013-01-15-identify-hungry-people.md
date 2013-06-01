@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Identify Hungry People"
-image: http://farm4.staticflickr.com/3305/3475820366_96ab69304b.jpg
-image_credit: Corie Howell
+image: http://farm5.staticflickr.com/4079/4795407698_5e96acc8e9_b.jpg
+image_credit: mclcbooks
+image_credit_url: http://www.flickr.com/photos/39877441@N05/
 tags: [hiring, startups, growth]
 meta_description: In order to have your company excel. Invest in people who are worth investing in.
 ---

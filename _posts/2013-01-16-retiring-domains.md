@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Retiring Domains"
-image: http://farm3.staticflickr.com/2348/2268859267_f077387264.jpg
-image_credit: ChrisM70
+image: http://farm3.staticflickr.com/2348/2268859267_f077387264_b.jpg
+image_credit: Chris Murphy
+image_credit_url: http://www.flickr.com/photos/chrism70/
 tags: [availability, life, culture, death, internet]
 meta_description: The Internet should have the ability to retire  domain names for people who's content is considered awesome.
 ---

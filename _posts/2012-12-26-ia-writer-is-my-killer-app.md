@@ -3,6 +3,7 @@ layout: post
 title: "iA Writer Is My Killer App"
 image: http://farm4.staticflickr.com/3455/3242023336_4e32f5c751.jpg
 image_credit: JD Hancock
+image_credit_url: http://www.flickr.com/photos/jdhancock/
 tags: [writing, blogging, product review, tech]
 meta_description: I never thought the justification for my iPad would be a word processing applciation.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You're the Problem"
-image: http://farm8.staticflickr.com/7078/7010124953_9df03d4763.jpg
+image: http://farm8.staticflickr.com/7078/7010124953_9df03d4763_b.jpg
 image_credit: kk+
 tags: [perception, mindset, life, problems, happiness]
 meta_description: Do others make you frustrated when they do stupid things? The problem isn't them. It's you and your mindset.

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Personal Insecurities"
-image: http://farm4.staticflickr.com/3448/3945912083_2128bf9643.jpg
-image_credit: Feel So Young
+image: http://farm3.staticflickr.com/2487/3772013250_81d26b4510_b.jpg
+image_credit: JD Hancock
+image_credit_url: http://www.flickr.com/photos/jdhancock/
 tags: [psychology, life]
 meta_description: Having personal insecurities is a human condition. It stems from perception and comparing yourself to others.
 ---

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Product Timing"
-image: http://farm4.staticflickr.com/3314/3248495098_c081e8f651.jpg
-image_credit: NASA's Marshall Space Flight Center
+image: http://farm5.staticflickr.com/4043/4680671719_ce1d3ddd19_b.jpg
+image_credit: Doug Wheller
+image_credit_url: http://www.flickr.com/photos/doug88888/
 tags: [investor deck, product, startups, investors]
 series: business plans
 meta_description: Why is now the time for your product? Has it been attempted before? Why did it fail then, but will work now?

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "I have a great idea..."
-image: http://farm1.staticflickr.com/166/382413887_762a52f166.jpg
+image: http://farm1.staticflickr.com/166/382413887_762a52f166_b.jpg
 image_credit: jnpoulos
-image_credit_url: http://www.flickr.com/photos/jnpoulos/382413887/
+image_credit_url: http://www.flickr.com/photos/jnpoulos/
 tags: [ideas, products]
 meta_description: Great ideas don't matter. Build something people want and love.
 ---

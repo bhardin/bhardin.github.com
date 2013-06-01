@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How OAuth Works"
-image: http://farm1.staticflickr.com/128/321378809_1df33867ba.jpg
+image: http://farm1.staticflickr.com/128/321378809_1df33867ba_b.jpg
 image_credit: Paul Mayne
 tags: [oauth, security basics, infosec, authentication, authorization]
 meta_description: A general overview of the benefits of OAuth, why it was created, and an OAuth example.

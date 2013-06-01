@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "College Doesn't Teach You Software Development"
-image: http://farm4.staticflickr.com/3664/3377110664_c71de81ebc.jpg
-image_credit: AlicePopkorn
+image: http://farm9.staticflickr.com/8053/8348989885_e6ed96e478_b.jpg
+image_credit: Johan Larsson
+image_credit_url: http://www.flickr.com/photos/johanl/
 tags: [college, university, learning, programming]
 meta_description: The tools and methods I use everyday when developing software I didn't learn at a university. I learned them on my own.
 ---

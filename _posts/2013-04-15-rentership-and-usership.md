@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Rentership and Usership"
-image: http://farm5.staticflickr.com/4076/4871675547_f4d47aa77e.jpg
+image: http://farm5.staticflickr.com/4076/4871675547_f4d47aa77e_b.jpg
 image_credit: Gwenael Piaser
-image_credit_url: http://www.flickr.com/photos/piaser/4871675547/
+image_credit_url: http://www.flickr.com/photos/piaser/
 tags: [renting, owning]
 meta_description: The concept of ownership is being challenged. Startups are challenging the idea of car ownership.
 ---

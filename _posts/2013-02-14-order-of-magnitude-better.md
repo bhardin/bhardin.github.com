@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Order of Magnitude Better"
-image: http://farm3.staticflickr.com/2708/4420845301_4afa6e2261.jpg
+image: http://farm3.staticflickr.com/2708/4420845301_4afa6e2261_b.jpg
 image_credit: nathangibbs
-image_credit_url: http://www.flickr.com/photos/nathangibbs/4420845301/
+image_credit_url: http://www.flickr.com/photos/nathangibbs/
 tags: [ideas, startups]
 meta_description: In order to displace the current incumbent your idea needs to be an order of mangitude better than what the incumbent has.
 ---

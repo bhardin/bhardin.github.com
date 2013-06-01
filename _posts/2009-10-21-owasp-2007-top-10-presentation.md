@@ -3,7 +3,7 @@ layout: post
 title: OWASP 2007 Top 10 Presentation
 tags: [presentation, owasp]
 series: the Owasp Top 10
-image: http://farm1.staticflickr.com/8/8333784_747c28e306.jpg
+image: http://farm1.staticflickr.com/8/8333784_747c28e306_b.jpg
 image_credit: Steve Rhodes
 ---
 

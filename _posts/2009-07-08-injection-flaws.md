@@ -2,8 +2,9 @@
 layout: post
 title: Injection Flaws
 series: the Owasp Top 10
-image: http://farm5.static.flickr.com/4069/4561376850_6f002abeb9.jpg
-image_credit: Doug88888
+image: http://farm1.staticflickr.com/91/223731385_1787aa082c_b.jpg
+image_credit: Dave Campbell
+image_credit_url: http://www.flickr.com/photos/limowreck666/
 tags: [owasp, vulnerabilities]
 ---
 {% include series.html %}

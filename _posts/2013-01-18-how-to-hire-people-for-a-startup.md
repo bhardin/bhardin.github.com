@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "How to Hire People For A Startup"
-image: http://farm1.staticflickr.com/11/13669440_c3ebeb5098.jpg
-image_credit: Stitch
+image: http://farm4.staticflickr.com/3462/3387627754_9033ef6b5a_b.jpg
+image_credit: Jason Grey
+image_credit_url: http://www.flickr.com/photos/foenix/
 tags: [startups, hiring, culture]
 meta_description: A process you can use for hiring people with skill sets and backgrounds you don't have experience with.
 ---

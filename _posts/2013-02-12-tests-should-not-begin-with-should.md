@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Tests 'Should Not Begin With Should'"
-image: http://farm1.staticflickr.com/136/318034222_9bb1321722.jpg
+image: http://farm1.staticflickr.com/136/318034222_9bb1321722_b.jpg
 image_credit: WorldIslandInfo.com
-image_credit_url: http://www.flickr.com/photos/76074333@N00/318034222/
+image_credit_url: http://www.flickr.com/photos/76074333@N00/
 tags: [programming, development, unit tests]
 meta_description: Stop using the word should to start your unit tests.Use a descriptive verb instead.
 ---

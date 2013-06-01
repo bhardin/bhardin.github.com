@@ -2,7 +2,7 @@
 layout: post
 title: Builders, Breakers, and Fixers
 tags: [change, infosec]
-image: http://farm4.staticflickr.com/3616/3312115991_cc2a483d06.jpg
+image: http://farm4.staticflickr.com/3616/3312115991_cc2a483d06_b.jpg
 image_credit: JanneM
 ---
 Currently the Information Security industry is going through an interesting time.

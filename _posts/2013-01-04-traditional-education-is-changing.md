@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Traditional Education Is a Changin'"
-image: http://farm3.staticflickr.com/2243/2540055580_8ea9caee01.jpg
-image_credit: I, Timmy
+title: "Traditional Education Is Changing"
+image: http://farm8.staticflickr.com/7204/6966883093_5fa64ed49e_b.jpg
+image_credit: Johan Larsson
+image_credit_url: http://www.flickr.com/photos/johanl/
 tags: [education, learning, change]
 meta_description: We don't learn in the real world the way schools teach us. Is education changing to represent the way we learn naturally?
 ---

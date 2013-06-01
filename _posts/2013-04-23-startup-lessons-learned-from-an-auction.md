@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Startup Lessons Learned From an Auction"
-image: http://farm8.staticflickr.com/7188/7048023447_97a1d3104a.jpg
+image: http://farm8.staticflickr.com/7188/7048023447_97a1d3104a_b.jpg
 image_credit: USFWS Mountain Prairie
-image_credit_url: http://www.flickr.com/photos/usfwsmtnprairie/7048023447/
+image_credit_url: http://www.flickr.com/photos/usfwsmtnprairie/
 tags: [boardgames, startups, growth hacking, market demand]
 meta_description: Computer Science constantly borrow ideas from the real world. Cross-field pollination is beneficial to discovering new ideas in your space.
 ---

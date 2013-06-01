@@ -5,7 +5,7 @@ tags:
 - vulnerabilities
 status: publish
 type: post
-image: http://farm3.static.flickr.com/2162/2542450115_6576d19185.jpg
+image: http://farm3.static.flickr.com/2162/2542450115_6576d19185_b.jpg
 image_credit: jurvetson
 published: true
 meta:

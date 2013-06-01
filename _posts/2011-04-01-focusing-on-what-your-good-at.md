@@ -2,8 +2,9 @@
 layout: post
 title: Focusing On What Your Good At
 tags: [life, focus]
-image: http://farm1.staticflickr.com/130/418180402_d5fb8a8713.jpg
-image_credit: Shonk
+image: http://farm9.staticflickr.com/8468/8123173150_681eab6c1d_b.jpg
+image_credit: El Nando
+image_credit_url: http://www.flickr.com/photos/el_nando/
 ---
 When I was in high school I was focused on being good at everything. Some time passed and I realized that successful people focus on one (1) aspect of their life and dive deep. Really Deep.
 

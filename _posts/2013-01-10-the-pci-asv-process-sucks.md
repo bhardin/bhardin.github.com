@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "The PCI ASV Process Sucks"
-image: http://farm4.staticflickr.com/3193/2500097744_45620f6382.jpg
-image_credit: Dinkel	
+image: http://farm3.staticflickr.com/2268/3537904106_57fe05b12b_b.jpg
+image_credit: Bryan Rosengrant
+image_credit_url: http://www.flickr.com/photos/rosengrant/
 tags: [pci, compliance, testing, infosec]
 meta_description: The annual review process for being a PCI Approved Scanning Vendor is bad. The review is subjective.
 ---

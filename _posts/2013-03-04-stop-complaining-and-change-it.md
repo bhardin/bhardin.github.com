@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Stop Complaining and Change It"
-image: http://farm6.staticflickr.com/5290/5290175436_e5f37015b3.jpg
+image: http://farm6.staticflickr.com/5290/5290175436_e5f37015b3_b.jpg
 image_credit: marksdk
-image_credit_url: http://www.flickr.com/photos/markcph/5290175436/
+image_credit_url: http://www.flickr.com/photos/markcph/
 tags: [complaining, change]
 meta_description: 
 ---

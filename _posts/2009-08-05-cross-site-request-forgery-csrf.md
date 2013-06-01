@@ -3,7 +3,7 @@ layout: post
 title: Cross Site Request Forgery (CSRF)
 tags: [vulnerabilities, owasp]
 series: the Owasp Top 10
-image: http://farm4.static.flickr.com/3197/2689052349_07738f5902.jpg
+image: http://farm4.static.flickr.com/3197/2689052349_07738f5902_b.jpg
 image_credit: Joe Penniston
 ---
 {% include series.html %}

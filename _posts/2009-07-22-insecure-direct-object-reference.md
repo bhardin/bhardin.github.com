@@ -4,8 +4,9 @@ title: Insecure Direct Object Reference
 tags: [vulnerabilities, owasp]
 series: the Owasp Top 10
 status: publish
-image: http://farm4.static.flickr.com/3167/2538415572_b61ff16742.jpg
-image_credit: tim_norris
+image: http://farm4.staticflickr.com/3568/3814523970_56b2af4d12_b.jpg
+image_credit: JD Hancock
+image_credit_url: http://www.flickr.com/photos/jdhancock/
 ---
 {% include series.html %}
 

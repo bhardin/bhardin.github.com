@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Acquiring Users With a Drip"
-image: http://farm1.staticflickr.com/33/60446444_b7955309b4.jpg
-image_credit: MarS
+image: http://farm1.staticflickr.com/28/50028504_214652a272_b.jpg
+image_credit: Jon Rawlinson
+image_credit_url: http://www.flickr.com/photos/london/
 tags: [user acquisition, marketing]
 meta_description: The only way to build momentum is by bringing customers constantly into your product. Each customer creates a larger user base.
 ---

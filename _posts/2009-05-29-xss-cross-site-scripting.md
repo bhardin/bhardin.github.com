@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Understanding Cross-Site Scripting (XSS)
+image: http://farm9.staticflickr.com/8316/8028733584_f1f2c265bb_b.jpg
+image_credit_url: http://www.flickr.com/photos/34316967@N04/
+image_credit: jDevaun
 tags: [vulnerabilities, owasp]
 series: the Owasp Top 10
-image_credit_url: http://www.flickr.com/photos/urbanwoodswalker/3671317489/
-image: http://farm3.static.flickr.com/2557/3671317489_b797daaf22.jpg
-image_credit: Urban Woodswalker
 ---
 
 {% include series.html %}

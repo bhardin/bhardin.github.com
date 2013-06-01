@@ -3,7 +3,7 @@ layout: post
 title: Information Leakage and Improper Error Handling
 tags: [vulnerabilities, owasp]
 series: the Owasp Top 10
-image: http://farm4.static.flickr.com/3154/3058009462_f59cb3ed1a.jpg
+image: http://farm4.static.flickr.com/3154/3058009462_f59cb3ed1a_b.jpg
 image_credit: bitzcelt
 type: post
 ---
