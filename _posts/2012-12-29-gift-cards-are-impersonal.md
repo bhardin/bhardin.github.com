@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Gift Cards Are Impersonal"
-image: http://farm4.staticflickr.com/3225/3131341442_cbd664f5b1.jpg
-image_credit: allerleirau
+image: http://farm4.staticflickr.com/3053/3111558481_19f521b9a0_b.jpg
+image_credit: Dr. Wendy Longo
+image_credit_url: http://www.flickr.com/photos/wtlphotos
 tags: [shopping, gifts]
 meta_description: The worst gift you can ever give is a gift card. By giving someone a gift card you are telling them you don't care about them.
 ---

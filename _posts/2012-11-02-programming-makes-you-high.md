@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programming Makes You High"
-image: http://farm6.staticflickr.com/5442/7154931798_ee742379ec.jpg
+image: http://farm6.staticflickr.com/5442/7154931798_ee742379ec_b.jpg
 image_credit: miggslives
 category: 
 tags: [programming, purpose, open source]

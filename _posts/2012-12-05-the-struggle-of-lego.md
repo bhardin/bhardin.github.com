@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Struggle of Lego"
-image: http://farm4.staticflickr.com/3268/2657428339_41cdd281f7.jpg
+image: http://farm4.staticflickr.com/3268/2657428339_41cdd281f7_b.jpg
 image_credit: hey mr glen 
 category: 
 tags: [startups, struggle, challenges]

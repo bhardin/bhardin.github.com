@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "TrollBlock.com"
-category:
-image: http://farm4.staticflickr.com/3104/2788648775_48c7ec9e08.jpg
+image: http://farm4.staticflickr.com/3104/2788648775_48c7ec9e08_b.jpg
 image_credit: kevin dooley
 tags: [startups]
 ---

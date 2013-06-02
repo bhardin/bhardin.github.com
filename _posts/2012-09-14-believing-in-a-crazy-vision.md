@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Believing in A Crazy Vision"
-image: http://farm9.staticflickr.com/8001/7433731222_6c9030d1b0.jpg
+image: http://farm9.staticflickr.com/8001/7433731222_6c9030d1b0_b.jpg
 image_credit: Ruben Chase
 category: 
 tags: [vision, failure]

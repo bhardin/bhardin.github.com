@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Floor Labs: Free Palo Alto Office Space For 6 Months"
-image: http://farm8.staticflickr.com/7263/7699848790_6a1f2922cb.jpg
+image: http://farm8.staticflickr.com/7263/7699848790_6a1f2922cb_b.jpg
 image_credit: davidrdesign
 category: 
 tags: [startups, office space, incubators]

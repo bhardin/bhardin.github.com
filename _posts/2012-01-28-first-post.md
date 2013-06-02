@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Post?"
-image: http://farm9.staticflickr.com/8004/7515248418_5a813d7ca6.jpg
+image: http://farm9.staticflickr.com/8004/7515248418_5a813d7ca6_b.jpg
 image_credit: jurvetson
 ---
 

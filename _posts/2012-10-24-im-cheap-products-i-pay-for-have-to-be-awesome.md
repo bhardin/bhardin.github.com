@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'm Cheap: Products I Pay For Have to Be Awesome"
-image: http://farm9.staticflickr.com/8430/7835907400_a602167689.jpg
+image: http://farm9.staticflickr.com/8430/7835907400_a602167689_b.jpg
 image_credit: Curtis Gregory Perry
 category: 
 tags: [lifestyle, money]

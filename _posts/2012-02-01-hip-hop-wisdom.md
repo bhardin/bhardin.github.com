@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hip Hop Entrepreneurship
-image: http://farm6.staticflickr.com/5209/5369646057_466f889213.jpg
+image: http://farm6.staticflickr.com/5209/5369646057_466f889213_b.jpg
 image_credit: Pedro Vezini
 category: 
 tags: [music, startups]

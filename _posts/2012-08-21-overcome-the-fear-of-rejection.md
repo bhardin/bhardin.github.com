@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Overcome The Fear of Rejection"
-image: http://farm4.staticflickr.com/3122/2768710527_6138a6795e.jpg
+image: http://farm4.staticflickr.com/3122/2768710527_6138a6795e_b.jpg
 image_credit: stepol
 category: 
 tags: [repost]

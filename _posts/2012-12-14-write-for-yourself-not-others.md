@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Write For Yourself, Not Others"
-image: http://farm4.staticflickr.com/3179/3084017715_1fdd10219e.jpg
+image: http://farm4.staticflickr.com/3179/3084017715_1fdd10219e_b.jpg
 image_credit: e_walk
 category: 
 tags: [writing, blogging]

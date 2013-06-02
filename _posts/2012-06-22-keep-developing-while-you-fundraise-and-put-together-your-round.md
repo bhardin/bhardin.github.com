@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Have Fun While Raising Venture Capital"
-image: http://farm1.staticflickr.com/145/381941233_99ba9795b3.jpg
+image: http://farm1.staticflickr.com/145/381941233_99ba9795b3_b.jpg
 image_credit: Johnny Vulkan
 tags: [financing, startups]
 meta_description: Raising venture capital is frustrating. Make sure you remember the reason why you're raising it.

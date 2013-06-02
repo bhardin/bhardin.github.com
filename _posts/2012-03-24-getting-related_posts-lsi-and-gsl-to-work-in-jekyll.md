@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting related_posts, lsi, and gsl to work in jekyll"
-image: http://farm3.staticflickr.com/2561/4005590272_6ec33b4333.jpg
+image: http://farm3.staticflickr.com/2561/4005590272_6ec33b4333_b.jpg
 image_credit: andreasrodler
 category: 
 tags: [tech]

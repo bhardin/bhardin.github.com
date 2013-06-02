@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Be Productive. Not Busy."
-image: http://farm4.staticflickr.com/3010/2693784352_b4747cd81b.jpg
+image: http://farm4.staticflickr.com/3010/2693784352_b4747cd81b_b.jpg
 image_credit: Kasaa
 category: 
 tags: [productivity, large organizations, good enough]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Value Proposition"
-image: http://farm3.staticflickr.com/2069/2187900425_cecdc1a5dc.jpg
+image: http://farm3.staticflickr.com/2069/2187900425_cecdc1a5dc_b.jpg
 image_credit: Balaji.B
 category: 
 tags: [lean, startups, marketing]

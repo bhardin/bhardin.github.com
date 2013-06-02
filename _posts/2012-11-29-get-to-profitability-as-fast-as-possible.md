@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Get to Profitability as Fast as Possible"
-image: http://farm3.staticflickr.com/2724/4146016291_4e4649b7a5.jpg
-image_credit: kaneda99
-category: 
+image: http://farm3.staticflickr.com/2755/4203873799_4f245de101_b.jpg
+image_credit: Philippe Put
+image_credit_url: http://www.flickr.com/photos/34547181@N00/
 tags: [startups, revenue]
 meta_description: If you take VC money, you need to exit. If you are profitable, you can extend your shelf life.
 ---

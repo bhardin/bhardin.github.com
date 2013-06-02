@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Value Hypothesis and Growth Hypothesis"
-image: http://farm4.staticflickr.com/3118/2581128432_a3455fd53a.jpg
+image: http://farm4.staticflickr.com/3118/2581128432_a3455fd53a_b.jpg
 image_credit: shoothead
 category: 
 tags: [startups]

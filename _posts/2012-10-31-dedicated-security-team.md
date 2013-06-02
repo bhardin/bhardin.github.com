@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "A Dedicated Security Team"
-image: http://farm1.staticflickr.com/114/264806933_f68e9632ea.jpg
-image_credit: Paulgi
-category:
+image: http://farm4.staticflickr.com/3004/2750626364_ca4c7861f6_b.jpg
+image_credit: Eole Wind
+image_credit_url: http://www.flickr.com/photos/eole/
 tags: [infosec, culture, large organizations, happiness, developers]
 meta_description: Hiring a dedicated security team is a need for many organizations. Security people need to ask the following questions to evaluate this opportunity.
 ---
-
-
 
 Companies are living entities. As companies and grow and shrink priorities change. Something that wasn't important yesterday is now critical to survival. The larger the company the slower the change happens. But, priorities do shift regardless of the size of the organization.
 

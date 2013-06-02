@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Negotiate a Better Startup Equity Package"
-image: http://farm6.staticflickr.com/5218/5462029827_308376fb12.jpg
+image: http://farm6.staticflickr.com/5218/5462029827_308376fb12_b.jpg
 image_credit: Stefan
 category: 
 tags: [negotiating, startups, equity, financing]

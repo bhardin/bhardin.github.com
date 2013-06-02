@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Worst Time to Raise Financing"
-image: http://farm9.staticflickr.com/8044/8148129093_04c52500c8.jpg
+image: http://farm9.staticflickr.com/8044/8148129093_04c52500c8_b.jpg
 image_credit: ekonon
 category: 
 tags: [financing, venture capital]

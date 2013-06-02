@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Examples of Liquidation Preferences"
-image: http://farm3.staticflickr.com/2422/3593530170_ae58a74673.jpg
-image_credit: juanjolostium
-category: 
+image: http://farm3.staticflickr.com/2100/2516437322_c1f34ef31d_b.jpg
+image_credit: Mike Bitzenhofer
+image_credit_url: http://www.flickr.com/photos/bitzcelt/
 tags: [startups, financing]
 meta_description: Examples of how liquidation preferences work on investor and venture capital term sheets.
 ---

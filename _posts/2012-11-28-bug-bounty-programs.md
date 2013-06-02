@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bug Bounty Programs"
-image: http://farm4.staticflickr.com/3515/3942045952_0cbebeede1.jpg
+image: http://farm4.staticflickr.com/3515/3942045952_0cbebeede1_b.jpg
 image_credit: Jillian Stewart
 category: 
 tags: [vulnerabilities, infosec, bugs]

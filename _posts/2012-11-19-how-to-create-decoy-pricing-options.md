@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How To Create Decoy Pricing Options"
-image: http://farm1.staticflickr.com/149/378610215_6b569a8689.jpg
-image_credit: M J M
-category: 
+image: http://farm4.staticflickr.com/3558/3488126946_bbc617f4c1_b.jpg
+image_credit: Dr.DeNo
+image_credit_url: http://www.flickr.com/photos/denatale/
 tags: [marketing, sales, pricing, psychology, cognitive bias]
 meta_description: A summary of what decoy pricing is and how to use it in your pricing strategy.
 ---

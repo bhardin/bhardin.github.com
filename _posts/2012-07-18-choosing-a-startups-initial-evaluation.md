@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Choosing A Startups Initial Evaluation"
-image: http://farm1.staticflickr.com/29/53912456_902b89d704.jpg
+image: http://farm1.staticflickr.com/29/53912456_902b89d704_b.jpg
 image_credit: Roger Smith
 category: 
 tags: [startups, financing]

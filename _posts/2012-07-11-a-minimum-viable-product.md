@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Minimum Viable Product"
-image: http://farm3.staticflickr.com/2693/4421884081_b33b9323f0.jpg
+image: http://farm3.staticflickr.com/2693/4421884081_b33b9323f0_b.jpg
 image_credit: Michael Connell
 category: 
 tags: [startups]

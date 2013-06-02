@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Limiting Your Daily Distractions"
-image: http://farm3.staticflickr.com/2754/4334456172_f4d32f68f4.jpg
+image: http://farm3.staticflickr.com/2754/4334456172_f4d32f68f4_b.jpg
 image_credit: Brandon Christopher Warren
 category: 
 tags: [focus, email, productivity]

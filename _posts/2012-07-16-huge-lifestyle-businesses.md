@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Huge Lifestyle Businesses"
-image: http://farm3.staticflickr.com/2692/4397282137_b757e1c743.jpg
+image: http://farm3.staticflickr.com/2692/4397282137_b757e1c743_b.jpg
 image_credit: marcp_dmoz
 category: 
 tags: [startups]

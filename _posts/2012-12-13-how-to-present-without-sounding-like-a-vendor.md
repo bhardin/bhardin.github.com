@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Present Without Sounding Like a Vendor"
-image: http://farm4.staticflickr.com/3354/3188003733_a294ca421e.jpg
+image: http://farm4.staticflickr.com/3354/3188003733_a294ca421e_b.jpg
 image_credit: Johan.V.
 category: 
 tags: [sales, presenting, marketing]

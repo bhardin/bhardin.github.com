@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't Use Two Spaces After A Period"
-image: http://farm7.staticflickr.com/6044/6242157701_90ed52064b.jpg
+image: http://farm7.staticflickr.com/6044/6242157701_90ed52064b_b.jpg
 image_credit: txcrew
 category: 
 tags: [communication, design, writing]

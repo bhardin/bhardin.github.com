@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Use FourSquare"
-image: http://farm2.staticflickr.com/1168/4734788670_f3a9ee463b.jpg
+image: http://farm2.staticflickr.com/1168/4734788670_f3a9ee463b_b.jpg
 image_credit: Brian Wilkins
 category:
 tags: [tech, product review]

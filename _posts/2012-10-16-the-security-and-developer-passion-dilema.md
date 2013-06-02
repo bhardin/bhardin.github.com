@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Security and Developer Passion Dilema"
-image: http://farm3.staticflickr.com/2192/2058198168_fac0e21ee1.jpg
+image: http://farm3.staticflickr.com/2192/2058198168_fac0e21ee1_b.jpg
 image_credit: Orangeya
 category: 
 tags: [infosec, developers]

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Designers and Data Scientists. Oh My!"
-image: http://farm5.staticflickr.com/4014/4587871752_30c10a3a09.jpg
-image_credit: dzingeek
-category: 
+image: http://farm8.staticflickr.com/7075/6853520906_ed05645cd1_b.jpg
+image_credit: Brett Kiger
+image_credit_url: http://www.flickr.com/photos/brettkiger/
 tags: [startups, design, buzzwords, tech]
 meta_description: What do data scientists and designers do and how do I find one for my startup.
 ---

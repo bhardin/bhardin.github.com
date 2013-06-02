@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Find Long Tail Keywords Using Google Analytics"
-image: http://farm1.staticflickr.com/1/1110334_a1977da14f.jpg
-image_credit: drp
+image: http://farm4.staticflickr.com/3188/2821648357_c9dff08a6b_b.jpg
+image_credit: photophilde
+image_credit_url: http://www.flickr.com/photos/photophilde/
 category: 
 tags: [SEO, marketing, ROI]
 meta_description: How do you find interesting articles to write about? You can use long tail keywords that you already have to generate more traffic from them.

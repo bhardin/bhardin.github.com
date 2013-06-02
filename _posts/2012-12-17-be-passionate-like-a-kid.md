@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Be Passionate Like a Kid"
-image: http://farm5.staticflickr.com/4017/4445692593_509f3f59c8.jpg
+image: http://farm5.staticflickr.com/4017/4445692593_509f3f59c8_b.jpg
 image_credit: Kmark
 category: 
 tags: [life, people, children, passion]

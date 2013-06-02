@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Market Size"
-image: http://farm3.staticflickr.com/2083/2291498814_923636ac78.jpg
-image_credit: Perpetualtourist2000
+image: http://farm1.staticflickr.com/53/155918164_cb8dd42438_b.jpg
+image_credit: Thomas Hawk
+image_credit_url: http://www.flickr.com/photos/thomashawk
 series: business plans
 tags: [investor deck, markets, startups, investors]
 meta_description: Market size is arguablly the most important thing when deciding to build a business. How do you go about calculating your market size?

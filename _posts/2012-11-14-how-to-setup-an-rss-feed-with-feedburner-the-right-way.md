@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How To Setup an RSS Feed with Feedburner The Right Way"
-image: http://farm3.staticflickr.com/2492/4147276281_7991f7bdaf.jpg
-image_credit: Adam Foster of Codefor
-category: 
+image: http://farm4.staticflickr.com/3202/2459534903_fb552595e8_b.jpg
+image_credit: Martin Fisch
+image_credit_url: http://www.flickr.com/photos/marfis75/
 tags: [tech, blogging]
 meta_description: Are you using feedburner the right way? I wasn't and I've been using it for over 5 years.
 ---

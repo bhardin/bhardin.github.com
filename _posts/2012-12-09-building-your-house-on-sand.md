@@ -2,7 +2,7 @@
 layout: post
 title: "Building Your House on Sand"
 tags: [presentation, open source, infosec, slides]
-image: http://farm8.staticflickr.com/7165/6452974091_53f12a7532.jpg
+image: http://farm8.staticflickr.com/7165/6452974091_53f12a7532_b.jpg
 image_credit: fabiogis50
 meta_description: Third-Party library dependencies are the source of many of our security issues. How can we manage them in a maintable way?
 ---

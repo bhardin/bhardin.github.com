@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Company Culture is Defined By You and Your Actions"
-image: http://farm8.staticflickr.com/7174/6518709955_947152296a.jpg
+image: http://farm8.staticflickr.com/7174/6518709955_947152296a_b.jpg
 image_credit: maistora
 category: 
 tags: [culture, startups]

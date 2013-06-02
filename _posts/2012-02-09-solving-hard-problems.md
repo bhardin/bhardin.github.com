@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Do They Solve Hard Problems?"
-image: http://farm3.staticflickr.com/2261/2207748365_f851029338.jpg
+image: http://farm3.staticflickr.com/2261/2207748365_f851029338_b.jpg
 image_credit: emma.c
 category: 
 tags: [startups, problems]

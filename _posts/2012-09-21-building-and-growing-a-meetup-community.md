@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building and Growing a Meetup Group"
-image: http://farm9.staticflickr.com/8154/6954844640_ca64cde57d.jpg
+image: http://farm9.staticflickr.com/8154/6954844640_ca64cde57d_b.jpg
 image_credit: Thomas Hawk
 category: 
 tags: [meetup, community, building, growth]

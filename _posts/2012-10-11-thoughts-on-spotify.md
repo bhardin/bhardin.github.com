@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Thoughts on Spotify"
-image: http://farm4.staticflickr.com/3031/2886860917_4d34c0db73.jpg
-image_credit: kelvin255
-category: 
+image: http://farm3.staticflickr.com/2801/4504547877_947cdb20ed_b.jpg
+image_credit: Blixt
+image_credit_url: http://www.flickr.com/photos/mr-blixt/
 tags: [tech, product review]
 meta_description: Spotify is a streaming music service. This article talks about pro's and con's of the service.
 ---

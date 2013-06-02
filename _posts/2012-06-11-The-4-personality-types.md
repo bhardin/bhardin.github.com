@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 4 Different Personality Types
-image: http://farm8.staticflickr.com/7092/7195153082_245bea8a89.jpg
+image: http://farm8.staticflickr.com/7092/7195153082_245bea8a89_b.jpg
 image_credit: Scottwdw
 category: 
 tags: [life, people, communication]

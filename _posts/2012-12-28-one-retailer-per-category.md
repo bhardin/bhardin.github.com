@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "A Single Retail Store"
-image: http://farm3.staticflickr.com/2057/2125571346_dc8745359b.jpg
-image_credit: Eridony
+image: http://farm3.staticflickr.com/2741/4444576795_108f15ae9e_b.jpg
+image_credit: epSos.de
+image_credit_url: http://www.flickr.com/photos/epsos/
 tags: [retail, startups, prediction]
 meta_description: The internet is making physical stores go out of business faster than Walmart. Only one store will survive in a single category.
 ---

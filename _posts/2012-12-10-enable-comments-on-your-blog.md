@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Enable Comments On Your Blog"
-image: http://farm3.staticflickr.com/2255/2445843615_44d78c897e.jpg
-image_credit: Brennan Moore
-category: 
+image: http://farm1.staticflickr.com/1/4093665_dbd6d8c170_b.jpg
+image_credit: Sumit
+image_credit_url: http://www.flickr.com/photos/sumit/
 tags: [blogging, communication, community, product experience]
 meta_description: If you have a blog and don't have comments enabled then you don't have a blog. You have a soapbox.
 ---

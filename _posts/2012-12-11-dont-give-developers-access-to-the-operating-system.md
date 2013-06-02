@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Don't Give Developers Access to The Operating System"
-image: http://farm1.staticflickr.com/142/351801970_2ccf07addf.jpg
-image_credit: de2
-category: 
+image: http://farm6.staticflickr.com/5291/5550705287_751ab30767_b.jpg
+image_credit: Kaptain Kobold
+image_credit_url: http://www.flickr.com/photos/kaptainkobold/
 tags: [infosec, developers, security controls]
 meta_description: Devlelopers are granted too much access to functionality which they shouldn't have.
 ---

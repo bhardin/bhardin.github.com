@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Consumerization of Enterprise Sales"
-image: http://farm8.staticflickr.com/7026/6829515241_2742fd1881.jpg
+image: http://farm8.staticflickr.com/7026/6829515241_2742fd1881_b.jpg
 image_credit: Victor1558
 category: 
 tags: [sales, marketing, b2b, enterprise]

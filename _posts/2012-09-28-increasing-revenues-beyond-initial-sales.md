@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Increasing Revenues Beyond Initial Sales"
-image: http://farm1.staticflickr.com/31/64027565_79b890c8c4.jpg
+image: http://farm1.staticflickr.com/31/64027565_79b890c8c4_b.jpg
 image_credit: splorp
 category: 
 tags: [sales, revenue, startups, growth]

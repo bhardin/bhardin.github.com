@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Successful Habit, Successfully"
-image: http://farm5.staticflickr.com/4116/4896996561_c257b8e3bf.jpg
+image: http://farm5.staticflickr.com/4116/4896996561_c257b8e3bf_b.jpg
 image_credit: JD Hancock
 image_credit_url: http://www.flickr.com/photos/jdhancock/
 tags: [success, habit, ritual, lifestyle, productivity, life, learning, mindset]

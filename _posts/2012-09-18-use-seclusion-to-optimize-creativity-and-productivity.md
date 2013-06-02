@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Use Seclusion To Optimize Creativity and Productivity"
-image: http://farm8.staticflickr.com/7278/6881449630_37e31fc143.jpg
+image: http://farm8.staticflickr.com/7278/6881449630_37e31fc143_b.jpg
 image_credit: seyed mostafa zamani
 category: 
 tags: [lean, seclusion, productivity]

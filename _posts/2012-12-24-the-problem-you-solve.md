@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Problem You Solve"
-image: http://farm3.staticflickr.com/2079/2939337382_d7e1268752.jpg
+image: http://farm3.staticflickr.com/2079/2939337382_d7e1268752_b.jpg
 image_credit: marfis75
 series: business plans
 tags: [problems, startups, investor deck]

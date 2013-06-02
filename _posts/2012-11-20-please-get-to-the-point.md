@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Please, Get To The Point"
-image: http://farm4.staticflickr.com/3632/3405971322_23eae03cac.jpg
-image_credit: babasteve
-category: 
+image: http://farm7.staticflickr.com/6157/6191679822_075d3f1a07_b.jpg
+image_credit: Charlie Barker
+image_credit_url: http://www.flickr.com/photos/charlieeclark/
 tags: [writing, blogging, purpose]
 meta_description: The next time you decide to write something get to the point as fast as possible.
 ---

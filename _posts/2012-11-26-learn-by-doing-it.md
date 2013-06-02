@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learn By Doing It"
-image: http://farm4.staticflickr.com/3042/3058182308_c0d72d4c55.jpg
+image: http://farm4.staticflickr.com/3042/3058182308_c0d72d4c55_b.jpg
 image_credit: woodleywonderworks
 category: 
 tags: [learning, education, experience]

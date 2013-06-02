@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Purposely Delaying Features"
-image: http://farm1.staticflickr.com/51/141295823_dba343e789.jpg
-image_credit: Isobel T
-category: 
+image: http://farm7.staticflickr.com/6142/5929997080_8c30da713f_b.jpg
+image_credit: Mr. T in DC
+image_credit_url: http://www.flickr.com/photos/mr_t_in_dc
 tags: [startups, product management]
 meta_description: Don't release each feature as you build it. Hold a few back and release them on a recurring basis.
 ---

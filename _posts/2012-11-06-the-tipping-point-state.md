@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Tipping Point State"
-image: http://farm1.staticflickr.com/98/266752745_81dc6fb29e.jpg
-image_credit: 
-category: 
+image: http://farm1.staticflickr.com/32/50088733_58935531ce_b.jpg
+image_credit: Super Fantastic
+image_credit_url: http://www.flickr.com/photos/superfantastic/
 tags: [data mining, polling]
 meta_description: The tipping point state is a table predicting the outcome of the U.S. presidential election.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Steve and the NeXT logo"
-image: http://farm7.staticflickr.com/6185/6116993147_fd91ca8992.jpg
+image: http://farm7.staticflickr.com/6185/6116993147_fd91ca8992_b.jpg
 image_credit: Anomalily
 category: 
 tags: [repost, story]

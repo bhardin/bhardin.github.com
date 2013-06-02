@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Structure of an Investor Update"
-image: http://farm4.staticflickr.com/3258/3154531761_dc66196b69.jpg
-image_credit: 
-category: 
+image: http://farm4.staticflickr.com/3752/8760559240_4e4dbd5692_b.jpg
+image_credit: Charlie Barker
+image_credit_url: http://www.flickr.com/photos/charlieeclark/
 tags: [investors, financing, startups]
 meta_description: These things should be included in an investor update when you are running a startup.
 ---

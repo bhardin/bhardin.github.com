@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Jekyll and SEO Optimization"
-image: http://farm2.staticflickr.com/1318/1431384410_db38f8a58f.jpg
-image_credit: woodleywonderworks
-category: 
+image: http://farm1.staticflickr.com/12/17135231_30c542a363_b.jpg
+image_credit: Paula Bailey
+image_credit_url: http://www.flickr.com/photos/auntiep
 tags: [blogging, tech, SEO]
 meta_description: Jekyll doesn't have built in SEO tools. Here is a tool you can use to apply SEO principles to each of your posts.
 ---

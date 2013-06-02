@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Challenge Yourself to Always Learn"
-image: http://farm2.staticflickr.com/1431/1460025318_e1ef3fe13f.jpg
+image: http://farm2.staticflickr.com/1431/1460025318_e1ef3fe13f_b.jpg
 image_credit: Let Ideas Compete
 category: 
 tags: [change, life, learning, struggle]

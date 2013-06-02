@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happiness is Perception"
-image: http://farm1.staticflickr.com/130/358458442_3c2a178f71.jpg
+image: http://farm1.staticflickr.com/130/358458442_3c2a178f71_b.jpg
 image_credit: Bukutgirl
 category: 
 tags: [happiness, perception, mindset]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Customer Service and Customer Satisfaction"
-image: http://farm4.staticflickr.com/3626/3300167112_d15ed85be5.jpg
+image: http://farm4.staticflickr.com/3626/3300167112_d15ed85be5_b.jpg
 image_credit: benessere
 category: 
 tags: [customer service, large organizations, virality]

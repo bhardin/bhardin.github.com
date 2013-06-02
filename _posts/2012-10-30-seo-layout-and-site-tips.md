@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SEO: Layout and Site Tips"
-image: http://farm5.staticflickr.com/4028/4711121074_c820ccca58.jpg
+image: http://farm5.staticflickr.com/4028/4711121074_c820ccca58_b.jpg
 image_credit: Double--M
 category: 
 tags: [SEO, good enough, design]

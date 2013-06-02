@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Be Nice and Be Helpful"
-image: http://farm4.staticflickr.com/3096/2379078919_3234e41f3a.jpg
+image: http://farm4.staticflickr.com/3096/2379078919_3234e41f3a_b.jpg
 image_credit: tonivc
 category: 
 tags: [lifestyle, people, culture, mindset]

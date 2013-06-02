@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Automatic Updates Are The Future"
-image: http://farm9.staticflickr.com/8236/8505342511_03fc666f2f.jpg
+image: http://farm9.staticflickr.com/8236/8505342511_03fc666f2f_b.jpg
 image_credit_url: http://www.flickr.com/photos/shanelin/8505342511/in/set-72157632848286261/
 image_credit: Malenkov in Exile
 tags: [infosec, tech]
