@@ -16,7 +16,7 @@ As a kid my parents never played board games with me. So as soon as one of these
 
 Like many board gamers, Settlers of Catan and Axis and Allies were my gateway games. Although these games introduced me to the hobby, I have moved on from these inferior games to much better games.
 
-I now own over [200 board games][2].
+I now own over 200 board games.
 
 ## Board games Connect You Like Sports
 
