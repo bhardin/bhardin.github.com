@@ -7,6 +7,9 @@ image_credit_url: http://www.flickr.com/photos/cristiano_betta/
 tags: [infosec, tech, apple]
 meta_description: The AppStore should automatically update downloaded applications without user interaction.
 ---
+
+__Edit:__ _iOS7 Now does this._
+
 The App Store allows distribution of applications to anyone running Apple hardware. The variety of applications available is impressive. There are stupid simple fart apps, business applications for the upcoming BYOD influx, transportation apps, and more complex applications managing personal notes in the cloud.
 
 Developers benefit from the App Store by leveraging the distribution platform Apple has created. With a simple approval process a developer can distribute their software to millions of people easily.
