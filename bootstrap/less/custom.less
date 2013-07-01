@@ -38,22 +38,20 @@
 @base_fonts: 				ff-tisa-web-pro, Georgia, Cambria, 'Times New Roman', Times, serif;
 @serifFontFamily: 	freight-sans-pro, 'Myriad Pro', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
 
-// // This should eventually be removed... It is a hack.
 blockquote {
-	background-image:url('/assets/images/quote.png');
-	background-repeat:no-repeat;
+	background-color: #d5f1d6;
 
 	border-left: none;
 	margin-right: 30px;
 	margin-left: 10px;
-	padding-left: 30px;
-	padding-right: 15px;
+	padding: 10px 15px 10px 15px;
 	
 	p { 
 		line-height: @baseLineHeight;
 		font-family: @base_fonts;
-		font-size: @baseFontSize;
+		font-size: @baseFontSize * 0.85;
 		text-align: left;
+		margin-bottom: 10px;
 	}
 }
 
