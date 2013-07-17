@@ -24,9 +24,9 @@ Ruby 1.8.7 mainly added additional methods to classes. This means that it is pre
 
 ### String#slice!
 
-String#slice! had some unintentional bugs and they have been fixed  because either they disagreed with documentation or their respective  behavior of #slice.  Unfortunately, this causes some  incompatibilities in the following (somewhat rare) cases. 
+`String#slice!` had some unintentional bugs and they have been fixed  because either they disagreed with documentation or their respective  behavior of `#slice`.  Unfortunately, this causes some  incompatibilities in the following (somewhat rare) cases. 
 
-* \#slice! no longer expands the array when an out-of-boundary value is given.
+* \`#slice!` no longer expands the array when an out-of-boundary value is given.
 
 __Ruby 1.8.6__
 
@@ -40,7 +40,7 @@ __Ruby 1.8.7__
     a.slice!(4,0)   #=> nil      
     a               #=> [1,2]  
 
-* \#slice! no longer raises an exception but returns nil when a negative length or out-of-boundary negative position is given.
+* \`#slice!` no longer raises an exception but returns nil when a negative length or out-of-boundary negative position is given.
 
 __Ruby 1.8.6__ 
 
@@ -56,7 +56,7 @@ __Ruby 1.8.7__
 
 ### String#to_i
 
-The behavior in Ruby 1.8.6 was inconsistent with Ruby syntax and considered as  a bug. String#to_i, String#hex and String#oct no longer accept a sequence  of underscores (`__') as part of a number. 
+The behavior in Ruby 1.8.6 was inconsistent with Ruby syntax and considered as  a bug. `String#to_i`, `String#hex` and `String#oct` no longer accept a sequence  of underscores (`__') as part of a number. 
 
 __Ruby 1.8.6__
 
