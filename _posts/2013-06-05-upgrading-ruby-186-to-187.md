@@ -20,7 +20,7 @@ For some reason tcl-tk is borked with the Ruby 1.8.7. You can install 1.8.7 by d
 
 ## Searching Your Code Base
 
-Ruby 1.8.7 mainly added additional methods to classes. This means that it is pretty much backwards compatible. There are a few exceptions [regarding incompatibility](http://svn.ruby-lang.org/repos/ruby/tags/v1_8_7/NEWS). This are documented here.
+Ruby 1.8.7 mainly added additional methods to classes. This means that it is pretty much backwards compatible. There are a few exceptions [regarding incompatibility](http://svn.ruby-lang.org/repos/ruby/tags/v1_8_7/NEWS). These exceptions are documented here.
 
 ### String#slice!
 
@@ -97,7 +97,7 @@ The return value changed from nil to self.  This is what the document says and t
 The file name format has changed. No dots are included by default in temporary file names any more. This shouldn't be a problem, unless you are permanently keeping temporary files. Which is the exact opposite of what temp files should be used for. Seems like a bad coding practice to me.
 
 ## URI
-  Made changes to FTP and URI.merge to accommodate [RFC3986](http://www.ietf.org/rfc/rfc3986). These are more bugs in 1.8.6 than anything else. But still search your code base to see if URI is used.
+  Made changes to `FTP` and `URI.merge` to accommodate [RFC3986](http://www.ietf.org/rfc/rfc3986). These are more bugs in 1.8.6 than anything else. But still search your code base to see if URI is used.
 
 ### FTP      
 
