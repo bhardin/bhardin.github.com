@@ -8,7 +8,7 @@ tags: [presentation, slides, penetration testing, security]
 meta_description: Organizations think they need penetration tests before they actually do.
 ---
 
-The security community has been convinced they need penetration tests before they actually do. If your organization doesn't have a security person on staff, you don't need a penetration test. If you know their is low-hanging fruit that hasn't been fixed you don't need a penetration test.
+Organizations are convinced they need penetration tests before they actually do. If your organization doesn't have a security person on staff, you don't need a penetration test. If you know their is low-hanging fruit that hasn't been fixed you don't need a penetration test.
 
 In theory, penetration tests are supposed to simulate real word attacks. But, the scope and rules of engagement mean the test isn't simulating real world attacks.
 
