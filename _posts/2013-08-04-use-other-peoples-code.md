@@ -28,7 +28,7 @@ He continues:
 
 That is the exact thinking of these types of developers. Don't be this type of developer.
 
-Developers who open source the code you are going to rewrite will main will continue supporting the code. Once you develop the code, you won't maintain it or look for areas to optimize. The developer that has open sourced their code to do the same thing you are solving will. Other developers will contribute to the solution also. It's like having a bunch of developers on your team that you don't have to pay.
+Developers who open source the code you are going to rewrite will continue supporting the code. Once you develop the code, you won't maintain it or look for areas to optimize. The developer that has open sourced their code to do the same thing you are solving will. Other developers will contribute to the solution also. It's like having a bunch of developers on your team that you don't have to pay.
 
 In addition, when new developers join your team they won't have to learn your custom code base. They may already have experience with the open source solution which gives you a huge leg up in terms of speed of development.
 
