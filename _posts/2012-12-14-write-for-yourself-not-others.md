@@ -3,12 +3,12 @@ layout: post
 title: "Write For Yourself, Not Others"
 image: http://farm4.staticflickr.com/3179/3084017715_1fdd10219e_b.jpg
 image_credit: e_walk
-category: 
+category:
 tags: [writing, blogging]
 meta_description: To be successful at writing, stop worrying about what others will think and just write words on the paper.
 ---
 
-During [CUSEC 08][4], Jeff Atwood gave a presentation about writing being more importat than programing. You can't see the [slides][1] in the [video][2], but towards the end an interesting point is made.
+During [CUSEC 08][4], Jeff Atwood gave a presentation about writing being more important than programming. You can't see the [slides][1] in the [video][2], but towards the end an interesting point is made.
 
 The hidden gem occurs at 31:50, a member of the audience asks, How can he become an A-list blogger.
 
