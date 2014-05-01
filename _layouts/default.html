@@ -2,6 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
 <head>
+	<script src="//cdn.optimizely.com/js/980610134.js"></script>
+
   {% if page.title %}
   	<title>Constantly Learning: {{ page.title }}</title>
   {% else %}
@@ -31,10 +33,10 @@
 
 	{% include analytics %}
 </head>
-    
+
 <body>
 	<div class="header-bar">
-		<div class="container">	
+		<div class="container">
 			<div class="header">
 				<a href="/">constantly learning</a>
 			</div>
@@ -51,7 +53,7 @@
 		{% include subscribe_form.html %}
 	</div>
 
-	<div class="container main-content">	
+	<div class="container main-content">
 		{{ content }}
 	</div>
 
