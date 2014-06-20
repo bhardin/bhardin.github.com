@@ -1,61 +1,44 @@
 ---
 layout: default
 ---
-<div class="post" style="padding-top: 30px">
-	<div class="span2 offset1">
-		<div class="sidebar">
-			{% include about_me.html %}
+<div class="post">
+	<h1>{{ page.title }}</h1>
 
-			<hr/>
-			<strong>Published</strong>
-			<p>{{ page.date | date:"%B %d, %Y" }}</p>
-
-			<!-- Photo Credit -->
-			{% if page.image_credit %}
-				<hr/>
-				<div class="image_credit">
-					{% if page.image_credit_url %}
-						<strong>Image Credit</strong>
-						<p><a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></p>
-					{% else %}
-						<strong>Image Credit</strong>
-						<p>{{ page.image_credit }}</p>
-					{% endif %}
-				</div>
-			{% endif %}
-		</div>
+	<div class="content">
+		{{ content }}
 	</div>
 
-	<div class="span8">
-		{% if page.image %}
-			<img src="{{page.image}}">
+	<div class="about">
+		{% include about_me.html %}
+
+		<hr/>
+		<strong>Published</strong>
+		<p>{{ page.date | date:"%B %d, %Y" }}</p>
+
+		<!-- Photo Credit -->
+		{% if page.image_credit %}
+			<hr/>
+			<div class="image_credit">
+				{% if page.image_credit_url %}
+					<strong>Image Credit</strong>
+					<p><a href="{{ page.image_credit_url }}">{{ page.image_credit }}</a></p>
+				{% else %}
+					<strong>Image Credit</strong>
+					<p>{{ page.image_credit }}</p>
+				{% endif %}
+			</div>
 		{% endif %}
+	</div>
 
-		<h1>{{ page.title }}</h1>
+	<!-- bottom footer -->
+	<div class="below-post" style="margin-top: 20px">
+		<h3>Subscribe</h3>
+		{% include subscribe_form.html %}
 
-		<div class="content">
-		{{ content }}
-		</div>
+		<h3>Recent Posts</h3>
+		{% include recent_posts.html %}
+	</div>
 
-		<!-- Tags -->
-		<!--
-		<ul class="tag_box inline" style="margin-bottom: 15px">
-			{% assign tags_list = page.tags %}
-			{% include JB/tags_list %}
-		</ul>
-		-->
-
-		{% include share_buttons.html %}
-
-		<!-- bottom footer -->
-		<div class="below-post" style="margin-top: 20px">
-			<h3>Subscribe</h3>
-			{% include subscribe_form.html %}
-			
-			<h3>Recent Posts</h3>
-			{% include recent_posts.html %}	
-		</div>
-
-		{% include disqus %}
-	</div>	
+	{% include disqus %}
+	</div>
 </div> <!-- End of Post -->

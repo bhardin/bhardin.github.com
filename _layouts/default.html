@@ -2,39 +2,46 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
 <head>
+
 	<script src="//cdn.optimizely.com/js/980610134.js"></script>
 
   {% if page.title %}
   	<title>Constantly Learning: {{ page.title }}</title>
   {% else %}
-	<title>Constantly Learning</title>
+		<title>Constantly Learning</title>
   {% endif %}
 
 	{% if page.meta_description %}
 		<meta name="description" content="{{ page.meta_description }}" />
 	{% endif %}
 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css"/>
-	<link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">  -->
+
+	<link rel="stylesheet" href="/assets/css/foundation.css">
+
+	<!-- Fonts -->
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700,600|Lato:300,400,700|Oxygen:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css">
+
+
 	{% include bootstrap.js.html %}
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	{% include sharing.js %}
 
-  <!-- Fonts -->
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
+  <!-- RSS FEED
+  <!-- <link href="{{ site.feed }}" rel="alternate" type="application/atom+xml" title="Brett Hardin" /> -->
 
-  <!-- RSS FEED -->
-  <link href="{{ site.feed }}" rel="alternate" type="application/atom+xml" title="Brett Hardin" />
-
-	{% include custom-js.js %}
-
-	{% include analytics %}
-</head>
+	<!-- {% include analytics %} -->
 
 <body>
+	<div class="header">
+		<a href="/">constantly learning</a>
+	</div>
+
+	<!--
 	<div class="header-bar">
 		<div class="container">
 			<div class="header">
@@ -52,9 +59,12 @@
 	<div class="below-header">
 		{% include subscribe_form.html %}
 	</div>
+	-->
 
-	<div class="container main-content">
-		{{ content }}
+	<div class="container">
+		<div class="main-content">
+			{{ content }}
+		</div>
 	</div>
 
 	<footer class="footer">

@@ -1,0 +1,39 @@
+body {
+  background-color: #e5e5e5;
+  color: #525252;
+  margin: 0;
+  font-family: Oxygen, Arial, Helvetica, sans-serif;
+  line-height: 1.618em;
+  font-weight: 300;
+  word-wrap: break-word; }
+
+h1, h2, h3, h4 {
+  font-family: Lato, "PT Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #7109aa; }
+
+a {
+  color: #7109aa; }
+
+h1 {
+  font-size: 3em;
+  margin: .5em 0 .2em;
+  padding-bottom: 0.5em;
+  background-color: transparent;
+  border-bottom: 0.05em solid #7109aa;
+  font-weight: 300;
+  line-height: 1.1em; }
+
+.article-image {
+  width: 300px; }
+
+.container {
+  width: 100%;
+  max-width: 60em;
+  margin: 0 auto; }
+
+.main-content {
+  padding: 2em 8em;
+  background-color: #fff; }
+
+.post {
+  width: 690px; }

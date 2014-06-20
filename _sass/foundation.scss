@@ -1,0 +1,52 @@
+$main-font:    Oxygen, Arial, Helvetica, sans-serif;
+$secondary-font:  Lato,"PT Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+$background-color: #e5e5e5;
+$site-color: #7109aa;
+
+body {
+  background-color: $background-color;
+  color: #525252;
+  margin: 0;
+  font-family: $main-font;
+  line-height: 1.618em;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+h1, h2, h3, h4 {
+  font-family: $secondary-font;
+  color: $site-color;
+}
+
+a {
+  color: $site-color;
+}
+
+h1 {
+  font-size: 3em;
+  margin: .5em 0 .2em;
+  padding-bottom: 0.5em;
+  background-color: transparent;
+  border-bottom: .05em solid $site-color;
+  font-weight: 300;
+  line-height: 1.1em;
+}
+
+.article-image {
+  width: 300px;
+}
+
+.container {
+  width: 100%;
+  max-width: 60em;
+  margin: 0 auto;
+}
+
+.main-content {
+  padding: 2em 8em;
+  background-color: #fff;
+}
+
+.post {
+  width: 690px;
+}
