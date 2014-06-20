@@ -7,22 +7,21 @@ layout: default
 	<div class="content">
 		{{ content }}
 	</div>
+</div>
 
-	<div class="about">
-		{% include about_me.html %}
-	</div>
+<div class="about">
+	{% include about_me.html %}
+</div>
 
-	<!-- bottom footer -->
-	<div class="below-post" style="margin-top: 20px">
-		<h3>Subscribe</h3>
-		{% include subscribe_form.html %}
+<!-- bottom footer -->
+<div class="below-post" style="margin-top: 20px">
+	<h3>Subscribe</h3>
+	{% include subscribe_form.html %}
 
-		<h3>Recent Posts</h3>
-		{% include recent_posts.html %}
-	</div>
+	<h3>Recent Posts</h3>
+	{% include recent_posts.html %}
+</div>
 
-	{% include disqus %}
+{% include disqus %}
 
-		<p>Written: {{ page.date | date:"%B %d, %Y" }}</p>
-	</div>
-</div> <!-- End of Post -->
+<p>Written: {{ page.date | date:"%B %d, %Y" }}</p>

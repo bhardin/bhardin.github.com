@@ -2,48 +2,14 @@
 layout: default
 meta_description: Programming, Information Security, Startups, and Learnings.
 ---
+
 <div class="posts">
-	<ul class="thumbnails">
-	{% for page in paginator.posts %}
-		{% cycle '<div class="row" style="padding-top: 30px;">', '', '' %}
-		<li class="span4">
-			<a href="{{ page.url }}" class="thumbnail">
-    	<img src="{{ page.image }}" alt="{{ page.title }}">
-  		<h3 class="title">{{ page.title }}</h3>
-  		<h5 class="date">{{ page.date | date:"%B %d, %Y" }}</h5>
-  		</a>
+  <ul>
+    {% for post in site.posts %}
+    <li>
+      <span>{{ post.date | date:"%B %d, %Y" }}</span>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-    {% cycle '', '', '</div>' %}
-	{% endfor %}
-	</ul>
+    {% endfor %}
+  </ul>
 </div>
-
-<!-- Pagination links -->
-<div class="pagination pagination-centered">
-	<ul>
-		{% if paginator.next_page %}
-	    <li class="next"> 
-			<a href="/page{{paginator.next_page}}" title="Next Page" class="next" rel="next">&larr; Older Posts</a>
-			</li>
-		{% else %}
-			<li class="disabled"><a href="#">NO MORE!!!</a></li>
-	  {% endif %}
-	
-	  {% if paginator.previous_page %}
-	    <li class="prev">
-				{% if paginator.previous_page == 1 %}
-      		<a href="/" title="Previous Page" class="prev">Newer Posts &rarr;</a>
-      	{% else %}
-					<a href="/page{{paginator.previous_page}}" title="Previous Page" class="prev" rel="prev">Newer Posts &rarr;</a>
-				{% endif %}
-			</li>
-		{% else %}
-			<li class="disabled"><a href="#">Newer Posts &rarr;</a></li>
-	  {% endif %}
-	</ul>
-</div>
-
-<!-- Test Code -->
-<!-- e4e47ef058431a08d714506a09d155a58279e4ee -->
-<div style="display:none;">53c7353d8e45d80a2519b9ecceb048f166a6bd48</div>
-<!-- End test Code -->

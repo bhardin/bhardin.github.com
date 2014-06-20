@@ -6,17 +6,21 @@ body {
   line-height: 1.618em;
   font-weight: 300;
   word-wrap: break-word; }
-  body .main-content h1, body .main-content h2, body .main-content h3, body .main-content h4 {
-    font-family: "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
-    color: #7109aa; }
+  body .main-content .post h2, body .main-content .post h3, body .main-content .post h4 {
+    padding-left: 10px;
+    border-left: 5px solid #ccc; }
+  body .main-content h2, body .main-content h3, body .main-content h4 {
+    font-family: "Lucida Grande", Tahoma, Verdana, Arial, sans-serif; }
   body .main-content h1 {
-    font-size: 3em;
-    margin: .5em 0 .2em;
-    padding-bottom: 0.5em;
     background-color: transparent;
     border-bottom: 0.05em solid #7109aa;
+    color: #7109aa;
+    font-family: "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
+    font-size: 3em;
     font-weight: 300;
-    line-height: 1.1em; }
+    line-height: 1.1em;
+    margin: .5em 0 .2em;
+    padding-bottom: 0.5em; }
   body .main-content a {
     color: #7109aa; }
 
@@ -49,4 +53,16 @@ header.site-head {
   header.site-head h1.blog-title {
     text-transform: uppercase; }
     header.site-head h1.blog-title a:link, header.site-head h1.blog-title a:visited, header.site-head h1.blog-title a:hover, header.site-head h1.blog-title a:active {
+      text-decoration: none; }
+
+.posts ul {
+  list-style-type: none; }
+  .posts ul li {
+    padding-top: 0.5em; }
+    .posts ul li span {
+      font-size: 12px;
+      color: #999;
+      float: right;
+      text-transform: uppercase; }
+    .posts ul li a:link, .posts ul li a:visited, .posts ul li a:hover, .posts ul li a:active {
       text-decoration: none; }
