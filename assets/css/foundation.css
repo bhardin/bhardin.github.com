@@ -6,22 +6,19 @@ body {
   line-height: 1.618em;
   font-weight: 300;
   word-wrap: break-word; }
-
-h1, h2, h3, h4 {
-  font-family: Lato, "PT Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #7109aa; }
-
-a {
-  color: #7109aa; }
-
-h1 {
-  font-size: 3em;
-  margin: .5em 0 .2em;
-  padding-bottom: 0.5em;
-  background-color: transparent;
-  border-bottom: 0.05em solid #7109aa;
-  font-weight: 300;
-  line-height: 1.1em; }
+  body .main-content h1, body .main-content h2, body .main-content h3, body .main-content h4 {
+    font-family: "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
+    color: #7109aa; }
+  body .main-content h1 {
+    font-size: 3em;
+    margin: .5em 0 .2em;
+    padding-bottom: 0.5em;
+    background-color: transparent;
+    border-bottom: 0.05em solid #7109aa;
+    font-weight: 300;
+    line-height: 1.1em; }
+  body .main-content a {
+    color: #7109aa; }
 
 .article-image {
   width: 300px; }
@@ -37,3 +34,19 @@ h1 {
 
 .post {
   width: 690px; }
+
+.avatar {
+  display: block;
+  float: left;
+  margin: 0 2em; }
+
+header.site-head {
+  padding-left: 2em;
+  font-size: 10px; }
+  header.site-head .blog-logo img {
+    padding: 0 1em 0em 0em;
+    float: left; }
+  header.site-head h1.blog-title {
+    text-transform: uppercase; }
+    header.site-head h1.blog-title a:link, header.site-head h1.blog-title a:visited, header.site-head h1.blog-title a:hover, header.site-head h1.blog-title a:active {
+      text-decoration: none; }

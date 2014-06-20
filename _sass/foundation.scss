@@ -1,5 +1,7 @@
-$main-font:    Oxygen, Arial, Helvetica, sans-serif;
-$secondary-font:  Lato,"PT Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+@import 'bourbon/bourbon';
+
+$main-font: Oxygen, Arial, Helvetica, sans-serif;
+$secondary-font: $lucida-grande;
 $background-color: #e5e5e5;
 $site-color: #7109aa;
 
@@ -11,25 +13,27 @@ body {
   line-height: 1.618em;
   font-weight: 300;
   word-wrap: break-word;
-}
 
-h1, h2, h3, h4 {
-  font-family: $secondary-font;
-  color: $site-color;
-}
+  .main-content {
+    h1, h2, h3, h4 {
+      font-family: $secondary-font;
+      color: $site-color;
+    }
 
-a {
-  color: $site-color;
-}
+    h1 {
+      font-size: 3em;
+      margin: .5em 0 .2em;
+      padding-bottom: 0.5em;
+      background-color: transparent;
+      border-bottom: .05em solid $site-color;
+      font-weight: 300;
+      line-height: 1.1em;
+    }
 
-h1 {
-  font-size: 3em;
-  margin: .5em 0 .2em;
-  padding-bottom: 0.5em;
-  background-color: transparent;
-  border-bottom: .05em solid $site-color;
-  font-weight: 300;
-  line-height: 1.1em;
+    a {
+      color: $site-color;
+    }
+  }
 }
 
 .article-image {
@@ -50,3 +54,38 @@ h1 {
 .post {
   width: 690px;
 }
+
+.avatar {
+  display: block;
+  float: left;
+  margin: 0 2em;
+}
+
+header.site-head {
+  padding-left: 2em;
+
+  a { }
+
+  font-size: 10px;
+
+  .blog-logo {
+    img {
+      padding: 0 1em 0em 0em;
+      float: left;
+    }
+  }
+
+  h1.blog-title {
+    text-transform: uppercase;
+
+    a:link, a:visited, a:hover, a:active { text-decoration: none; }
+  }
+  h2.blog-description {}
+}
+
+  //   <div class="site-head-content">
+  //     <a class="blog-logo" href="/"></a>
+  //     <h1 class="blog-title"><a href="/">Constantly Learning</a></h1>
+  //     <h2 class="blog-description">Programming, Startups, and Security</h2>
+  //   </div>
+  // </header>
