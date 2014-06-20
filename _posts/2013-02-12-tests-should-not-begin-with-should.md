@@ -24,21 +24,25 @@ It logically makes sense to begin a test with "it should" or "it shouldn't " rat
 
 Let's use an example. If we have an application that allows users to log in through a form, the test may look something like this:
 
-	describe "login form" it
-		it "should allow users to login" do
-			..code goes here..
-		end
+```ruby
+describe "login form" it
+	it "should allow users to login" do
+		..code goes here..
 	end
+end
+```
 
 That reads nice. It should do this. However, you can remove should. __It isn't the right verb to use. Should isn't describe what the test does.__ The word _allow_ does. You can refactor like so:
 
-	describe "login form" it
-		it "allows users to login" do
-			..code goes here..
-		end
+```ruby
+describe "login form" it
+	it "allows users to login" do
+		..code goes here..
 	end
+end
+```
 
-This test is much easier to read, removes an unnecessary word, and describes the test much better. Rather than the test saying, "The login form should allow users to login," it now reads: "login form allows users to login." 
+This test is much easier to read, removes an unnecessary word, and describes the test much better. Rather than the test saying, "The login form should allow users to login," it now reads: "login form allows users to login."
 
 Perfect.
 
