@@ -94,3 +94,29 @@ header.site-head h1.blog-title a:link, header.site-head h1.blog-title a:visited,
 .posts ul li a:link, .posts ul li a:visited, .posts ul li a:hover, .posts ul li a:active {
   text-decoration: none;
 }
+
+input:not([type=submit]):not([type=file]) {
+  border: 3px solid #AA6BCC;
+  border-radius: 5px;
+  -webkit-box-shadow: inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+  -moz-box-shadow: inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+  box-shadow: inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+  padding: 5px;
+  background: rgba(255,255,255,0.5);
+  margin: 0 0 10px 0;
+  font-size: 1em;
+  width: 75%;
+}
+
+.btn {
+  border: 3px solid #AA6BCC;
+  border-radius: 5px;
+  moz-border-radius: 5px;
+  font-size: 1.05em;
+  color: #ffffff;
+  padding: 4px 8px;
+  background-color: #7109aa;
+}
