@@ -18,7 +18,7 @@ If you write a launchD script by hand, good luck to you. I prefer to use Launch 
 
 [Launch Control][Launch Control] makes creating launchD tasks super easy by using a GUI (which I usually can't stand) and does validation checking (which you **will** need) and testing tasks. In addition, it has a cool icon.
 
-![icon](lc-icon)
+![icon][lc-icon]
 
 It isn't the best interface, but it is one of the only ones I could find. If you have a better tool, please let me know.
 
