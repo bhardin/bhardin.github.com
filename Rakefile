@@ -7,3 +7,5 @@ CONFIG = {
 }
 
 Dir.glob('tasks/*.rake').each { |r| load r }
+
+task :default => "jekyll:start"
