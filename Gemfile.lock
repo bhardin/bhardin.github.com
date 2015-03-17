@@ -15,6 +15,9 @@ GEM
     classifier (1.3.4)
       fast-stemmer (>= 1.0.0)
     colorator (0.1)
+    colored (1.2)
+    command_line_reporter (3.3.5)
+      colored (>= 1.2)
     commander (4.1.6)
       highline (~> 1.6.11)
     fast-stemmer (1.0.2)
@@ -99,4 +102,5 @@ PLATFORMS
 
 DEPENDENCIES
   bourbon
+  command_line_reporter (>= 3.0)
   github-pages
