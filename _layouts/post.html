@@ -1,27 +1,67 @@
 ---
 layout: default
 ---
-<div class="post">
-	<h1>{{ page.title }}</h1>
 
-	<div class="content">
-		{{ content }}
-	</div>
+<div class="container">
+  <div class="main-content">
+    <div class="post">
+      <h1>{{ page.title }}</h1>
+
+      <div class="content">
+        {{ content }}
+      </div>
+    </div>
+
+    <div class="about-me">
+      <hr/>
+      <img class="avatar img-circle" alt="Brett Hardin" src="https://en.gravatar.com/userimage/8781599/408ff2d80d284339d894c762915fde94.jpg" />
+      <h4><a href="/about.html">Brett Hardin</a></h4>
+      <p>I write code at <a href="http://www.kissmetrics.com/">KISSmetrics</a> and love <a onclick="_gaq.push(['_trackEvent', 'Clicked Link', 'love learning', 'side bar']);" href="/2012/10/writing-about-what-i-learn/">writing about what I learn</a>.
+      <hr/>
+    </div>
+
+    <!-- bottom footer -->
+    <div class="below-post" style="margin-top: 20px">
+      <h3>Subscribe</h3>
+      <center>
+        <div class="input-append">
+          <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=bretthardin', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="margin-bottom: 0px">
+            <input type="text" placeholder="Subscribe via email" style="width: 300px" name="email"/>
+            <input type="hidden" value="bretthardin" name="uri"/>
+            <input type="hidden" name="loc" value="en_US"/>
+            <input type="submit" class="btn btn-success" value="Subscribe!" onclick="_kmq.push(['record', 'Email Subscribe']); _kmq.push(['identify', email.value]); _gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Bottom of Post']);"/>
+          </form>
+        </div>
+      </center>
+
+      <h3>Recent Posts</h3>
+      <div class="recent_posts">
+        <ul class="thumbnails">
+          {% for post in site.posts limit:3 %}
+            <li>
+              <a href="{{ post.url }}" onclick="_gaq.push(['_trackEvent', 'recent post', 'Clicked {{ post.title }}', 'From {{ page.title }}']);" class="thumbnail">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div id="disqus_thread">
+      <script type="text/javascript">
+          {% if site.safe == false %}var disqus_developer = 1;{% endif %}
+          var disqus_shortname = 'bretthardin'; // required: replace example with your forum shortname
+          /* * * DON'T EDIT BELOW THIS LINE * * */
+          (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
+
+    <p>Written: {{ page.date | date:"%B %d, %Y" }}</p>
+  </div>
 </div>
-
-<div class="about">
-	{% include about_me.html %}
-</div>
-
-<!-- bottom footer -->
-<div class="below-post" style="margin-top: 20px">
-	<h3>Subscribe</h3>
-	{% include subscribe_form.html %}
-
-	<h3>Recent Posts</h3>
-	{% include recent_posts.html %}
-</div>
-
-{% include disqus %}
-
-<p>Written: {{ page.date | date:"%B %d, %Y" }}</p>
+    

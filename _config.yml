@@ -1,6 +1,18 @@
 name: Brett Hardin's Blog
+title: Constantly Learning
+description: "Programming, Information Security, Startups, and Learnings."
 permalink: /:categories/:year/:month/:title/
 markdown: rdiscount
 paginate: 9
 feed: http://feeds.bretthard.in/bretthardin
 tags_path: /tags.html
+
+# Adding files which shouldn't be built will speed up build time.
+exclude: [
+  "tasks",
+  "README.md"
+]
+
+sass:
+  sass_dir: _sass
+  style: :compressed

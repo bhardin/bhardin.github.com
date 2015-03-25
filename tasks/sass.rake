@@ -1,12 +1,15 @@
 desc "Create Sass"
 namespace :sass do
-  desc "Will build CSS the way it should be in production"
+  desc "Build CSS the way it is used in production"
   task :deploy do
     system("sass -t compressed -f --update _sass:assets/css")
   end
 
-  desc "Will watch for changes and update when changes are made"
+  desc "Watch for changes to SCSS files and update when changes are made"
   task :watch do
     system("sass --watch _sass:assets/css")
   end
 end
+
+desc "Build sass files"
+task :sass => ["sass:deploy"]
