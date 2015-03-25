@@ -1,9 +1,9 @@
 ---
-layout: nil
+layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
+
  <title>Constantly Learning - Brett Hardin</title>
  <link href="http://bretthard.in/atom.xml" rel="self"/>
  <link href="http://bretthard.in/"/>
@@ -26,7 +26,7 @@ layout: nil
    </content>
  </entry>
  {% endfor %}
- 
+
 </feed>
 
 
