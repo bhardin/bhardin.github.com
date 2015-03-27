@@ -68,7 +68,13 @@ body {
           display:block;
           margin:auto;
         }
+
+        ul {
+          list-style-type: disc;
+          margin: 1.5em;
+        }
       }
+
       div.page { @include padded-center; }
       div.subscribe { @include padded-center; }
       div.recent-posts { @include padded-center; }
