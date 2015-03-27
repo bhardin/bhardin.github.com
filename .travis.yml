@@ -1,0 +1,15 @@
+language: ruby
+rvm:
+- 2.1
+script: ./tasks/cibuild
+
+# branch whitelist
+branches:
+  only:
+  - master       # test the master branch (What I use for hosting)
+  - gh-pages     # test the gh-pages branch
+  - /pages-(.*)/ # test every branch which starts with "pages-"
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer

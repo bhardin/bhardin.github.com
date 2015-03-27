@@ -10,9 +10,15 @@ tags_path: /tags.html
 # Adding files which shouldn't be built will speed up build time.
 exclude: [
   "tasks",
-  "README.md"
+  "README.md",
+  vendor
 ]
 
 sass:
   sass_dir: _sass
   style: :compressed
+
+# Github overrides the following values. They cannot be configured.
+safe: true
+lsi: false
+source: .
