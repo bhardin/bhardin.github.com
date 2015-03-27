@@ -6,7 +6,7 @@ meta_description: Books Brett Hardin recommends reading. All of these books will
 
 ### [How to Win Friends and Influence People](http://www.amazon.com/gp/product/0671027034/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0671027034)
 
-If you have never read this book: stop what you are doing, take the rest of the day off, read this, and prepare to have your mind blown. This is one of the most important books you will ever read in your life. I am not being hyperbolic. HTWFAIFP (A horrible acronym) will help you understand how to communicate with people more effectively. Unless you are a hermit, you interact with people every day. This will make those interactions more productive.
+If you have never read this book: stop what you are doing, take the rest of the day off, read this, and prepare to have your mind blown. This is one of the most important books you will ever read in your life. I am not being hyperbolic. HTWFAIP (A horrible acronym) will help you understand how to communicate with people more effectively. Unless you are a hermit, you interact with people every day. This will make those interactions more productive.
 
 ### [Business Model Generation](http://www.amazon.com/gp/product/0470876417/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0470876417&linkCode=as2&tag=breharsblo-20)
 
