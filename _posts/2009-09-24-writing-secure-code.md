@@ -16,7 +16,7 @@ If you are a developer, I guarantee that you have written insecure code. Univers
 
 As with anything, being able to identify security vulnerabilities and writing code securely takes practice. But how does a developer, who is already overburdened with enough work, find the time or resources to help him identify security vulnerabilities?
 
-This is where [spotthevuln.com](http://spotthevuln.com) comes in.
+This is where [spotthevuln.com](https://github.com/bhardin/spotthevuln) comes in.
 
 The purpose of the project is two fold, help developers write better code by enabling them to identify insecure code and hopefully work the project into teaching curriculum's at colleges and universities in order to help new developers write more secure code.
 

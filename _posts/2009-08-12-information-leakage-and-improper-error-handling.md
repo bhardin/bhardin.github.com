@@ -10,7 +10,7 @@ type: post
 {% include series.html %}
 
 ## What is Information Leakage and Improper Error Handling
-Information leakage and improper error handling happen when web applications do not limit the amount of information they return to their users. A classic example of improper error handling is when an application doesn't sanitize SQL error messages that are returned to the user. Upon receiving a SQL error message an attacker will immediately identify a place for identifying <a href="http://misc-security.com/blog/2009/07/injection-flaws/">injection flaws</a>.
+Information leakage and improper error handling happen when web applications do not limit the amount of information they return to their users. A classic example of improper error handling is when an application doesn't sanitize SQL error messages that are returned to the user. Upon receiving a SQL error message an attacker will immediately identify a place for identifying [injection flaws][injection flaws].
 
 Although preventing error messages from reaching users will not prevent vulnerabilities from occurring, it does make it difficult for an attacker to accomplish his goal and it is also an industry best practice.
 
@@ -39,7 +39,7 @@ Attackers love seeing error messages such as:
 
 ## Preventing Information Leakage and Improper Error Handling
 
-When developing applications, developers should assume all of the users are hostile. As a developer having this mentality will greatly aid you in [developing secure applications][1].
+When developing applications, developers should assume all of the users are hostile. As a developer having this mentality will greatly aid you in [developing secure applications][secure applications].
 
 All information returned from a web server should be reviewed for potential leakage. This can be automated by a QA team using a fuzzer.
 
@@ -47,4 +47,5 @@ Developers should also use a standard exception handling architecture to prevent
 
 Developers or product managers may also decide to create a default error handler which returns sanitized error messages for most users in production for all error paths. Doing this will greatly reduce the attack surface that can be exploited through error message generation.
 
-[1]: /2013/01/how-to-secure-any-application/
+[secure applications]: {% post_url 2013-01-03-how-to-secure-any-application %}
+[injection flaws]: {% post_url 2009-07-08-injection-flaws %}

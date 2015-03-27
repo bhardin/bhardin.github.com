@@ -40,23 +40,28 @@ __Good:__ http://www.mysite.com/maximizing-seo/
 __Bad:__ http://www.mysite.com/11345/p207.html
 
 ## Subfolder or Subdomain
-This is one of the more interesting arguments in the SEO world. To answer this question it [depends on your use case][9].
+This is one of the more interesting arguments in the SEO world. To answer this question it depends on your use case:
 
 > Subfolders are best for most cases. If your site has a fairly narrow topical focus (movie reviews, an SEO blog, a strictly news site) then subfolders allows you to transfer a lot of the authority that your root domain has to these pages to help them rank quickly.
+
 > If, on the other hand, your site covers a wide variety of topics (product reviews, in-depth book reviews) or has a lot of user generated content (like HubPages, WordPress or Blogger), then separating your content into subdomains will net greater results, assuming you have the SEO resources to do so. In the former case, a tighter topical focus shows Google that your site is focused and relevant, allowing it to rank higher for associated keywords. In the latter, separating user generated content into its own subdomain allows Panda to penalize low-quality content and leaves the quality content producers untouched.
 
-If you do want a folder, you can use a [reverse proxies][8] to accomplish it.
+If you do want a folder, you can use a [reverse proxies][reverse proxies] to accomplish it.
 
 ## Alt Tags on Images
 Tag all of your images with an alt tag. Search engines use alt tags for credit towards the keywords.
 
 #### Example
 
-     <img src="http://mysite.com/coolpic.jpg" alt="cool pic" title="cool pic">
+{% highlight html %}
+<img src="http://mysite.com/coolpic.jpg" alt="cool pic" title="cool pic">
+{% endhighlight %}
 
 Alt tags for images can be done fairly simple in Jekyll as follows:
 
-     <img src="http://mysite.com/coolpic.jpg" alt="{{ "{{ page.title " }}}}" title="{{ "{{ page.title " }}}}">
+{% highlight html %}
+<img src="http://mysite.com/coolpic.jpg" alt="{{ "{{ page.title " }}}}" title="{{ "{{ page.title " }}}}">
+{% endhighlight %}
 
 ## Get Rid of Broken Links
 Web crawlers judge you by the overall impression of your page. Broken links piss off humans just as much as bots. You will often link to content external to your site which you don't control. This is where using [Google Webmaster Tools][3] is sweet. Webmaster tools will help you find broken links from and to your site.
@@ -71,7 +76,10 @@ Only do the following if you have a sitemap.xml or else some of your content won
 With pagination you have multiple pages that have the same content. Google sees a bunch of the same content as bad. A simple [fix][11] is to use the `rel=next` and `rel=prev` directive on your tags.
 
 #### Example
-	<a href="/page/1" title="Next Page" class="next" rel="next">Older Posts</a>
+
+{% highlight html %}
+<a href="/page/1" title="Next Page" class="next" rel="next">Older Posts</a>
+{% endhighlight %}
 
 ## Frequent Updates & Great Content
 Although only technical things have been mentioned the single most important thing you can do is [write great content and post frequently][12].
@@ -101,8 +109,7 @@ So Google decides what makes sense for layout. Don't over do it.
 [5]: /2012/06/jekyll-and-seo-optimization/
 [6]: https://github.com/mojombo/jekyll/wiki/Permalinks
 [7]: /2012/10/find-long-tail-keywords-using-google-analytics/
-[8]: http://www.seomoz.org/blog/what-is-a-reverse-proxy-and-how-can-it-help-my-seo
-[9]: http://www.whitefireseo.com/site-architecture/subdomain-or-subfolder-post-panda/360/
+[reverse proxies]: http://www.seomoz.org/blog/what-is-a-reverse-proxy-and-how-can-it-help-my-seo
 [10]: http://searchengineland.com/five-step-strategy-for-solving-seo-pagination-problems-95494
 [11]: http://googlewebmastercentral.blogspot.com/2011/09/pagination-with-relnext-and-relprev.html
 [12]: http://www.codinghorror.com/blog/2007/10/how-to-achieve-ultimate-blog-success-in-one-easy-step.html

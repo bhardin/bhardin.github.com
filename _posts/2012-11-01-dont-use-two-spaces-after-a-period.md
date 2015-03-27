@@ -8,7 +8,7 @@ tags: [communication, design, writing]
 meta_description: The age old argument is finally settled. Only use one space after a period.
 ---
 
-[1]: http://www.vletter.com/graphics/declaration_closeup.gif
+
 [2]: http://www.creativepro.com/article/double-space-or-not-double-space
 [3]: http://www.amazon.com/gp/product/0321127307/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321127307&linkCode=as2&tag=breharsblo-20
 [4]: http://www.fonts.com/content/learning/fyti/typographic-tips/double-spaces?siteId=2c670c80-4121-4446-893f-d7fe9690be92
@@ -28,7 +28,7 @@ In, _[The Complete Manual of Typography][3]_, the origin of double spacing comes
 
 Early typesetters used an _em_ space after periods. The em space is about the same width as two non-em spaces. This was a very common practice among typesetters. Even the United States Declaration of Independence uses em spaces after periods.
 
-![Decleration of Independence][1]
+![Decleration of Independence][declaration closeup]
 
 I should note that the practice of using _em_ spaces however was not universal. Some typesetters used one, two, three, or even four non-em spaces after periods.
 
@@ -58,3 +58,5 @@ In, _[The Effect of Text Spacing After the Period on Time for On-Screen Reading 
 > Although the mean of the reading time indicated that the 'double space' group took longer time to finish reading the passages as compared to the 'single space' group, the time  difference were not statistically significant. 
 
 Although the results aren't statistically significant, it may be increase your personal reading time.
+
+[declaration closeup]: http://c3.staticflickr.com/3/2501/3732673358_f99752bfdd_z.jpg?zz=1
