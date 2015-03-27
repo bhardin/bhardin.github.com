@@ -61,7 +61,14 @@ body {
       h1 { font-size: $base-font-size * 2; }
       h2 { font-size: $base-font-size * 1.6; }
 
-      div.post { @include padded-center; }
+      div.post {
+        @include padded-center;
+
+        img {
+          display:block;
+          margin:auto;
+        }
+      }
       div.page { @include padded-center; }
       div.subscribe { @include padded-center; }
       div.recent-posts { @include padded-center; }
