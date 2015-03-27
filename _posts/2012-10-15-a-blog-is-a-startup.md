@@ -31,7 +31,7 @@ The difference in a blog versus a startup product is __each product iteration (p
 
 Writing something no one reads is boring, lame, and lonely. Don't do that. Take a startup mantra to heart. Do Things and Tell People. Shopify has this mantra on it's walls.
 
-<img src="/assets/images/dothingstellpeople.jpeg" width="400px">
+![Do things and tell people](/assets/images/dothingstellpeople.jpeg)
 
 Each post you write is an opportunity to share with people what you are thinking about. Share it with the world. Building a blog following is even easier with social media. __Exploit all your different networks.__ Facebook, Twitter, HackerNews, StumpleUpon, and Reddit are all channels you can benefit from. Your blog may even be dedicated to something specific. If this is the case find the right aggregation site and post each article after it is written.
 
@@ -48,7 +48,7 @@ Please notice monetization comes last. Once great content is generated, and the 
 
 Learn from consumer startups. Consumer startups, at least initially, aren't focused on revenues. I recently saw Ev Williams, founder of Twitter and Blogger, speak and he stated how if you have enough eyes on your product, you don't need to worry about revenues. This isn't always the case, startups like Pinterest were testing monetization strategies very early on, but I digress.
 
-<img src="/assets/images/your_ad_here_banner.jpeg" width="400px">
+![Your Ad Here!](/assets/images/your_ad_here_banner.jpeg)
 
 As you continue to generate content your analytics will tell you which of your posts continue getting attention from search engines. __Take action on your analytics.__ The articles which are frequented by search engine users are your _features_ people are looking for. These are the _features_ you want to monetize.
 

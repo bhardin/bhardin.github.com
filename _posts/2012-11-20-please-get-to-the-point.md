@@ -12,7 +12,7 @@ I read a lot of online content through my daily life. While consuming different 
 
 The next time you decide to write something _get to the point as fast as possible._
 
-The idea of unnecessary words and abundant sentences must come from our adolescence. The [current education system][5] gives children assignments forcing them to focus on the amount of words they write. Teachers incentive students to fill the page with words rather than necessary content.
+The idea of unnecessary words and abundant sentences must come from our adolescence. The [current education system][education] gives children assignments forcing them to focus on the amount of words they write. Teachers incentive students to fill the page with words rather than necessary content.
 
 In Seth Godin's [startup school lectures][1] he states all non-fiction books can be written in 5 pages. The purpose of writing more is that as human beings we don't value the content unless their is an abundance of it. The value of a book is determined by it's weight.
 
@@ -36,7 +36,7 @@ The next time you write an email, a reference document, or a blog post, I don't 
 [2]: http://www.snopes.com/language/literary/babyshoes.asp
 [3]: http://knowyourmeme.com/memes/tldr
 [4]: http://www.amazon.com/gp/product/0060891548/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0060891548&linkCode=as2&tag=breharsblo-20
-[5]: /2013/01/traditional-education-is-a-changin/
+[education]: {% post_url 2013-01-04-traditional-education-is-changing %}
 
 ## TL; DR
 

@@ -8,7 +8,7 @@ tags: [hobbies, boardgames]
 meta_description: If you don't like watching sports, board games can connect you to people the same way that sports do.
 ---
 
-While attending College there were two groups of people who I ran with. One group was incredibly nerdy. They would talk about comic books, play video games, build [Lego structures](/2012/12/the-struggle-of-lego/), and play card and board games. The nerds all lived in one house, affectionately called _The Nerdery_ while the other group lived in another house.
+While attending College there were two groups of people who I ran with. One group was incredibly nerdy. They would talk about comic books, play video games, build [Lego structures][lego], and play card and board games. The nerds all lived in one house, affectionately called _The Nerdery_ while the other group lived in another house.
 
 Although I didn't live at the Nerdery, I spent much of my College life there. The Nerdery introduced me to strategic German Board games. Strategic German Board games, also called euros, mitigate the amount of luck involved in the game. By doing this, a more experienced player has an advantage over the neophyte. The more you play these games, the better you get at playing them.
 
@@ -34,6 +34,10 @@ When I get together with other board gamers we have a language that is our own a
 
 ## Non-Computer Related Hobbies
 
-Since I was a kid [I knew I would work with computers](/2012/12/falling-in-love-with-computers/). Upon graduating from College, I realized I had no hobbies which didn't involve computers or technology. It took me 25 years to realize however that if a computer wasn't involved I didn't care. Even the fiction I read involved computers.
+Since I was a kid [I knew I would work with computers][computers]. Upon graduating from College, I realized I had no hobbies which didn't involve computers or technology. It took me 25 years to realize however that if a computer wasn't involved I didn't care. Even the fiction I read involved computers.
 
-I've always understood that [hobbies involving computers were important to employers]((/2012/12/extracurricular-activities-of-passionate-people/), but I think hobbies not involving computers are fundamental to being a more rounded person. They allow you to decompress and relax your mind. However, I still want to do something intellectually stimulating. To me, board games are the perfect solution.
+I've always understood that [hobbies involving computers were important to employers][hobbies], but I think hobbies not involving computers are fundamental to being a more rounded person. They allow you to decompress and relax your mind. However, I still want to do something intellectually stimulating. To me, board games are the perfect solution.
+
+[lego]: {% post_url 2012-12-05-the-struggle-of-lego %}
+[hobbies]: {% post_url 2012-12-22-extracurricular-activities-of-passionate-people %}
+[computers]: {% post_url 2012-12-31-falling-in-love-with-computers %}

@@ -15,7 +15,7 @@ meta_description: Why is now the time for your product? Has it been attempted be
 
 > * Victor Hugo
 
-Your investor presentation should contain the historical events explaining how and why your category has changed. These changes should signal why now is the right time for your product or service. Your idea and Cthulhu can't devour the world, unless the [stars are right][2].
+Your investor presentation should contain the historical events explaining how and why your category has changed. These changes should signal why now is the right time for your product or service. Your idea and Cthulhu can't devour the world, unless the [stars are right][Baby Cthulhu].
 
 ## The History of Your Category
 
@@ -74,7 +74,7 @@ The Victor Hugo quote I opened with is often paraphrased as:
 Is now the right time for your idea?
 
 [1]: "Tell Everyone about your idea"
-[2]: www.youtube.com/watch?v=FOHJUrcVdJk "Baby Cthulhu"
+[Baby Cthulhu]: http://www.youtube.com/watch?v=FOHJUrcVdJk
 [3]: /2012/12/the-problem-you-solve/
 [4]: http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html
 [5]: http://amzn.to/VkkIrj "How to Win Friends and Influence People"

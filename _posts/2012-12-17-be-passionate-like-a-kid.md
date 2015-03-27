@@ -22,7 +22,7 @@ One day, Nirvan stumbled into Caine's Arcade. Nirvan needed a part for his car a
 
 Nirvan liked the experience so much he wanted to share it with others. He used his social network to find Caine customers. Nirvan's plan was to flashmob Caine's Arcade. The flashmob was successful. Customers showed up and paid Cain to play his arcade games.
 
-Caine has now experienced the power the Internet. With the Internet, Nirvan coordinated customers to take action. I'm sure this experience has had a strong impact on Caine and hopefully he'll figure out how to [harness the power of the internet][6] in the future. Not necessarily with Caine's Arcade, but with his [next entrepreneurial endeavor][3].
+Caine has now experienced the power the Internet. With the Internet, Nirvan coordinated customers to take action. I'm sure this experience has had a strong impact on Caine and hopefully he'll figure out how to [harness the power of the internet][education] in the future. Not necessarily with Caine's Arcade, but with his [next entrepreneurial endeavor][3].
 
 Watching the video, you immediately understand why Nirvan wanted to share his experience. Caine is an amazing kid who has a passion which is visible. Caine's passion is noticeable when he crawls inside a machine to push tickets through a cut made in the box. It's the attention to small details that makes Caine's machines great.
 
@@ -39,4 +39,4 @@ At some point, we were all like Caine. We played with things and didn't care wha
 [3]: /2012/06/failure-is-an-opportunity/
 [4]: /2012/09/believing-in-a-crazy-vision/
 [5]: http://cainesarcade.com/
-[6]: /2013/01/traditional-education-is-a-changin/
+[education]: {% post_url 2013-01-04-traditional-education-is-changing %}

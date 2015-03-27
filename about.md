@@ -9,7 +9,7 @@ Brett Hardin is a developer at [KISSmetrics](http://www.kissmetrics.com) and [co
 Fun First!
 ---------
 * Organizer of [Silisec](http://www.silisec.org)
-* [Recommended Reading](/books)
+* [Recommended Reading](/books.html)
 
 Presentations & Publications
 --------------------
