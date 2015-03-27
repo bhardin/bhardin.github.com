@@ -30,61 +30,77 @@ Ruby 1.8.7 mainly added additional methods to classes. This means that it is pre
 
 __Ruby 1.8.6__
 
-    a = [1,2]
-    a.slice!(4,0)   #=> nil
-    a               #=> [1,2,nil,nil]
+{% highlight ruby %}
+a = [1,2]
+a.slice!(4,0)   #=> nil
+a               #=> [1,2,nil,nil]
+{% endhighlight %}
 
-__Ruby 1.8.7__   
+__Ruby 1.8.7__
 
-    a = [1,2]      
-    a.slice!(4,0)   #=> nil      
-    a               #=> [1,2]  
+{% highlight ruby %}
+a = [1,2]
+a.slice!(4,0)   #=> nil
+a               #=> [1,2]
+{% endhighlight %}
 
 * \`#slice!` no longer raises an exception but returns nil when a negative length or out-of-boundary negative position is given.
 
-__Ruby 1.8.6__ 
+__Ruby 1.8.6__
 
-    a = [1,2]      
-    a.slice!(1,-1)  #=> (raises IndexError)      
-    a.slice!(-5,1)  #=> (raises IndexError)      
+{% highlight ruby %}
+a = [1,2]
+a.slice!(1,-1)  #=> (raises IndexError)
+a.slice!(-5,1)  #=> (raises IndexError)
+{% endhighlight %}
 
 __Ruby 1.8.7__
 
-    a = [1,2]      
-    a.slice!(1,-1)  #=> nil      
-    a.slice!(-5,1)  #=> nil
+{% highlight ruby %}
+a = [1,2]
+a.slice!(1,-1)  #=> nil
+a.slice!(-5,1)  #=> nil
+{% endhighlight %}
 
 ### String#to_i
 
-The behavior in Ruby 1.8.6 was inconsistent with Ruby syntax and considered as  a bug. `String#to_i`, `String#hex` and `String#oct` no longer accept a sequence  of underscores (`__') as part of a number. 
+The behavior in Ruby 1.8.6 was inconsistent with Ruby syntax and considered as  a bug. `String#to_i`, `String#hex` and `String#oct` no longer accept a sequence  of underscores (`__') as part of a number.
 
 __Ruby 1.8.6__
 
-    '1__0'.to_i     #=> 10    
-    '1__0'.to_i(2)  #=> 2  # 0b10    
-    '1__0'.oct      #=> 8  # 010    
-    '1__0'.hex      #=> 16 # 0x10    
+{% highlight ruby %}
+'1__0'.to_i     #=> 10
+'1__0'.to_i(2)  #=> 2  # 0b10
+'1__0'.oct      #=> 8  # 010
+'1__0'.hex      #=> 16 # 0x10
+{% endhighlight %}
 
 __Ruby 1.8.7__
 
-    '1__0'.to_i     #=> 1    
-    '1__0'.to_i(2)  #=> 1    
-    '1__0'.oct      #=> 1    
-    '1__0'.hex      #=> 1  
+{% highlight ruby %}
+'1__0'.to_i     #=> 1
+'1__0'.to_i(2)  #=> 1
+'1__0'.oct      #=> 1
+'1__0'.hex      #=> 1
+{% endhighlight %}
 
 ## Date.parse
 
 '##.##.##' (where each '#' is a digit) is now taken as 'YY.MM.DD' instead of 'MM.DD.YY'. While the change may confuse you, you can use `.strptime` to replicate the old way it was done.
 
-    Date.strptime("01.02.03", "%m.%d.%Y")
+{% highlight ruby %}
+Date.strptime("01.02.03", "%m.%d.%Y")
+{% endhighlight %}
 
 I could not actually replicate this functionality personally. Let me know if you have any success.
 
-    1.8.7 :001 > a = Date.parse("01.02.03")
-    => #<Date: 3442913/2,0,2299161>
+{% highlight ruby %}
+1.8.7 :001 > a = Date.parse("01.02.03")
+=> #<Date: 3442913/2,0,2299161>
 
-    1.8.6 :001 > a = Date.parse("01.02.03")
-    => #<Date: 3444309/2,0,2299161>
+1.8.6 :001 > a = Date.parse("01.02.03")
+=> #<Date: 3444309/2,0,2299161>
+{% endhighlight %}
 
 Keep in mind, this [changed again in 1.9](http://stackoverflow.com/questions/9483563/differences-in-date-string-parsing-between-ruby-1-9-3-and-ruby-1-8-7).
 
@@ -101,15 +117,18 @@ The file name format has changed. No dots are included by default in temporary f
 
 ### FTP      
 
-      URI('ftp://example.com/foo').path #=> 'foo'      
-      URI('ftp://example.com/%2Ffoo').path #=> '/foo'
-      URI::FTP.build([nil, 'example.com', nil, '/foo', 'i').to_s #=> 'ftp://example.com/%2Ffoo;type=i'
+{% highlight ruby %}
+URI('ftp://example.com/foo').path #=> 'foo'
+URI('ftp://example.com/%2Ffoo').path #=> '/foo'
+URI::FTP.build([nil, 'example.com', nil, '/foo', 'i').to_s #=> 'ftp://example.com/%2Ffoo;type=i'
+{% endhighlight %}
 
 ### URI.merge
 
-      URI('http://a/b/c/d;p?q').merge('?y') == URI('http://a/b/c/d;p?y')      
-      URI('http://a/b/c/d;p?q').merge('/./g') == URI('http://a/g')      
-      URI('http://a/b/c/d;p?q').merge('/../g') == URI('http://a/g')      
-      URI('http://a/b/c/d;p?q').merge('../../../g') == URI('http://a/g')      
-      URI('http://a/b/c/d;p?q').merge('../../../../g') == URI('http://a/g')
-
+{% highlight ruby %}
+URI('http://a/b/c/d;p?q').merge('?y') == URI('http://a/b/c/d;p?y')
+URI('http://a/b/c/d;p?q').merge('/./g') == URI('http://a/g')
+URI('http://a/b/c/d;p?q').merge('/../g') == URI('http://a/g')
+URI('http://a/b/c/d;p?q').merge('../../../g') == URI('http://a/g')
+URI('http://a/b/c/d;p?q').merge('../../../../g') == URI('http://a/g')
+{% endhighlight %}
