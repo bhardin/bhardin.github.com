@@ -24,7 +24,7 @@ Google offer's [free online classes for learning Python][1]. Google isn't doing 
 
 Most code Google develops is in Python. If Python becomes the most popular development language, it helps Google. If more people know how to use Python, then Google's potential candidate pool increases. It is in Google's interest to increase Python usage. In supporting programmers to learn Python, Google is increasing the total number of developers they can potentially hire.
 
-As a side note: The valley knows Google lives by the [not invented here][2] principle. This creates a problem with Python. Python wasn't invented at Google, but, they use it. Although this will change soon.
+As a side note: The valley knows Google lives by the [not invented here][NIH] principle. This creates a problem with Python. Python wasn't invented at Google, but, they use it. Although this will change soon.
 
 Google invented their own language - [Go][3] - to overcome this problem.
 
@@ -32,13 +32,11 @@ Google invented their own language - [Go][3] - to overcome this problem.
 
 Ruby's adoption didn't explode until 2005 -- 10 years after the release of the language -- when [some dude][6] released Ruby on Rails. A surge of developers learned Ruby just to use Ruby on Rails. One technology forced the usage of another technology.
 
-Three years later Github was founded. Github has also helped with the adoption of Ruby and Ruby on Rails. [Madlep's explains][5] why Ruby projects -- more than any other language -- are on Github is because:
+Three years later Github was founded. Github has also helped with the adoption of Ruby and Ruby on Rails. [Madlep][Madlep] explained, on a stackoverflow answer that has since been taken down, why Ruby projects -- more than any other language -- are on Github.
 
-* Github captured mind share of the Ruby community quickly.
-* Github hosts the Ruby on Rails source code.
-* Some Github team members are active in the Ruby community and associated open source projects.
-
-
+> Github captured mind share of the Ruby community quickly.
+> Github hosts the Ruby on Rails source code.
+> Some Github team members are active in the Ruby community and associated open source projects.
 
 ## Rich Get Richer
 
@@ -46,10 +44,10 @@ You may be able to predict the adoption of programming languages based on which 
 
 
 [1]: https://developers.google.com/edu/python/ "Google's Python Free Class"
-[2]: http://en.wikipedia.org/wiki/Not_invented_here.
+[NIH]: http://en.wikipedia.org/wiki/Not_invented_here
 [3]: http://en.wikipedia.org/wiki/Go_(programming_language)
 [4]: http://www.amazon.com/gp/product/0226249441/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0226249441&linkCode=as2&tag=breharsblo-20
-[5]: http://stackoverflow.com/questions/1586601/why-are-ruby-projects-so-dominant-at-github
+[Madlep]: http://stackoverflow.com/users/14160/madlep
 [6]: http://david.heinemeierhansson.com/
 
 

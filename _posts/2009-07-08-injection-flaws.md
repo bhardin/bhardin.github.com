@@ -7,6 +7,7 @@ image_credit: Dave Campbell
 image_credit_url: http://www.flickr.com/photos/limowreck666/
 tags: [owasp, vulnerabilities]
 ---
+
 {% include series.html %}
 
 ## What are Injection Flaws
@@ -17,7 +18,7 @@ A user exploits this by breaking out of the intended "context" and appends addit
 
 ## Examples of Injection Flaws
 
-There are many types of injection flaws. The most common being SQL injection. In addition there is [LDAP injection](http://www.owasp.org/index.php/LDAP_injection), [XML Injection](http://projects.webappsec.org/w/page/13247004/XML-Injection), [XPath Injection](http://www.owasp.org/index.php/XPATH_Injection), [OS command injection](http://www.owasp.org/index.php/OS_Command_Injection), and [HTML injection](http://misc-security.com/blog/2009/05/xss-cross-site-scripting/). Injection flaws however are not limited to just these. If your web application inserts user input into any interpreter or process, your web application can contain these vulnerabilities. You can see an example of how an injection flaw works here.
+There are many types of injection flaws. The most common being SQL injection. In addition there is [LDAP injection][LDAP injection], [XML Injection][XML Injection], [XPath Injection][XPath Injection], [OS command injection][OS Command Injection], and [HTML injection][HTML Injection]. Injection flaws however are not limited to just these. If your web application inserts user input into any interpreter or process, your web application can contain these vulnerabilities. You can see an example of how an injection flaw works here.
 
 ## How Do You Prevent Injection Flaws
 
@@ -30,3 +31,9 @@ There are certain exceptions however that can get you in trouble. Single Quotes 
 For example, If you understand that the sanitized data will always be returned in a browser, you could simple HTML encode or URL encode the string. A quote becomes, `&quote;` (HTML encoding) or `%27` (URL encoding).
 
 When sanitizing input, it is important to make sure you decode the string before it is displayed to the user. It can be embarrassing if `Tim O'Brien` is printed as: `Tim O%27Brien`
+
+[HTML Injection]: {% post_url 2009-05-29-xss-cross-site-scripting %}
+[OS Command Injection]: http://www.owasp.org/index.php/OS_Command_Injection
+[LDAP Injection]: http://www.owasp.org/index.php/LDAP_injection
+[XML Injection]: http://projects.webappsec.org/w/page/13247004/XML-Injection
+[XPath Injection]: http://www.owasp.org/index.php/XPATH_Injection

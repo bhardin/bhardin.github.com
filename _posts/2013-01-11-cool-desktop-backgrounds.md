@@ -18,7 +18,7 @@ Malware sites in the past used desktop background sites for distributing malware
 
 Even virus authors think unique desktop backgrounds are cool. The [Ikee worm][4] would change an iPhone's background to a picture of Rick Astley with the phrase, "ikee is never going to give you up." Hopefully malware writers will use high resolution images, so they look amazing on a retina display.
 
-Kaspersky, an antivirus company, didn't want virus authors to have all the fun, so, they [released some backgrounds][5] with fun virus facts. 
+Kaspersky, an antivirus company, didn't want virus authors to have all the fun, so, they [released some backgrounds][virus calendar] with fun virus facts.
 
 Hopefully Kaspersky doesn't require their employees to use these backgrounds. Enforcing a corporate background is lame. I agree with Herbert Kornfeld, [Ted Wegerle telling you to use the standard office-wide desktop background is wack][2].
 
@@ -27,7 +27,7 @@ I don't know if desktop wallpapers can [blow up your computer][6]. But, I love c
 [2]: http://www.theonion.com/articles/westwing-techsupport-crew-be-a-buncha-wack-bitches,16370/
 [3]: https://github.com/bhardin/backgrounds
 [4]: http://nakedsecurity.sophos.com/2009/11/08/iphone-worm-discovered-wallpaper-rick-astley-photo/
-[5]: http://www.securelist.com/en/calendar
+[virus calendar]: http://securelist.com/blog/events/35551/virus-calendar-wallpapers-for-2013-10/
 [6]: http://www.linuxhaxor.net/hackers-can-turn-your-home-computer-into-a-bomb/
 [7]: https://www.google.com/search?q=changing%20your%20desktop%20background
 [8]: https://github.com/bhardin/backgrounds/blob/master/Churchill-attitude.jpg "Winston Churchill"

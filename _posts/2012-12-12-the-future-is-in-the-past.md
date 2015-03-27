@@ -9,11 +9,11 @@ meta_description: We've already built interesting things previously. We continue
 
 The world creates new and exciting things every day. To fill our time we want fun distractions. Sometimes these distractions lead to amazing new discoveries and technologies that completely change the way society works. Smart phones, The Internet, and Facebook have brought the world closer together while creating fun things for us to play with. If any of these things were removed we would feel lost.
 
-After using something, we become dependent on it. Even being told about something which we haven't used can change our perspective. Louis CK jokes how people [complain about things they've just discovered not working][2].
+After using something, we become dependent on it. Even being told about something which we haven't used can change our perspective. Louis CK jokes how people [complain about things they've just discovered not working][perception].
 
 Once we're given something we expect it to always work. We don't appreciate what isn't earned and we always want more. It's an aspect of the human condition.
 
-As society innovates we become dependent on the new technologies. We forget what was previously used to accomplish the same task. Eventually, the new system recycles the old idea. It's similar to fashion, if your clothes aren't in style, just wait, [they'll become trendy again][3]. It seems technology works the same way.
+As society innovates we become dependent on the new technologies. We forget what was previously used to accomplish the same task. Eventually, the new system recycles the old idea. It's similar to fashion, if your clothes aren't in style, just wait, [they'll become trendy again][trendy again]. It seems technology works the same way.
 
 ## Out with thew New, In With The Old
 When the Internet began to see traction it demanded dynamic web pages. Consumers weren't happy with the available information. They wanted pages which changed based on information they provided. They wanted web sites to work the way the applications on their computer did. This demand brought about the concept of the web application.
@@ -39,5 +39,5 @@ Along with the previous examples mention Instagram used an old idea that resonat
 
 I'm fascinated with the idea of speeding up this process. We currently go from A to B to A'. Is there a way to get to A' faster? __Could we just go directly from A to A' without the middle step?__
 
-[2]: /2012/09/happiness-is-perception/
-[3]: http://www.pencadernews.com/ae/2011/04/27/fashion-trends-from-earlier-decades-come-back-into-play/
+[perception]: {% post_url 2012-09-24-happiness-is-perception %}
+[trendy again]: http://en.wikipedia.org/wiki/2010s_in_fashion

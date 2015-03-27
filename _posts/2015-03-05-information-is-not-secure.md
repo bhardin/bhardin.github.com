@@ -55,6 +55,6 @@ So stop being so paranoid about it. Stop getting scared and continually discussi
 [4]: http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
 [algorithms-from-video-footage]: http://www.npr.org/2012/06/26/155792609/a-massive-google-network-learns-to-identify
 [FUD]: http://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt
-[hacking-is-easy]: /about
+[hacking-is-easy]: /about.html
 [facebook-button]: {% post_url 2012-10-18-the-facebook-like-button-is-a-web-bug %}
 

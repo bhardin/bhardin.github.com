@@ -18,9 +18,9 @@ Seth Godin states that [creativity is killed due to lack imagination and fear][4
 
 > Basically, most people don't believe something better can occur. They believe that the status quo is also the best they can do. So they don't look. They don't push. They don't ask, "what else?" and "what now?" They settle.
 
-Ideas are fragile and although they don't die; our imaginations weaken as we age. [Marie Laska][2] said:
+Ideas are fragile and although they don't die; our imaginations weaken as we age. Marie Laska said:
 
-> Not that dreams die with age but they do tend to become burdened with an awareness of what is realistic and what isn't, based on one's place in life. 
+> Not that dreams die with age but they do tend to become burdened with an awareness of what is realistic and what isn't, based on one's place in life.
 
 We've inherited broken imaginations from our elders. What they considered realistic has been passed on to us. However, truly amazing people are too stubborn - a trait seen as being negative - and continue to use their imagination, regardless of what other's say.
 
@@ -35,7 +35,6 @@ Rather than discouraging dreams we should nurture other's to accomplish their dr
 Don't let your dreams be deflated. The people you respect aren't always right, no matter how much you admire them. Use other's opinions and feedback as creative criticism. Let the world strengthen and grow your ideas. Iterate on ideas and let them manifest. All ideas become durable with conviction and time.
 
 [1]: http://www.smbc-comics.com/index.php?db=comics&id=2825#comic
-[2]: http://www.thehumanityinme.com/1/post/2012/12/antoine-is-the-man.html
 [3]: http://vimeo.com/36579366
 [4]: http://sethgodin.typepad.com/seths_blog/2006/10/the_two_things_.html
 [5]: http://www.youtube.com/watch?v=8rwsuXHA7RA

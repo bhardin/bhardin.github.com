@@ -9,10 +9,9 @@ image_credit: Steve Rhodes
 
 {% include series.html %}
 
+I recently did a presentation on the OWASP Top 10 for SecurityStreams. [Nitesh Dhanjani][Nitesh] of SecurityStreams was nice enough to allow me to embed the videos of the presentations on this site.
 
-I recently did a presentation on the OWASP Top 10 for SecurityStreams. [Nitesh Dhanjani](http://www.dhanjani.com/) of SecurityStreams was nice enough to allow me to embed the videos of the presentations on this site.
-
-If you are new to the [OWASP Top 10](/2009/07/owasp-top-10-2007/), I highly suggest watching this presentation, it's 45 minutes and should give you a high level understanding of all the OWASP Top 10.
+If you are new to the [OWASP Top 10][OWASP Top 10], I highly suggest watching this presentation, it's 45 minutes and should give you a high level understanding of all the OWASP Top 10.
 
 There is also an executive presentation that is 10 minutes. This gives you a real high understanding of the issues.
 
@@ -26,3 +25,7 @@ Let me know your thoughts and comments.
 
 ## Slides
 <script async class="speakerdeck-embed" data-id="509127dc7536e5000206b423" data-ratio="1.2945638432364097" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+[OWASP Top 10]: https://www.owasp.org/index.php/Top_10_2007
+[Nitesh]: http://www.dhanjani.com/

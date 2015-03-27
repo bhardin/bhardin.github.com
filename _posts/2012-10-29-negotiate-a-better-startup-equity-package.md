@@ -3,7 +3,6 @@ layout: post
 title: "Negotiate a Better Startup Equity Package"
 image: http://farm6.staticflickr.com/5218/5462029827_308376fb12_b.jpg
 image_credit: Stefan
-category: 
 tags: [negotiating, startups, equity, financing]
 meta_description: Stock and equity packages at startups are interesting and can be negotiated.
 ---
@@ -45,11 +44,10 @@ Salary and equity is a very simple economic model. Cash and equity are sliding s
 
 Startups are cash poor and equity rich. Since there is a massive supply on one side, you should be able to demand more equity by taking less salary. Please don't go into debt in order to get more equity. Having financial debt is not a burden anyone should have.
 
-Also, [The earlier you join the company the better equity deal you will receive][2]. You are being rewarded for the higher risk you are taking.
+Also, [The earlier you join the company the better equity deal you will receive][employee equity]. You are being rewarded for the higher risk you are taking.
 
 You will also need to determine if you are being given a fair share of equity. Jason Cohen wrote up an awesome post for founders on how to [calculate the amount of equity to give new employees][3]. You can use the method presented by Jason's to determine the fairness of your equity package.
 
-[2]: http://answers.onstartups.com/questions/6949/forming-a-new-software-startup-how-do-i-allocate-ownership-fairly/23326#23326 "A fair way to assign equity to employees"
 [3]: http://blog.asmartbear.com/cash-equity-compensation.html "Figuring out how much equity to give to new employees"
 
 Keep in mind, regardless of what you read on TechCrunch, all startup's equity is monopoly money. It is the job of the CEO to persuade you the companies stock is highly valued. Each company values equity differently. In early stage and first founder startups it is common for companies to safeguard and overvalue the FMV of their stock.
@@ -63,3 +61,4 @@ __Note:__ I've used the words _usually_ and _typically_ many times in this post.
 Thanks to [Evan Peelle][4] for the idea of this post.
 
 [4]: http://www.evanpeelle.com/ "Conversion and Customer Acquisition Specialist"
+[employee equity]: http://www.quora.com/Forming-a-new-software-startup-how-do-I-allocate-ownership-fairly/answer/Fred-Privet

@@ -3,12 +3,12 @@ layout: post
 title: The 4 Different Personality Types
 image: http://farm8.staticflickr.com/7092/7195153082_245bea8a89_b.jpg
 image_credit: Scottwdw
-category: 
+category:
 tags: [life, people, communication]
 ---
-My co-founder recently talked about being a [socially awkward founder][1]. Supposedly, I'm a "natural" people person. I've learned to become natural through understanding how to effectively communicate with people. It's not that I'm a natural, it's that my parents taught me about personality types when I was young. 
+My co-founder recently talked about being a [socially awkward founder][awkward founder]. Supposedly, I'm a "natural" people person. I've learned to become natural through understanding how to effectively communicate with people. It's not that I'm a natural, it's that my parents taught me about personality types when I was young.
 
-They read [books][2] about [personality][3] and broke down the content to me. This post is that information broken down in an easily consumed format. If you would like to read more I have listed books, with affiliate links, in the reference section.
+They read [books][Personality Plus] about [personality][Dancing with Porcupines] and broke down the content to me. This post is that information broken down in an easily consumed format. If you would like to read more I have listed books, with affiliate links, in the reference section.
 
 To understand how to communicate with someone effectively, it's important to understand the concept of personality types. After understanding the high-level personality types, you can triage people within 30 seconds and understand how to communicate with them easier. Note, this is not NLP. That is a discussion for another day.
 
@@ -26,7 +26,7 @@ The way I will present the personality types is with the Merrill-Wilson breakdow
 
 The four personality types are: Driver, Expressive, Amiable, and Analytical. There are two variables to identify any personality: Are they better at _facts & data_ or _Relationships_? And are they _introverted_ or _extroverted_.
 
-* Driver - Fact-Based Extrovert 
+* Driver - Fact-Based Extrovert
 * Analytical - Fact-Based Introvert
 * Amiable - Relationship Introvert
 * Expressive - Relationship Extrovert
@@ -90,11 +90,10 @@ If you want to know more about effectively communicating with each personality t
 
 ## References
 
-* [Personality Plus][2]
-* [Dancing with Porcupines][3]
-* [Other Books I recommend](/books)
+* [Personality Plus][Personality Plus]
+* [Dancing with Porcupines][Dancing with Porcupines]
+* [Other Books I recommend](/books.html)
 
-
-[1]: http://www.matthewstump.com/misc/2012/05/01/the-socially-awkward-founder/
-[2]: http://www.amazon.com/gp/product/080075445X/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=080075445X "Personality Plus"
-[3]: http://www.amazon.com/gp/product/0830713336/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0830713336 "Dancing with Porcupines"
+[awkward founder]: http://www.matthewstump.com/misc/2012/05/01/the-socially-awkward-founder/
+[Personality Plus]: http://www.amazon.com/gp/product/080075445X/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=080075445X "Personality Plus"
+[Dancing with Porcupines]: http://www.amazon.com/gp/product/0830713336/ref=as_li_ss_tl?ie=UTF8&tag=breharsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0830713336 "Dancing with Porcupines"

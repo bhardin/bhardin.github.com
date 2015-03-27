@@ -6,187 +6,134 @@
   <script src="//cdn.optimizely.com/js/980610134.js"></script>
 
   
-    <title>Constantly Learning</title>
+    <title>Constantly Learning: Kaaaaaaaaaaaahn!!!!!</title>
   
 
   
 
   <meta charset="utf-8" />
 
-  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/assets/images/favicon.png">
 
-  <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css"/>
-  <link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">  -->
+  <!-- Custom CSS -->
+  <!-- Using Bourbon instead of Bootstrap. -->
+  <link rel="stylesheet" href="/assets/css/base.css">
 
-  <link rel="stylesheet" href="/assets/css/foundation.css">
+  <!-- Pygments Github CSS -->
+  <link rel="stylesheet" href="/assets/css/syntax.css">
 
-  <!-- Fonts -->
+  <!-- Custom Fonts -->
   <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700,600|Lato:300,400,700|Oxygen:400,700|Inconsolata:400,700" rel="stylesheet" type="text/css">
-
-  
-  <!-- AUTOMATICALLY GENERATED. DO NOT EDIT. -->
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-affix.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-alert.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-button.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-carousel.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-collapse.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-dropdown.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-modal.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-popover.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-scrollspy.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-tab.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-tooltip.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-transition.min.js"></script>
-
-  <script type="text/javascript" src="/bootstrap/js/bootstrap-typeahead.min.js"></script>
-
-
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+  <!-- Share Buttons -->
   <script type="text/javascript">
- 	$(document).ready(function() {
- 
-  // Facebook
-	$( ".badge.facebook" ).children().each(function(index,value) {
-		var facebook_button = $(this);
-		var url = facebook_button.attr("data");
+    $(document).ready(function() {
 
-	  jQuery.getJSON("http://graph.facebook.com/?id="+url, function(data) {
-	  if (typeof data.shares != 'undefined')
-	  	facebook_button.html("<i class=\"icon-facebook-sign\"></i> " + data.shares);
-	  else if(typeof data.shares == 'undefined')
-	  	facebook_button.html("<i class=\"icon-facebook-sign\"></i> 0");
-	  else
-	  	facebook_button.html("<i class=\"icon-facebook-sign\"></i> " + data.likes);
-	  });
+    // Facebook
+    $( ".badge.facebook" ).children().each(function(index,value) {
+      var facebook_button = $(this);
+      var url = facebook_button.attr("data");
+
+      jQuery.getJSON("http://graph.facebook.com/?id="+url, function(data) {
+      if (typeof data.shares != 'undefined')
+        facebook_button.html("<i class=\"icon-facebook-sign\"></i> " + data.shares);
+      else if(typeof data.shares == 'undefined')
+        facebook_button.html("<i class=\"icon-facebook-sign\"></i> 0");
+      else
+        facebook_button.html("<i class=\"icon-facebook-sign\"></i> " + data.likes);
+      });
+    });
+
+    // Twitter
+    $( ".badge.twitter" ).children().each(function(index,value) {
+      var twitter_button = $(this);
+      var url = twitter_button.attr("data");
+
+      jQuery.getJSON("http://urls.api.twitter.com/1/urls/count.json?url="+url+"&callback=?", function(data) {
+        twitter_button.html("<i class=\"icon-twitter-sign\"></i> " + data.count);
+      });
+    });
+
+    // LinkedIn
+    $( ".badge.linkedin" ).children().each(function(index,value) {
+      var linkedin_button = $(this);
+      var url = linkedin_button.attr("data");
+
+      jQuery.getJSON("http://www.linkedin.com/countserv/count/share?url="+url+"&format=jsonp&callback=?", function(data) {
+        linkedin_button.html("<i class=\"icon-linkedin-sign\"></i> " + data.count);
+      });
+    });
   });
- 
- 	// Twitter
-	$( ".badge.twitter" ).children().each(function(index,value) {
-		var twitter_button = $(this);
-		var url = twitter_button.attr("data");
+  </script>
 
-	  jQuery.getJSON("http://urls.api.twitter.com/1/urls/count.json?url="+url+"&callback=?", function(data) {
-	  	twitter_button.html("<i class=\"icon-twitter-sign\"></i> " + data.count);
-	  });
-  });
-  
-  // LinkedIn
-	$( ".badge.linkedin" ).children().each(function(index,value) {
-		var linkedin_button = $(this);
-		var url = linkedin_button.attr("data");
-
-	  jQuery.getJSON("http://www.linkedin.com/countserv/count/share?url="+url+"&format=jsonp&callback=?", function(data) {
-	  	linkedin_button.html("<i class=\"icon-linkedin-sign\"></i> " + data.count);
-	  });
-  });
-  
-});
-</script>
-
-  <!-- RSS FEED
+  <!-- RSS FEED -->
   <!-- <link href="http://feeds.bretthard.in/bretthardin" rel="alternate" type="application/atom+xml" title="Brett Hardin" /> -->
 </head>
 
+
 <body>
 	<div class="container">
-  <header class="site-head">
-    <div class="site-head-content">
-      <a class="blog-logo" href="/"><img src="/assets/images/light-bulb.png"></a>
-      <h1 class="blog-title"><a href="/">Constantly Learning</a></h1>
-      <h2 class="blog-description">Programming, Information Security, Startups, and Learnings.</h2>
-    </div>
-  </header>
+  <div class="site-head-content">
+    <a class="blog-logo" href="/"><img alt="light-bulb" src="/assets/images/light-bulb.png"></a>
+
+    <h1 class="blog-title"><a href="/">Constantly Learning</a></h1>
+    <h2 class="blog-description">Programming, Information Security, Startups, and Learnings.</h2>
+  </div>
 </div>
 
 	<div class="container">
   <div class="main-content">
-    <h1></h1>
+    <div class="page">
+      <h1>Kaaaaaaaaaaaahn!!!!!</h1>
 
-    <div style="text-align: center">
-<h1>Kaaaaaaaaaaaahn!!!!!</h1>
-<h4>I've abandoned this page on another planet.</h4>
+      <p><img src="/assets/images/kahn.gif" alt="Kahn" /></p>
 
-<img src="/assets/images/kahn.gif" />
+<h2>I've abandoned this page on another planet. Please <a href="https://twitter.com/miscsecurity">let me know</a> this page no longer exists.</h2>
 
-<h2>Please <a href="https://twitter.com/miscsecurity">let me know</a> this page no longer exists.</h2>
+<p>This may help you find what you are looking for:</p>
 
-<p>You can also use this to find what you were looking for:</p>
-<form class="form-search" action="/search.html">
+<p><form class="form-search" action="/search.html">
       <div class="input-append">
         <input type="text" class="span3 search-query" name="q" placeholder="Search Constantly Learning">
         <button type="submit" class="btn">Search</button>
       </div>
-</form>
-</div>
+</form></p>
 
-
-
-
+    </div>
   </div>
 </div>
 
 
-	<footer class="footer">
-  <div class="container">
-    <p style="float: left;">Site Built with Sublime Text2, BootStrap, and Jekyll</p>
-    <p style="float: right;">Copyright &copy; 2015 <a href="http://twitter.com/miscsecurity">Brett Hardin</a></p>
+	<div class="container">
+<footer class="footer" role="contentinfo">
+  <div class="footer-logo">
+    <i class="fa fa-lightbulb-o fa-2x fa-inverse"></i>
   </div>
+    <ul>
+      <li><a href="/about.html">About</a></li>
+    </ul>
+
+    <div class="footer-secondary-links">
+      <ul>
+        <li><a href="http://twitter.com/miscsecurity">Copyright &copy; 2015 | Brett Hardin</a></li>
+      </ul>
+
+      <ul class="footer-social">
+        <li><a href="https://github.com/bhardin">
+          <i class="fa fa-github fa-2x"></i>
+          </a></li>
+        <li><a href="https://twitter.com/miscsecurity">
+          <i class="fa fa-twitter fa-2x"></i>
+        </a></li>
+      </ul>
+    </div>
 </footer>
+</div>
 
-<!-- HitTail Code -->
-<script type="text/javascript">
-	(function(){ var ht = document.createElement('script');ht.async = true;
-	  ht.type='text/javascript';ht.src = '//97082.hittail.com/mlt.js';
-	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ht, s);})();
-</script>
 
-<!-- Twitter -->
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-<!-- Kissmetrics -->
-<script type="text/javascript">
-  var _kmq = _kmq || [];
-  var _kmk = _kmk || 'dafa35b17bc5d6e0d179240ca4153189e23e9319';
-  function _kms(u){
-    setTimeout(function(){
-      var d = document, f = d.getElementsByTagName('script')[0],
-      s = d.createElement('script');
-      s.type = 'text/javascript'; s.async = true; s.src = u;
-      f.parentNode.insertBefore(s, f);
-    }, 1);
-  }
-  _kms('//i.kissmetrics.com/i.js');
-  _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-</script>
-
-<script>
-  _kmq.push(['record', 'Page View']);
-</script>
-
-<!-- Google -->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-28805964-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>	
 </body>
 </html>

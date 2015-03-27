@@ -3,13 +3,12 @@ layout: post
 title: "Overcome The Fear of Rejection"
 image: http://farm4.staticflickr.com/3122/2768710527_6138a6795e_b.jpg
 image_credit: stepol
-category: 
 tags: [repost]
 meta_description: Overcoming the fear of rejection is challenging for all of us. There are many lessons to be learned from children.
 ---
 
 <hr/>
-_I loved [this](http://blog.latentflip.com/post/29820876915/rejection) post by Philip Roberts, the co-founder of the [cash flow forecasting app Float](http://floatapp.com). It is reposted here with his permission._
+_I loved [this][original-post] post by Philip Roberts, the co-founder of the [cash flow forecasting app Float](http://floatapp.com). It is reposted here with his permission._
 <hr/>
 
 I was at the pool, waiting to dive, behind maybe 6 or 7 others, all younger than me, mostly female.
@@ -45,3 +44,5 @@ I know now what I should have done. What would have made Alex, myself and possib
 But I didn't. I didn't even think about it, but next time, I will.
 
 Good job Alex, good job.
+
+[original post]: http://latentflip.com/rejection/

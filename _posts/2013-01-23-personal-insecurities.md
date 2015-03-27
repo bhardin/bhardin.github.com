@@ -32,7 +32,7 @@ Insecurities come from two core causes:
 
 We compare what we have to what other's have. Coveting another's life and possessions is one of the ten commandments for a reason. It's a natural human trait. As an adult you still want to be the popular kid in school, the athlete who scores the winning point, or the prom queen. __You want to be the one being looked at not the one doing the looking.__ You want the approval of others.
 
-In startup land, you are barraged with positive news from other startups. Startup news seems to be abnormal. A 1992 study revealed that more than half (54.5%) of [televised news broadcasts focused on stories about violence, conflict, and suffering][1]. Scientists haven't studied startup news, but, most startup news sites (TechCrunch, VentureBeat, ext) seem to be positive. Fundraising announcements, product launches, positive user testimonies, and acquisitions.
+In startup land, you are barraged with positive news from other startups. Startup news seems to be abnormal. The 1992 study, *Bad News Revisited: The Portrayal of Violence, Conflict, and Suffering on Television News*, revealed that more than half (54.5%) of televised news broadcasts focused on stories about violence, conflict, and suffering. Scientists haven't studied startup news, but, most startup news sites (TechCrunch, VentureBeat, ext) seem to be positive. Fundraising announcements, product launches, positive user testimonies, and acquisitions.
 
 This constant stream of positive news can make you insecure about your own endeavors because you are comparing yourself to others. Stop doing that. Negative things happen to us all. But, we don't want to share the negative things, because just like you, we want everyone to view us in a positive light. So, we don't publicize the negative.
 
@@ -52,6 +52,6 @@ I don't know if you can completely shut off the parts of your brain that are ins
 
 What about you? How do you disregard or ignore your personal insecurities?
 
-[1]: http://arapaho.nsuok.edu/~scottd/bodybag2.pdf
+[negative news]: http://arapaho.nsuok.edu/~scottd/bodybag2.pdf
 [2]: http://en.wikipedia.org/wiki/Laozi
 [3]: http://en.wikipedia.org/wiki/Oprah_Winfrey
