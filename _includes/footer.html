@@ -1,8 +1,26 @@
-<footer class="footer">
-  <div class="container">
-    <p style="float: left;">Site Built with Sublime Text2, BootStrap, and Jekyll</p>
-    <p style="float: right;">Copyright &copy; {{ site.time | date: "%Y" }} <a href="http://twitter.com/miscsecurity">Brett Hardin</a></p>
+<div class="container">
+<footer class="footer" role="contentinfo">
+  <div class="footer-logo">
+    <i class="fa fa-lightbulb-o fa-2x fa-inverse"></i>
   </div>
-</footer>
+    <ul>
+      <li><a href="/about.html">About</a></li>
+    </ul>
 
-{% include bottom-js.html %}
+    <div class="footer-secondary-links">
+      <ul>
+        <li><a href="http://twitter.com/miscsecurity">Copyright &copy; {{ site.time | date: "%Y" }} | Brett Hardin</a></li>
+      </ul>
+
+      <ul class="footer-social">
+        <li><a href="https://github.com/bhardin">
+          <i class="fa fa-github fa-2x"></i>
+          </a></li>
+        <li><a href="https://twitter.com/miscsecurity">
+          <i class="fa fa-twitter fa-2x"></i>
+        </a></li>
+      </ul>
+    </div>
+</footer>
+</div>
+

@@ -1,0 +1,13 @@
+div.site-head-content {
+  // @include padded-center;
+  margin-bottom: 2em;
+
+  h1.blog-title { text-transform: uppercase; }
+
+  a.blog-logo {
+    img {
+      padding: 1em 2em 1em 0em;
+      float: left;
+    }
+  }
+}

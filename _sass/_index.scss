@@ -1,0 +1,12 @@
+div.posts {
+  @include padded-center;
+  padding-top: 1em;
+
+  ul {
+    li {
+      padding-top: 0.5em;
+
+      span.date { @include date; }
+    }
+  }
+}

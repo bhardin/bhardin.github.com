@@ -8,95 +8,66 @@ $background-color: #e5e5e5;
 $site-color: #7109aa;
 $main-font-color: #525252;
 
+$mobile: new-breakpoint(max-width 600px 1);
+
+@mixin padded-center {
+  @include span-columns(10);
+  @include shift(1);
+  @include omega;
+
+  margin-bottom: 2em;
+}
+
+@mixin date {
+  font-size: 0.8em;
+  color: #999;
+  float: right;
+  text-transform: uppercase;
+}
+
 body {
   background-color: $background-color;
-  // margin: 0;
-  // font-family: $main-font;
-  // line-height: 1.618em;
-  // font-weight: 300;
-  // word-wrap: break-word;
 
-  .container {
+  h1, a { color: $site-color; }
+
+  h1, h2, h3, h4 { padding-top: 1em; }
+
+  div.container {
     @include outer-container;
-  }
 
-  .post {
-    @include span-columns(12);
-  }
+    @import "disqus";
+    @import "header";
 
-  .main-content {
-    padding: 2em 8em;
-    background-color: #fff;
-    @include span-columns(12);
+    div.main-content {
+      @include span-columns(12);
 
-    .post {
-      h2, h3, h4 {
-        // padding-left: 10px;
-        // border-left: 5px solid #ccc;
+      @import "about-me";
+      @import "index";
+
+      blockquote {
+        font-style: italic;
+        color: #666;
       }
+
+      @include media($mobile) {
+        @include span-columns(1);
+      }
+
+      background-color: #fff;
+
+      h1.post-title { text-transform: capitalize; }
+
+      // Font Sizes
+      h1 { font-size: $base-font-size * 2; }
+      h2 { font-size: $base-font-size * 1.6; }
+
+      div.post { @include padded-center; }
+      div.page { @include padded-center; }
+      div.subscribe { @include padded-center; }
+      div.recent-posts { @include padded-center; }
+      p.date { @include date; }
     }
-
-    h1.post-title { text-transform: capitalize; }
-
-    h1 {
-      // background-color: transparent;
-      // border-bottom: .05em solid $site-color;
-      color: $site-color;
-      // font-family: $secondary-font;
-      // font-size: 3em;
-      // font-weight: 300;
-      // line-height: 1.1em;
-      // margin: .5em 0 .2em;
-      // padding-bottom: 0.5em;
-    }
-
-    h1, a { color: $site-color; }
-
-    // Font Sizes
-    h1 { font-size: $base-font-size * 2; }
-    h2 { font-size: $base-font-size * 1.6; }
   }
+
+  @import "footer"
 }
-
-// .avatar {
-//   display: block;
-//   float: left;
-//   margin: 0 2em;
-// }
-
-header.site-head {
-  padding-left: 2em;
-
-  .blog-logo {
-    img {
-      padding: 0 1em 1em 0em;
-      float: left;
-    }
-  }
-
-  h1.blog-title {
-    text-transform: uppercase;
-
-    a:link, a:visited, a:hover, a:active { text-decoration: none; }
-  }
-}
-
-// .posts {
-//   ul {
-//     list-style-type: none;
-
-//     li {
-//       padding-top: 0.5em;
-
-//       span {
-//         font-size: 12px;
-//         color: #999;
-//         float: right;
-//         text-transform: uppercase;
-//       }
-
-//       a:link, a:visited, a:hover, a:active { text-decoration: none; }
-//     }
-//   }
-// }
-

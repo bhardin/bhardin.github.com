@@ -10,19 +10,17 @@ layout: default
       <div class="content">
         {{ content }}
       </div>
+
+      <p class="date">Written: {{ page.date | date:"%B %d, %Y" }}</p>
     </div>
 
     <div class="about-me">
-      <hr/>
       <img class="avatar img-circle" alt="Brett Hardin" src="https://en.gravatar.com/userimage/8781599/408ff2d80d284339d894c762915fde94.jpg" />
       <h4><a href="/about.html">Brett Hardin</a></h4>
       <p>I write code at <a href="http://www.kissmetrics.com/">KISSmetrics</a> and love <a onclick="_gaq.push(['_trackEvent', 'Clicked Link', 'love learning', 'side bar']);" href="/2012/10/writing-about-what-i-learn/">writing about what I learn</a>.
-      <hr/>
     </div>
 
-    <!-- bottom footer -->
-    <div class="below-post" style="margin-top: 20px">
-      <h3>Subscribe</h3>
+    <div class="subscribe">
       <center>
         <div class="input-append">
           <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=bretthardin', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="margin-bottom: 0px">
@@ -33,17 +31,18 @@ layout: default
           </form>
         </div>
       </center>
+    </div>
 
+    <div class="recent-posts">
       <h3>Recent Posts</h3>
-      <div class="recent_posts">
-        <ul class="thumbnails">
-          {% for post in site.posts limit:3 %}
-            <li>
-              <a href="{{ post.url }}" onclick="_gaq.push(['_trackEvent', 'recent post', 'Clicked {{ post.title }}', 'From {{ page.title }}']);" class="thumbnail">{{ post.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
+
+      <ul class="thumbnails">
+        {% for post in site.posts limit:3 %}
+          <li>
+            <a href="{{ post.url }}" onclick="_gaq.push(['_trackEvent', 'recent post', 'Clicked {{ post.title }}', 'From {{ page.title }}']);" class="thumbnail">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
 
     <div id="disqus_thread">
@@ -61,7 +60,5 @@ layout: default
       <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
     </div>
 
-    <p>Written: {{ page.date | date:"%B %d, %Y" }}</p>
   </div>
 </div>
-    
