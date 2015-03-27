@@ -24,7 +24,7 @@ Since the AngelPad network is composed of Google Mafia, they are incredibly well
 
 > * Zig Ziglar
 
-While we were going through AngelPad, we had some great advisors and speakers including [Hiten Shah](http://hitenism.com/), [Neil Patel](https://twitter.com/neilpatel/), [Elad Gil](http://blog.eladgil.com/), [Jeff Clavier](http://softtechvc.com/team_member/jeff-clavier/), [Keval Desai](http://www.interwest.com/interwest-team/keval-desai.html), [Dave McClure](http://500hats.com/), and [Gokul "The Man" Rajaram](https://www.facebook.com/gokul.rajaram).
+While we were going through AngelPad, we had some great advisors and speakers including [Hiten Shah](http://hitenism.com/), [Neil Patel](https://twitter.com/neilpatel/), [Elad Gil](http://blog.eladgil.com/), [Jeff Clavier](http://softtechvc.com/team_member/jeff-clavier/), [Keval Desai][Keval], [Dave McClure](http://500hats.com/), and [Gokul "The Man" Rajaram](https://www.facebook.com/gokul.rajaram).
 
 Each of these advisor talked to us for about an hour and then had one-on-one's with us for 8 minutes, where we could ask them anything we wanted. The 8-minutes was setup specifically to make us get right to the point of what we wanted to know. A skill every founder should practice and utilize.
 
@@ -41,3 +41,5 @@ You are also creating tight life-long friendships. I still regularly call and em
 Angelpad is not for the weak or faint of heart. If you need hand holding, Angelpad is not for you. Angelpad is designed to challenge your assumptions about your business, market, product, and vision. __The experience will tear you down and rebuild you stronger.__ However, this will only happen if you give it everything you have. This requires a huge commitment on your part.
 
 If you are looking for an incubator to help you with a lifestyle business, don't apply to AngelPad. [AngelPad](http://angelpad.org/) is looking for companies that are attempting to change the world. If you have that type of foresight, vision, or dream: I will see and talk with you soon.
+
+[Keval]: http://www.interwest.com/partners/keval-desai
