@@ -23,15 +23,19 @@ For those of you that don't play video games, you can customize your controls.
 On a Sega Genesis system there are three buttons: A, B, and C. I didn't like the
 default setup on NBA Jam which is as follows:
 
+```
 * A - Shoot
 * B - Turbo
 * C - Pass
+```
 
 I preferred the following:
 
+```
 * A - Turbo
 * B - Pass
 * C - Shoot
+```
 
 Before changing the defaults, I of course, read the rules for the state finals.
 It explained that changing the button configurations was optional. I read this
@@ -60,7 +64,7 @@ completely ignore control configuration screens. I don't even open them.
 I recently changed from Bash shell to zsh. Upon making the transition I asked my
 colleagues which themes they use for oh-my-zsh. Sean sent me this screenshot:
 
-![sean-screenshot](https://s3.amazonaws.com/uploads.hipchat.com/19753/734935/iKjtGJp2LZF7Ggt/Screen%20Shot%202014-11-11%20at%2011.06.23%20AM.png)
+![sean-screenshot](/assets/images/sean-screenshot.png)
 
 I was immediately turned off because it didn't look like a default shell. I
 already knew zsh, by default, didn't look like this because I had already
@@ -80,4 +84,4 @@ defaults.__
 P.S. For those curious, I decided on the "muse" theme. Here is what it looks
 like:
 
-![muse](http://cl.ly/image/3f320f2A0T0x/Screen%20Shot%202014-11-11%20at%203.34.11%20PM.png)
+![muse](/assets/images/muse.png)
