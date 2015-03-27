@@ -15,10 +15,8 @@ exclude: [
 ]
 
 sass:
-  sass_dir: _sass
   style: :compressed
 
 # Github overrides the following values. They cannot be configured.
 safe: true
 lsi: false
-source: .
