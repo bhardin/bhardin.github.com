@@ -12,9 +12,9 @@ Once you raise money a clock starts. When the clock runs out of time you have no
 
 There has been a shift recently with how startup companies are ran. The _old school_ way of thinking was to build a sustainable business. A sustainable business grows organically. If a business runs out of money then it stops operating. Venture capitalists came into the picture to to _bridge_ the company until profitability. Early venture capitalists wanted sustainable businesses because it meant better exits.
 
-During the early 90's, the first tech bubble came along, and changed the _sustainable_ way of thinking. Companies were building companies on a dream without a way to get there. The market corrected the change in thinking and access to capital dried up. 
+During the early 90's, the first tech bubble came along, and changed the _sustainable_ way of thinking. Companies were building companies on a dream without a way to get there. The market corrected the change in thinking and access to capital dried up.
 
-The sustainable model is being challenged again. The ecosystem as a whole doesn't care about reaching profitability. Companies like Instagram weren't concerned about profitability, but they had a small team and a lot of users. The argument is that users are valuable and you will _eventually_ figure out a way of making money. 
+The sustainable model is being challenged again. The ecosystem as a whole doesn't care about reaching profitability. Companies like Instagram weren't concerned about profitability, but they had a small team and a lot of users. The argument is that users are valuable and you will _eventually_ figure out a way of making money.
 
 Stop putting it off. Get to profitability as quickly as possible. The business should be able to survive on it's own without any additional capital. This gives the business and you more time to test strategies.
 
@@ -23,7 +23,7 @@ When [Neil Patel][1] and Hiten Shah attempted to get outside investment for Craz
 
 > After pitching Crazy Egg to venture capitalists for 6 months, I realized no one was going to invest in it. Because of this we had no choice other than to figure out how to make Crazy Egg profitable.
 
-They succeeded and reached profitability with Crazy Egg. As Entrepreneurs, they built something larger than themselves. They built a sustainable company and decided to startup another company. One they could get venture capital funding with. This became KISSmetrics. But, they didn't shut Crazy Egg down. They let it continue to run as a profitable business.
+They succeeded and reached profitability with Crazy Egg. As Entrepreneurs, they built something larger than themselves. They built a sustainable company and decided to startup another company. One they could get venture capital funding with. This became Kissmetrics. But, they didn't shut Crazy Egg down. They let it continue to run as a profitable business.
 
 ## Raise Money On Your Terms
 Once your business starts making money you have time to seek out the investors you want. There is no rush. The profitability from Crazy Egg gave Neil and Hiten the ability to raise money on their terms. Since they already had a profitable business they weren't _rushed_ to get financing.
@@ -39,7 +39,7 @@ Jeff Bezos [setup expectations][2] to investors that although they won't be prof
 
 > Amazon's initial business plan was unusual. The company did not expect a profit for four to five years. Its "slow" growth provoked stockholder complaints that the company was not reaching profitability fast enough.
 
-Amazon was still generating revenue and attempting everything to get to profitability. 
+Amazon was still generating revenue and attempting everything to get to profitability.
 
 Stop wasting time and resources, get to profitability as fast as possible.
 
