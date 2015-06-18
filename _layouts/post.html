@@ -27,7 +27,7 @@ layout: default
             <input type="text" placeholder="Subscribe via email" style="width: 300px" name="email"/>
             <input type="hidden" value="bretthardin" name="uri"/>
             <input type="hidden" name="loc" value="en_US"/>
-            <input type="submit" class="btn btn-success" value="Subscribe!" onclick="_kmq.push(['record', 'Email Subscribe']); _kmq.push(['identify', email.value]); _gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Bottom of Post']);"/>
+            <input type="submit" class="btn btn-success" value="Subscribe!" onclick="_kmq.push(['record', 'Email Subscribe', {'subscribed from':'bottom of post'}]);; _kmq.push(['identify', email.value]); _gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Bottom of Post']);"/>
           </form>
         </div>
       </center>

@@ -1,0 +1,20 @@
+---
+layout: page
+title: Fresh to Your Inbox
+meta_description: Get fresh Constantly Learning posts delivered to your inbox.
+---
+
+Want the freshest content delivered to your inbox when it is written?
+
+<div style="padding-top: 1em" class="subscribe">
+  <center>
+    <div class="input-append">
+      <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=bretthardin', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="margin-bottom: 0px">
+        <input type="text" placeholder="Subscribe via email" style="width: 300px" name="email"/>
+        <input type="hidden" value="bretthardin" name="uri"/>
+        <input type="hidden" name="loc" value="en_US"/>
+        <input type="submit" class="btn btn-success" value="Subscribe!" onclick="_kmq.push(['record', 'Email Subscribe', {'subscribed from':'subscription page'}]); _kmq.push(['identify', email.value]); _gaq.push(['_trackEvent', 'Subscribe', 'Email', 'Subscribe Page']);"/>
+      </form>
+    </div>
+  </center>
+</div>
