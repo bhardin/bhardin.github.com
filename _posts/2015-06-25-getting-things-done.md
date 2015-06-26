@@ -1,3 +1,9 @@
+---
+layout: post
+title: Above All Else, Accomplish Tasks
+tags: [personality]
+---
+
 I have taken many [personality tests][personality types] in my life. I don't question their validity, but, when an employer asks me to take one, I become hesitant. It's a waste of time for an employer to give employees personality tests to better enable communication.
 
 About a year ago, our [entire company][kissmetrics] took a [personality test][color test]. Before I stated personality tests are a waste of time to employers and employees. This time it wasn't.
