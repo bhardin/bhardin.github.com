@@ -34,7 +34,7 @@ Apple makes other companies believe they can build intuative and simple products
 
 ## Humans Want Fine Granular Control
 
-From an anthropological perspective, we have always used our fingers. When humans created cave paintings, we used our hands and our fingers. What seperates humans from animals is the ability for us to use these small filanges to create. Evolution has designed our brains to intuitevly know how to use our fingers.
+From an anthropological perspective, we have always used our fingers. When humans created cave paintings, we used our hands and our fingers. What seperates humans from animals is the ability for us to use these small phalanges to create. Evolution has designed our brains to intuitevly know how to use our fingers.
 
 Here is a thought excercise: What would the phsyical size of a novel - over 40,000 words - be if the author only used his fingers to write the words? I believe early engineers created writing devices to make their creations (writing and art) portable.
 
