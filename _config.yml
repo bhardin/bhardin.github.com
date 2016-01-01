@@ -1,7 +1,7 @@
 name: Brett Hardin's Blog
 title: Constantly Learning
 description: "Programming, Information Security, Startups, and Learnings."
-permalink: /posts/:title
+permalink: /post/:title
 markdown: rdiscount
 paginate: 9
 feed: http://feeds.bretthard.in/bretthardin
