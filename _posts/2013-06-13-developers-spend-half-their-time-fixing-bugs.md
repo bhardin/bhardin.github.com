@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Developers Spend Half Their Time Fixing Bugs"
-image: http://farm4.staticflickr.com/3190/3097134746_71ea6b0842_b.jpg
+image_url: http://farm4.staticflickr.com/3190/3097134746_71ea6b0842_b.jpg
 image_credit: Steve Jurvetson
 image_credit_url: http://www.flickr.com/photos/jurvetson/
 tags: [software development, bug fixing]
 meta_description: Developers spend 50% of their time fixing other people's problems.
+category: post
 ---
 
 [Joel Spolsky](http://www.joelonsoftware.com/articles/fog0000000014.html) says:

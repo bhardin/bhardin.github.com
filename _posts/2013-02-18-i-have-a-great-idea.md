@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "I have a great idea..."
-image: http://farm1.staticflickr.com/166/382413887_762a52f166_b.jpg
+image_url: http://farm1.staticflickr.com/166/382413887_762a52f166_b.jpg
 image_credit: jnpoulos
 image_credit_url: http://www.flickr.com/photos/jnpoulos/
 tags: [ideas, products]
 meta_description: Great ideas don't matter. Build something people want and love.
+category: post
 ---
 
 I talk to a lot of people about their ideas. Simple product ideas to large world-changing ideas. I like to help people formalize their product pitches. Taking complicated things and making them simple.

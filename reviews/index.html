@@ -1,0 +1,18 @@
+---
+layout: page
+index-title: reviews
+index-subtitle: Shorts On Things I Watch, Read, and Use.
+---
+
+{% for post in site.categories.reviews %}
+  {% cycle 'open div': '<div class="card-deck">', '' %}
+
+  {% include cards/review-card.html post=post %}
+
+  {% cycle 'close div': '', '</div>' %}
+  {% if forloop.last and (forloop.length | modulo:2) == 0 %}
+    <!-- edge case: close the dive when there is an odd number of items -->
+    </div>
+  {% endif %}
+{% endfor %}
+

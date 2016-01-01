@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Use Seclusion To Optimize Creativity and Productivity"
-image: http://farm8.staticflickr.com/7278/6881449630_37e31fc143_b.jpg
+image_url: http://farm8.staticflickr.com/7278/6881449630_37e31fc143_b.jpg
 image_credit: seyed mostafa zamani
-category: 
+category: post
 tags: [lean, seclusion, productivity]
 meta_description: The greatest writers used seclusion to maximize their ideas. Can you use these techniques to maximize your output?
 ---

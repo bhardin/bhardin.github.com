@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Happiness is Perception"
-image: http://farm1.staticflickr.com/130/358458442_3c2a178f71_b.jpg
+image_url: http://farm1.staticflickr.com/130/358458442_3c2a178f71_b.jpg
 image_credit: Bukutgirl
 tags: [happiness, perception, mindset]
 meta_description: Happiness isn't something you achieve by making more money or finding love. Happiness is your mental state.

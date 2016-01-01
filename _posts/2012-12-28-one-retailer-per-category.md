@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "A Single Retail Store"
-image: http://farm3.staticflickr.com/2741/4444576795_108f15ae9e_b.jpg
+image_url: http://farm3.staticflickr.com/2741/4444576795_108f15ae9e_b.jpg
 image_credit: epSos.de
 image_credit_url: http://www.flickr.com/photos/epsos/
 tags: [retail, startups, prediction]

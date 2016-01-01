@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "The Price is Right and Advertising"
-image: http://farm8.staticflickr.com/7251/7604871594_9e5e249348_b.jpg
+image_url: http://farm8.staticflickr.com/7251/7604871594_9e5e249348_b.jpg
 image_credit: Allison Mcdonald
 image_credit_url: http://www.flickr.com/photos/allison_mcdonald/
 tags: [advertising, marketing, ROI]

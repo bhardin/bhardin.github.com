@@ -1,0 +1,13 @@
+<div class="card">
+    <div class="card-block">
+  <img class="card-img-top center-block" height="300px" src="{{post.image_url}}" alt="{{post.title}}">
+</div>
+<div class="card-block text-xs-center">
+  {% include rating.html rating=post.rating %}
+</div>
+<div class="card-block">
+  <h2 class="card-title text-xs-center">{{post.title}}</h2>
+  <h5 class="card-text text-xs-center"><small class="text-muted">{{post.author}}</small></h5>
+  <p class="card-text">{{post.content}}</p>
+</div>
+</div>

@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Order of Magnitude Better"
-image: http://farm3.staticflickr.com/2708/4420845301_4afa6e2261_b.jpg
+image_url: http://farm3.staticflickr.com/2708/4420845301_4afa6e2261_b.jpg
 image_credit: nathangibbs
 image_credit_url: http://www.flickr.com/photos/nathangibbs/
 tags: [ideas, startups]
 meta_description: In order to displace the current incumbent your idea needs to be an order of mangitude better than what the incumbent has.
+category: post
 ---
 
 People are fascinated with their own ideas. You'll often talk to people who don't want to freely discuss their ideas. Not [discussing your ideas with other's is a bad idea][3].

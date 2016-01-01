@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "The Future is in the Past"
-image: http://farm4.staticflickr.com/3538/3395061105_0fd264698f_b.jpg
+image_url: http://farm4.staticflickr.com/3538/3395061105_0fd264698f_b.jpg
 image_credit: Daccc
 tags: [tech, blogging, hardware]
 meta_description: We've already built interesting things previously. We continue to build the same thing over and over again. We like reinventing the wheel.

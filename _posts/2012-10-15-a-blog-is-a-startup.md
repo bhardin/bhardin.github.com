@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "A Blog is a Startup"
-image: http://farm2.staticflickr.com/1195/633639759_425f9823f9_b.jpg
+image_url: http://farm2.staticflickr.com/1195/633639759_425f9823f9_b.jpg
 image_credit: http://www.flickr.com/photos/rsms/
 image_credit_url: http://www.flickr.com/photos/rsms/
 tags: [blogging, startups]

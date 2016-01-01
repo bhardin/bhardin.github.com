@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Be Passionate Like a Kid"
-image: http://farm5.staticflickr.com/4017/4445692593_509f3f59c8_b.jpg
+image_url: http://farm5.staticflickr.com/4017/4445692593_509f3f59c8_b.jpg
 image_credit: Kmark
-category: 
+category: post
 tags: [life, people, children, passion]
 meta_description: Somewhere in life we lose the passion we had as children. With Caine's Arcade you can see how you used to see the world.
 ---

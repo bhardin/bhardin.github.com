@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Mobile Devices Aren't Phones"
-image: http://farm4.staticflickr.com/3609/3383629917_5ed169e372_b.jpg
+image_url: http://farm4.staticflickr.com/3609/3383629917_5ed169e372_b.jpg
 image_credit: JD Hancock
 image_credit_url: http://www.flickr.com/photos/jdhancock/
 tags: [technology, phones, mobile]
+category: post
 meta_description: Don't use mobile devices for making phone calls. They are much better at the other things they do.
 ---
 

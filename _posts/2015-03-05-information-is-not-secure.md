@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "I Know Your Social Security Number"
-image:
+image_url:
 image_credit:
 image_credit_url:
 tags: []
 meta_description: How I stopped worrying and embraced insecurity.
+category: post
 ---
 
 Assume bad guys already have your personal information. Every week there is a news article about a [large organization getting breached][4] or a [new startup not building a secure system.][venmo]. I can attest that breaking into [Fortune 500 companies isn't difficult or challenging][hacking-is-easy].

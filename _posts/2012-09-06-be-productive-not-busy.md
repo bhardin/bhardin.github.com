@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Be Productive. Not Busy."
-image: http://farm4.staticflickr.com/3010/2693784352_b4747cd81b_b.jpg
+image_url: http://farm4.staticflickr.com/3010/2693784352_b4747cd81b_b.jpg
 image_credit: Kasaa
-category: 
+category: post
 tags: [productivity, large organizations, good enough]
 meta_description: When people show up to work, they aren't being productive, they're staying busy.
 ---

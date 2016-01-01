@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Write For Yourself, Not Others"
-image: http://farm4.staticflickr.com/3179/3084017715_1fdd10219e_b.jpg
+image_url: http://farm4.staticflickr.com/3179/3084017715_1fdd10219e_b.jpg
 image_credit: e_walk
-category:
+category: post
 tags: [writing, blogging]
 meta_description: To be successful at writing, stop worrying about what others will think and just write words on the paper.
 ---

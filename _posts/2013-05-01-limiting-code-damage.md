@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Limiting Code Damage"
-image: http://farm3.staticflickr.com/2320/1951073350_7e357dbdec_b.jpg
+image_url: http://farm3.staticflickr.com/2320/1951073350_7e357dbdec_b.jpg
 image_credit: Daniele Muscetta
 image_credit_url: http://www.flickr.com/photos/dani3l3/
 tags: [software development, engineering, coding, programming]
+category: post
 meta_description: Software development is a lot like creating a Dungeons & Dragons character.
 ---
 

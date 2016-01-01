@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Programming Language Adoption"
-image: http://farm8.staticflickr.com/7047/6799056802_0256de3c9a_b.jpg
+image_url: http://farm8.staticflickr.com/7047/6799056802_0256de3c9a_b.jpg
 image_credit: simonini
 image_credit_url: http://www.flickr.com/photos/simonini/
 tags: [programming, adoption]
 meta_description: The only programming languages that are adopted are those that are used by successful startups. Once successful, the companies pump money into the support of the technologies they use.
+category: post
 ---
 
 The way the development community adopts new programming languages is fascinating. I'm surprised more research hasn't been dedicated to the subject of language adoption. If you're a sociologist you should study this just like another [sociologist studied Dungeons & Dragons groups][4].

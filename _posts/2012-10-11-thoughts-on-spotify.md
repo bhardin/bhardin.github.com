@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Thoughts on Spotify"
-image: http://farm3.staticflickr.com/2801/4504547877_947cdb20ed_b.jpg
+image_url: http://farm3.staticflickr.com/2801/4504547877_947cdb20ed_b.jpg
 image_credit: Blixt
 image_credit_url: http://www.flickr.com/photos/mr-blixt/
 tags: [tech, product review]

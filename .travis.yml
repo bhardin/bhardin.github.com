@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - 2.1
-script: ./tasks/cibuild
+script: ./lib/cibuild
 
 env:
   global:

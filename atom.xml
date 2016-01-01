@@ -28,6 +28,3 @@ layout: null
  {% endfor %}
 
 </feed>
-
-
-

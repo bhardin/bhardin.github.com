@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Bandit Algorithms are Better than A/B Tests"
-image: http://farm9.staticflickr.com/8299/8002616418_21eb1e12d8_b.jpg
+image_url: http://farm9.staticflickr.com/8299/8002616418_21eb1e12d8_b.jpg
 image_credit: Cloudtail
 image_credit_url: http://www.flickr.com/photos/blacktigersdream/
 tags: [algorithms, experimenting, optimization]
+category: post
 meta_description: Bandit algorithms are a great alternative to traditional A/B testing. Quickly understand three of the major algorithms used for bandit testing.
 ---
 

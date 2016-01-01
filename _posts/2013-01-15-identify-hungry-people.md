@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Identify Hungry People"
-image: http://farm5.staticflickr.com/4079/4795407698_5e96acc8e9_b.jpg
+image_url: http://farm5.staticflickr.com/4079/4795407698_5e96acc8e9_b.jpg
 image_credit: mclcbooks
 image_credit_url: http://www.flickr.com/photos/39877441@N05/
 tags: [hiring, startups, growth]
 meta_description: In order to have your company excel. Invest in people who are worth investing in.
+category: post
 ---
 
 Your company needs people for growth. But, you don't want to hire just anyone. You want to hire the right people. You interview numerous people attempting to find the right candidates to help your company grow. Sometimes you hire the right people and sometimes you don't. Hopefully you identify your hiring or screening mistakes and can correct them. 

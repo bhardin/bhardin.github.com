@@ -1,8 +1,9 @@
 ---
+category: post
 layout: post
 title: "You're Alone. Enjoy It."
 tags: [presentation, infosec, slides]
-image: http://farm6.staticflickr.com/5226/5652405755_b01e6b7ba8_b.jpg
+image_url: http://farm6.staticflickr.com/5226/5652405755_b01e6b7ba8_b.jpg
 image_credit: elBidule
 ---
 

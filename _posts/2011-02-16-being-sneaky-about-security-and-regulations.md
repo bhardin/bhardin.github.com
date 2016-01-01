@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Being Sneaky About Security Regulations"
-image: http://farm4.staticflickr.com/3106/2716147621_3747e52b82_b.jpg
+image_url: http://farm4.staticflickr.com/3106/2716147621_3747e52b82_b.jpg
 image_credit: Henry Stern
 image_credit_url: http://www.flickr.com/photos/artisticrichmond/
 tags: [presentation, compliance, infosec, slides]

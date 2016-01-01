@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "A Dedicated Security Team"
-image: http://farm4.staticflickr.com/3004/2750626364_ca4c7861f6_b.jpg
+image_url: http://farm4.staticflickr.com/3004/2750626364_ca4c7861f6_b.jpg
 image_credit: Eole Wind
 image_credit_url: http://www.flickr.com/photos/eole/
 tags: [infosec, culture, large organizations, happiness, developers]

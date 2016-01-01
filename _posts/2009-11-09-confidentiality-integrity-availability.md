@@ -1,8 +1,9 @@
 ---
+category: post
 layout: post
 title: Confidentiality, Integrity, and Availability
 tags: [security basics, infosec, confidentiality, integrity, availability]
-image: http://farm4.staticflickr.com/3226/2695044170_36e6006002_b.jpg
+image_url: http://farm4.staticflickr.com/3226/2695044170_36e6006002_b.jpg
 image_credit: Matt Blaze
 image_credit_url: http://www.flickr.com/photos/mattblaze/
 ---

@@ -1,18 +1,40 @@
 ---
-layout: default
+layout: base
 ---
 
-<div class="container">
-  <div class="main-content">
-    <div class="posts">
-      <ul>
-        {% for post in site.posts %}
-        <li>
-          <span class="date">{{ post.date | date:"%B %d, %Y" }}</span>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
+<div class="main-page">
+  {% include site-header.html
+             title='Brett Hardin'
+             subtitle='Constant Learner' %}
+
+  <div class="container">
+    <div class="card-deck section-index">
+      <div class="card">
+        <div class="card-block">
+          <a href="/blog">
+            <i class="fa fa-pencil-square-o fa-3x"></i>
+            <h4 class="card-title">Writing</h4>
+          </a>
+        </div>
+      </div>
+      <div class="card">
+        <a href="/reviews">
+          <div class="card-block">
+            <i class="fa fa-th-list fa-3x"></i>
+            <h4 class="card-title">Reviews</h4>
+          </div>
+        </a>
+      </div>
+      <!-- <div class="card">
+        <div class="card-block">
+          <a href="/projects">
+            <i class="fa fa-flask fa-3x"></i>
+            <h4 class="card-title">Projects</h4>
+          </a>
+        </div>
+      </div> -->
     </div>
   </div>
+
+  {% include footer.html %}
 </div>

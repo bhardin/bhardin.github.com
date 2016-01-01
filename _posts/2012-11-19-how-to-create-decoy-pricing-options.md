@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "How To Create Decoy Pricing Options"
-image: http://farm4.staticflickr.com/3558/3488126946_bbc617f4c1_b.jpg
+image_url: http://farm4.staticflickr.com/3558/3488126946_bbc617f4c1_b.jpg
 image_credit: Dr.DeNo
 image_credit_url: http://www.flickr.com/photos/denatale/
 tags: [marketing, sales, pricing, psychology, cognitive bias]

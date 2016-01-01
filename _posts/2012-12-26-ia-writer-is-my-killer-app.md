@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "iA Writer Is My Killer App"
-image: http://farm4.staticflickr.com/3455/3242023336_4e32f5c751_b.jpg
+image_url: http://farm4.staticflickr.com/3455/3242023336_4e32f5c751_b.jpg
 image_credit: JD Hancock
 image_credit_url: http://www.flickr.com/photos/jdhancock/
 tags: [writing, blogging, product review, tech]

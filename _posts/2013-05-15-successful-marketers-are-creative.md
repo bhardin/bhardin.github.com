@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Successful Marketers are Creative"
-image: http://farm2.staticflickr.com/1179/5123008967_039b27b061_b.jpg
+image_url: http://farm2.staticflickr.com/1179/5123008967_039b27b061_b.jpg
 image_credit: WanderingtheWorld (www.LostManProject.com)
 image_credit_url: http://www.flickr.com/photos/chrisschoenbohm/
 tags: [marketing, advertisements]
+category: post
 meta_description: Being creative is the key to being successful at anything. If you are in marketing, you have to be 10 times more creative than normal career paths.
 ---
 

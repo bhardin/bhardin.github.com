@@ -1,0 +1,41 @@
+---
+layout: page
+index-title: Brett Hardin
+index-subtitle: Writings On Things I Learn
+---
+
+<!-- This loops through the paginated posts -->
+<div class="card-columns">
+  {% for post in paginator.posts %}
+    {% if post.layout == 'post' %}
+      {% include cards/post-card.html %}
+    {% elsif post.category == 'reviews' %}
+      {% include cards/review-card.html %}
+    {% else %}
+      {% include cards/generic-card.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Pagination links -->
+<nav>
+  <ul class="pager">
+    {% if paginator.previous_page %}
+      <li class="pager-prev">
+        <a href="{{ paginator.previous_page_path }}">
+          <i class="fa fa-arrow-circle-left"></i> Newer
+        </a>
+      </li>
+    {% endif %}
+
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+    {% if paginator.next_page %}
+      <li class="pager-next">
+        <a href="{{ paginator.next_page_path }}">
+          Older <i class="fa fa-arrow-circle-right"></i>
+        </a>
+      </li>
+    {% endif %}
+  </ul>
+</nav>

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Examples of Liquidation Preferences"
-image: http://farm3.staticflickr.com/2100/2516437322_c1f34ef31d_b.jpg
+image_url: http://farm3.staticflickr.com/2100/2516437322_c1f34ef31d_b.jpg
 image_credit: Mike Bitzenhofer
 image_credit_url: http://www.flickr.com/photos/bitzcelt/
 tags: [startups, financing]

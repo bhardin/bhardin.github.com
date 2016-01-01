@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Learn By Doing It"
-image: http://farm4.staticflickr.com/3042/3058182308_c0d72d4c55_b.jpg
+image_url: http://farm4.staticflickr.com/3042/3058182308_c0d72d4c55_b.jpg
 image_credit: woodleywonderworks
-category: 
+category: post
 tags: [learning, education, experience]
 meta_description: The best way to learn anything is by taking a leap of faith and begin doing it. You'll make mistakes, but will learn in the process.
 ---

@@ -1,0 +1,17 @@
+<h5>
+  <i class="fa {{include.icon}}"></i>
+  {% if include.website %}
+    <a href="{{include.website}}">{{include.name}}</a>
+  {% else %}
+    {{include.name}}
+  {% endif %}
+</h5>
+
+{% if include.quote %}
+<blockquote class="blockquote blockquote-reverse">
+  <p class="m-b-0">{{include.quote}}</p>
+  {% if include.quote-author %}
+  <footer class="blockquote-footer">{{include.quote-author}}</footer>
+  {% endif %}
+</blockquote>
+{% endif %}

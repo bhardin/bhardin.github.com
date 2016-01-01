@@ -3,9 +3,10 @@ layout: post
 title: Malicious File Execution
 series: the Owasp Top 10
 tags: [vulnerabilities, owasp]
-image: http://farm9.staticflickr.com/8309/8034655438_63765a6872_b.jpg
+image_url: http://farm9.staticflickr.com/8309/8034655438_63765a6872_b.jpg
 image_credit: drakegoodman
 image_credit_url: http://www.flickr.com/photos/drakegoodman/
+category: post
 ---
 {% include series.html %}
 

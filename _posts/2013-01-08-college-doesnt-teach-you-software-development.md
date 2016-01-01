@@ -1,7 +1,8 @@
 ---
 layout: post
+category: post
 title: "College Doesn't Teach You Software Development"
-image: http://farm9.staticflickr.com/8053/8348989885_e6ed96e478_b.jpg
+image_url: http://farm9.staticflickr.com/8053/8348989885_e6ed96e478_b.jpg
 image_credit: Johan Larsson
 image_credit_url: http://www.flickr.com/photos/johanl/
 tags: [college, university, learning, programming]

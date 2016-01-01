@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Rentership and Usership"
-image: http://farm5.staticflickr.com/4076/4871675547_f4d47aa77e_b.jpg
+image_url: http://farm5.staticflickr.com/4076/4871675547_f4d47aa77e_b.jpg
 image_credit: Gwenael Piaser
 image_credit_url: http://www.flickr.com/photos/piaser/
 tags: [renting, owning]
 meta_description: The concept of ownership is being challenged. Startups are challenging the idea of car ownership.
+category: post
 ---
 
 I have a huge collection of board games. No, not like Monopoly. If you have ever played [Settlers of Catan][1], you know the type of boardgames I own and like to play. Strategy games. Games that reduce or completely remove luck elements, like dice rolls from the game.

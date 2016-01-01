@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Playing Board Games Is Like Watching Sports"
-image: http://farm6.staticflickr.com/5075/7233031304_7237232f98_b.jpg
+image_url: http://farm6.staticflickr.com/5075/7233031304_7237232f98_b.jpg
 image_credit: msaari
 image_credit_url: http://www.flickr.com/photos/mikkosaari/
 tags: [hobbies, boardgames]
+category: post
 meta_description: If you don't like watching sports, board games can connect you to people the same way that sports do.
 ---
 

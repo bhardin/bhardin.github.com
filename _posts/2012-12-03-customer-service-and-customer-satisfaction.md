@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Customer Service and Customer Satisfaction"
-image: http://farm4.staticflickr.com/3626/3300167112_d15ed85be5_b.jpg
+image_url: http://farm4.staticflickr.com/3626/3300167112_d15ed85be5_b.jpg
 image_credit: benessere
-category: 
+category: post
 tags: [customer service, large organizations, virality]
 meta_description: A companies customer service travels virally, is long remembered, and not easily forgotten.
 ---

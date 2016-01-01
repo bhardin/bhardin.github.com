@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Upgrading Ruby 1.8.6 to 1.8.7"
-image: http://farm4.staticflickr.com/3352/3526698689_1ed4764119_b.jpg
+image_url: http://farm4.staticflickr.com/3352/3526698689_1ed4764119_b.jpg
 image_credit: Bossi
 image_credit_url: http://www.flickr.com/photos/thisisbossi/
 tags: [Ruby, Programming]
 meta_description: Steps to check when upgrading from Ruby 1.8.6 to Ruby 1.8.7
+category: post
 ---
 
 Although this post is a little over due I thought it could potentially help other people attempting to do the update. I wanted a guide which could help people do the update and understand what needs to go into doing it.

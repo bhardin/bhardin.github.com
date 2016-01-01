@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Security and Developer Passion Dilema"
-image: http://farm3.staticflickr.com/2192/2058198168_fac0e21ee1_b.jpg
+image_url: http://farm3.staticflickr.com/2192/2058198168_fac0e21ee1_b.jpg
 image_credit: Orangeya
-category: 
+category: post
 tags: [infosec, developers]
 meta_description: Developing and security seem to be opposing forces. Developers will never develop securly. But, if that's true, why do we continue to try?
 ---

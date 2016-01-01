@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Automatically Clear Your Downloads Directory"
-image: 
+image_url:
 image_credit: 
 image_credit_url: 
 tags: [programming, automation]
 meta_description: 
+category: post
 ---
 
 I download a lot of stuff. But I rarely go in and clean up my Downloads folder. I wanted an automated solution for cleaning it up and one where it enforced me to move files out of the directory if I cared about them.

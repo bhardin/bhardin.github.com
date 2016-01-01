@@ -1,0 +1,7 @@
+{% include adventure/_base
+    icon="fa-cutlery"
+    name=include.name
+    website=include.website
+    quote=include.quote
+    quote-author=include.quote-author
+%}

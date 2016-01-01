@@ -1,7 +1,8 @@
 ---
 layout: post
+category: post
 title: "Falling In Love With Computers"
-image: http://farm5.staticflickr.com/4140/4906802490_0997fabd5c_b.jpg
+image_url: http://farm5.staticflickr.com/4140/4906802490_0997fabd5c_b.jpg
 image_credit: kenfagerdotcom
 tags: [tech, computers, story, kids, programming]
 meta_description: All of us remember the first time we loved something. This is how I fell in love with computers and technology.

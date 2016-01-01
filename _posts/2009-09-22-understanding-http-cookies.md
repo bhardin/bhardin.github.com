@@ -3,9 +3,9 @@ layout: post
 title: Understanding Cookies
 tags: [security basics]
 status: publish
-image: http://farm4.staticflickr.com/3325/4555506269_5515869189_b.jpg
+image_url: http://farm4.staticflickr.com/3325/4555506269_5515869189_b.jpg
 image_credit: nettsu
-type: post
+category: post
 published: true
 meta:
   _edit_last: '1'

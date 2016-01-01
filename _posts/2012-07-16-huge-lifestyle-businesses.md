@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Huge Lifestyle Businesses"
-image: http://farm3.staticflickr.com/2692/4397282137_b757e1c743_b.jpg
+image_url: http://farm3.staticflickr.com/2692/4397282137_b757e1c743_b.jpg
 image_credit: marcp_dmoz
-category: 
+category: post
 tags: [startups]
 meta_description: Lifestyle businesses can be huge and don't need to be venture backed.
 ---

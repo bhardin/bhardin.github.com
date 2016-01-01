@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Be Determined and Focused"
-image: http://farm2.staticflickr.com/1408/867883420_772d65a85d_b.jpg
+image_url: http://farm2.staticflickr.com/1408/867883420_772d65a85d_b.jpg
 image_credit: Ray Lopez
 image_credit_url: http://www.flickr.com/photos/raylopez/
 tags: [story, focus]

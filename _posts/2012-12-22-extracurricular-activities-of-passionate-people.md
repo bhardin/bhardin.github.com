@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Extracurricular Activities of Passionate People"
-image: http://farm5.staticflickr.com/4050/4512779257_260aeb5b3b_b.jpg
+image_url: http://farm5.staticflickr.com/4050/4512779257_260aeb5b3b_b.jpg
 image_credit: PhotoBen27
 tags: [developers, passion, differentiate, off-time]
 meta_description: Successful people seem to do many things in their offtime. Is this the sign of someone who is truly passionate about things?

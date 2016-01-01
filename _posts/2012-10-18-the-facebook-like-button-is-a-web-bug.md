@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Facebook Like Button is a Web Bug"
-image: http://farm5.staticflickr.com/4110/4982662859_5b5726c9ca_b.jpg
+image_url: http://farm5.staticflickr.com/4110/4982662859_5b5726c9ca_b.jpg
 image_credit: Bethan
-category: 
+category: post
 tags: [facebook, infosec, bugs]
 meta_description: The like button tracks you across all sites as long as you're logged in to facebook.
 ---

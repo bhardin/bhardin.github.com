@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Open Source Attribution"
-image: http://farm4.staticflickr.com/3139/3020250442_242bc1ac67_b.jpg
+image_url: http://farm4.staticflickr.com/3139/3020250442_242bc1ac67_b.jpg
 image_credit: Pink Sherbet Photography
-category: 
+category: post
 tags: [open source, tech]
 meta_description: Attribution of open source software is often not done. If you are benefiting from the software, the least you can do is give back.
 ---

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Negotiate a Better Startup Equity Package"
-image: http://farm6.staticflickr.com/5218/5462029827_308376fb12_b.jpg
+image_url: http://farm6.staticflickr.com/5218/5462029827_308376fb12_b.jpg
 image_credit: Stefan
 tags: [negotiating, startups, equity, financing]
 meta_description: Stock and equity packages at startups are interesting and can be negotiated.

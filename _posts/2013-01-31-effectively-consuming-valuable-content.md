@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Effectively Consuming Valuable Content"
-image: http://farm9.staticflickr.com/8466/8086793181_5b5acb2359_b.jpg
+image_url: http://farm9.staticflickr.com/8466/8086793181_5b5acb2359_b.jpg
 image_credit: Lotus Carroll
 image_credit_url: http://www.flickr.com/photos/thelotuscarroll/
 tags: [learning, consumption, reading]
 meta_description: A method for staying informed to information you care about.
+category: post
 ---
 
 Consuming information in a repeatable and sustainable way is hard. I've used different systems for consuming information and each system failed. I was too concerned I would miss something important.

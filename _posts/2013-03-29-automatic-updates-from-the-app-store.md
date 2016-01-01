@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Automatic Updates from the App Store"
-image: http://farm4.staticflickr.com/3103/2909483129_fc38488202_b.jpg
+image_url: http://farm4.staticflickr.com/3103/2909483129_fc38488202_b.jpg
 image_credit: Cristiano Betta
 image_credit_url: http://www.flickr.com/photos/cristiano_betta/
 tags: [infosec, tech, apple]
 meta_description: The AppStore should automatically update downloaded applications without user interaction.
+category: post
 ---
 
 __Edit:__ _iOS7 Now does this._

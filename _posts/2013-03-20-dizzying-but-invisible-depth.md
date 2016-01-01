@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Dizzying But Invisible Depth"
-image: http://farm6.staticflickr.com/5228/5562467995_2828e7312e_b.jpg
+image_url: http://farm6.staticflickr.com/5228/5562467995_2828e7312e_b.jpg
 image_credit: Michael Connell
 image_credit_url: http://www.flickr.com/photos/mdconnell/
 tags: [repost, software, complexity]
 meta_description: 
+category: post
 ---
 
 <hr/>

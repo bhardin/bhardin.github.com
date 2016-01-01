@@ -1,7 +1,8 @@
 ---
 layout: post
+category: post
 title: "The PCI ASV Process Sucks"
-image: http://farm3.staticflickr.com/2268/3537904106_57fe05b12b_b.jpg
+image_url: http://farm3.staticflickr.com/2268/3537904106_57fe05b12b_b.jpg
 image_credit: Bryan Rosengrant
 image_credit_url: http://www.flickr.com/photos/rosengrant/
 tags: [pci, compliance, testing, infosec]

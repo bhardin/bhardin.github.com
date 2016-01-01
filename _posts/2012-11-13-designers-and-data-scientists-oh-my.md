@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Designers and Data Scientists. Oh My!"
-image: http://farm8.staticflickr.com/7075/6853520906_ed05645cd1_b.jpg
+image_url: http://farm8.staticflickr.com/7075/6853520906_ed05645cd1_b.jpg
 image_credit: Brett Kiger
 image_credit_url: http://www.flickr.com/photos/brettkiger/
 tags: [startups, design, buzzwords, tech]

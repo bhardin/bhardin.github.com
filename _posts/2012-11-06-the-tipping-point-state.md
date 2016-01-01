@@ -1,7 +1,9 @@
 ---
+category: post
+
 layout: post
 title: "The Tipping Point State"
-image: http://farm1.staticflickr.com/32/50088733_58935531ce_b.jpg
+image_url: http://farm1.staticflickr.com/32/50088733_58935531ce_b.jpg
 image_credit: Super Fantastic
 image_credit_url: http://www.flickr.com/photos/superfantastic/
 tags: [data mining, polling]

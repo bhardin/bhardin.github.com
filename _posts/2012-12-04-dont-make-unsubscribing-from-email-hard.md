@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Don't Make Unsubscribing From Email Hard"
-image: http://farm2.staticflickr.com/1185/836326012_db3baba9cd_b.jpg
+image_url: http://farm2.staticflickr.com/1185/836326012_db3baba9cd_b.jpg
 image_credit: Andy Castro
 image_credit_url: http://www.flickr.com/photos/andycastro/
 tags: [email, subscriptions, product experience]

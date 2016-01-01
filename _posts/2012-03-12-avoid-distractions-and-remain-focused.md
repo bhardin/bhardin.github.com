@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Avoid Distractions and Remain Focused"
-image: http://farm2.staticflickr.com/1275/652332630_68f65d8442_b.jpg
+image_url: http://farm2.staticflickr.com/1275/652332630_68f65d8442_b.jpg
 image_credit: photographer padawan *(xava du)
 tags: [startups, advice]
 meta_description: In order to build something amazing you need to remain focused on builidng that thing. Let nothing else distract you.

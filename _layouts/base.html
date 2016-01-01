@@ -1,0 +1,59 @@
+<html>
+  <head>
+    {% if page.title %}
+      <title>{{page.title | capitalize}} - {{ site.title }}</title>
+    {% else %}
+      <title>{{ site.title }}</title>
+    {% endif %}
+
+    {% if site.safe == true %}
+      <!-- Kissmetrics -->
+      <script type="text/javascript">
+      var _kmq = _kmq || [];
+      var _kmk = _kmk || 'dafa35b17bc5d6e0d179240ca4153189e23e9319';
+
+      function _kms(u) {
+        setTimeout(function() {
+          var d = document,
+            f = d.getElementsByTagName('script')[0],
+            s = d.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = u;
+          f.parentNode.insertBefore(s, f);
+        }, 1);
+      }
+      _kms('//i.kissmetrics.com/i.js');
+      _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
+      </script>
+
+      <!-- Google -->
+      <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-28805964-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+      })();
+      </script>
+    {% endif %}
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png">
+
+    <!-- so mobile devices will render correctly. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/site.css">
+    <link rel="stylesheet" href="/assets/css/syntax.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  </head>
+
+  {{content}}
+</html>

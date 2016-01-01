@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Building and Growing a Meetup Group"
-image: http://farm9.staticflickr.com/8154/6954844640_ca64cde57d_b.jpg
+image_url: http://farm9.staticflickr.com/8154/6954844640_ca64cde57d_b.jpg
 image_credit: Thomas Hawk
-category: 
+category: post
 tags: [meetup, community, building, growth]
 meta_description: Grow a meetup group from zero people to 500 people per month using these simple steps.
 ---

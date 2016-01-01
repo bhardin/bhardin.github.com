@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Use The Defaults"
-image:
+image_url:
 image_credit:
 image_credit_url:
 tags: []
 meta_description:
+category: post
 ---
 
 When I was 13-years old I competed in the Blockbuster video game championships.

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Market Size"
-image: http://farm1.staticflickr.com/53/155918164_cb8dd42438_b.jpg
+image_url: http://farm1.staticflickr.com/53/155918164_cb8dd42438_b.jpg
 image_credit: Thomas Hawk
 image_credit_url: http://www.flickr.com/photos/thomashawk
 series: business plans

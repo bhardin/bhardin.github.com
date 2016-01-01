@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Your Code Smells"
-image: http://farm1.staticflickr.com/32/39894557_c6f20a7444_b.jpg
+image_url: http://farm1.staticflickr.com/32/39894557_c6f20a7444_b.jpg
 image_credit: Bill Keaggy
 image_credit_url: http://www.flickr.com/photos/bk/
 tags: [programming]
+category: post
 ---
 
 Your code stinks.

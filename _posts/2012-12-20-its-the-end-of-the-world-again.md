@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "It's the End of the World, Again"
-image: http://farm9.staticflickr.com/8308/7936244500_78ffd961d8_b.jpg
+image_url: http://farm9.staticflickr.com/8308/7936244500_78ffd961d8_b.jpg
 image_credit: International Campaign to Abolish Nuclear Weapons
-category: 
+category: post
 tags: [marketing, public relations, press]
 meta_description: THE END OF THE WORLD HAS COME AND GONE!
 ---

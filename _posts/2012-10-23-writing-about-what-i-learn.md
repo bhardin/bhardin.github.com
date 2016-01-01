@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Writing About What I Learn"
-image: http://farm9.staticflickr.com/8161/7848802162_19cf82a13f_b.jpg
+image_url: http://farm9.staticflickr.com/8161/7848802162_19cf82a13f_b.jpg
 image_credit: msabba
-category:
+category: post
 tags: [blogging, life, writing, learning]
 meta_description: Why I write about everything I learn.
 ---

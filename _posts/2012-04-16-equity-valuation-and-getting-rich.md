@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Equity, Valuation, and Getting Rich"
-image: http://farm3.staticflickr.com/2487/3838460593_8a4a9c4b81_b.jpg
+image_url: http://farm3.staticflickr.com/2487/3838460593_8a4a9c4b81_b.jpg
 image_credit: Stuck in Customs
-category: 
+category: post
 tags: [financing, startups]
 ---
 

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Purposely Delaying Features"
-image: http://farm7.staticflickr.com/6142/5929997080_8c30da713f_b.jpg
+image_url: http://farm7.staticflickr.com/6142/5929997080_8c30da713f_b.jpg
 image_credit: Mr. T in DC
 image_credit_url: http://www.flickr.com/photos/mr_t_in_dc
 tags: [startups, product management]

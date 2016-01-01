@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How to Present Without Sounding Like a Vendor"
-image: http://farm4.staticflickr.com/3354/3188003733_a294ca421e_b.jpg
+image_url: http://farm4.staticflickr.com/3354/3188003733_a294ca421e_b.jpg
 image_credit: Johan.V.
-category: 
+category: post
 tags: [sales, presenting, marketing]
 meta_description: Giving a presentation at a technical conference is already challenging, but, how do you make the audience to understand your product without sounding like you're selling it to them.
 ---

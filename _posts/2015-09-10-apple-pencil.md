@@ -2,6 +2,7 @@
 layout: post
 title: Why Apple Pencil Needs to Exist
 tags: [technology, apple]
+category: post
 ---
 
 Yesterday, Apple anounced it's fall linuep. All items except two were revisions of previously released technology. The new technology released was the iPad Pro and the Apple Pencil. The Apple Pencil has created a small uproar.

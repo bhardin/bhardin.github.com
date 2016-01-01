@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Sometimes You Can't Design Simply"
-image: http://farm6.staticflickr.com/5219/5387411397_c4f6bb810a_b.jpg
+image_url: http://farm6.staticflickr.com/5219/5387411397_c4f6bb810a_b.jpg
 image_credit: Vincenzo Spina
 image_credit_url: http://www.flickr.com/photos/vincenzo_spina_84/
 tags: [design, apple]
 meta_description: 
+category: post
 ---
 
 The iPhone and iPad are used as case examples for great interface design. Jonathan Ives, the designer for Apple devices, took a page from Dieter Rams, the designer for Braun, and focused on simplicity of design.

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Penetration Testing as a First Step"
-image: http://farm4.staticflickr.com/3551/3319711807_6a9594ff7a_b.jpg
+image_url: http://farm4.staticflickr.com/3551/3319711807_6a9594ff7a_b.jpg
 image_credit: ArtBrom
 tags: [infosec, security basics, penetration test]
 meta_description: Don't use penetration testing as the first step to security your assets.

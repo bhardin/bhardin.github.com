@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Tests 'Should Not Begin With Should'"
-image: http://farm1.staticflickr.com/136/318034222_9bb1321722_b.jpg
+image_url: http://farm1.staticflickr.com/136/318034222_9bb1321722_b.jpg
 image_credit: WorldIslandInfo.com
 image_credit_url: http://www.flickr.com/photos/76074333@N00/
 tags: [programming, development, unit tests]
 meta_description: Stop using the word should to start your unit tests.Use a descriptive verb instead.
+category: post
 ---
 
 Every time I contribute to open source software, the first task to complete is reading the unit tests. I love code testing and [advocate unit testing][2]. Reading unit tests help you wrap your mind around how a program works and gets the program into your head.

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Jekyll is Awesome!"
-image: http://farm5.staticflickr.com/4097/4870888831_b9c580feae_b.jpg
+image_url: http://farm5.staticflickr.com/4097/4870888831_b9c580feae_b.jpg
 image_credit: joshjanssen
 tags: [tech, jekyll]
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
+category: post
 title: "Traditional Education Is Changing"
-image: http://farm8.staticflickr.com/7204/6966883093_5fa64ed49e_b.jpg
+image_url: http://farm8.staticflickr.com/7204/6966883093_5fa64ed49e_b.jpg
 image_credit: Johan Larsson
 image_credit_url: http://www.flickr.com/photos/johanl/
 tags: [education, learning, change]
