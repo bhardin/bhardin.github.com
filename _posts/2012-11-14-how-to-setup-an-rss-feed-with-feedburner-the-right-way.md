@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "How To Setup an RSS Feed with Feedburner The Right Way"
-image: http://farm4.staticflickr.com/3202/2459534903_fb552595e8_b.jpg
+image_url: http://farm4.staticflickr.com/3202/2459534903_fb552595e8_b.jpg
 image_credit: Martin Fisch
 image_credit_url: http://www.flickr.com/photos/marfis75/
 tags: [tech, blogging]

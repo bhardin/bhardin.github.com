@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Don't Give Developers Access to The Operating System"
-image: http://farm6.staticflickr.com/5291/5550705287_751ab30767_b.jpg
+image_url: http://farm6.staticflickr.com/5291/5550705287_751ab30767_b.jpg
 image_credit: Kaptain Kobold
 image_credit_url: http://www.flickr.com/photos/kaptainkobold/
 tags: [infosec, developers, security controls]

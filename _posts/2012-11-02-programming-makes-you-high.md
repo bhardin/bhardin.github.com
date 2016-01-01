@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Programming Makes You High"
-image: http://farm6.staticflickr.com/5442/7154931798_ee742379ec_b.jpg
+image_url: http://farm6.staticflickr.com/5442/7154931798_ee742379ec_b.jpg
 image_credit: miggslives
-category: 
+category: post
 tags: [programming, purpose, open source]
 meta_description: Developers code on projects for many reasons. Here are a bunch of reasons why they continue to do it.
 ---

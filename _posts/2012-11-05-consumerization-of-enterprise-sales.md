@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Consumerization of Enterprise Sales"
-image: http://farm8.staticflickr.com/7026/6829515241_2742fd1881_b.jpg
+image_url: http://farm8.staticflickr.com/7026/6829515241_2742fd1881_b.jpg
 image_credit: Victor1558
-category: 
+category: post
 tags: [sales, marketing, b2b, enterprise]
 meta_description: Startups can benefit from the Consumerization of Enterprise Sales but not always.
 ---

@@ -1,9 +1,0 @@
-<div class="recent_posts">
-	<ul class="thumbnails">
-		{% for post in site.posts limit:3 %}
-		  <li>
-		    <a href="{{ post.url }}" onclick="_gaq.push(['_trackEvent', 'recent post', 'Clicked {{ post.title }}', 'From {{ page.title }}']);" class="thumbnail">{{ post.title }}</a>
-		  </li>
-  	{% endfor %}
-	</ul>
-</div>

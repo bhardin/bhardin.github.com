@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Struggle of Lego"
-image: http://farm4.staticflickr.com/3268/2657428339_41cdd281f7_b.jpg
+image_url: http://farm4.staticflickr.com/3268/2657428339_41cdd281f7_b.jpg
 image_credit: hey mr glen 
-category: 
+category: post
 tags: [startups, struggle, challenges]
 meta_description: The story of how Lego came to be an iconic company is an incredible journey filled with hardship and persevereience. 
 ---

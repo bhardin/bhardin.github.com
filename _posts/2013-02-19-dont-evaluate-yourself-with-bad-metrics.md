@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Don't Evaluate Yourself With Bad Metrics"
-image: http://farm9.staticflickr.com/8210/8244626609_0f7f84ed13_b.jpg
+image_url: http://farm9.staticflickr.com/8210/8244626609_0f7f84ed13_b.jpg
 image_credit: North Carolina Digital Heritage Center
 image_credit_url: http://www.flickr.com/photos/digitalnc/
 tags: [evaluation, KPI, metrics]
 meta_description: Choose Key Performance Indicators that reflect changing the bottom line and you will prosper.
+category: post
 ---
 
 > Measure twice, cut once.

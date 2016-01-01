@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Startup Lessons Learned From an Auction"
-image: http://farm8.staticflickr.com/7188/7048023447_97a1d3104a_b.jpg
+image_url: http://farm8.staticflickr.com/7188/7048023447_97a1d3104a_b.jpg
 image_credit: USFWS Mountain Prairie
 image_credit_url: http://www.flickr.com/photos/usfwsmtnprairie/
 tags: [boardgames, startups, growth hacking, market demand]
 meta_description: Computer Science constantly borrow ideas from the real world. Cross-field pollination is beneficial to discovering new ideas in your space.
+category: post
 ---
 
 This past weekend was Endgame's annual auction. Endgame - a board game store in Oakland, California - has an Auction once a year, that is an anticipated event for bay area gamers. They can get rid of the games they don't play while acquiring new items which they want to play.

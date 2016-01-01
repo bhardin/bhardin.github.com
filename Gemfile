@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'github-pages'
-gem 'bourbon'
-gem 'neat'
-gem 'bitters'
-gem 'command_line_reporter', '>= 3.0'
-gem 'colored'
-gem 'html-proofer' # For testing all links and images exist.
+gem 'jekyll'
+gem 'goodreads'
+gem 'reverse_markdown'
+gem 'rdiscount'
+gem 'jekyll-paginate'
+gem 'rspec'
+gem 'html-proofer'

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Jekyll and SEO Optimization"
-image: http://farm1.staticflickr.com/12/17135231_30c542a363_b.jpg
+image_url: http://farm1.staticflickr.com/12/17135231_30c542a363_b.jpg
 image_credit: Paula Bailey
 image_credit_url: http://www.flickr.com/photos/auntiep
 tags: [blogging, tech, SEO]

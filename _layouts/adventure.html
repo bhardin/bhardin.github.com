@@ -1,0 +1,91 @@
+---
+layout: base
+---
+
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600|Open+Sans+Condensed:700|Alfa+Slab+One|Passion+One:700">
+
+<header class="adventure--header">
+  <h1 style="font-family: {{page.adventure-font}}; color: {{page.adventure-color}}; stroke: 4px rgba(0, 52, 0, 1);">
+    {{ page.title | upcase }}
+  </h1>
+  <div class="container dates">
+    <p>{{page.dates}}</p>
+  </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      {{content}}
+    </div>
+
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-header">
+          <h3><i class="fa fa-plane"></i> Flight</h3>
+          <h5 class="text-muted">Virgin</h5>
+        </div>
+
+        {% for flight in page.flight %}
+          <div class="card-block">
+          {% for link in flight %}
+            {% if link[0] == 'leaving' %}
+              <h4>{{link[1].from}} <i class="fa fa-arrow-right"></i> {{link[1].to}}</h4>
+              <h5>{{link[1].at}}</h5>
+              <h6 class="text-muted">{{link[1].travel}}</h6>
+            {% elsif link[0] == 'returning' %}
+              <h4>{{link[1].from}} <i class="fa fa-arrow-right"></i> {{link[1].to}}</h4>
+              <h5>{{link[1].at}}</h5>
+              <h6 class="text-muted">{{link[1].travel}}</h6>
+            {% endif %}
+          {% endfor %}
+          </div>
+        {% endfor %}
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <h3><i class="fa fa-car"></i> Rental Car</h3>
+          <h5 class="text-muted">Budget</h5>
+        </div>
+        <div class="card-block">
+          <h6>Pickup</h6>
+          <p class="card-text">March 12 at 3:30 PM</p>
+          <h6>Dropoff</h6>
+          <p class="card-text">March 19 at 10:00 AM</p>
+        </div>
+        <div class="card-block">
+          <address>
+            <strong>Portland International Airport</strong>
+            <br> 10947 Northeast Holman Street
+            <br> San Francisco, CA 94103
+            <br>
+            <i class="fa fa-phone-square"></i> 503-249-6331
+          </address>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <h3><i class="fa fa-bed"></i> Hotel</h3>
+          <h5><a href="http://www.acehotel.com/portland">Ace Hotel</a></h5>
+        </div>
+        <div class="card-block">
+        <h6>Checkin</h6>
+          <p class="card-text">March 12</p>
+          <h6>Confirmation</h6>
+          <p class="card-text">PDX-F81904</p>
+        </div>
+        <div class="card-block">
+          <address>
+            1022 SW Stark St.<br/>
+            <i class="fa fa-phone-square"></i> 503-228-2277
+          </address>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{% include footer.html %}

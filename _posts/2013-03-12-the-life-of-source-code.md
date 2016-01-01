@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "The Life of Source Code"
-image: http://farm4.staticflickr.com/3259/3154123453_9ede626b49_b.jpg
+image_url: http://farm4.staticflickr.com/3259/3154123453_9ede626b49_b.jpg
 image_credit: John Carleton
 image_credit_url: http://www.flickr.com/photos/johncarleton/
 tags: [programming, code smell, developers]
 meta_description: Developers contribute different things to the code base depending on how old the code is.
+category: post
 ---
 
 Source code has an interesting life cycle. From inception to deprecation many people contribute to it's advancement. Some people's contributions improve it and other's don't. Sometimes all those hands hurt the code base. All the developers play a long term game to attempting to make the code base better. 

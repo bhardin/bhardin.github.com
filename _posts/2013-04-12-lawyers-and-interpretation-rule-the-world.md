@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Lawyers and Interpretation Rule the World"
-image: http://farm1.staticflickr.com/113/253512137_0de0e1a383_b.jpg
+image_url: http://farm1.staticflickr.com/113/253512137_0de0e1a383_b.jpg
 image_credit: Lord Khan
 image_credit_url: http://www.flickr.com/photos/lordkhan/
 tags: [law, creative commons, license]
 meta_description: Words are defined differently by different people. The only thing that matters is if something has been held up in court before.
+category: post
 ---
 
 I love using creative commons photography for all my posts. There is something nice about having a fun image associated with each post. 

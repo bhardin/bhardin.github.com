@@ -1,7 +1,8 @@
 ---
 layout: post
+category: post
 title: "Web and Mobile Revenue Models"
-image: http://farm3.staticflickr.com/2240/2210857064_f471474b40_b.jpg
+image_url: http://farm3.staticflickr.com/2240/2210857064_f471474b40_b.jpg
 image_credit: Shoreline
 tags: [revenue models, revenue, mobile, web, repost]
 meta_description: A list of all web and mobile revenue models that currently exist.

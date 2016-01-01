@@ -2,6 +2,7 @@
 layout: post
 title: Above All Else, Accomplish Tasks
 tags: [personality]
+category: post
 ---
 
 I have taken many [personality tests][personality types] in my life. I don't question their validity, but, when an employer asks me to take one, I become hesitant. It's a waste of time for an employer to give employees personality tests to better enable communication.

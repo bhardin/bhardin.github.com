@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "The Dunning Kruger Effect"
-image: http://farm5.staticflickr.com/4049/4666981294_bee5666a26_b.jpg
+image_url: http://farm5.staticflickr.com/4049/4666981294_bee5666a26_b.jpg
 image_credit: Ahmad Nawawi
 image_credit_url: http://www.flickr.com/photos/AhmadNawawi
 tags: [cognitive bias, psychology]
 meta_description: People over estimate how good they are at skills they aren't good at, while skilled people underestimate how good they are.
+category: post
 ---
 
 A common question to ask when interviewing is, "On a scale of one through ten how would you rate yourself at this?" The interviewer assumes the candidate's responds is an accurate evaluation of their skill set. If the interviewer assumes the number given is accurate then they are not aware the interviewee's response suffers from the Dunning-Kruger Effect.

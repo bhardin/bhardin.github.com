@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Jekyll Vs. WordPress: Blog Platform Comparison"
-image: http://farm4.staticflickr.com/3097/2808104358_4b5844e409_b.jpg
+image_url: http://farm4.staticflickr.com/3097/2808104358_4b5844e409_b.jpg
 image_credit: Profound Whatever
-category: 
+category: post
 tags: [tech, blogging, SEO]
 meta_description: A breakdown of the Pros and Cons of Jekyll and WordPress. Know which platform you should use.
 ---

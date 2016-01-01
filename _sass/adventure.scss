@@ -1,0 +1,30 @@
+.adventure-- {
+  &header {
+    h1 {
+      font-size: 10em;
+    }
+
+    .dates {
+      font-size: 1.2em;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      padding: 2px 9px;
+    }
+
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    background-color: #F3F3F3;
+    color: #000;
+  }
+
+  // &border {
+  //   border: 1px solid rgba(0, 0, 0, 0.15);
+  //   border-radius: 6px;
+  //   box-shadow: 0 0 1px 4px rgba(0, 0, 0, 0.04);
+  //   float: right;
+  //   margin-bottom: 40px;
+  //   width: 238px;
+  // }
+}

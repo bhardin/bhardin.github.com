@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Increasing Revenues Beyond Initial Sales"
-image: http://farm1.staticflickr.com/31/64027565_79b890c8c4_b.jpg
+image_url: http://farm1.staticflickr.com/31/64027565_79b890c8c4_b.jpg
 image_credit: splorp
-category: 
+category: post
 tags: [sales, revenue, startups, growth]
 meta_description: Once you have some initial sales these techniques can be used to get to the next step in your business.
 ---

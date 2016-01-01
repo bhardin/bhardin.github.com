@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Team Language Replication"
-image: http://farm3.staticflickr.com/2489/3768623542_474de8740b_b.jpg
+image_url: http://farm3.staticflickr.com/2489/3768623542_474de8740b_b.jpg
 image_credit: Don Solo
 image_credit_url: http://www.flickr.com/photos/donsolo/
 tags: [programming, team, programming language, architecture]
+category: post
 ---
 
 You've decided to build a new product with a group of people. The product is going to fit into your current portfolio nicely and will get you to the _next stage_ of your company.

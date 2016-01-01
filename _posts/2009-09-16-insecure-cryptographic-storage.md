@@ -1,8 +1,9 @@
 ---
+category: post
 layout: post
 title: Insecure Cryptographic Storage
 tags: [vulnerabilities, owasp, encryption, hashing]
-image: http://farm4.staticflickr.com/3274/2686824354_be3bc399cc_b.jpg
+image_url: http://farm4.staticflickr.com/3274/2686824354_be3bc399cc_b.jpg
 image_credit: Cory Doctorow
 image_credit_url: http://www.flickr.com/photos/doctorow/
 series: the Owasp Top 10

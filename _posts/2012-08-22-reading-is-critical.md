@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Reading is Critical"
-image: http://farm4.staticflickr.com/3341/3287986172_f7f153f5be_b.jpg
+image_url: http://farm4.staticflickr.com/3341/3287986172_f7f153f5be_b.jpg
 image_credit: osiatynska
-category:
+category: post
 tags: [reading]
 meta_description: Reading is the most important asset in your skillset. There is a direct correlation between how often you read and success in life.
 ---

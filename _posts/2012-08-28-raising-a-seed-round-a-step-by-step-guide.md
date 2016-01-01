@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Raising a Seed Round: A Step-by-Step Guide"
-image: http://farm4.staticflickr.com/3630/3460133097_74305fcefe_b.jpg
+image_url: http://farm4.staticflickr.com/3630/3460133097_74305fcefe_b.jpg
 image_credit: Frank
 image_credit_url: http://www.flickr.com/photos/west-park/
 tags: [startups, financing]

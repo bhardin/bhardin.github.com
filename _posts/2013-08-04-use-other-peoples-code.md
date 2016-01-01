@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Use Other People's Code"
-image: http://farm2.staticflickr.com/1263/5165260037_d29521f9e4_b.jpg
+image_url: http://farm2.staticflickr.com/1263/5165260037_d29521f9e4_b.jpg
 image_credit: Ben K. Adams
 image_credit_url: http://www.flickr.com/photos/schtumple/
 tags: [programming, open source]
+category: post
 meta_description: 
 ---
 

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Security the Wrong Way"
-image: http://farm1.staticflickr.com/142/319537908_e54740f22b_b.jpg
+image_url: http://farm1.staticflickr.com/142/319537908_e54740f22b_b.jpg
 image_credit: H2O Alchemist
 tags: [presentation, infosec, slides, infosec]
 meta_description: 

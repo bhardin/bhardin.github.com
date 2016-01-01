@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "AppSec 2012: Builder vs. Breaker"
-image: http://farm1.staticflickr.com/68/188217894_62b6108390_b.jpg
+image_url: http://farm1.staticflickr.com/68/188217894_62b6108390_b.jpg
 image_credit: Stefan
 tags: [presentation, slides, owasp]
 meta_description: Builder versus Breaker Presentation from AppSec 2012.

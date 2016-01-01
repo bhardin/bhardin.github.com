@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How I Use FourSquare"
-image: http://farm2.staticflickr.com/1168/4734788670_f3a9ee463b_b.jpg
+image_url: http://farm2.staticflickr.com/1168/4734788670_f3a9ee463b_b.jpg
 image_credit: Brian Wilkins
-category:
+category: post
 tags: [tech, product review]
 meta_description: Everyone should use foursquare. This is how I use it and how I find it effective.
 ---

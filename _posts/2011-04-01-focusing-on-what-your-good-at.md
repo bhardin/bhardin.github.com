@@ -1,8 +1,9 @@
 ---
+category: post
 layout: post
 title: Focusing On What Your Good At
 tags: [life, focus]
-image: http://farm9.staticflickr.com/8468/8123173150_681eab6c1d_b.jpg
+image_url: http://farm9.staticflickr.com/8468/8123173150_681eab6c1d_b.jpg
 image_credit: El Nando
 image_credit_url: http://www.flickr.com/photos/el_nando/
 ---

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "A Better Email Inbox"
-image: http://farm5.staticflickr.com/4123/4774087006_f73cd99ea1_b.jpg
+image_url: http://farm5.staticflickr.com/4123/4774087006_f73cd99ea1_b.jpg
 image_credit: net_efekt 
 tags: [email, lifestyle]
 meta_description: Your inbox has too many messages. The signal to noise ratio is high. Here is how you can improve it.

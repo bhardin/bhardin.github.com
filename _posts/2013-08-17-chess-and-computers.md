@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Chess and Computers"
-image: http://farm6.staticflickr.com/5186/5589190776_086598cfc3_b.jpg
+image_url: http://farm6.staticflickr.com/5186/5589190776_086598cfc3_b.jpg
 image_credit: John Morgan
 image_credit_url: http://www.flickr.com/photos/aidanmorgan/
 tags: [society, computers]
+category: post
 meta_description: Observations while watching a video with Peter Thiel and Garry Kasparov.
 ---
 

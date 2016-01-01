@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "I'm Cheap: Products I Pay For Have to Be Awesome"
-image: http://farm9.staticflickr.com/8430/7835907400_a602167689_b.jpg
+image_url: http://farm9.staticflickr.com/8430/7835907400_a602167689_b.jpg
 image_credit: Curtis Gregory Perry
-category: 
+category: post
 tags: [lifestyle, money]
 meta_description: An outline of products I pay and don't pay for that I couldn't live without.
 ---

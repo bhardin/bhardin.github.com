@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: Security? Who Cares!
-image: http://farm2.staticflickr.com/1119/5115509979_e74215b7e2_b.jpg
+image_url: http://farm2.staticflickr.com/1119/5115509979_e74215b7e2_b.jpg
 image_credit: R4vi
 tags: [presentation, infosec, slides]
 ---

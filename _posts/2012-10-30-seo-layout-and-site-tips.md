@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "SEO: Layout and Site Tips"
-image: http://farm5.staticflickr.com/4028/4711121074_c820ccca58_b.jpg
+image_url: http://farm5.staticflickr.com/4028/4711121074_c820ccca58_b.jpg
 image_credit: Double--M
-category: 
+category: post
 tags: [SEO, good enough, design]
 meta_description: Quick things that I have found about how to layout your site in order to be SEO efficient. 
 ---

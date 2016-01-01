@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Create a Site for Your Github Project"
-image: http://farm3.staticflickr.com/2758/4171756453_1ac4111ddd_b.jpg
+image_url: http://farm3.staticflickr.com/2758/4171756453_1ac4111ddd_b.jpg
 image_credit: Stefan
 image_credit_url: http://www.flickr.com/photos/st3f4n/
 tags: [github, open source, jekyll]
 meta_description: Github will host a static site for you for free. Here is a simple way to keep your site and project together in the same repo.
+category: post
 ---
 
 One of the best things Github offers is free hosting for static content. For instance, this blog is [completely hosted on github][2].

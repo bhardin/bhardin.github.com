@@ -1,12 +1,13 @@
 ---
+category: post
 layout: post
 title: Interrogating DNS Caches
-image: http://farm6.staticflickr.com/5126/5368873119_8e5c80068e_b.jpg
+image_url: http://farm6.staticflickr.com/5126/5368873119_8e5c80068e_b.jpg
 image_credit: Nick.Fisher 
 tags:
 - tools
 status: publish
-type: post
+category: post
 published: true
 meta:
   _edit_last: '1'

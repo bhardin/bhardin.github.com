@@ -1,7 +1,8 @@
 ---
 layout: post
+category: post
 title: "How to Secure Any Application"
-image: http://farm3.staticflickr.com/2562/3813295674_6eee1b32e5_b.jpg
+image_url: http://farm3.staticflickr.com/2562/3813295674_6eee1b32e5_b.jpg
 image_credit: Will Montague
 image_credit_url: http://www.flickr.com/photos/willmontague/
 tags: [vulnerabilities, security basics, infosec, programming]

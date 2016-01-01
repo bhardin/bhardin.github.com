@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "A Better Writing Process in 5 Steps"
-image: http://farm3.staticflickr.com/2306/1969185955_8add08fc7d_b.jpg
+image_url: http://farm3.staticflickr.com/2306/1969185955_8add08fc7d_b.jpg
 image_credit: Marco Arment
 image_credit_url: http://www.flickr.com/photos/marcoarment/
 tags: [writing, blogging, editing, rewriting]
 meta_description: 
+category: post
 ---
 
 > Writing is a way to end up thinking something you couldn't have started out thinking.

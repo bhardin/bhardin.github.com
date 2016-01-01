@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "A Minimum Viable Product"
-image: http://farm3.staticflickr.com/2693/4421884081_b33b9323f0_b.jpg
+image_url: http://farm3.staticflickr.com/2693/4421884081_b33b9323f0_b.jpg
 image_credit: Michael Connell
-category: 
+category: post
 tags: [startups]
 meta_description: A minimum viable product is a product created to collect the maximum amount of validated learning about customers with the least effort.
 ---

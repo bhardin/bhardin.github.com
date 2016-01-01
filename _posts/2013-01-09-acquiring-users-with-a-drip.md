@@ -1,7 +1,8 @@
 ---
 layout: post
+category: post
 title: "Acquiring Users With a Drip"
-image: http://farm1.staticflickr.com/28/50028504_214652a272_b.jpg
+image_url: http://farm1.staticflickr.com/28/50028504_214652a272_b.jpg
 image_credit: Jon Rawlinson
 image_credit_url: http://www.flickr.com/photos/london/
 tags: [user acquisition, marketing]

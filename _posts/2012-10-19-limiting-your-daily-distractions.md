@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Limiting Your Daily Distractions"
-image: http://farm3.staticflickr.com/2754/4334456172_f4d32f68f4_b.jpg
+image_url: http://farm3.staticflickr.com/2754/4334456172_f4d32f68f4_b.jpg
 image_credit: Brandon Christopher Warren
-category: 
+category: post
 tags: [focus, email, productivity]
 meta_description: Methods and hacks for limiting daily distractions which get in the way of being productive.
 ---

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "The Structure of an Investor Update"
-image: http://farm4.staticflickr.com/3752/8760559240_4e4dbd5692_b.jpg
+image_url: http://farm4.staticflickr.com/3752/8760559240_4e4dbd5692_b.jpg
 image_credit: Charlie Barker
 image_credit_url: http://www.flickr.com/photos/charlieeclark/
 tags: [investors, financing, startups]

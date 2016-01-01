@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Advice and Advisors"
-image: http://farm6.staticflickr.com/5175/5509554355_4244dbc0b0_b.jpg
+image_url: http://farm6.staticflickr.com/5175/5509554355_4244dbc0b0_b.jpg
 image_credit: Israel Defense Forces
 image_credit_url: http://www.flickr.com/photos/idfonline/
 tags: [startups, advice]

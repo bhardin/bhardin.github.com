@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Company Purpose"
-image: http://farm8.staticflickr.com/7210/6893444109_f85d723ed5_b.jpg
+image_url: http://farm8.staticflickr.com/7210/6893444109_f85d723ed5_b.jpg
 image_credit: Konabish
 series: business plans
 tags: [startups, investor deck, purpose, investors]

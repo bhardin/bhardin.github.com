@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Bug Bounty Programs"
-image: http://farm4.staticflickr.com/3515/3942045952_0cbebeede1_b.jpg
+image_url: http://farm4.staticflickr.com/3515/3942045952_0cbebeede1_b.jpg
 image_credit: Jillian Stewart
-category: 
+category: post
 tags: [vulnerabilities, infosec, bugs]
 meta_description: The purpose of bug bounty programs isn't to pay people. It's to grant legal immunity.
 ---

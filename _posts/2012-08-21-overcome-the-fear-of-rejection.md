@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Overcome The Fear of Rejection"
-image: http://farm4.staticflickr.com/3122/2768710527_6138a6795e_b.jpg
+image_url: http://farm4.staticflickr.com/3122/2768710527_6138a6795e_b.jpg
 image_credit: stepol
 tags: [repost]
 meta_description: Overcoming the fear of rejection is challenging for all of us. There are many lessons to be learned from children.

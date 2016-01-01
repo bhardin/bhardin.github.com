@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Seth Godin's The Dip"
-image: http://farm6.staticflickr.com/5184/5748951020_c9e0d49307_b.jpg
+image_url: http://farm6.staticflickr.com/5184/5748951020_c9e0d49307_b.jpg
 image_credit: magic robots
 image_credit_url: http://www.flickr.com/photos/magicrobots/
 tags: [book review, lifestyle, struggle]

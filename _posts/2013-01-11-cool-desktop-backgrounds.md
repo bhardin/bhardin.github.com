@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Cool Desktop Backgrounds Will Blow Up Your Computer"
-image: http://farm3.staticflickr.com/2642/3696386615_19c3c56b23_b.jpg
+image_url: http://farm3.staticflickr.com/2642/3696386615_19c3c56b23_b.jpg
 image_credit: Stian Eikeland
 image_credit_url: http://www.flickr.com/photos/stianeikeland/
 tags: [tech, github, infosec]

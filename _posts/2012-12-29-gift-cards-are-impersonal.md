@@ -1,7 +1,8 @@
 ---
 layout: post
+category: post
 title: "Gift Cards Are Impersonal"
-image: http://farm4.staticflickr.com/3053/3111558481_19f521b9a0_b.jpg
+image_url: http://farm4.staticflickr.com/3053/3111558481_19f521b9a0_b.jpg
 image_credit: Dr. Wendy Longo
 image_credit_url: http://www.flickr.com/photos/wtlphotos
 tags: [shopping, gifts]

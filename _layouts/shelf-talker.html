@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+{%
+  include site-header.html
+    title=site.title
+    subtitle=site.subtitle
+%}
+
+<section class="section">
+  <div class="container-small section bordered">
+    <h1 class="text-big">
+      {{ page.title }} by {{ page.author }}
+    </h1>
+    <div class="text-medium text-grey">
+      {{content}}
+    </div>
+    <div class="content-end">
+      {% include rating.html rating=page.rating size='small' %}
+    </div>
+  </div>
+</section>
+
+<div class="container-small">
+  <a href="/reviews.html">Back to Reviews</a>
+</div>
+

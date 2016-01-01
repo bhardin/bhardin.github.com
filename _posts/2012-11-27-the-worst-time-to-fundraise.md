@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Worst Time to Raise Financing"
-image: http://farm9.staticflickr.com/8044/8148129093_04c52500c8_b.jpg
+image_url: http://farm9.staticflickr.com/8044/8148129093_04c52500c8_b.jpg
 image_credit: ekonon
-category: 
+category: post
 tags: [financing, venture capital]
 meta_description: There are two times during the year that you don't want to raise money. Do you know when they are?
 ---

@@ -1,22 +1,23 @@
-name: Brett Hardin's Blog
 title: Constantly Learning
-description: "Programming, Information Security, Startups, and Learnings."
-permalink: /post/:title
+subtitle: 'Programming, Information Security, Startups, and Learnings.'
+permalink: /:categories/:title
 markdown: rdiscount
-paginate: 9
-feed: http://feeds.bretthard.in/bretthardin
-tags_path: /tags.html
-
-# Adding files which shouldn't be built will speed up build time.
-exclude: [
-  "tasks",
-  "README.md",
-  vendor
-]
-
+paginate: 10
+paginate_path: "/blog/page:num/"
+gems:
+  - jekyll-paginate
 sass:
   style: :compressed
-
-# Github overrides the following values. They cannot be configured.
-safe: true
-lsi: false
+exclude:
+  - Rakefile
+  - spec/*
+  - CNAME
+  - "*.sublime-project"
+  - node_modules/*
+  - bower_components/*
+  - tasks/*
+  - Gemfile*
+  - bower.json
+  - README.md
+  - specs/*
+  - lib/*

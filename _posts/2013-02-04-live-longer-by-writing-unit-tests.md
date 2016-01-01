@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Live Longer By Writing Unit Tests"
-image: http://farm3.staticflickr.com/2585/3803517719_61fc214012_b.jpg
+image_url: http://farm3.staticflickr.com/2585/3803517719_61fc214012_b.jpg
 image_credit: thephotographymuse
 image_credit_url: http://www.flickr.com/photos/marcygallery/
 tags: [programming, testing, developers, software]
 meta_description: You will continue to live through your unit and regression tests after you pass away or leave a company.
+category: post
 ---
 
 This weekend I spent some time writing tests for a code base I developed a few weeks ago. I wanted to understand the challenges of writing tests "sometime in the future" as opposed to writing them during development. Writing tests after initial development is challenging and I put off testing purposely to understand how hard it is. 

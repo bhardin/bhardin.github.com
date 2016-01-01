@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Penetration Testing is Stupid"
-image: http://farm8.staticflickr.com/7260/6870002408_abf6b5b6a8_b.jpg
+image_url: http://farm8.staticflickr.com/7260/6870002408_abf6b5b6a8_b.jpg
 image_credit: dustball
 image_credit_url: http://www.flickr.com/photos/brianklug/
 tags: [presentation, slides, penetration testing, security]
 meta_description: Organizations think they need penetration tests before they actually do.
+category: post
 ---
 
 Organizations are convinced they need penetration tests before they actually do. If your organization doesn't have a security person on staff, you don't need a penetration test. If you know their is low-hanging fruit that hasn't been fixed you don't need a penetration test.

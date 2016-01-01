@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Foundational Rules of Code Testing"
-image: http://farm1.staticflickr.com/123/359572656_51a00dc2a6_b.jpg
+image_url: http://farm1.staticflickr.com/123/359572656_51a00dc2a6_b.jpg
 image_credit: ccarlstead
 image_credit_url: http://www.flickr.com/photos/cristic/
 tags: [programming, code testing]
+category: post
 ---
 
 I've been doing a lot of refactoring tests lately and have identified some anti-patterns. From talking with other developers it seems some of these rules are widely understood, while others aren't. Even though something is understood, it doesn't mean the community has adopted it. I know a lot of programmers who don't even write tests.

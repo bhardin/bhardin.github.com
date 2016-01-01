@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Measure Interest Before Building Products"
-image: http://farm9.staticflickr.com/8203/8165522990_35bb77482b_b.jpg
+image_url: http://farm9.staticflickr.com/8203/8165522990_35bb77482b_b.jpg
 image_credit: Public Record Office Victoria
 tags: [lean, marketing, testing, startups, programming]
 meta_description: Before building something, make sure to identify the need that users have.

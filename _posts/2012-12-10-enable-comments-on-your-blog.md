@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Enable Comments On Your Blog"
-image: http://farm1.staticflickr.com/1/4093665_dbd6d8c170_b.jpg
+image_url: http://farm1.staticflickr.com/1/4093665_dbd6d8c170_b.jpg
 image_credit: Sumit
 image_credit_url: http://www.flickr.com/photos/sumit/
 tags: [blogging, communication, community, product experience]

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "It's Good Enough. Ship It."
-image: http://farm3.staticflickr.com/2195/1582198827_ca490660a9_b.jpg
+category: post
+image_url: http://farm3.staticflickr.com/2195/1582198827_ca490660a9_b.jpg
 image_credit: Karen McAllister
 image_credit_url: http://www.flickr.com/photos/karen_mcallister_photography/
 tags: [good enough, startups, productivity]

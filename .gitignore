@@ -1,16 +1,6 @@
-_site/*
-
-# SASS
-.sass-cache/*
-
-Thumbs.db
-.DS_Store
-
-!.gitkeep
-
-.ruby-version
-.ruby-gemset
-
-# IDE
+_site/
+node_modules/
+bower_components/*
 *.sublime-project
 *.sublime-workspace
+.jekyll-metadata

@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Investment Thesis for Life"
-image: http://farm1.staticflickr.com/216/514501365_1a06875fed_b.jpg
+image_url: http://farm1.staticflickr.com/216/514501365_1a06875fed_b.jpg
 image_credit: Usodesita
 image_credit_url: http://www.flickr.com/photos/tamaranai/
 tags: [lifestyle]
 meta_description: Measure all aspects of your life using investment theses. Create a way to measure how your doing before you do it. 
+category: post
 ---
 
 > Everybody against me. Why? Why me? I have not brought violence to you. I have not brought Thug Life to America. I didn't create Thug Life. I diagnosed it. -Tupac Shakur

@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Why We Buy Things"
-image: http://farm6.staticflickr.com/5017/5473185104_f3e3c1f147_b.jpg
+image_url: http://farm6.staticflickr.com/5017/5473185104_f3e3c1f147_b.jpg
 image_credit: x-ray delta one
 tags: [marketing, psychology, decisions]
 meta_description: The psychology around why we buy things boils down to either need or want based purchases.

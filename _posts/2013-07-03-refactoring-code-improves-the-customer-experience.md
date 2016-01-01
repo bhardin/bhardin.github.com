@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Refactoring Code Improves The Customer Experience"
-image: http://farm8.staticflickr.com/7082/6893926948_24f3e219e4_b.jpg
+image_url: http://farm8.staticflickr.com/7082/6893926948_24f3e219e4_b.jpg
 image_credit: Pascal
 image_credit_url: http://www.flickr.com/photos/pasukaru76/
 tags: [programming, refactoring]
 meta_description: 
+category: post
 ---
 
 After posting about developers who don't refactor being worthless, some people mentioned how users don't care about refactored code, they only care about features.

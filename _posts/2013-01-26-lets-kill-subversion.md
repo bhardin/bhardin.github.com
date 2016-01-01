@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Let's Kill Subversion"
-image: http://farm9.staticflickr.com/8463/8119188557_3e7ee663cc_b.jpg
+image_url: http://farm9.staticflickr.com/8463/8119188557_3e7ee663cc_b.jpg
 image_credit: TexasEagle
 image_credit_url: http://www.flickr.com/photos/TexasEagle
 tags: [version control, software, tools, tech]
 meta_description: Subversion sucks. As software developers we need to kill things we don't like and adopt better technologies.
+category: post
 ---
 
 Leading a software project is not an easy endeavor. Working on a software project that is widely adopted is empowering. Hopefully, when you experience this feeling, your project will be _in-style_ for a long time. At some point, developers need to decide to kill software projects. Developers need to allow the use of better software.

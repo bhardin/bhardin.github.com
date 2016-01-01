@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Don't Use Two Spaces After A Period"
-image: http://farm7.staticflickr.com/6044/6242157701_90ed52064b_b.jpg
+image_url: http://farm7.staticflickr.com/6044/6242157701_90ed52064b_b.jpg
 image_credit: txcrew
-category: 
+category: post
 tags: [communication, design, writing]
 meta_description: The age old argument is finally settled. Only use one space after a period.
 ---

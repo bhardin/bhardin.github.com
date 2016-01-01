@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "How to Use Anchor Pricing"
-image: http://farm7.staticflickr.com/6090/6089730465_c92f686e7c_b.jpg
+image_url: http://farm7.staticflickr.com/6090/6089730465_c92f686e7c_b.jpg
 image_credit: Franck Vervial
 tags: [marketing, pricing, sales, psychology, cognitive bias]
 meta_description: An intersting pshylogical condition with humans can be utilized to sell things at higher price-points.

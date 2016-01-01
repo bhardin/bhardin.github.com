@@ -1,7 +1,8 @@
 ---
+category: post
 layout: post
 title: "Get to Profitability as Fast as Possible"
-image: http://farm3.staticflickr.com/2755/4203873799_4f245de101_b.jpg
+image_url: http://farm3.staticflickr.com/2755/4203873799_4f245de101_b.jpg
 image_credit: Philippe Put
 image_credit_url: http://www.flickr.com/photos/34547181@N00/
 tags: [startups, revenue]

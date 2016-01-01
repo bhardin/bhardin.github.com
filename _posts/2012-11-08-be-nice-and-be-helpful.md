@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Be Nice and Be Helpful"
-image: http://farm4.staticflickr.com/3096/2379078919_3234e41f3a_b.jpg
+image_url: http://farm4.staticflickr.com/3096/2379078919_3234e41f3a_b.jpg
 image_credit: tonivc
-category: 
+category: post
 tags: [lifestyle, people, culture, mindset]
 meta_description: Be nice and be helpful without having a motive. Do it to see others be happy.
 ---
