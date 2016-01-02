@@ -1,6 +1,6 @@
 ---
 title: "The Intuitionist"
-image_url: ""
+image_url: "http://d.gr-assets.com/books/1347823488l/16271.jpg"
 image_credit: ""
 image_credit_url: ""
 layout: "shelf-talker"
@@ -9,7 +9,6 @@ tags: "[]"
 meta_description: ""
 rating: 2
 author: "Colson Whitehead"
-image_url: "http://d.gr-assets.com/books/1347823488l/16271.jpg"
 small_image_url: "http://d.gr-assets.com/books/1347823488s/16271.jpg"
 ---
 

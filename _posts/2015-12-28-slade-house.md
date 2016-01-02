@@ -1,6 +1,6 @@
 ---
 title: "Slade House"
-image_url: ""
+image_url: "http://d.gr-assets.com/books/1446777435l/24499258.jpg"
 image_credit: ""
 image_credit_url: ""
 layout: "shelf-talker"
@@ -9,7 +9,6 @@ tags: "[]"
 meta_description: ""
 rating: 4
 author: "David Mitchell"
-image_url: "http://d.gr-assets.com/books/1446777435l/24499258.jpg"
 small_image_url: "http://d.gr-assets.com/books/1446777435s/24499258.jpg"
 ---
 

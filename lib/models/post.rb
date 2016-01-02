@@ -20,7 +20,7 @@ module Post
       @category = options[:category] || category
       @yml_front_matter = {
         title: @title,
-        image: options[:image],
+        image_url: options[:image],
         image_credit: options[:image_credit],
         image_credit_url: options[:image_credit_url],
         layout: layout,
@@ -34,7 +34,11 @@ module Post
       io_object << '---' << "\n"
 
       @yml_front_matter.each do |k, v|
-        io_object << k.to_s << ': "' << v.to_s << '"' << "\n"
+        if k == :rating
+          io_object << k.to_s << ': ' << v << "\n"
+        else
+          io_object << k.to_s << ': "' << v.to_s << '"' << "\n"
+        end
       end
 
       io_object << '---' << "\n\n"
@@ -86,10 +90,10 @@ module Post
 
       super
 
-      @yml_front_matter[:rating]          = opts[:rating]
-      @yml_front_matter[:author]          = opts[:author]
-      @yml_front_matter[:image_url]       = opts[:image_url]
-      @yml_front_matter[:small_image_url] = opts[:small_image_url]
+      opts.each do |k, v|
+        @yml_front_matter[k] = v unless k == :body
+      end
+
       @body = opts[:body]
     end
 
