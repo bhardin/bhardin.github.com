@@ -10,7 +10,6 @@ A lot of things I write are other places. Goodreads, twitter, boardgamegeek, etc
 
 - [ ] How do you include custom Bootstrap without including bower_components?
 - [ ] Do I need to include node_modules?
-- [ ] Goodreads import: Use large pictures, instead of small.
 - [ ] Adventures
 - [ ] Mixtapes
 - [ ] Bio/About
