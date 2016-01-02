@@ -1,0 +1,70 @@
+---
+layout: page
+---
+
+<div class="row">
+  <div class="col-md-8 col-md-offset-2">
+    <h1>{{page.title}}</h1>
+    {{content}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <h2>Video</h2>
+    <figure class="figure">
+      {{page.video}}
+    </figure>
+  </div>
+  <div class="col-md-6">
+    <h2>Slides</h2>
+      {{page.slides}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4 col-md-offset-4">
+
+  <div class="card text-xs-center">
+    <h3 class="card-header">Design Notes</h3>
+
+    {% if page.typefaces %}
+      <div class="card-block">
+      <h4 class="card-title">Typefaces</h4>
+      {% for typeface in page.typefaces %}
+        <a href="{{typeface.link}}">
+          <h5>{{typeface.name}}</h5>
+        </a>
+      {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if page.software %}
+      <div class="card-block">
+        <h4 class="card-title">Software</h4>
+        {% for each in page.software %}
+          <a href="{{each.link}}">
+            <h5>{{each.name}}</h5>
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if page.palette %}
+      <div class="card-block">
+        <h4 class="card-title">Palette</h4>
+        <ul class="list-group">
+        {% for item in page.palette %}
+          <li class="list-group-item" style="color: {{item.text}}; background-color: {{item.color}}">{{item.color}}</li>
+        {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+  </div>
+
+  </div>
+</div>
+{% include disqus.html %}
+
+
+

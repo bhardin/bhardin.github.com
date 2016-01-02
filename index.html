@@ -1,37 +1,45 @@
 ---
 layout: base
+categories:
+  - title: blog
+    icon: fa-pencil-square-o
+    description: 'When I think about something for a while, I tend to write about it.'
+  - title: reviews
+    icon: fa-th-list
+    description: 'Shorts On Things I Watch, Read, and Use.'
+  - title: talks
+    icon: fa-comment
+    description: "I've talked about many aspects of information security."
 ---
 
 <div class="main-page">
   {% include site-header.html title='Brett Hardin' subtitle='Constant Learner' %}
 
   <div class="container">
-    <div class="card-deck section-index">
-      <div class="card">
-        <div class="card-block">
-          <a href="/blog">
-            <i class="fa fa-pencil-square-o fa-3x"></i>
-            <h4 class="card-title">Writing</h4>
+    {% for category in page.categories %}
+      <div class="row">
+        <div class="col-md-1 col-md-offset-4">
+          <h4>
+            <i class="fa {{category.icon}} fa-3x"></i>
+          </h4>
+        </div>
+        <div class="col-md-3">
+          <a href="/{{category.title}}">
+            <h4 class="text-uppercase">{{category.title}}</h4>
           </a>
+          <p class="text-muted">{{category.description}}</p>
         </div>
       </div>
-      <div class="card">
-        <a href="/reviews">
-          <div class="card-block">
-            <i class="fa fa-th-list fa-3x"></i>
-            <h4 class="card-title">Reviews</h4>
-          </div>
-        </a>
-      </div>
-      <!-- <div class="card">
-        <div class="card-block">
-          <a href="/projects">
-            <i class="fa fa-flask fa-3x"></i>
-            <h4 class="card-title">Projects</h4>
-          </a>
+      <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+
+        {% unless forloop.last %}
+          <hr>
+        {% endunless %}
+
         </div>
-      </div> -->
-    </div>
+      </div>
+    {% endfor %}
   </div>
 
   {% include footer.html %}

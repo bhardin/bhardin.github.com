@@ -1,0 +1,23 @@
+---
+layout: page
+title: talks
+index-title: talks
+index-subtitle: Speeches I've Given
+---
+
+<h1 class="text-xs-center">Talks</h1>
+
+{% for post in site.categories.talk %}
+<div class="row">
+  <div class="col-md-8 col-md-offset-2">
+    <h4 class="pull-xs-left">
+      <a href="{{post.url}}">{{post.title}}</a>
+    </h4>
+    <div class="pull-xs-right">
+    <p class="text-uppercase text-muted">
+      {{post.date | date: "%b %-d, %Y"}}
+    </p>
+    </div>
+  </div>
+</div>
+{% endfor %}
