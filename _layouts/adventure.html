@@ -2,13 +2,13 @@
 layout: base
 ---
 
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600|Open+Sans+Condensed:700|Alfa+Slab+One|Passion+One:700">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:600|{{page.adventure-font}}">
 
-<header class="adventure--header">
-  <h1 style="font-family: {{page.adventure-font}}; color: {{page.adventure-color}}; stroke: 4px rgba(0, 52, 0, 1);">
+<header class="container adventure--header" style="background-image: url({{page.background-image}});">
+  <h1 class="display-1" style="font-family: {{page.adventure-font}}; color: {{page.adventure-color}};">
     {{ page.title | upcase }}
   </h1>
-  <div class="container dates">
+  <div class="container dates" style="background-color: {{page.adventure-color}};">
     <p>{{page.dates}}</p>
   </div>
 </header>
@@ -20,6 +20,8 @@ layout: base
     </div>
 
     <div class="col-md-4">
+
+      {% if page.flight %}
       <div class="card">
         <div class="card-header">
           <h3><i class="fa fa-plane"></i> Flight</h3>
@@ -42,7 +44,9 @@ layout: base
           </div>
         {% endfor %}
       </div>
+      {% endif %}
 
+      {% if page.rental_car %}
       <div class="card">
         <div class="card-header">
           <h3><i class="fa fa-car"></i> Rental Car</h3>
@@ -64,25 +68,42 @@ layout: base
           </address>
         </div>
       </div>
+      {% endif %}
 
-      <div class="card">
-        <div class="card-header">
-          <h3><i class="fa fa-bed"></i> Hotel</h3>
-          <h5><a href="http://www.acehotel.com/portland">Ace Hotel</a></h5>
+      {% if page.hotel %}
+        {% for hotel in page.hotel %}
+        <div class="card">
+          <div class="card-header">
+            <h3><i class="fa fa-bed"></i> Hotel</h3>
+            <h5><a href="{{hotel.website}}">{{hotel.name}}</a></h5>
+          </div>
+
+          {% if hotel.checkin %}
+          <div class="card-block">
+          <h6>Checkin</h6>
+
+            <p class="card-text">{{hotel.checkin}}</p>
+
+            {% if hotel.confirmation %}
+            <h6>Confirmation</h6>
+            <p class="card-text">PDX-F81904</p>
+            {% endif %}
+          </div>
+          {% endif %}
+
+          {% if hotel.address %}
+          <div class="card-block">
+            <address>
+              {{hotel.address}}<br/>
+              {% if hotel.phone %}
+              <i class="fa fa-phone-square"></i> {{hotel.phone}}
+              {% endif %}
+            </address>
+          </div>
+          {% endif %}
         </div>
-        <div class="card-block">
-        <h6>Checkin</h6>
-          <p class="card-text">March 12</p>
-          <h6>Confirmation</h6>
-          <p class="card-text">PDX-F81904</p>
-        </div>
-        <div class="card-block">
-          <address>
-            1022 SW Stark St.<br/>
-            <i class="fa fa-phone-square"></i> 503-228-2277
-          </address>
-        </div>
-      </div>
+        {% endfor %}
+      {% endif %}
 
     </div>
   </div>

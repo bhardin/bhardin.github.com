@@ -3,8 +3,8 @@ title: "Oregon"
 adventure-font: "Passion One"
 adventure-color: "#609F61"
 dates: "March 12 - 19, 2013"
-layout: "adventure"
-category: "adventures"
+layout: adventure
+category: adventure
 flight:
   - leaving: {from: SFO, to: PDX, at: "1:00 PM - 2:50 PM", travel: "Virgin America #816"}
   - returning: {from: PDX, to: SFO, at: "1:10 PM - 3:00 PM", travel: "Virgin America #817"}
