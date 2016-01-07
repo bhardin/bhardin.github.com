@@ -25,6 +25,6 @@ As a bonus, Rand agreed to design a personal calling card for Jobs. He came up w
 
 In order to translate the NeXT logo into the look of real products, Jobs needed an industrial designer he trusted. He talked to a few possibilities, but none of them impressed him as much as the wild Bavarian he had imported to Apple: Hartmut Esslinger, whose frogdesign had set up shop in Silicon Valley and who, thanks to Jobs, had a lucrative contract with Apple. Getting IBM to permit Paul Rand to do work for NeXT was a small miracle willed into existence by Jobs's belief that reality can be distorted. But that was a snap compared to the likelihood that he could convince Apple to permit Esslinger to work for NeXT.
 
-- From [Steve Jobs by Walter Isaacson](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=breharsblo-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1451648537)
+- From [Steve Jobs by Walter Isaacson](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1501127624/ref=sr_1_2?ie=UTF8&qid=1452133909&sr=8-2&t=breharsblo-20)
 
 [1]: /2012/02/solving-hard-problems/

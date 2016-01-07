@@ -8,7 +8,7 @@ tags: [sales, marketing, b2b, enterprise]
 meta_description: Startups can benefit from the Consumerization of Enterprise Sales but not always.
 ---
 
-In 2004 The [Consumerization of Information Technology][3] was published talking about how consumers of devices are penetrating the enterprise. In the past few years corporate strategies have changed. Organizations are now thinking about how to incorporate their employees assets into the enterprise. Employees bringing their own phones and laptops and connecting them to corporate resources.
+In 2004, The [Consumerization of Information Technology][3] was published talking about how consumers of devices are penetrating the enterprise. In the past few years corporate strategies have changed. Organizations are now thinking about how to incorporate their employees assets into the enterprise. Employees bringing their own phones and laptops and connecting them to corporate resources.
 
 I continue [reading][2] [articles][6] on [how][7] [enterprise][1] sales is changing. These articles state how enterprise (or b2b) startups are changing their selling tactics. The _new_ approach looks more like traditional sales and marketing of consumer products rather than business software.
 
@@ -43,9 +43,11 @@ These approaches still work on older generations and older organizations. As you
 
 For instance, there are many enterprises that want on-premise solutions. These organizations don't like data being outside of their control. The _new_ approach won't work for them. 
 
+
+
 [1]: http://cdixon.org/2012/09/24/the-rise-of-enterprise-marketing/
 [2]: http://techcrunch.com/2012/08/05/the-rise-of-the-enterprise-startup-consumerization-and-clouds-open-the-door-disruption-closes-the-deal/
-[3]: http://lef.csc.com/projects/70 "Consumerization of Information Technology"
+[3]: http://www.smaele.nl/documents/Taylor-Consumerization-2004.pdf
 [4]: /2012/07/a-minimum-viable-product/ "Minimum Viable Product"
 [5]: /2012/09/investor-deck-market-size/ "Market Size"
 [6]: http://www.sideroad.com/Sales/fresh-approach-to-selling.html

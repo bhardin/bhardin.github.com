@@ -46,7 +46,7 @@ What single metric demonstrates how you provide value to your customers?
 
 Facebook's metric is how many daily users they have. Facebook is a social network. In order to provide value to their users, they need to interact or be social with the site on a daily basis.
 
-At [SourceNinja](http://www.sourceninja.com) our metric is how many packages are under management. The more packages we manage the more value our customers get from using our product.
+At SourceNinja our metric is how many packages are under management. The more packages we manage the more value our customers get from using our product.
 
 ## Don't Burn Out
 > It's better to burn out, than to fade away.

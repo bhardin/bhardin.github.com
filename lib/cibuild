@@ -3,11 +3,9 @@ set -e # halt script on error
 
 bundle exec rake spec
 bundle exec jekyll build
+bundle exec htmlproof --check-favicon --external_only ./_site
 
-
-# Interal checks won't work due to no .html file being requested...
-# bundle exec htmlproof --check-favicon --disable-external ./_site
-
+# --external_only
 # --disable-external
 # --check-html
 # --only-4xx

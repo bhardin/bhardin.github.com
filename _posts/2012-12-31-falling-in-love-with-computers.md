@@ -32,7 +32,7 @@ Since my computer didn't have video games to play, and I had the summer at home 
 
 My entire love of computers and information security can be traced to having an old, command-line only, computer that couldn't play video games.
 
-[1]: http://lord.lordlegacy.com/ "LORD"
+[1]: https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon
 [2]: "Procomm Plus"
 [3]: http://en.wikipedia.org/wiki/Karateka_(video_game)
 [4]: http://en.wikipedia.org/wiki/Logo_(programming_language)

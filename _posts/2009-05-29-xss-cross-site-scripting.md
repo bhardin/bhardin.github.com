@@ -11,7 +11,7 @@ category: post
 
 {% include series.html %}
 
-If it hasn't already, Cross-Site Scripting (XSS) will soon be replacing SQL injection as the new buzzword in the security sector. XSS will continually be a topic on this blog as well as others [1](http://holisticinfosec.blogspot.com), [2](http://blog.skeptikal.org/), [3](http://jeremiahgrossman.blogspot.com/), [4](http://ha.ckers.org/blog/).
+If it hasn't already, Cross-Site Scripting (XSS) will soon be replacing SQL injection as the new buzzword in the security sector. XSS will continually be a topic on this blog as well as others [1](http://holisticinfosec.blogspot.com), [2](http://blog.skeptikal.org/), [3](http://jeremiahgrossman.blogspot.com/).
 	
 Due to this fact, I think a primer would be a good idea for those who don't know or understand this problem.
 
@@ -40,7 +40,7 @@ Note: Obviously, someone can increase the chances of the victim visiting this pa
 
 ## Reflective Cross-Site Scripting
 
-These are the ones the media usually reports on. [1](http://www.spamfighter.com/News-12410-XSS-Vulnerability-Found-in-Recording-Industry-Association-of-America-Website.htm),[2](http://www.darkreading.com/security/application-security/217500479/index.html),[3](http://www.mxlogic.com/securitynews/viruses-worms/six-av-vendor-websites-open-to-xss-attacks095.cfm). In this attack, some type of social engineering is involved for the attack to be successful.
+These are the ones the media usually reports on. In this attack, some type of social engineering is involved for the attack to be successful.
 
 Here is an attack, using Reflective Cross-Site Scripting:
 
@@ -66,7 +66,3 @@ Hopefully, this gives you a better understanding of Cross-Site Scripting. Feel f
 * [OWASP Guide to XSS](http://www.owasp.org/index.php/Cross_site_scripting)
 * [XSS Video Tutorial (via youtube)](http://www.youtube.com/watch?v=_OhuqDCs2LA)
 * [XSS Attack API](http://www.gnucitizen.org/blog/attackapi/)
-
-
-
-
