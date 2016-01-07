@@ -13,7 +13,7 @@ Companies are living entities. As companies and grow and shrink priorities chang
 
 At some point during this corporate priority shift, someone decides the organization can benefit from having a dedicated security team. The need for in-house dedicated security team can arise for different reasons.
 
-* [The ability to to pass regulatory compliance.][7]
+* The ability to to pass regulatory compliance.
 * [Vulnerabilities continually being found in products.][1]
 * [A developer gets sick of addressing security issues.][5]
 * [A corporate mandate that security is the companies top priority.][6]
@@ -57,6 +57,5 @@ Do you think any other questions are important to ask when thinking about being 
 [4]: http://www.infosecisland.com/blogview/22365-Cloud-Confusion-is-Considerable.html
 [5]: http://discursive.com/2012/06/02/developers-security-is-your-problem-get-over-it/
 [6]: https://www.google.com/search?&q=%22Security+is+our+priority%22
-[7]: http://www.ama-assn.org/amednews/2012/04/23/bisf0426.htm
 [8]: /2012/08/company-culture-is-defined-by-you-and-your-actions/
 [9]: /2013/01/how-to-secure-any-application/

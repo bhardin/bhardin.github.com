@@ -7,6 +7,9 @@ categories:
   - title: reviews
     icon: fa-th-list
     description: 'Shorts On Things I Watch, Read, and Use.'
+  - title: adventures
+    icon: fa-globe
+    description: "Places I've Traveled"
   - title: talks
     icon: fa-comment
     description: "I've talked about many aspects of information security."
@@ -18,12 +21,12 @@ categories:
   <div class="container">
     {% for category in page.categories %}
       <div class="row">
-        <div class="col-md-1 col-md-offset-4">
-          <h4>
+        <div class="col-md-1 col-md-offset-4 outside-vertical">
+          <h4 class="vertical-align">
             <i class="fa {{category.icon}} fa-3x"></i>
           </h4>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 vertical-align">
           <a href="/{{category.title}}">
             <h4 class="text-uppercase">{{category.title}}</h4>
           </a>
@@ -32,11 +35,9 @@ categories:
       </div>
       <div class="row">
         <div class="col-md-4 col-md-offset-4">
-
         {% unless forloop.last %}
           <hr>
         {% endunless %}
-
         </div>
       </div>
     {% endfor %}

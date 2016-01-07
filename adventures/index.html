@@ -4,6 +4,23 @@ index-title: adventures
 index-subtitle: Places I've Been
 ---
 
-{% for post in site.categories.adventures %}
-  <a href="{{post.url}}">{{post.title}}</a>
+<div class="adventure--index">
+
+{% for post in site.categories.adventure %}
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family={{post.adventure-font}}">
+
+  <div class="row">
+    <div class="col-sm-6 col-sm-offset-3">
+      <a href="{{post.url}}">
+        <div class="card card-block text-xs-center" style="background-color: {{post.adventure-color}}">
+          <h2 style="font-family: {{post.adventure-font}}" class="card-title">
+            {{post.title}}
+          </h2>
+          <div class="dates" style="color: {{post.adventure-color}}">{{post.dates}}</div>
+        </div>
+      </a>
+    </div>
+  </div>
 {% endfor %}
+
+</div>

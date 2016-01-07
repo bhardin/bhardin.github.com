@@ -35,7 +35,7 @@ His Empire Includes:
 Curtis Jackson, a.k.a 50 Cent made a fortune when Energy Brands (Glaceau) was sold to Coca-cola. When the CEO of Energy Brands, J. Darius Bikoff, discovered that 50 Cent was a fan of Vitamin Water, Bikoff made the most of the opportunity. 50 Cent received 10% of the company for being a spokesman for Vitamin Water in October of 2004.
 
 ## Paul Wall
-Paul Wall is an excellent marketer. He built a huge following in Houston, Texas. Once he was discovered on a national level, the first thing he does is start promoting his own [brand of grillz](http://www.grillsbypaulwall.com/).
+Paul Wall is an excellent marketer. He built a huge following in Houston, Texas. Once he was discovered on a national level, the first thing he does is start promoting his own brand of grillz.
 
 ## Venture Capital
 **Ben Horowitz** - If you didn't know, Ben is a _huge_ fan of rap and hip hop music. Every post I have read on [Mr. Horowitz blog](http://bhorowitz.com/) has a rap quote to introduce the article.

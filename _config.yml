@@ -12,6 +12,7 @@ exclude:
   - Rakefile
   - spec/*
   - CNAME
+  - vendor
   - "*.sublime-project"
   - node_modules/*
   - bower_components/*

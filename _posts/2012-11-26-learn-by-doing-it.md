@@ -26,6 +26,4 @@ Our current education system teaches through procedural knowledge. When you are 
 
 The lab is given to help bring a physical element to your learning. You can read as much as you want about a subject, but until you actually do it, you won't learn anything. The whole purpose of school is to study, remember, and apply ideas. Isn't this what we do our entire lives?
 
-Cal Poly's [motto][2] is _Discere Faciendo_. Learn by doing. But most people won't ever learn through doing. Most people are content to live a life of leisure. Great achievements are only made by those who do things. 
-
-[2]: http://www.cla.calpoly.edu/~smarx/courses/145/paper6online/JDavis.htm
+Cal Poly's motto is _Discere Faciendo_. Learn by doing. But most people won't ever learn through doing. Most people are content to live a life of leisure. Great achievements are only made by those who do things.

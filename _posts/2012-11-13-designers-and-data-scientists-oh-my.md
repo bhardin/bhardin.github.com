@@ -19,7 +19,7 @@ When I continue to probe the founders I have found there is some confusion with 
 
 Data scientists are people who derive actionable intelligence from data. I am using the term intelligence as the way it is defined by [intelligence organizations][2]. Information is not intelligence.
 
-So, data scientists take lots of information, or data, and make actionable information from it. I like what [David Hardtke][1] said about data scientists and their skill sets.
+So, data scientists take lots of information, or data, and make actionable information from it. I like what David Hardtke said about data scientists and their skill sets.
 
 > A Data Scientist as someone who knows just enough programming, system administration, and statistics to transform a large, possibly heterogeneous set of unstructured data into actionable intelligence or an actual product. The Data Scientist must also have sufficient visualization and communication skills to be able to convince someone that they did it correctly.
 
@@ -27,7 +27,6 @@ Data scientists don't identify themselves as data scientists. They have a deep k
 
 David Hardtke suggests [identifying][1] data scientists by finding disgruntled post doctoral research candidate who has yet to land a professorship at a university.
 
-[1]: http://blog.bright.com/2012/11/13/how-to-hire-a-data-scientist/
 [2]: https://www.cia.gov/library/kent-center-occasional-papers/vol1no4.htm
 
 ## Designers

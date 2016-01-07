@@ -48,7 +48,8 @@ Researching a solution to a current problem isn't considered consuming content. 
 If you find yourself falling into a rabbit hole while researching, stop. You have stated to consume content not do research. It takes a few months before you become conscious of doing this. Keep this in mind when researching.
 
 ## Only Consume Content Offline
-You can blame Tim Berners Lee for creating distractions on the Internet. Although Reddit and 4Chan contributed, Tim thought [links should go to other interesting content][3]. 
+
+You can blame Tim Berners Lee for creating distractions on the Internet. Although Reddit and 4Chan contributed, Tim thought links should go to other interesting content.
 
 The same dopamine release from learning happens when you click a button linking to more potentially good content. Clicking the button releases a food pellet. 
 
@@ -90,7 +91,6 @@ This is the most efficient way I've found to consume content. Let me know if you
 Thanks to [David Kuchar][11] for introducing me to Pocket.
 
 [2]: http://thebillfold.com/2012/04/reach-enlightenment-by-living-in-a-cave-eating-trash/ "Living in a cave"
-[3]: http://www.hyperlinkevolved.com/ "Wikipedia is the WWW of Tim Berner's Lee"
 [4]: /2012/11/building-a-successful-habit-successfully/ "Building a Habit"
 [6]: http://artofmanliness.com/2012/01/08/willpower-part-ii/ "Only so much willpower per day"
 [7]: http://www.scilearn.com/blog/dopamine-learning-brains-reward-center-teach-educators.php "Dopamine released when we learn"

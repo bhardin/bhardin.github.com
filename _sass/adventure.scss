@@ -1,30 +1,42 @@
 .adventure-- {
-  &header {
-    h1 {
-      font-size: 10em;
+  &index {
+    a:hover {
+      text-decoration: none;
     }
 
     .dates {
-      font-size: 1.2em;
-      font-family: 'Open Sans', sans-serif;
-      font-weight: 600;
-      padding: 2px 9px;
+      width: 10em;
+      margin: auto;
+      background-color: #FFF;
+      font-weight: bold;
     }
 
+    .card-title {
+      color: #FFF;
+    }
+  }
+
+  &header {
+    background-repeat: no-repeat;
+    text-align: center;
     padding-top: 4rem;
     padding-bottom: 4rem;
     margin-bottom: 3rem;
-    text-align: center;
-    background-color: #F3F3F3;
     color: #000;
-  }
 
-  // &border {
-  //   border: 1px solid rgba(0, 0, 0, 0.15);
-  //   border-radius: 6px;
-  //   box-shadow: 0 0 1px 4px rgba(0, 0, 0, 0.04);
-  //   float: right;
-  //   margin-bottom: 40px;
-  //   width: 238px;
-  // }
+    h1 {
+      -webkit-text-stroke: 1px black;
+      text-shadow: 3px 3px 0 #000,
+                   -1px -1px 0 #000,
+                   1px -1px 0 #000,
+                   -1px 1px 0 #000,
+                   1px 1px 0 #000;
+    }
+
+    .dates {
+      font-family: "open sans", sans-serif;
+      width: 10em;
+      font-weight: 600;
+    }
+  }
 }

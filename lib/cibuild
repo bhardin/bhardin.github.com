@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-bundle exec jekyll build
-bundle exec htmlproof --check-favicon --disable-external ./_site
 bundle exec rake spec
+bundle exec jekyll build
+bundle exec htmlproof --check-favicon --external_only ./_site
 
+# --external_only
 # --disable-external
 # --check-html
 # --only-4xx

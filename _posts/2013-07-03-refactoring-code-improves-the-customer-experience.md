@@ -11,7 +11,7 @@ category: post
 
 After posting about developers who don't refactor being worthless, some people mentioned how users don't care about refactored code, they only care about features.
 
-<blockquote class="twitter-tweet"><p><a href="https://twitter.com/Hypn">@Hypn</a> <a href="https://twitter.com/mattjay">@mattjay</a> <a href="https://twitter.com/miscsecurity">@miscsecurity</a> I agree. Users don&#39;t care what the code looks like only if it works.</p>&mdash; RΛY (@Raybeorn) <a href="https://twitter.com/Raybeorn/statuses/351804347262320640">July 1, 2013</a></blockquote>
+<blockquote class="twitter-tweet"><p>@Hypn <a href="https://twitter.com/mattjay">@mattjay</a> <a href="https://twitter.com/miscsecurity">@miscsecurity</a> I agree. Users don&#39;t care what the code looks like only if it works.</p>&mdash; RΛY (@Raybeorn) <a href="https://twitter.com/Raybeorn/statuses/351804347262320640">July 1, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I couldn't agree more. Customers don't care about refactored code. It isn't something they can visually see. However, they do care about getting new features to play with and having bugs fixed.

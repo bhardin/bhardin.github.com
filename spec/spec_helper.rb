@@ -1,1 +1,1 @@
-@root_path = '/Users/bhardin/Code/basic'
+@root_path = Dir.pwd
