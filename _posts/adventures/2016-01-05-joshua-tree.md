@@ -32,10 +32,7 @@ Day 5: Do Nothing
 
 Here are some of the things people have suggested that we do while in Oregon.
 
-{% include adventure/food name="CROSSROADS CAFE"
-                          website="http://www.crossroadscafejtree.com/"
-                          quote="Best Breakfast."
-                          quote-author="Drew" %}
+{% include adventure/food name="CROSSROADS CAFE" website="http://www.crossroadscafejtree.com/" quote="Best Breakfast." quote-author="Drew" %}
 
 This place was amazing. After reading our menus we wanted to order everything on it. We only had one oppurtunity to eat here due to the drive being hard on our car.
 
@@ -43,22 +40,14 @@ This place was amazing. After reading our menus we wanted to order everything on
 
 We originally came here thinking we would hit up the national park. We didn't. It is HUGE and you will be driving into it for an hour before you get to anywhere to walk around. We came to relax, not drive so decided not to go.
 
-{% include adventure/location name="Noah Purifoy Outdoor Art Installation"
-                              website="http://noahpurifoy.com/"
-                              quote="Awesome art installation."
-                              quote-author="Drew" %}
+{% include adventure/location name="Noah Purifoy Outdoor Art Installation" website="http://noahpurifoy.com/" quote="Awesome art installation." quote-author="Drew" %}
 
-{% include adventure/food name="The Joshua Tree Saloon Grill & Bar"
-                          quote="Best food in town. Sushi grade Ahi, great salads and burgers and an incredible ribeye."
-                          quote-author="Drew" %}
+{% include adventure/food name="The Joshua Tree Saloon Grill & Bar" quote="Best food in town. Sushi grade Ahi, great salads and burgers and an incredible ribeye." quote-author="Drew" %}
 
-{% include adventure/food name="Pie for the People!"
-                          website="http://pieforthepeople.net/" %}
+{% include adventure/food name="Pie for the People!" website="http://pieforthepeople.net/" %}
 
 I thought this place would suck. It didn't. When I asked about it with some locals they explained that Joshua Tree is a common place for people to drive out to from Los Angeles to relax. So it made sense that there would be a pizza place besides Pizza Hut off the highway.
 
-{% include adventure/coffee name="Joshua Tree Coffee Company"
-                            website="http://jtcoffeeco.com" %}
+{% include adventure/coffee name="Joshua Tree Coffee Company" website="http://jtcoffeeco.com" %}
 
 After Pie for the People, we noticed a sign for Coffee. My coffee addict wife wanted some after food so we checked this place out. We, again, were suprised. The shop roasts its own beans and is more of a roaster than a coffee shop. Great Coffee.
-
