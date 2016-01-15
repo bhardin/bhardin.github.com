@@ -1,3 +1,11 @@
+.post {
+  img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+}
+
 .post-- {
   &tags {
     padding-bottom: 30px;
