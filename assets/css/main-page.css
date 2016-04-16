@@ -1,0 +1,647 @@
+a,
+abbr,
+acronym,
+address,
+applet,
+article,
+aside,
+audio,
+b,
+big,
+blockquote,
+body,
+canvas,
+caption,
+center,
+cite,
+code,
+dd,
+del,
+details,
+dfn,
+div,
+dl,
+dt,
+em,
+embed,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+html,
+i,
+iframe,
+img,
+ins,
+kbd,
+label,
+legend,
+li,
+mark,
+menu,
+nav,
+object,
+ol,
+output,
+p,
+pre,
+q,
+ruby,
+s,
+samp,
+section,
+small,
+span,
+strike,
+strong,
+sub,
+summary,
+sup,
+table,
+tbody,
+td,
+tfoot,
+th,
+thead,
+time,
+tr,
+tt,
+u,
+ul,
+var,
+video {
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0
+}
+.list-header,
+td,
+th {
+    vertical-align: top
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block
+}
+blockquote,
+q {
+    quotes: none
+}
+blockquote:after,
+blockquote:before,
+q:after,
+q:before {
+    content: none
+}
+*,
+:after,
+:before {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both
+}
+.hidden {
+    display: none
+}
+#title,
+.post h2.headline,
+.profile #avatar {
+    display: inline-block
+}
+@font-face {
+    font-family: icons;
+    src: url(../fonts/icons.eot);
+    src: url(../fonts/icons.eot#iefix) format('embedded-opentype'), url(../fonts/icons.woff) format('woff'), url(../fonts/icons.ttf) format('truetype'), url(../fonts/icons.svg#icons) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+[class*=" icon-"]:before,
+[class^=icon-]:before {
+    font-family: icons;
+    font-style: normal;
+    font-weight: 400;
+    speak: none;
+    display: inline-block;
+    text-decoration: inherit;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    padding-right: 6px
+}
+.icon-facebook:before {
+    content: '\e802'
+}
+.icon-facebook-squared:before {
+    content: '\e800'
+}
+.icon-twitter:before {
+    content: '\e801'
+}
+.icon-twitter-1:before {
+    content: '\e804'
+}
+.icon-facebook-circled:before {
+    content: '\e805'
+}
+.icon-twitter-circled:before {
+    content: '\e806'
+}
+.icon-facebook-rect:before {
+    content: '\e803'
+}
+#post-list li,
+.post h1,
+.post-body ul,
+h3,
+h4,
+h5,
+p,
+pre {
+    margin-bottom: 20px
+}
+body,
+html {
+    height: 100%
+}
+body {
+    line-height: 1;
+    font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #666;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility
+}
+h1 {
+    font-size: 30px;
+    letter-spacing: -1px;
+    color: #222;
+    font-weight: 700
+}
+h2 {
+    font: italic 19px/1.3em Georgia, serif;
+    color: #bbb
+}
+.profile #wrapper {
+    padding: 100px 40px 0;
+    max-width: 600px;
+    margin: 0 auto
+}
+.profile #header h3,
+.profile h2 {
+    margin-top: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-style: normal
+}
+@media only screen and (max-width: 640px) {
+    .profile #wrapper {
+        padding: 60px 40px 0
+    }
+}
+.profile #header {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    position: relative
+}
+@media only screen and (max-width: 640px) {
+    .profile #header {
+        margin-bottom: 0;
+        padding-bottom: 0;
+        border-bottom: 0
+    }
+}
+.profile #avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 20px
+}
+.profile h1 {
+    font-weight: 600;
+    letter-spacing: -2px;
+    font-size: 3em;
+    color: #222
+}
+@media only screen and (max-width: 640px) {
+    .profile h1 {
+        font-size: 2em
+    }
+}
+.profile h2 {
+    font-size: 20px;
+    font-weight: 300;
+    color: #aaa
+}
+#title,
+b,
+strong {
+    font-weight: 500
+}
+@media only screen and (max-width: 640px) {
+    h2 {
+        font-size: 24px
+    }
+}
+.profile #header h3 {
+    font-size: 14px;
+    color: grey
+}
+nav.main-nav {
+    padding: 20px 20px 0;
+    background: #fff;
+    background: rgba(255, 255, 255, .9);
+    margin: 0 auto;
+    text-align: right;
+    z-index: 100
+}
+@media only screen and (max-width: 640px) {
+    nav.main-nav {
+        padding: 20px 15px 0
+    }
+}
+nav.main-nav a {
+    top: 8px;
+    right: 6px;
+    padding: 8px 12px;
+    color: #82C;
+    font-size: 13px;
+    line-height: 1.35;
+    border-radius: 3px
+}
+nav.main-nav a.cta {
+    background: #82C;
+    color: #fff;
+    margin-left: 12px
+}
+#wrapper {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 60px 40px 100px
+}
+#wrapper.home {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 40px 20px
+}
+.home #avatar {
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%
+}
+img,
+table {
+    width: 100%
+}
+#post-list a:hover,
+#post-list li:hover .dates,
+#title,
+#title:hover,
+a {
+    text-decoration: none;
+    color: #82C
+}
+p a {
+    color: #82C
+}
+#post-list a,
+#post-nav a,
+a {
+    -webkit-transition: all .15s ease;
+    -moz-transition: all .15s ease;
+    -ms-transition: all .15s ease;
+    -o-transition: all .15s ease;
+    transition: all .15s ease
+}
+ul {
+    margin: 0 0 20px;
+    padding: 0
+}
+li {
+    list-style-type: circle;
+    list-style-position: inside
+}
+#post-body,
+p {
+    line-height: 1.7
+}
+b,
+strong {
+    color: #1E2025
+}
+em,
+i {
+    font-style: italic
+}
+#title {
+    line-height: 100%;
+    font-size: 19px;
+    margin: 0;
+    padding-bottom: 20px
+}
+.description {
+    float: right;
+    font: italic 14px/1.4em Georgia, serif;
+    color: #aaa
+}
+.home h1 {
+    font-size: 30px;
+    letter-spacing: -1px;
+    color: #222;
+    font-weight: 700
+}
+.home h2 {
+    font: italic 19px/1.3em Georgia, serif;
+    color: #bbb
+}
+.post header {
+    text-align: center
+}
+.post h1 {
+    margin-bottom: 20px;
+    color: #222;
+    font: 300 32px/1.4em "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+.post h2 {
+    margin-bottom: 40px;
+    font: 300 24px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #111
+}
+.post h2.headline {
+    font: 400 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: -5px 0 40px;
+    color: #b2b9be;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 2px
+}
+hr,
+p.small {
+    display: block
+}
+#post-list h2 {
+    font: 400 17px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #aaa;
+    max-width: 400px;
+    margin-top: 2px
+}
+h3,
+h4,
+h5 {
+    color: #333
+}
+h3 {
+    font-size: 20px;
+    font-weight: 400
+}
+h4,
+h5,
+h6 {
+    font-weight: 700
+}
+h4 {
+    font-size: 16px
+}
+h5 {
+    font-size: 15px
+}
+h6 {
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 6px
+}
+p.small {
+    color: #bbb;
+    font-size: 14px;
+    line-height: 1.5
+}
+pre,
+table {
+    line-height: 1.5em
+}
+blockquote {
+    padding-left: 15px;
+    border-left: 3px solid #eee
+}
+hr {
+    border: none;
+    height: 1px;
+    margin: 40px auto;
+    background: #eee
+}
+img,
+pre {
+    border-radius: 3px
+}
+span.code {
+    font-family: Menlo, Monaco, Courier;
+    background-color: #EEE;
+    font-size: 14px
+}
+pre,
+table,
+th,
+thead th {
+    font-size: 13px
+}
+pre {
+    white-space: pre-wrap;
+    padding: 20px;
+    overflow: auto;
+    background: #272b2d;
+    font-family: 'Source Code Pro', Menlo, monospace;
+    font-weight: 500;
+    color: #d0d4d7
+}
+table {
+    border-spacing: 0;
+    margin: 40px 0;
+    border-collapse: collapse
+}
+td,
+th {
+    text-align: left;
+    padding-right: 20px
+}
+table td,
+td {
+    border-spacing: none;
+    border-style: solid;
+    padding: 10px 15px;
+    border-width: 1px 0 0
+}
+tr>td {
+    border-top: 1px solid #eaeaea
+}
+tr:nth-child(odd)>td {
+    background: #fcfcfc
+}
+th,
+thead th {
+    text-align: left;
+    padding: 10px 15px;
+    height: 20px;
+    font-weight: 700;
+    color: #444;
+    border-bottom: 1px solid #dadadc;
+    cursor: default;
+    white-space: nowrap
+}
+img {
+    max-width: 100%
+}
+#badge {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    height: 48px;
+    width: 48px
+}
+#footer {
+    box-shadow: inset 0 1px 0 #eee;
+    padding: 40px 0 0;
+    margin-top: 100px
+}
+#header {
+    border-bottom: 1px solid #eee
+}
+.highlight {
+    color: #82C
+}
+.list-view {
+    display: table;
+    width: 100%;
+    margin: 0
+}
+@media only screen and (min-width: 793px) {
+    .list-view {
+        padding: 0 0 24px
+    }
+}
+@media only screen and (max-width: 792px) {
+    .list-view {
+        padding: 0 16px 64px
+    }
+}
+@media only screen and (max-width: 640px) {
+    .list-view {
+        padding: 32px 0 64px
+    }
+}
+.list-item {
+    display: table-row
+}
+.list-header {
+    display: table-cell
+}
+.list-header ._bubble {
+	color: #B7B5E4;
+    width: 72px;
+    height: 72px;
+    border-radius: 35px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 14px;
+    margin-right: 16px
+}
+@media only screen and (min-width: 793px) {
+    .list-header ._bubble {
+        margin-top: 20px;
+        margin-right: 32px
+    }
+    .list-detail {
+        display: table-cell
+    }
+}
+@media only screen and (max-width: 792px) {
+    .list-header {
+        padding-top: 16px
+    }
+    .list-header ._bubble {
+        margin-top: 0;
+        margin-right: 16px;
+        width: 56px;
+        height: 56px
+    }
+    .list-detail {
+        display: table-cell
+    }
+}
+.list-detail {
+    width: 100%;
+    padding: 25px 0 39px
+}
+@media only screen and (max-width: 640px) {
+    .list-detail {
+        display: block
+    }
+}
+@media screen and (max-width: 540px) {
+    #wrapper {
+        padding: 20px
+    }
+    #header {
+        margin-bottom: 60px;
+        border-bottom: 1px solid #eee
+    }
+    .post {
+        margin: 40px 0
+    }
+    #footer,
+    #post-meta {
+        margin-top: 60px
+    }
+    #archive-list,
+    #post-list {
+        margin-top: 0
+    }
+    #title {
+        font-size: 17px
+    }
+    #post-list .dates {
+        display: none
+    }
+    #post-list-footer {
+        margin-top: 20px;
+        padding-top: 40px
+    }
+    h1 {
+        font-size: 26px
+    }
+    .post h2.headline {
+        font-size: 13px
+    }
+    .post h1 {
+        font-size: 24px
+    }
+    .post h2 {
+        font-size: 20px
+    }
+}
