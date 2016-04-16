@@ -8,7 +8,7 @@ tags: [startups]
 ---
 I just came back from Startup Weekend San Jose. This is my second startup weekend that I attended and just like last time the event was amazing.
 
-This time around my team built [trollblock](http://trollblock.com). Trollblock was originally entitled cowblocker, but we decided that the purpose of the site, was more inline with blocking trolls.
+This time around my team built trollblock. Trollblock was originally entitled cowblocker, but we decided that the purpose of the site, was more inline with blocking trolls.
 
 ## Concept
 Trollblock's original idea was **An anti-social network**. 
