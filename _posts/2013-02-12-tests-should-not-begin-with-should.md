@@ -21,8 +21,6 @@ The challenge with writing tests without _should_ is because you don't think lik
 
 It logically makes sense to begin a test with "it should" or "it shouldn't " rather than "it punches me in the face when I start tests with unnecessary words". Remember, You imply should or shouldn't using the verb. __Should isn't the verb you're looking for.__
 
-![Obiwon](http://cdn.memegenerator.net/instances/400x/34740328.jpg)
-
 Let's use an example. If we have an application that allows users to log in through a form, the test may look something like this:
 
 ```ruby

@@ -3,7 +3,7 @@ set -e # halt script on error
 
 bundle exec rake spec
 bundle exec jekyll build
-bundle exec htmlproof --check-favicon --external_only ./_site
+bundle exec htmlproof --check-favicon --external_only --url-ignore www.slideshare.net ./_site
 
 # --external_only
 # --disable-external

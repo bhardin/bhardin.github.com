@@ -1,47 +1,149 @@
----
-layout: base
-categories:
-  - title: blog
-    icon: fa-pencil-square-o
-    description: 'When I think about something for a while, I tend to write about it.'
-  - title: reviews
-    icon: fa-th-list
-    description: 'Shorts On Things I Watch, Read, and Use.'
-  - title: adventures
-    icon: fa-globe
-    description: "Places I've Traveled"
-  - title: talks
-    icon: fa-comment
-    description: "I've talked about many aspects of information security."
----
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <meta charset=utf-8>
+    <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+    <meta name=viewport content="width=device-width, initial-scale=1">
 
-<div class="main-page">
-  {% include site-header.html title='Brett Hardin' subtitle='Constant Learner' %}
+    <meta name=description content="Brett Hardin reads, writes, and creates software.">
 
-  <div class="container">
-    {% for category in page.categories %}
-      <div class="row">
-        <div class="col-md-1 col-md-offset-4 outside-vertical">
-          <h4 class="vertical-align">
-            <i class="fa {{category.icon}} fa-3x"></i>
-          </h4>
-        </div>
-        <div class="col-md-3 vertical-align">
-          <a href="/{{category.title}}">
-            <h4 class="text-uppercase">{{category.title}}</h4>
-          </a>
-          <p class="text-muted">{{category.description}}</p>
-        </div>
+    <meta name=author content="Brett Hardin">
+    <meta name=twitter:card content=summary>
+    <meta name=twitter:description content="Brett Hardin reads, writes, and creates software.">
+    
+    <meta property=og:image content=http://bretthard.in/assets/images/avatar.png>
+    <meta name=twitter:image:src content=http://bretthard.in/assets/images/avatar.png>
+    <meta name=twitter:creator content=@miscsecurity>
+    <meta name=twitter:url content="http://www.bretthard.in/">
+    <meta name=twitter:title content="Brett Hardin">
+
+    <title>Brett Hardin - Constantly Learning</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/assets/css/main-page.css">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png">
+
+    <!-- <link rel=apple-touch-icon sizes=57x57 href=/assets/images/favicons/apple-touch-icon-57x57.png>
+    <link rel=apple-touch-icon sizes=60x60 href=/assets/images/favicons/apple-touch-icon-60x60.png>
+    <link rel=apple-touch-icon sizes=72x72 href=/assets/images/favicons/apple-touch-icon-72x72.png>
+    <link rel=apple-touch-icon sizes=76x76 href=/assets/images/favicons/apple-touch-icon-76x76.png>
+    <link rel=apple-touch-icon sizes=114x114 href=/assets/images/favicons/apple-touch-icon-114x114.png>
+    <link rel=apple-touch-icon sizes=120x120 href=/assets/images/favicons/apple-touch-icon-120x120.png>
+    <link rel=apple-touch-icon sizes=144x144 href=/assets/images/favicons/apple-touch-icon-144x144.png>
+    <link rel=apple-touch-icon sizes=152x152 href=/assets/images/favicons/apple-touch-icon-152x152.png>
+    <link rel=apple-touch-icon sizes=180x180 href=/assets/images/favicons/apple-touch-icon-180x180.png>
+    <link rel=icon type=image/png href=/assets/images/favicons/favicon-32x32.png sizes=32x32>
+    <link rel=icon type=image/png href=/assets/images/favicons/android-chrome-192x192.png sizes=192x192>
+    <link rel=icon type=image/png href=/assets/images/favicons/favicon-96x96.png sizes=96x96>
+    <link rel=icon type=image/png href=/assets/images/favicons/favicon-16x16.png sizes=16x16>
+    <link rel=manifest href=/manifest.json>
+    <link rel=mask-icon href=/assets/images/favicons/safari-pinned-tab.svg color=#5bbad5>
+    <meta name=msapplication-TileColor content=#ffc40d>
+    <meta name=msapplication-TileImage content=/assets/images/favicons/mstile-144x144.png>
+    <meta name=theme-color content=#eb298c> -->
+
+  </head>
+  
+  <body>
+    <nav class=main-nav>
+      <a href=https://github.com/bhardin>GitHub</a>
+      <a href=https://twitter.com/miscsecurity>Twitter</a>
+      <a class=cta href=https://medium.com/constantly-learning>Blog</a>
+    </nav>
+    
+    <div class=profile>
+      <section id=wrapper>
+        <header id=header>
+          <a href=/about><img id=avatar class=2x src=http://bretthard.in/assets/images/avatar.png></a>
+          <h1>Brett Hardin</h1>
+          <h2>Software Developer. <span class=highlight>Constantly Learning</span>.</h2>
+        </header>
+      </section>
+    </div>
+
+    <section id=wrapper class=home>
+      <div class=about>
+        <ol class=list-view>
+
+          <li class=list-item>
+            <div class=list-header>
+              <i class="_bubble fa fa-medium fa-3x"></i>
+            </div>
+            <div class=list-detail>
+              <div class=_title-block>
+                <h3>Writing</h3>
+              </div>
+              <p class=_summary>When I think about something for a while, I tend to write about it. I post everything <a href="https://medium.com/@bretthardin">I write at Medium.</a></p>
+            </div>
+          </li>
+
+          <li class=list-item>
+            <div class=list-header>
+              <i class="_bubble fa fa-book fa-3x"></i>
+            </div>
+            <div class=list-detail>
+              <div class=_title-block>
+                <h3>Reading</h3>
+              </div>
+              <p class=_summary>The only way to learn from others. I document everything I read at <a href="https://www.goodreads.com/bretthardin">Goodreads.</a></p>
+            </div>
+          </li>
+          
+          <li class=list-item>
+            <div class=list-header>
+              <i class="_bubble fa fa-github fa-3x"></i>
+            </div>
+            <div class=list-detail>
+              <div class=_title-block>
+                <h3>Coding</h3>
+              </div>
+              <p class=_summary>How I pay rent. Most of the code I write is private. But, I do <a href="https://www.github.com/bhardin">contribute to open source</a> from time to time.</p>
+            </div>
+          </li>          
+
+          <li class=list-item>
+            <div class=list-header>
+              <i class="_bubble fa fa-commenting fa-3x"></i>
+            </div>
+            <div class=list-detail>
+              <div class=_title-block>
+                <h3>Talks</h3>
+              </div>
+              <p class=_summary>I love <a href=https://medium.com/constantly-learning/tagged/talk>presenting</a> although I haven't spoken recently. These talks are all security focused.</p>
+            </div>
+          </li>  
+
+          <li class=list-item>
+            <div class=list-header>
+              <i class="_bubble fa fa-suitcase fa-3x"></i>
+            </div>
+            <div class=list-detail>
+              <div class=_title-block>
+                <h3>Adventures</h3>
+              </div>
+              <p class=_summary>I like to <a href=https://medium.com/constantly-learning/tagged/adventure>travel</a> try new things. Mainly as an excuse to visit places and try their food.</p>
+            </div>
+          </li>
+
+          <li class=list-item>
+            <div class=list-header>
+              <i class="_bubble fa fa-file-text fa-3x"></i>
+            </div>
+            <div class=list-detail>
+              <div class=_title-block>
+                <h3>CV</h3>
+              </div>
+              <p class=_summary>Do people still use <a href=http://registry.jsonresume.org/brett>Resumes?</a></p>
+            </div>
+          </li>          
+
+        </ol>
       </div>
-      <div class="row">
-        <div class="col-md-4 col-md-offset-4">
-        {% unless forloop.last %}
-          <hr>
-        {% endunless %}
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-
-  {% include footer.html %}
-</div>
+      <footer id=footer>
+        <p class=small>© Copyright 2016 Brett Hardin. Design Stolen from <a href=https://addyosmani.com>Addy Osmani</a></p>
+      </footer>
+    </section>
+  </body>
+</html>

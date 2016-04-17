@@ -23,8 +23,6 @@ Drip Marketing was originally used for mail campaigns, but has become more commo
 
 Drip campaigns are used to create brand awareness and where the lead requires a long time to convert into a paying user. Pardot's uses this infographic to explain how [drip marketing][2] is applied to different areas of a business. 
 
-<img src="http://prd.to/O2HnDt" alt="The Basics of Drip Campaigns" width="100%" class="pardot_infographic" />
-
 ## The Drip and Writing 
 
 Other people suggest using the drip for other verticals besides marketing. Seth Godin discusses _The Drip_ when it comes to [blogging, writing, and cartooning][1]: 
