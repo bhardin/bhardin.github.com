@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/bretthardin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://bretthard.in
+  * I am bretthardin (https://keybase.io/bretthardin) on keybase.
+  * I have a public key ASCj_Z9NOS4dZiVaX3A8PCRL0pB6rzJpjztDSguzxrdCCgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ef77d21d6e477d94ea8f673426583e9467a52486eddd7bc4a05d2aec63fab89a0a",
+            "host": "keybase.io",
+            "kid": "0120a3fd9f4d392e1d66255a5f703c3c244bd2907aaf32698f3b434a0bb3c6b7420a0a",
+            "uid": "1c7a1164a9d6eb53643307535a865819",
+            "username": "bretthardin"
+        },
+        "service": {
+            "hostname": "bretthard.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1472513460,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472513428,
+        "hash": "1e631bec2848e946fcdcf6faec00a34c57738486135df67a1cfaa8f8340f8546b93c3d9847764990c52a50b7d487fd3a708771fb3176efa8cb0b4e0242d60e52",
+        "seqno": 608315
+    },
+    "prev": "60596e6f2ba550a5eface877b968b86e6852adbb08bb2430be825d7e28b48cd5",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgo/2fTTkuHWYlWl9wPDwkS9KQeq8yaY87Q0oLs8a3QgoKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZWY3N2QyMWQ2ZTQ3N2Q5NGVhOGY2NzM0MjY1ODNlOTQ2N2E1MjQ4NmVkZGQ3YmM0YTA1ZDJhZWM2M2ZhYjg5YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTNmZDlmNGQzOTJlMWQ2NjI1NWE1ZjcwM2MzYzI0NGJkMjkwN2FhZjMyNjk4ZjNiNDM0YTBiYjNjNmI3NDIwYTBhIiwidWlkIjoiMWM3YTExNjRhOWQ2ZWI1MzY0MzMwNzUzNWE4NjU4MTkiLCJ1c2VybmFtZSI6ImJyZXR0aGFyZGluIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJicmV0dGhhcmQuaW4iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDcyNTEzNDYwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzI1MTM0MjgsImhhc2giOiIxZTYzMWJlYzI4NDhlOTQ2ZmNkY2Y2ZmFlYzAwYTM0YzU3NzM4NDg2MTM1ZGY2N2ExY2ZhYThmODM0MGY4NTQ2YjkzYzNkOTg0Nzc2NDk5MGM1MmE1MGI3ZDQ4N2ZkM2E3MDg3NzFmYjMxNzZlZmE4Y2IwYjRlMDI0MmQ2MGU1MiIsInNlcW5vIjo2MDgzMTV9LCJwcmV2IjoiNjA1OTZlNmYyYmE1NTBhNWVmYWNlODc3Yjk2OGI4NmU2ODUyYWRiYjA4YmIyNDMwYmU4MjVkN2UyOGI0OGNkNSIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBEYaWBeG8t8JPuJmTF7SjCLzVX0gK6b4BoeG9Hru/PESS5XCde/lmJAuQn4nGJ5OCGoZhPVWWlIwC0KhD5GUgBqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgm6tp3XbxQTX3jregmBaQGszLOeiYJw0lROBU3JyStbejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bretthardin
+
+==================================================================
