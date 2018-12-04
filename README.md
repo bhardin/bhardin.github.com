@@ -1,6 +1,8 @@
 # Brett Hardin's Blog
 
-The actual blog can be found [here](http://bretthard.in).
+## DEPRECATED: I NOW USE MEDIUM TO BLOG.
+
+The actual blog can be found [here](http://blog.bretthard.in).
 
 I've used Jekyll for a long time and I am now VERY opinionated on how things are done. If you are curious as to why I laid something out as I did, feel free to [contact me](http://twitter.com/miscsecurity).
 
